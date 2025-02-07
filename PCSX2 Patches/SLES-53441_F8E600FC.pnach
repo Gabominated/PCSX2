@@ -1,0 +1,12 @@
+gametitle=Heroes of the Pacific PAL-M SLES-53441 F8E600FC
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Widescreen hack
+patch=1,EE,2079AD00,extended,3FE38E3A //3FAAAAA7
+patch=1,EE,2067F140,extended,3F249244 //3F5B6DB6
+patch=1,EE,2079AE50,extended,3FE38E3A //3FAAAAA7
+patch=1,EE,2079AE54,extended,42C20000 //42920000
+patch=1,EE,2079AEE0,extended,00000002 //00000000
+patch=1,EE,209B1924,extended,b3000000 //b3000000
