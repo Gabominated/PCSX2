@@ -1,0 +1,6 @@
+gametitle=Pro Rally 2002 PAL-M SLES-50637 FF920E90 Secundary CRC 0E3617BC
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,0013B044,word,1440001E //1040001E

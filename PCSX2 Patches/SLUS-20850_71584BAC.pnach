@@ -1,0 +1,6 @@
+gametitle=Blowout NTSC-U SLUS-20850 71584BAC
+
+[60 FPS]
+author=asasega
+description=Might need EE overclock (130%).
+patch=1,EE,202B1578,extended,28630001 //28630002

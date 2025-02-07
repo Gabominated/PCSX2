@@ -1,0 +1,6 @@
+gametitle=Spider-Man - Friend or Foe PAL-M SLES-54901 678BE0A5
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,0021dd64,word,24030001 //24030002

@@ -1,0 +1,12 @@
+gametitle=Nebula - Echo Night NTSC-J SLPS-25314 B6AA81EE
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,001401BC,word,14200014
+
+[Performance Fix]
+author=Gabominated
+description=Remove flashlight shadows to increase performance.
+patch=1,EE,001441f4,word,3c020000
+

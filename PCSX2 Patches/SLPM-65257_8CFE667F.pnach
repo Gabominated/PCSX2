@@ -1,0 +1,6 @@
+gametitle=Silent Hill 3 NTSC-J SLPM-65257 8CFE667F
+
+[60 FPS]
+author=asasega
+comment=Might need EE Overclock.
+patch=1,EE,2013058C,extended,00000000
