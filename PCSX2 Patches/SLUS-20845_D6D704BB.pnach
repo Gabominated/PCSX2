@@ -1,0 +1,17 @@
+gametitle=Cold Winter NTSC-U SLUS-20845 D6D704BB
+
+[60 FPS]
+author=felixthecat1970
+description:Might need EE Overclock
+patch=0,EE,201FE694,extended,24020001
+patch=0,EE,2042A534,extended,24630000
+patch=0,EE,2042A548,extended,24840000
+
+[480p Mode]
+author=felixthecat1970
+description:Progressive 480p mode at start.
+patch=0,EE,10107C60,extended,00000001
+patch=0,EE,10679C0C,extended,000001C0
+patch=0,EE,1042983C,extended,240201C0
+patch=0,EE,10106858,extended,00000001
+patch=0,EE,203C0018,extended,080F000C

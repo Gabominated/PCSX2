@@ -1,0 +1,11 @@
+gametitle=MX 2002 featuring Ricky Carmichael NTSC-U SLUS-20072 FBC3BC36
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,002FC818,word,00000000 //00000001
+patch=1,EE,00144248,word,3c023c08 //3c023c88
+patch=1,EE,00145014,word,3c023c88 //3c023d08
+patch=1,EE,00191314,word,3c023c88 //3c023d08
+patch=1,EE,0012a564,word,3c023c88 //3c023d08
+patch=1,EE,00150638,word,3c023c88 //3c023d08

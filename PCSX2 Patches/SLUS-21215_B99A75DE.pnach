@@ -1,0 +1,13 @@
+gametitle=The Warriors NTSC-U SLUS-21215 B99A75DE
+
+[60 FPS BETA]
+author=Gabominated
+description=Press R2+Up to enable and press R2+Down to unable
+patch=1,EE,E003FDBF,extended,005DE3C2
+patch=1,EE,2048BE28,extended,24020001
+patch=1,EE,20B8F9D0,extended,3f800000
+patch=1,EE,205102cc,extended,3d088889
+patch=1,EE,E003FDEF,extended,005DE3C2
+patch=1,EE,2048BE28,extended,24020002
+patch=1,EE,20B8F9D0,extended,40000000
+patch=1,EE,205102cc,extended,3c888889

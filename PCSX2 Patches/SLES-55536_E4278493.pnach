@@ -1,0 +1,13 @@
+gametitle=Disney/Pixar Cars - Race-O-Rama SLES-55536 E4278493
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,201A07D4,extended,0060102D //0060202D
+patch=1,EE,E0010001,extended,003FCD38
+patch=1,EE,201A07D4,extended,0060202D
+
+[NTSC/480p Mode]
+author=Gabominated
+description=Unlocked NTSC mode with 480p mode available at option menu.
+patch=1,EE,0015417c,word,24030003 //24030001

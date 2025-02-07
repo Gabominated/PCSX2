@@ -1,0 +1,14 @@
+gametitle=Mr. Bean PAL-M SLES-54666 EDCBBC68
+
+[50/60 FPS]
+author=Gabominated & PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,0054B694,word,00000001 //00000002
+patch=1,EE,00195AE4,word,3C0142C8 //3C014248
+patch=1,EE,00195B40,word,3C0142f0 //3C014270
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,00195B14,word,14000017 //10000017
+patch=1,EE,00195B30,word,10400014 //14400014
