@@ -78,3 +78,7 @@
 | London Racer - Police Madness | [SLES-53536](PCSX2%20Patches/SLES-53536_84BFD6D4.pnach) |  |
 | Fahrenheit | [SLES-53540](PCSX2%20Patches/SLES-53540_8191D10A.pnach) |  |
 | Canis Canem Edit | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
+| Knights of the Temple II | [SLES-53645](PCSX2%20Patches/SLES-53645_9637D496.pnach) |  |
+| World Racing 2 | [SLES-53646](PCSX2%20Patches/SLES-53646_2A4A9916.pnach) |  |
+| Resident Evil 4 | [SLES-53702](PCSX2%20Patches/SLES-53702_6BA2F6B9.pnach) |  |
+| Jacked | [SLES-53778](PCSX2%20Patches/SLES-53778_D7F36BB4.pnach) |  |
