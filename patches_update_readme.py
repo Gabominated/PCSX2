@@ -1,35 +1,43 @@
 import os
-import re
 
-PATCHES_DIR = "patches"
-README_FILE = os.path.join(PATCHES_DIR, "README.md")
+# Define the paths
+patches_folder = "PCSX2 Patches"
+readme_path = "README.md"
 
-def get_patch_info(patch_file):
-    with open(patch_file, 'r') as file:
-        content = file.read()
-        match = re.search(r'gametitle=(.*?)\s.*?(\w{4}-\w{5})', content)
-        if match:
-            title = match.group(1).strip()
-            serial = match.group(2).strip()
-            return title, serial
-        return None, None
+# Function to generate the link for a given file
+def generate_link(filename):
+    game_title = filename.split('_')[0]  # Extract game title from filename
+    serial = filename.split('_')[1].split('.')[0]  # Extract serial from filename
+    link = f"[{serial}]({patches_folder}/{filename})"
+    return game_title, link
 
-def update_readme():
-    patch_files = [f for f in os.listdir(PATCHES_DIR) if f.endswith('.pnach')]
-    patches_info = []
+# Read the existing README content
+with open(readme_path, 'r') as file:
+    readme_content = file.readlines()
 
-    for patch_file in patch_files:
-        title, serial = get_patch_info(os.path.join(PATCHES_DIR, patch_file))
-        if title and serial:
-            patches_info.append((title, serial, patch_file))
+# Find the table header in README
+table_start = None
+for i, line in enumerate(readme_content):
+    if "| Game Title | Serial/Region | Details |" in line:
+        table_start = i + 2  # Table starts after the header row
+        break
 
-    patches_info.sort()
+if table_start is None:
+    print("Table header not found in README.")
+    exit()
 
-    with open(README_FILE, 'w') as readme:
-        readme.write("# Parches para PCSX2\n\n")
-        readme.write("Esta carpeta contiene parches para el emulador PCSX2. A continuación se presenta una lista de los parches disponibles:\n\n")
-        for title, serial, patch_file in patches_info:
-            readme.write(f"- [{title} {serial}]({patch_file})\n")
+# Generate the new lines for the table
+new_lines = []
+for filename in os.listdir(patches_folder):
+    if filename.endswith(".pnach"):
+        game_title, link = generate_link(filename)
+        new_lines.append(f"| {game_title} | {link} |  |\n")
 
-if __name__ == "__main__":
-    update_readme()
+# Insert the new lines into the README content
+readme_content[table_start:table_start] = new_lines
+
+# Write the updated content back to README
+with open(readme_path, 'w') as file:
+    file.writelines(readme_content)
+
+print("README.md updated successfully.")
