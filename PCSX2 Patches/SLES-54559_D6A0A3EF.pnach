@@ -1,0 +1,25 @@
+gametitle=Free Running PAL-E SLES-54559 D6A0A3EF
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+
+patch=1,EE,0019c8b0,word,080a2598
+
+patch=1,EE,00289660,word,46000843
+patch=1,EE,00289664,word,3c013f40
+patch=1,EE,00289668,word,44815000
+patch=1,EE,0028966c,word,460a0842
+patch=1,EE,00289670,word,0806722d
+
+//Render fix
+patch=1,EE,00214570,word,3c013f2b //3c013f00
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,001AB670,word,10400003 //14800003
