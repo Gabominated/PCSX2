@@ -1,9 +1,4 @@
-gametitle=Predator Concrete Jungle SLES_530.91
-
-[Widescreen 16:9]
-gsaspectratio=16:9
-description=Widescreen Hack
-patch=1,EE,0035d1c4,extended,3c013f10
+gametitle=Predator Concrete Jungle PAL-M SLES-53091 AD18AE4F
 
 [50 FPS]
 author=Gabominated
