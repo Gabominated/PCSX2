@@ -1,0 +1,21 @@
+gametitle=Dora the Explorer - Dora Saves the Crystal Kingdom NTSC-U SLUS-21923 643BED21
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+patch=1,EE,0011a224,word,08030000
+
+patch=1,EE,000c0000,word,46160083
+patch=1,EE,000c0004,word,3c013f40
+patch=1,EE,000c0008,word,4481f000
+patch=1,EE,000c000c,word,461e1082
+patch=1,EE,000c0010,word,0804688a
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,003EBC78,word,00000001 //00000002

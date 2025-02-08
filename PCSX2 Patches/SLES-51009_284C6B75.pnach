@@ -1,0 +1,26 @@
+gametitle=Autobahn Raser IV PAL-G SLES-51009 284C6B75
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+
+//Widescreen hack 16:9
+
+patch=1,EE,00110cf8,word,3c02427e //3c02423f
+patch=1,EE,00110cfc,word,34425c29 //3442851f
+
+
+///////////////////////////////
+//X-Fov (2D + 3D, needs render fix)
+//patch=1,EE,001caf48,word,080fc488
+
+//patch=1,EE,003f1220,word,46021883
+//patch=1,EE,003f1224,word,3c013f40
+//patch=1,EE,003f1228,word,4481f000
+//patch=1,EE,003f122c,word,461e1082
+//patch=1,EE,003f1230,word,08072bd3
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,0013D210,word,24020000 //24020001
