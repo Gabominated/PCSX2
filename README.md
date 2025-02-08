@@ -14,5 +14,5 @@
 | Dark Chronicle | [SCES-51190](https://github.com/Gabominated/PCSX2/blob/main/PCSX2%20Patches/SCES-51190_059E5FAA.pnach) |  |
 | Chandragupta - Warrior Prince | [SCES-55662](https://github.com/Gabominated/PCSX2/blob/main/PCSX2%20Patches/SCES-55662_DB2EE959.pnach) |  |
 | Street Cricket Champions 2 | [SCES-55663](https://github.com/Gabominated/PCSX2/blob/main/PCSX2%20Patches/SCES-55663_44755604.pnach) |  |
-| Rise of the Kasai | [SCUS-97416](PCSX2 Patches/SCUS-97416_EDE17E1B.pnach) |  |
-| Disney's Dinosaur | [SLES-50042](PCSX2 Patches/SLES-50042_238B189C.pnach) |  |
+| Disney's Dinosaur | [SLES-50042](PCSX2%20Patches/SLES-50042_238B189C.pnach) |  |
+| Rise of the Kasai | [SCUS-97416](PCSX2%20Patches/SCUS-97416_EDE17E1B.pnach) |  |
