@@ -68,3 +68,13 @@
 | Scaler | [SLES-52917](PCSX2%20Patches/SLES-52917_E54D237D.pnach) [SLES-52918](PCSX2%20Patches/SLES-52918_E54D237D.pnach) |  |
 | Rogue Trooper | [SLES-52921](PCSX2%20Patches/SLES-52921_03C8EA64.pnach) |  |
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) |  |
+| Counter Terrorist Special Forces - Fire for Effect | [SLES-53046](PCSX2%20Patches/SLES-53046_EDE9DD5C.pnach) |  |
+| TOCA Race Driver 3 | [SLES-53087](PCSX2%20Patches/SLES-53087_EE0618ED.pnach) |  |
+| Predator - Concrete Jungle | [SLES-53091](PCSX2%20Patches/SLES-53091_AD18AE4F.pnach) |  |
+| Crazy Golf - World Tour | [SLES-53318](PCSX2%20Patches/SLES-53318_3EB41444.pnach) |  |
+| Alarm for Cobra 11 Vol.2 - Hot Pursuit | [SLES-53360](PCSX2%20Patches/SLES-53360_12117804.pnach) |  |
+| Heroes of the Pacific | [SLES-53441](PCSX2%20Patches/SLES-53441_F8E600FC.pnach) |  |
+| Magna Carta - Tears of Blood | [SLES-53483](PCSX2%20Patches/SLES-53483_49F78F24.pnach) |  |
+| London Racer - Police Madness | [SLES-53536](PCSX2%20Patches/SLES-53536_84BFD6D4.pnach) |  |
+| Fahrenheit | [SLES-53540](PCSX2%20Patches/SLES-53540_8191D10A.pnach) |  |
+| Canis Canem Edit | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
