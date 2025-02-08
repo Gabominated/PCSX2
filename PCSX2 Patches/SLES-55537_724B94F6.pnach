@@ -2,5 +2,5 @@ gametitle=G.I. Joe - The Rise of Cobra PAL-M SLES-55537 724B94F6
 
 [50/60 FPS]
 author=Gabominated
-description=Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.
+description=Might need EE Overclock.
 patch=1,EE,00253bbc,word,28630001 //28630002
