@@ -87,6 +87,18 @@
 | Snow Rider | [SLES-53936](PCSX2%20Patches/SLES-53936_95DDD361.pnach) |  |
 | Downhill Slalom | [SLES-53963](PCSX2%20Patches/SLES-53963_8A1332C1.pnach) |  |
 | The Godfather | [SLES-53971](PCSX2%20Patches/SLES-53971_9C593C78.pnach) |  |
+| Bionicle Heroes | [SLES-54150](PCSX2%20Patches/SLES-54150_85495C17.pnach) |  |
+| Saint Seiya - The Hades | [SLES-54162](PCSX2%20Patches/SLES-54162_531AB6BC.pnach) |  |
 | X-Men - The Official Game | [SLES-54066](PCSX2%20Patches/SLES-54066_DF217C0B.pnach) |  |
+| Scarface - The World is Yours | [SLES-54182](PCSX2%20Patches/SLES-54182_301A1B6E.pnach) | [SLES-54183](PCSX2%20Patches/SLES-54183_9A660CC1.pnach) [SLES-54184](PCSX2%20Patches/SLES-54184_20F4FDF8.pnach) [SLES-54271](PCSX2%20Patches/SLES-54271_B69AF9A5.pnach) |  |
 | The Snow Queen Quest | [SLES-54120](PCSX2%20Patches/SLES-54120_4618791D.pnach) |  |
 | Robin Hood's Quest | [SLES-54125](PCSX2%20Patches/SLES-54125_79F6D5C9.pnach) |  |
+| Heatseeker | [SLES-54346](PCSX2%20Patches/SLES-54346_816CB6E8.pnach) [SLES-54596](PCSX2%20Patches/SLES-54596_8761B0E5.pnach) |  |
+| Teen Titans | [SLES-54430](PCSX2%20Patches/SLES-54430_E1F17139.pnach) [SLES-54431](PCSX2%20Patches/SLES-54431_E1F17139.pnach) |  |
+| Home Alone | [SLES-54469](PCSX2%20Patches/SLES-54469_E1FCDA9D.pnach) |  |
+| White Van Racer | [SLES-54550](PCSX2%20Patches/SLES-54550_82DDC773.pnach) |  |
+| Free Running | [SLES-54559](PCSX2%20Patches/SLES-54559_D6A0A3EF.pnach) |  |
+| Mr. Bean | [SLES-54666](PCSX2%20Patches/SLES-54666_EDCBBC68.pnach) |  |
+| Go Kart Rally | [SLES-54726](PCSX2%20Patches/SLES-54726_95E80315.pnach) |  |
+| King of Clubs | [SLES-54731](PCSX2%20Patches/SLES-54731_079140D6.pnach) |  |
+| ObsCure II | [SLES-54782](PCSX2%20Patches/SLES-54782_FC4AC115.pnach) |  |
