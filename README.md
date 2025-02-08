@@ -50,7 +50,7 @@
 | Gladiator - Sword of Vengeance | [SLES-51766](PCSX2%20Patches/SLES-51766_80EA26DA.pnach) |  |
 | Aliens Versus Predator - Extinction | [SLES-51792](PCSX2%20Patches/SLES-51792_64DA75B2.pnach) |  |
 | Smash Cars | [SLES-51800](PCSX2%20Patches/SLES-51800_7FE15107.pnach) |  |
-| Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) |  |
+| Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) [SLPM-65723](PCSX2%20Patches/SLPM-65723_960D74D7.pnach) |  |
 | World War Zero - IronStorm | [SLES-51924](PCSX2%20Patches/SLES-51924_B1C27A19.pnach) |  |
 | Curse - The Eye of Isis | [SLES-51934](PCSX2%20Patches/SLES-51934_7100A15F.pnach) |  |
 | MX Unleashed | [SLES-52043](PCSX2%20Patches/SLES-52043_DBA1250E.pnach) |  |
@@ -83,7 +83,7 @@
 | Resident Evil 4 | [SLES-53702](PCSX2%20Patches/SLES-53702_6BA2F6B9.pnach) |  |
 | Jacked | [SLES-53778](PCSX2%20Patches/SLES-53778_D7F36BB4.pnach) |  |
 | Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) |  |
-| Black | [SLES-53886](PCSX2%20Patches/SLES-53886_ADDFF505.pnach) [SLES-54030](PCSX2%20Patches/SLES-54030_CAA04879.pnach) |  |
+| Black | [SLES-53886](PCSX2%20Patches/SLES-53886_ADDFF505.pnach) [SLES-54030](PCSX2%20Patches/SLES-54030_CAA04879.pnach) [SLPM-66354](PCSX2%20Patches/SLPM-66354_B3A9F9ED.pnach) |  |
 | Snow Rider | [SLES-53936](PCSX2%20Patches/SLES-53936_95DDD361.pnach) |  |
 | Downhill Slalom | [SLES-53963](PCSX2%20Patches/SLES-53963_8A1332C1.pnach) |  |
 | The Godfather | [SLES-53971](PCSX2%20Patches/SLES-53971_9C593C78.pnach) |  |
@@ -101,4 +101,22 @@
 | Mr. Bean | [SLES-54666](PCSX2%20Patches/SLES-54666_EDCBBC68.pnach) |  |
 | Go Kart Rally | [SLES-54726](PCSX2%20Patches/SLES-54726_95E80315.pnach) |  |
 | King of Clubs | [SLES-54731](PCSX2%20Patches/SLES-54731_079140D6.pnach) |  |
-| ObsCure II | [SLES-54782](PCSX2%20Patches/SLES-54782_FC4AC115.pnach) |  |
+| Obscure - II/The Aftermath | [SLES-54782](PCSX2%20Patches/SLES-54782_FC4AC115.pnach) |  |
+| Moto X Maniac | [SLES-54885](PCSX2%20Patches/SLES-54885_899557DF.pnach) |  |
+| Pro Biker 2 | [SLES-54888](PCSX2%20Patches/SLES-54888_CD13C390.pnach) |  |
+| Spider-Man - Friend or Foe | [SLES-54901](PCSX2%20Patches/SLES-54901_678BE0A5.pnach) |  |
+| The Golden Compass | [SLES-54996](PCSX2%20Patches/SLES-54996_73351A86.pnach) [SLES-55012](PCSX2%20Patches/SLES-55012_73351A86.pnach) |  |
+| Disney/Pixar Cars - Mater-National Championship | [SLES-55025](PCSX2%20Patches/SLES-55025_ED999A64.pnach) |  |
+| Dora the Explorer - Dora Saves the Mermaids | [SLES-55112](PCSX2%20Patches/SLES-55112_4AF82486.pnach) |  |
+| Skyscraper | [SLES-55152](PCSX2%20Patches/SLES-55152_EAEEC017.pnach) |  |
+| Nitro Bike | [SLES-55192](PCSX2%20Patches/SLES-55192_B2367FD0.pnach) |  |
+| Jeep Thrills | [SLES-55275](PCSX2%20Patches/SLES-55275_A68EB83E.pnach) [SLES-55288](PCSX2%20Patches/SLES-55288_58026BD0.pnach) | |
+| Score International Baja 1000 - The Official Game | [SLES-55295](PCSX2%20Patches/SLES-55295_1C3FEC65.pnach) | |
+| Secret Service | [SLES-55330](PCSX2%20Patches/SLES-55330_5AC50849.pnach) | |
+| Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) | |
+| Disney/Pixar Cars - Race-O-Rama | [SLES-55536](PCSX2%20Patches/SLES-55536_E4278493.pnach) | |
+| G.I. Joe - The Rise of Cobra | [SLES-55537](PCSX2%20Patches/SLES-55537_724B94F6.pnach) | |
+| Teenage Mutant Ninja Turtles - Smash-Up | [SLES-55565](PCSX2%20Patches/SLES-55565_CEBA108D.pnach) | |
+| The Lord of the Rings - Aragorn's Quest | [SLES-55574](PCSX2%20Patches/SLES-55574_58FCA3F8.pnach) | |
+| Hugo - Magic in the Trollwoods | [SLES-55597](PCSX2%20Patches/SLES-55597_7DEB9F03.pnach) [SLES-55598](PCSX2%20Patches/SLES-55598_FFA75E86.pnach) | |
+|Echo Night Beyond/Nebula | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) | |
