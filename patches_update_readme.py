@@ -1,8 +1,8 @@
 import os
 import re
 
-PATCHES_DIR = "patches"
-README_FILE = os.path.join(PATCHES_DIR, "README.md")
+PATCHES_DIR = "PCSX2 Patches"
+README_FILE = "README.md"
 
 def get_patch_info(patch_file):
     with open(patch_file, 'r') as file:
@@ -23,13 +23,17 @@ def update_readme():
         if title and serial:
             patches_info.append((title, serial, patch_file))
 
-    patches_info.sort()
+    # Ordenar la lista alfabéticamente por el título del juego
+    patches_info.sort(key=lambda x: x[0])
 
     with open(README_FILE, 'w') as readme:
-        readme.write("# Parches para PCSX2\n\n")
-        readme.write("Esta carpeta contiene parches para el emulador PCSX2. A continuación se presenta una lista de los parches disponibles:\n\n")
+        readme.write("# PCSX2\n")
+        readme.write("List of 50/60fps, widescreen and improvement patches for PCSX2 emulator\n\n")
+        readme.write("| Name | Serial/Region | Details |\n")
+        readme.write("| :--- | :---: | ---: |\n")
         for title, serial, patch_file in patches_info:
-            readme.write(f"- [{title} {serial}]({patch_file})\n")
+            patch_link = f"https://github.com/Gabominated/PCSX2/blob/main/PCSX2%20Patches/{patch_file}"
+            readme.write(f"| {title} | [{serial}]({patch_link}) | |\n")
 
 if __name__ == "__main__":
     update_readme()
