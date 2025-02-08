@@ -32,7 +32,8 @@
 | TransWorld Surf | [SLES-50886](PCSX2%20Patches/SLES-50886_1E4D0D98.pnach) |  |
 | Circus Maximus - Chariot Wars | [SLES-50935](PCSX2%20Patches/SLES-50935_8E0C5071.pnach) |  |
 | USA Racer | [SLES-50939](PCSX2%20Patches/SLES-50939_29DCD484.pnach) |  |
-| Hitman 2 - Silent Assassin | [SLES-50992](PCSX2%20Patches/SLES-50992_5B9ACF79.pnach) [SLES-51107](PCSX2%20Patches/SLES-51107_5B9ACF79.pnach) [SLES-51108](PCSX2%20Patches/SLES-51108_5B9ACF79.pnach) |  |
+| Hitman 2 - Silent Assassin | [SLES-50992](PCSX2%20Patches/SLES-50992_5B9ACF79.pnach) [SLES-51107](PCSX2%20Patches/SLES-51107_5B9ACF79.pnach) [SLES-51108](PCSX2%20Patches/SLES-51108_5B9ACF79.pnach) [SLES-51109](PCSX2 Patches/SLES-51109_5B9ACF79.pnach) [SLES-51110](PCSX2%20Patches/SLES-51110_5B9ACF79.pnach) |  |
 | Autobahn Raser IV | [SLES-51009](PCSX2%20Patches/SLES-51009_284C6B75.pnach) |  |
 | Blade II | [SLES-51013](PCSX2%20Patches/SLES-51013_66CC8148.pnach) |  |
 | MX Superfly | [SLES-51038](PCSX2%20Patches/SLES-51038_9B23B5F1.pnach) |  |
+| Castleween | [SLES-51249](PCSX2 Patches/SLES-51249_EE3BCA71.pnach) |  |
