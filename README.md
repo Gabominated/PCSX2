@@ -74,7 +74,7 @@
 | Crazy Golf - World Tour | [SLES-53318](PCSX2%20Patches/SLES-53318_3EB41444.pnach) |  |
 | Alarm for Cobra 11 Vol.2 - Hot Pursuit | [SLES-53360](PCSX2%20Patches/SLES-53360_12117804.pnach) |  |
 | Heroes of the Pacific | [SLES-53441](PCSX2%20Patches/SLES-53441_F8E600FC.pnach) |  |
-| Magna Carta - Tears of Blood | [SLES-53483](PCSX2%20Patches/SLES-53483_49F78F24.pnach) |  |
+| Magna Carta - Tears of Blood | [SLES-53483](PCSX2%20Patches/SLES-53483_49F78F24.pnach) [SLES-53949](PCSX2%20Patches/SLES-53949_E3B1855B.pnach) |  |
 | London Racer - Police Madness | [SLES-53536](PCSX2%20Patches/SLES-53536_84BFD6D4.pnach) |  |
 | Fahrenheit | [SLES-53540](PCSX2%20Patches/SLES-53540_8191D10A.pnach) |  |
 | Canis Canem Edit | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
@@ -82,3 +82,11 @@
 | World Racing 2 | [SLES-53646](PCSX2%20Patches/SLES-53646_2A4A9916.pnach) |  |
 | Resident Evil 4 | [SLES-53702](PCSX2%20Patches/SLES-53702_6BA2F6B9.pnach) |  |
 | Jacked | [SLES-53778](PCSX2%20Patches/SLES-53778_D7F36BB4.pnach) |  |
+| Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) |  |
+| Black | [SLES-53886](PCSX2%20Patches/SLES-53886_ADDFF505.pnach) [SLES-54030](PCSX2%20Patches/SLES-54030_CAA04879.pnach) |  |
+| Snow Rider | [SLES-53936](PCSX2%20Patches/SLES-53936_95DDD361.pnach) |  |
+| Downhill Slalom | [SLES-53963](PCSX2%20Patches/SLES-53963_8A1332C1.pnach) |  |
+| The Godfather | [SLES-53971](PCSX2%20Patches/SLES-53971_9C593C78.pnach) |  |
+| X-Men - The Official Game | [SLES-54066](PCSX2%20Patches/SLES-54066_DF217C0B.pnach) |  |
+| The Snow Queen Quest | [SLES-54120](PCSX2%20Patches/SLES-54120_4618791D.pnach) |  |
+| Robin Hood's Quest | [SLES-54125](PCSX2%20Patches/SLES-54125_79F6D5C9.pnach) |  |
