@@ -57,3 +57,8 @@
 | Alarm for Cobra 11 | [SLES-52063](PCSX2%20Patches/SLES-52063_77E924AC.pnach) |  |
 | Hitman - Contracts | [SLES-52136](PCSX2%20Patches/SLES-52136_3569E863.pnach) |  |
 | Conan | [SLES-52451](PCSX2%20Patches/SLES-52451_9A206BA3.pnach) |  |
+| Autobahn Raser - Das Spiel zum Film | [SLES-52459](PCSX2%20Patches/SLES-52459_F2CC17D2.pnach) |  |
+| Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) |  |
+| Second Sight | [SLES-52670](PCSX2%20Patches/SLES-52670_65087F31.pnach) |  |
+| The Polar Express | [SLES-52685](PCSX2%20Patches/SLES-52685_C72FEF17.pnach) |  |
+| Psi-Ops - The Mindgate Conspiracy | [SLES-52703](PCSX2%20Patches/SLES-52703_C08BE6C0.pnach) |  |
