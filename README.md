@@ -4,7 +4,7 @@
 
 | Game Title | Serial/Region | Details |
 | :---         |     :---:      |          ---: |
-| 007 - Quantum of Solace  |   [PCSX2%20Patches/SLES-55345_B43AC68E.pnach)     |       |
+| 007 - Quantum of Solace  |   SLES-55345]([PCSX2%20Patches/SLES-55345_B43AC68E.pnach)     |       |
 | 7 Blades | [SLES-50109](PCSX2%20Patches/SLES-50109_97AE372A.pnach) |  |
 | 7 Sins | [SLES-53280](PCSX2%20Patches/SLES-53280_52DEB87B.pnach) |  |
 | Hitman - Blood Money | [SLES-53032](PCSX2%20Patches/SLES-53032_72DC82B5.pnach) |  |
