@@ -2,5 +2,5 @@ gametitle=Saint Seiya - The Hades PAL-M SLES-54162 531AB6BC
 
 [50 FPS]
 author=Gabominated
-description=Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
+description=Might need EE Overclock.
 patch=0,EE,005FD520,word,00000000 //00000001
