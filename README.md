@@ -37,3 +37,10 @@
 | Blade II | [SLES-51013](PCSX2%20Patches/SLES-51013_66CC8148.pnach) |  |
 | MX Superfly | [SLES-51038](PCSX2%20Patches/SLES-51038_9B23B5F1.pnach) |  |
 | Castleween | [SLES-51249](PCSX2%20Patches/SLES-51249_EE3BCA71.pnach) |  |
+| Die Hard - Vendetta | [SLES-51347](PCSX2%20Patches/SLES-51347_F9E575D0.pnach) [SLES-51348](PCSX2%20Patches/SLES-51348_62F6F886.pnach) |  |
+| Ben Hur - Blood of Braves | [SLES-51350](PCSX2%20Patches/SLES-51350_E949C93F.pnach) |  |
+| Beach King Stunt Racer | [SLES-51383](PCSX2%20Patches/SLES-51383_5162BCCA.pnach) |  |
+| World Racing | [SLES-51387](PCSX2%20Patches/SLES-51387_E892412E.pnach) |  |
+| Syberia | [SLES-51393](PCSX2%20Patches/SLES-51393_D1ACD489.pnach) |  |
+| IndyCar Series | [SLES-51397](PCSX2%20Patches/SLES-51397_949356AE.pnach) |  |
+| London Racer World Challenge | [SLES-51580](PCSX2%20Patches/SLES-51580_F97680AA.pnach) |  |
