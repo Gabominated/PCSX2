@@ -1,11 +1,5 @@
 gametitle=Magna Carta - Tears of Blood PAL-E SLES-53483 49F78F24
 
-[Widescreen 16:9]
-gsaspectratio=16:9
-author=ElHecht
-// 16:9
-patch=1,EE,002bd698,word,3c023f40 // 3c023f80
-
 [50 FPS]
 author=Gabominated
 description=Might need EE Overclock.
