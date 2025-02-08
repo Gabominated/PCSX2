@@ -23,3 +23,11 @@
 | Shadow Man - 2econd Coming | [SLES-50446](PCSX2%20Patches/SLES-50446_48553EAF.pnach) |  |
 | Pro Rally 2002 | [SLES-50637](PCSX2%20Patches/SLES-50637_0E3617BC.pnach) |  |
 | Pirates - The Legend of Black Kat | [SLES-50680](PCSX2%20Patches/SLES-50680_E677B8F1.pnach) |  |
+| Freestyle Metal X | [SLES-50720](PCSX2%20Patches/SLES-50720_C8AB1868.pnach) |  |
+| Star Trek Voyager - Elite Force | [SLES-50738](PCSX2%20Patches/SLES-50738_624F11F1.pnach) |  |
+| Crashed | [SLES-50843](PCSX2%20Patches/SLES-50843_0379B4F7.pnach) |  |
+| Mat Hoffman's Pro BMX 2 | [SLES-50870](PCSX2%20Patches/SLES-50870_DF5C06BE.pnach) |  |
+| Reign of Fire | [SLES-50873](PCSX2%20Patches/SLES-50873_79464D5E.pnach) |  |
+| Paris-Dakar 2 | [SLES-50879](PCSX2%20Patches/SLES-50879_CB4EBD11.pnach) |  |
+| TransWorld Surf | [SLES-50886](PCSX2%20Patches/SLES-50886_1E4D0D98.pnach) |  |
+| Circus Maximus - Chariot Wars | [SLES-50935](PCSX2%20Patches/SLES-50935_8E0C5071.pnach) |  |
