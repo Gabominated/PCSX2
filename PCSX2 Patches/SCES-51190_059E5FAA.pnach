@@ -1,10 +1,4 @@
-gametitle=Dark Chronicle PAL-M5 SCES-51190 059E5FAA
-
-[Widescreen 16:9]
-gsaspectratio=16:9
-author=ElHecht
-description=Renders the game in 16:9 aspect ratio
-patch=1,EE,00139414,word,3c023f40
+gametitle=Dark Chronicle PAL-M SCES-51190 059E5FAA
 
 [50 FPS]
 author=PeterDelta & Gabominated
