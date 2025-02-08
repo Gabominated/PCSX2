@@ -1,6 +1,6 @@
 | Game Title | Serial/Region | Details |
 | :---         |     :---:      |          ---: |
-| 007 - Quantum of Solace  | [SLES-55345]([PCSX2%20Patches/SLES-55345_B43AC68E.pnach) |       |
+| 007 - Quantum of Solace  | [SLES-55345](PCSX2%20Patches/SLES-55345_B43AC68E.pnach) |       |
 | 7 Blades | [SLES-50109](PCSX2%20Patches/SLES-50109_97AE372A.pnach) |  |
 | 7 Sins | [SLES-53280](PCSX2%20Patches/SLES-53280_52DEB87B.pnach) |  |
 | Alarm for Cobra 11 | [SLES-52063](PCSX2%20Patches/SLES-52063_77E924AC.pnach) |  |
