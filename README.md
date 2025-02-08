@@ -1,5 +1,5 @@
 # PCSX2
-My own 50/60fps patches and port for PCSX2 emulator
+List of 50/60fps, wideescreen and improvement patches for PCSX2 emulator
 
 | Name | Serial/Region | Details |
 | :---         |     :---:      |          ---: |
