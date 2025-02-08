@@ -1,5 +1,5 @@
 # PCSX2
-List of 50/60fps, wideescreen and improvement patches for PCSX2 emulator
+List of 50/60fps, widescreen and improvement patches for PCSX2 emulator
 
 | Name | Serial/Region | Details |
 | :---         |     :---:      |          ---: |
