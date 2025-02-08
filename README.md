@@ -7,7 +7,7 @@
 | 007 - Quantum of Solace  | [SLES-55345]([PCSX2%20Patches/SLES-55345_B43AC68E.pnach) |       |
 | 7 Blades | [SLES-50109](PCSX2%20Patches/SLES-50109_97AE372A.pnach) |  |
 | 7 Sins | [SLES-53280](PCSX2%20Patches/SLES-53280_52DEB87B.pnach) |  |
-| Hitman - Blood Money | [SLES-53032](PCSX2%20Patches/SLES-53032_72DC82B5.pnach) |  |
+| Hitman - Blood Money | [SLES-53032](PCSX2%20Patches/SLES-53032_72DC82B5.pnach) [SLES-53028](PCSX2%20Patches/SLES-53028_13E1AD6A.pnach) |  |
 | Kill.switch   | [SCES-52124](PCSX2%20Patches/SCES-52124_91A65EAE.pnach)    |
 | Primal | [SCES-51135](PCSX2%20Patches/SCES-51135_DCC4EEEA.pnach) |  |
 | Syphon Filter - The Omega Strain | [SCES-52033](PCSX2%20Patches/SCES-52033_27E54B37.pnach) [SCUS-97264](PCSX2%20Patches/SCUS-97264_D5605611.pnach) |  |
@@ -62,3 +62,9 @@
 | Second Sight | [SLES-52670](PCSX2%20Patches/SLES-52670_65087F31.pnach) |  |
 | The Polar Express | [SLES-52685](PCSX2%20Patches/SLES-52685_C72FEF17.pnach) |  |
 | Psi-Ops - The Mindgate Conspiracy | [SLES-52703](PCSX2%20Patches/SLES-52703_C08BE6C0.pnach) |  |
+| Worms Forts - Under Siege | [SLES-52734](PCSX2%20Patches/SLES-52734_38C8967A.pnach) |  |
+| The Mummy | [SLES-52835](PCSX2%20Patches/SLES-52835_40033F92.pnach) |  |
+| Power Rangers - Dino Thunder | [SLES-52886](PCSX2%20Patches/SLES-52886_381F8A7B.pnach) |  |
+| Scaler | [SLES-52917](PCSX2%20Patches/SLES-52917_E54D237D.pnach) [SLES-52918](PCSX2%20Patches/SLES-52918_E54D237D.pnach) |  |
+| Rogue Trooper | [SLES-52921](PCSX2%20Patches/SLES-52921_03C8EA64.pnach) |  |
+| Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) |  |
