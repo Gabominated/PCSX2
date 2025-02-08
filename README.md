@@ -1,3 +1,7 @@
+# PCSX2
+> [!NOTE]
+> List of 50/60 FPS, widescreen and improvement patches for PCSX2 emulator
+> 
 | Game Title | Serial/Region | Details |
 | :---         |     :---:      |          ---: |
 | 007 - Quantum of Solace  | [SLES-55345](PCSX2%20Patches/SLES-55345_B43AC68E.pnach) |       |
