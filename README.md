@@ -44,3 +44,16 @@
 | Syberia | [SLES-51393](PCSX2%20Patches/SLES-51393_D1ACD489.pnach) |  |
 | IndyCar Series | [SLES-51397](PCSX2%20Patches/SLES-51397_949356AE.pnach) |  |
 | London Racer World Challenge | [SLES-51580](PCSX2%20Patches/SLES-51580_F97680AA.pnach) |  |
+| Clock Tower 3 | [SLES-51619](PCSX2%20Patches/SLES-51619_D9FC6310.pnach) |  |
+| Racing Simulation 3 | [SLES-51633](PCSX2%20Patches/SLES-51633_C7AA13F6.pnach) |  |
+| Ford Racing 2 | [SLES-51705](PCSX2%20Patches/SLES-51705_37F695CD.pnach) |  |
+| Gladiator - Sword of Vengeance | [SLES-51766](PCSX2%20Patches/SLES-51766_80EA26DA.pnach) |  |
+| Aliens Versus Predator - Extinction | [SLES-51792](PCSX2%20Patches/SLES-51792_64DA75B2.pnach) |  |
+| Smash Cars | [SLES-51800](PCSX2%20Patches/SLES-51800_7FE15107.pnach) |  |
+| Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) |  |
+| World War Zero - IronStorm | [SLES-51924](PCSX2%20Patches/SLES-51924_B1C27A19.pnach) |  |
+| Curse - The Eye of Isis | [SLES-51934](PCSX2%20Patches/SLES-51934_7100A15F.pnach) |  |
+| MX Unleashed | [SLES-52043](PCSX2%20Patches/SLES-52043_DBA1250E.pnach) |  |
+| Alarm for Cobra 11 | [SLES-52063](PCSX2%20Patches/SLES-52063_77E924AC.pnach) |  |
+| Hitman - Contracts | [SLES-52136](PCSX2%20Patches/SLES-52136_3569E863.pnach) |  |
+| Conan | [SLES-52451](PCSX2%20Patches/SLES-52451_9A206BA3.pnach) |  |
