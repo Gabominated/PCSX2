@@ -1,6 +1,10 @@
 # PCSX2
+
 > [!NOTE]
 > List of 50/60 FPS, widescreen and improvement patches for PCSX2 emulator
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Downloads](https://img.shields.io/github/downloads/Gabominated/PCSX2/total)
 > 
 | Game Title | Serial/Region | Details |
 | :---         |     :---:      |          ---: |
