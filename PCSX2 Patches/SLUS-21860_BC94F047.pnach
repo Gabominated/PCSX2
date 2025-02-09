@@ -1,22 +1,5 @@
 gametitle=The Bigs 2 NTSC-U SLUS-21860 BC94F047
 
-[Widescreen 16:9]
-gsaspectratio=16:9
-author=Arapapa
-
-//Widescreen hack 16:9
-
-//Normal play
-patch=1,EE,20C74768,extended,3FE38E32 //3AAAAAAB
-
-//Turbo and Power blast play
-patch=1,EE,20C74848,extended,3FE38E32 //3AAAAAAB
-patch=1,EE,20C74900,extended,3FE38E32 //3AAAAAAB
-patch=1,EE,20C749B4,extended,3FE38E32 //3AAAAAAB
-patch=1,EE,20C74A94,extended,3FE38E32 //3AAAAAAB
-patch=1,EE,20C74B4C,extended,3FE38E32 //3AAAAAAB
-patch=1,EE,20C74C00,extended,3FE38E32 //3AAAAAAB
-
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
