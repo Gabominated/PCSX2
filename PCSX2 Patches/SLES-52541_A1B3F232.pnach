@@ -1,0 +1,6 @@
+gametitle=Gta san andreas PAL-M SLES-52541 A1B3F232
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock.
+patch=1,EE,0034D6F0,word,24020002 //24020001
