@@ -18,7 +18,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 4. Launch PCSX2 and enable the patches option in the settings/Game Properties.
 
 > 
-| Game Title | Serial/Region | Details |
+| Game Title | Serial/Region | Description |
 | :---         |     :---:      |          ---: |
 | 007 - Quantum of Solace  | [SLES-55345](PCSX2%20Patches/SLES-55345_B43AC68E.pnach) |       |
 | 7 Blades | [SLES-50109](PCSX2%20Patches/SLES-50109_97AE372A.pnach) |  |
