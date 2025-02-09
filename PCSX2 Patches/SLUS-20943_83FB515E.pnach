@@ -10,3 +10,12 @@ patch=1,EE,20799250,extended,3FE38E3A //3FAAAAA7
 patch=1,EE,20799254,extended,42C20000 //42920000
 patch=1,EE,207992E0,extended,00000002 //00000000
 patch=1,EE,20A178E4,extended,b3000000 //b3000000
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,201CA848,word,24020002
+patch=1,EE,0067D8B0,word,3c888889
+patch=1,EE,0067D8B4,word,3c888889
+patch=1,EE,0067D8B8,word,3c888889
+patch=1,EE,0067D8BC,word,3c888889
