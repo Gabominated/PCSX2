@@ -34,7 +34,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Black | [SLES-53886](PCSX2%20Patches/SLES-53886_ADDFF505.pnach) [SLES-54030](PCSX2%20Patches/SLES-54030_CAA04879.pnach) [SLPM-66354](PCSX2%20Patches/SLPM-66354_B3A9F9ED.pnach) [SLUS-21376](PCSX2%20Patches/SLUS-21376_5C891FF1.pnach) |  |
 | Blade II | [SLES-51013](PCSX2%20Patches/SLES-51013_66CC8148.pnach) |  |
 | Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) |  |
-| Canis Canem Edit | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
+| Bully/Canis Canem Edit | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
 | Castleween | [SLES-51249](PCSX2%20Patches/SLES-51249_EE3BCA71.pnach) |  |
 | Chandragupta - Warrior Prince | [SCES-55662](PCSX2%20Patches/SCES-55662_DB2EE959.pnach) |  |
 | Circus Maximus - Chariot Wars | [SLES-50935](PCSX2%20Patches/SLES-50935_8E0C5071.pnach) |  |
@@ -59,6 +59,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | G.I. Joe - The Rise of Cobra | [SLES-55537](PCSX2%20Patches/SLES-55537_724B94F6.pnach) |  |
 | Gladiator - Sword of Vengeance | [SLES-51766](PCSX2%20Patches/SLES-51766_80EA26DA.pnach) |  |
 | Go Kart Rally | [SLES-54726](PCSX2%20Patches/SLES-54726_95E80315.pnach) |  |
+| Godfather, The | [SLES-53971](PCSX2%20Patches/SLES-53971_9C593C78.pnach) | |
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) |  |
 | Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) |  |
 | Heatseeker | [SLES-54346](PCSX2%20Patches/SLES-54346_816CB6E8.pnach) [SLES-54596](PCSX2%20Patches/SLES-54596_8761B0E5.pnach) | |
@@ -88,6 +89,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Obscure - II/The Aftermath | [SLES-54782](PCSX2%20Patches/SLES-54782_FC4AC115.pnach) |  |
 | Paris-Dakar 2 | [SLES-50879](PCSX2%20Patches/SLES-50879_CB4EBD11.pnach) |  |
 | Pirates - The Legend of Black Kat | [SLES-50680](PCSX2%20Patches/SLES-50680_E677B8F1.pnach) |  |
+| Polar Express, The | [SLES-52685](PCSX2%20Patches/SLES-52685_C72FEF17.pnach) | |
 | Power Rangers - Dino Thunder | [SLES-52886](PCSX2%20Patches/SLES-52886_381F8A7B.pnach) |  |
 | Predator - Concrete Jungle | [SLES-53091](PCSX2%20Patches/SLES-53091_AD18AE4F.pnach) |  |
 | Primal | [SCES-51135](PCSX2%20Patches/SCES-51135_DCC4EEEA.pnach) |  |
@@ -109,6 +111,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Shadow Man - 2econd Coming | [SLES-50446](PCSX2%20Patches/SLES-50446_48553EAF.pnach) |  |
 | Skyscraper | [SLES-55152](PCSX2%20Patches/SLES-55152_EAEEC017.pnach) |  |
 | Smash Cars | [SLES-51800](PCSX2%20Patches/SLES-51800_7FE15107.pnach) |  |
+| Snow Queen Quest, The | [SLES-54120](PCSX2%20Patches/SLES-54120_4618791D.pnach) | |
 | Snow Rider | [SLES-53936](PCSX2%20Patches/SLES-53936_95DDD361.pnach) |  |
 | Spider-Man - Friend or Foe | [SLES-54901](PCSX2%20Patches/SLES-54901_678BE0A5.pnach) |  |
 | Star Trek Voyager - Elite Force | [SLES-50738](PCSX2%20Patches/SLES-50738_624F11F1.pnach) |  |
@@ -117,6 +120,13 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Syberia | [SLES-51393](PCSX2%20Patches/SLES-51393_D1ACD489.pnach) |  |
 | Syphon Filter - The Omega Strain | [SCES-52033](PCSX2%20Patches/SCES-52033_27E54B37.pnach) [SCUS-97264](PCSX2%20Patches/SCUS-97264_D5605611.pnach) |  |
 | Teen Titans | [SLES-54430](PCSX2%20Patches/SLES-54430_E1F17139.pnach) [SLES-54431](PCSX2%20Patches/SLES-54431_E1F17139.pnach) | |
+| TOCA Race Driver 3 | [SLES-53087](PCSX2%20Patches/SLES-53087_EE0618ED.pnach) | |
+| Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) | |
+| Mummy, The - The Animated Series | [SLES-52835](PCSX2%20Patches/SLES-52835_40033F92.pnach) | |
 | USA Racer | [SLES-50939](PCSX2%20Patches/SLES-50939_29DCD484.pnach) | |
+| Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) | |
 | World Destruction League - War Jets | [SLES-50262](PCSX2%20Patches/SLES-50262_60BCC078.pnach) | |
 | World Racing | [SLES-51387](PCSX2%20Patches/SLES-51387_E892412E.pnach) | |
+| World War Zero - IronStorm | [SLES-51924](PCSX2%20Patches/SLES-51924_B1C27A19.pnach) | |
+| Worms Forts - Under Siege | [SLES-52734](PCSX2%20Patches/SLES-52734_38C8967A.pnach) | |
+| X-Men - The Official Game | [SLES-54066](PCSX2%20Patches/SLES-54066_DF217C0B.pnach) | |
