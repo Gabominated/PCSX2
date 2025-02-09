@@ -60,7 +60,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Gladiator - Sword of Vengeance | [SLES-51766](PCSX2%20Patches/SLES-51766_80EA26DA.pnach) |  |
 | Go Kart Rally | [SLES-54726](PCSX2%20Patches/SLES-54726_95E80315.pnach) |  |
 | Godfather, The | [SLES-53971](PCSX2%20Patches/SLES-53971_9C593C78.pnach) | |
-| Golden Compass, The | [SLES-54996](PCSX2%20Patches/SLES-54996_73351A86.pnach) | Golden Compass, The | [SLES-55012](PCSX2%20Patches/SLES-55012_73351A86.pnach) | |
+| Golden Compass, The | [SLES-54996](PCSX2%20Patches/SLES-54996_73351A86.pnach) [SLES-55012](PCSX2%20Patches/SLES-55012_73351A86.pnach) | |
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) |  |
 | Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) |  |
 | Heatseeker | [SLES-54346](PCSX2%20Patches/SLES-54346_816CB6E8.pnach) [SLES-54596](PCSX2%20Patches/SLES-54596_8761B0E5.pnach) | |
@@ -128,9 +128,9 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) | |
 | Mummy, The - The Animated Series | [SLES-52835](PCSX2%20Patches/SLES-52835_40033F92.pnach) | |
 | USA Racer | [SLES-50939](PCSX2%20Patches/SLES-50939_29DCD484.pnach) | |
-| Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) | Van Helsing NTSC-J | [SLPM-65723](PCSX2%20Patches/SLPM-65723_960D74D7.pnach) | |
+| Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) [SLPM-65723](PCSX2%20Patches/SLPM-65723_960D74D7.pnach) | |
 | White Van Racer | [SLES-54550](PCSX2%20Patches/SLES-54550_82DDC773.pnach) | |
-| World Destruction League - War Jets | [SLES-50262](PCSX2%20Patches/SLES-50262_60BCC078.pnach) | World Destruction League - War Jetz | [SLUS-20007](PCSX2%20Patches/SLUS-20007_70C924CC.pnach) | |
+| World Destruction League - War Jets | [SLES-50262](PCSX2%20Patches/SLES-50262_60BCC078.pnach) [SLUS-20007](PCSX2%20Patches/SLUS-20007_70C924CC.pnach) | |
 | World Racing | [SLES-51387](PCSX2%20Patches/SLES-51387_E892412E.pnach) | |
 | World War Zero - IronStorm | [SLES-51924](PCSX2%20Patches/SLES-51924_B1C27A19.pnach) | |
 | Worms Forts - Under Siege | [SLES-52734](PCSX2%20Patches/SLES-52734_38C8967A.pnach) | |
