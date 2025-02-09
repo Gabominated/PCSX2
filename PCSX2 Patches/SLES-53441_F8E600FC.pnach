@@ -10,3 +10,18 @@ patch=1,EE,2079AE50,extended,3FE38E3A //3FAAAAA7
 patch=1,EE,2079AE54,extended,42C20000 //42920000
 patch=1,EE,2079AEE0,extended,00000002 //00000000
 patch=1,EE,209B1924,extended,b3000000 //b3000000
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,001CAE08,extended,24020002 //24020001
+patch=1,EE,E0043D23,extended,0067F2BA //condition 50herz
+patch=1,EE,2067F2B0,extended,3CA3D70A
+patch=1,EE,2067F2B4,extended,3CA3D70A
+patch=1,EE,2067F2B8,extended,3CA3D70A
+patch=1,EE,2067F2BC,extended,3CA3D70A
+patch=1,EE,E0043D08,extended,0067F2BA //condition 60herz
+patch=1,EE,2067F2B0,extended,3C888889
+patch=1,EE,2067F2B4,extended,3C888889
+patch=1,EE,2067F2B8,extended,3C888889
+patch=1,EE,2067F2BC,extended,3C888889
