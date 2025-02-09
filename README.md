@@ -8,7 +8,7 @@
 
 ## Introduction
 
-PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patches that enhance the gaming experience, including patches to increase FPS, enab
+PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patches that enhance the gaming experience, including patches to increase FPS, enable widescreen mode, and other improvements.
 
 > 
 | Game Title | Serial/Region | Details |
