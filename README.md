@@ -5,6 +5,11 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Downloads](https://img.shields.io/github/downloads/Gabominated/PCSX2/total)
+
+## Introduction
+
+PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patches that enhance the gaming experience, including patches to increase FPS, enab
+
 > 
 | Game Title | Serial/Region | Details |
 | :---         |     :---:      |          ---: |
