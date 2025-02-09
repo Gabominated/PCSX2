@@ -1,13 +1,4 @@
-gametitle=Psi-Ops: The Mindgate Conspiracy (SLUS-20688)
-
-[Widescreen 16:9]
-gsaspectratio=16:9
-author=nemesis2000
-
-patch=1,EE,0046DC3C,word,241102AA
-
-//FMV's fix
-patch=1,EE,00469938,word,2411012A
+gametitle=Psi-Ops: The Mindgate Conspiracy NTSC-U SLUS-20688 9C71B59E
 
 [60 FPS]
 author=Gabominated
