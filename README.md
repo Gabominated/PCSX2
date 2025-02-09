@@ -25,7 +25,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | 7 Sins | [SLES-53280](PCSX2%20Patches/SLES-53280_52DEB87B.pnach) |  |
 | Alarm for Cobra 11 | [SLES-52063](PCSX2%20Patches/SLES-52063_77E924AC.pnach) |  |
 | Alarm for Cobra 11 Vol.2 - Hot Pursuit | [SLES-53360](PCSX2%20Patches/SLES-53360_12117804.pnach) |  |
-| Aliens Versus Predator - Extinction | [SLES-51792](PCSX2%20Patches/SLES-51792_64DA75B2.pnach) |  |
+| Aliens Versus Predator - Extinction | [SLES-51792](PCSX2%20Patches/SLES-51792_64DA75B2.pnach) [SLUS-20147](PCSX2%20Patches/SLUS-20147_64DA78A3.pnach) |  |
 | Autobahn Raser - Das Spiel zum Film | [SLES-52459](PCSX2%20Patches/SLES-52459_F2CC17D2.pnach) |  |
 | Autobahn Raser IV | [SLES-51009](PCSX2%20Patches/SLES-51009_284C6B75.pnach) |  |
 | Beach King Stunt Racer | [SLES-51383](PCSX2%20Patches/SLES-51383_5162BCCA.pnach) |  |
@@ -49,7 +49,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Disney/Pixar Cars - Mater-National Championship | [SLES-55025](PCSX2%20Patches/SLES-55025_ED999A64.pnach) |  |
 | Disney/Pixar Cars - Race-O-Rama | [SLES-55536](PCSX2%20Patches/SLES-55536_E4278493.pnach) |  |
 | Disney's Dinosaur | [SLES-50042](PCSX2%20Patches/SLES-50042_238B189C.pnach) [SLES-50043](PCSX2%20Patches/SLES-50043_238B189C.pnach) |  |
-| Dora the Explorer - Dora Saves the Mermaids | [SLES-55112](PCSX2%20Patches/SLES-55112_4AF82486.pnach) |  |
+| Dora the Explorer - Dora Saves the Mermaids | [SLES-55112](PCSX2%20Patches/SLES-55112_4AF82486.pnach) [SLES-55288](PCSX2%20Patches/SLES-55288_58026BD0.pnach) |  |
 | Downhill Slalom | [SLES-53963](PCSX2%20Patches/SLES-53963_8A1332C1.pnach) |  |
 | Echo Night Beyond/Nebula | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) | |
 | Fahrenheit | [SLES-53540](PCSX2%20Patches/SLES-53540_8191D10A.pnach) |  |
@@ -60,6 +60,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Gladiator - Sword of Vengeance | [SLES-51766](PCSX2%20Patches/SLES-51766_80EA26DA.pnach) |  |
 | Go Kart Rally | [SLES-54726](PCSX2%20Patches/SLES-54726_95E80315.pnach) |  |
 | Godfather, The | [SLES-53971](PCSX2%20Patches/SLES-53971_9C593C78.pnach) | |
+| Golden Compass, The | [SLES-54996](PCSX2%20Patches/SLES-54996_73351A86.pnach) | Golden Compass, The | [SLES-55012](PCSX2%20Patches/SLES-55012_73351A86.pnach) | |
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) |  |
 | Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) |  |
 | Heatseeker | [SLES-54346](PCSX2%20Patches/SLES-54346_816CB6E8.pnach) [SLES-54596](PCSX2%20Patches/SLES-54596_8761B0E5.pnach) | |
@@ -77,6 +78,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Knights of the Temple II | [SLES-53645](PCSX2%20Patches/SLES-53645_9637D496.pnach) |  |
 | London Racer - Police Madness | [SLES-53536](PCSx2%20Patches/SLES-53536_84BFD6D4.pnach) |  |
 | London Racer World Challenge | [SLES-51580](PCSX2%20Patches/SLES-51580_F97680AA.pnach) |  |
+| Lord of the Rings, The - Aragorn's Quest | [SLES-55574](PCSX2%20Patches/SLES-55574_58FCA3F8.pnach) | |
 | Magna Carta - Tears of Blood | [SLES-53483](PCSX2%20Patches/SLES-53483_49F78F24.pnach) [SLES-53949](PCSX2%20Patches/SLES-53949_E3B1855B.pnach) |  |
 | Mat Hoffman's Pro BMX 2 | [SLES-50870](PCSX2%20Patches/SLES-50870_DF5C06BE.pnach) |  |
 | Moto X Maniac | [SLES-54885](PCSX2%20Patches/SLES-54885_899557DF.pnach) |  |
@@ -98,6 +100,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Psi-Ops - The Mindgate Conspiracy | [SLES-52703](PCSX2%20Patches/SLES-52703_C08BE6C0.pnach) |  |
 | Racing Simulation 3 | [SLES-51633](PCSX2%20Patches/SLES-51633_C7AA13F6.pnach) |  |
 | Reign of Fire | [SLES-50873](PCSX2%20Patches/SLES-50873_79464D5E.pnach) |  |
+| Resident Evil: Code - Veronica X | [SLUS-20184](PCSX2%20Patches/SLUS-20184_24036809.pnach) | |
 | Resident Evil 4 | [SLES-53702](PCSX2%20Patches/SLES-53702_6BA2F6B9.pnach) |  |
 | Rise of the Kasai | [SCUS-97416](PCSX2%20Patches/SCUS-97416_EDE17E1B.pnach) |  |
 | Robin Hood's Quest | [SLES-54125](PCSX2%20Patches/SLES-54125_79F6D5C9.pnach) |  |
@@ -114,18 +117,20 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Snow Queen Quest, The | [SLES-54120](PCSX2%20Patches/SLES-54120_4618791D.pnach) | |
 | Snow Rider | [SLES-53936](PCSX2%20Patches/SLES-53936_95DDD361.pnach) |  |
 | Spider-Man - Friend or Foe | [SLES-54901](PCSX2%20Patches/SLES-54901_678BE0A5.pnach) |  |
-| Star Trek Voyager - Elite Force | [SLES-50738](PCSX2%20Patches/SLES-50738_624F11F1.pnach) |  |
+| Star Trek Voyager - Elite Force | [SLES-50738](PCSX2%20Patches/SLES-50738_624F11F1.pnach) [SLUS-20227](PCSX2%20Patches/SLUS-20227_9F70EE4F.pnach) |  |
 | Street Cricket Champions 2 | [SCES-55663](PCSX2%20Patches/SCES-55663_44755604.pnach) |  |
-| Supercar Street Challenge | [SLES-50419](PCSX2%20Patches/SLES-50419_833B70DB.pnach) |  |
+| Supercar Street Challenge | [SLES-50419](PCSX2%20Patches/SLES-50419_833B70DB.pnach) [SLUS-20012](PCSX2%20Patches/SLUS-20012_6AEABF4E.pnach) |  |
 | Syberia | [SLES-51393](PCSX2%20Patches/SLES-51393_D1ACD489.pnach) |  |
 | Syphon Filter - The Omega Strain | [SCES-52033](PCSX2%20Patches/SCES-52033_27E54B37.pnach) [SCUS-97264](PCSX2%20Patches/SCUS-97264_D5605611.pnach) |  |
+| Teenage Mutant Ninja Turtles - Smash-Up | [SLES-55565](PCSX2%20Patches/SLES-55565_CEBA108D.pnach) | |
 | Teen Titans | [SLES-54430](PCSX2%20Patches/SLES-54430_E1F17139.pnach) [SLES-54431](PCSX2%20Patches/SLES-54431_E1F17139.pnach) | |
 | TOCA Race Driver 3 | [SLES-53087](PCSX2%20Patches/SLES-53087_EE0618ED.pnach) | |
 | Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) | |
 | Mummy, The - The Animated Series | [SLES-52835](PCSX2%20Patches/SLES-52835_40033F92.pnach) | |
 | USA Racer | [SLES-50939](PCSX2%20Patches/SLES-50939_29DCD484.pnach) | |
-| Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) | |
-| World Destruction League - War Jets | [SLES-50262](PCSX2%20Patches/SLES-50262_60BCC078.pnach) | |
+| Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) | Van Helsing NTSC-J | [SLPM-65723](PCSX2%20Patches/SLPM-65723_960D74D7.pnach) | |
+| White Van Racer | [SLES-54550](PCSX2%20Patches/SLES-54550_82DDC773.pnach) | |
+| World Destruction League - War Jets | [SLES-50262](PCSX2%20Patches/SLES-50262_60BCC078.pnach) | World Destruction League - War Jetz | [SLUS-20007](PCSX2%20Patches/SLUS-20007_70C924CC.pnach) | |
 | World Racing | [SLES-51387](PCSX2%20Patches/SLES-51387_E892412E.pnach) | |
 | World War Zero - IronStorm | [SLES-51924](PCSX2%20Patches/SLES-51924_B1C27A19.pnach) | |
 | Worms Forts - Under Siege | [SLES-52734](PCSX2%20Patches/SLES-52734_38C8967A.pnach) | |
