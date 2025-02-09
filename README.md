@@ -65,7 +65,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Heroes of the Pacific | [SLES-53441](PCSX2%20Patches/SLES-53441_F8E600FC.pnach) |  |
 | Hitman - Blood Money | [SLES-53032](PCSX2%20Patches/SLES-53032_72DC82B5.pnach) [SLES-53028](PCSX2%20Patches/SLES-53028_13E1AD6A.pnach) |  |
 | Hitman - Contracts | [SLES-52136](PCSX2%20Patches/SLES-52136_3569E863.pnach) |  |
-| Hitman 2 - Silent Assassin | [SLES-50992](PCSX2%20Patches/SLES-50992_5B9ACF79.pnach) [SLES-51107](PCSX2%20Patches/SLES-51107_5B9ACF79.pnach) [SLES-51108](PCSX2%20Patches/SLES-51108_5B9ACF79.pnach) |  |
+| Hitman 2 - Silent Assassin | [SLES-50992](PCSX2%20Patches/SLES-50992_5B9ACF79.pnach) [SLES-51107](PCSX2%20Patches/SLES-51107_5B9ACF79.pnach) [SLES-51108](PCSX2%20Patches/SLES-51108_5B9ACF79.pnach) [SLES-51110](PCSX2%20Patches/SLES-51110_5B9ACF79.pnach) [SLES-51109](PCSX2%20Patches/SLES-51109_5B9ACF79.pnach) |  |
 | Home Alone | [SLES-54469](PCSX2%20Patches/SLES-54469_E1FCDA9D.pnach) |  |
 | Hugo - Magic in the Trollwoods | [SLES-55597](PCSX2%20Patches/SLES-55597_7DEB9F03.pnach) [SLES-55598](PCSX2%20Patches/SLES-55598_FFA75E86.pnach) | |
 | IndyCar Series | [SLES-51397](PCSX2%20Patches/SLES-51397_949356AE.pnach) |  |
