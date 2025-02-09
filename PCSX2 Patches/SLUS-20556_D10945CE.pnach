@@ -1,17 +1,5 @@
 gametitle=Reign of Fire NTSC-U SLUS-20556 D10945CE
 
-[Widescreen 16:9]
-gsaspectratio=16:9
-author=Arapapa
-
-//Widescreen hack 16:9
-
-//Y-Fov
-patch=1,EE,00135320,word,3c023fab //3c023f80
-
-//Zoom
-patch=1,EE,001352b8,word,3c023f24 //3c023f00
-
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
