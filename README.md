@@ -108,7 +108,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Mercenaries 2 - World in Flames | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) | |
 | Moto X Maniac | [SLES-54885](PCSX2%20Patches/SLES-54885_899557DF.pnach) |  |
 | Mr. Bean | [SLES-54666](PCSX2%20Patches/SLES-54666_EDCBBC68.pnach) |  |
-| MX 2002 featuring Ricky Carmichael | [SLES-50428](PCSX2%20Patches/SLES-50428_72BEA663.pnach) |  |
+| MX 2002 featuring Ricky Carmichael | [SLES-50428](PCSX2%20Patches/SLES-50428_72BEA663.pnach) [SLUS-20072](PCSX2%20Patches/SLUS-20072_FBC3BC36.pnach) |  |
 | MX Rider | [SLES-50132](PCSX2%20Patches/SLES-50132_EB94A7B4.pnach) [SLUS-20234](PCSX2%20Patches/SLUS-20234_FE0E9B39.pnach) |  |
 | MX Superfly | [SLES-51038](PCSX2%20Patches/SLES-51038_9B23B5F1.pnach) [SLUS-20381](PCSX2%20Patches/SLUS-20381_0CD3C2F6.pnach) |  |
 | MX Unleashed | [SLES-52043](PCSX2%20Patches/SLES-52043_DBA1250E.pnach) [SLUS-20767](PCSX2%20Patches/SLUS-20767_9866FE54.pnach) |  |
