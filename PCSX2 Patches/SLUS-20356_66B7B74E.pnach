@@ -1,16 +1,5 @@
 gametitle=TransWorld Surf NTSC-U SLUS-20356 66B7B74E
 
-[Widescreen 16:9]
-gsaspectratio=16:9
-author=Arapapa
-
-//Widescreen hack 16:9
-
-//X-Fov
-//aa3f013c 713d2134 00188144 10008324 -> e23f013c fc932134 00188144 10008324
-patch=1,EE,00183368,word,3c013fe2 //3c013faa
-patch=1,EE,0018336c,word,3421fc93 //34213d71
-
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock (180%).
