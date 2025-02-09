@@ -2,8 +2,8 @@ gametitle=Psi-Ops - The Mindgate Conspiracy NTSC-U SLUS-20688 9C71B59E
 
 [60 FPS]
 author=Gabominated
-description=Unlocked at 60 FPS. Might need enable EE Overclock to be stable.
-patch=1,EE,2017AB28,extended,00000000 //1640FFE5 fps1
+description=Might need EE Overclock (180%).
+patch=1,EE,0017AAEC,word,3c03f20 //3c043FA0
 
 [No-interlacing]
 gsinterlacemode=1
