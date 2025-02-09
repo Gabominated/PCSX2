@@ -43,6 +43,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Chandragupta - Warrior Prince | [SCES-55662](PCSX2%20Patches/SCES-55662_DB2EE959.pnach) |  |
 | Circus Maximus - Chariot Wars | [SLES-50935](PCSX2%20Patches/SLES-50935_8E0C5071.pnach) |  |
 | Clock Tower 3 | [SLES-51619](PCSX2%20Patches/SLES-51619_D9FC6310.pnach) |  |
+| Cold Fear | [SLUS-21047](PCSX2%20Patches/SLUS-21047_ECFBAB36.pnach) | |
 | Conan | [SLES-52451](PCSX2%20Patches/SLES-52451_9A206BA3.pnach) |  |
 | Counter Terrorist Special Forces - Fire for Effect | [SLES-53046](PCSX2%20Patches/SLES-53046_EDE9DD5C.pnach) |  |
 | Crazy Golf - World Tour | [SLES-53318](PCSX2%20Patches/SLES-53318_3EB41444.pnach) |  |
@@ -76,6 +77,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Godzilla - Unleashed | [SLUS-21707](PCSX2%20Patches/SLUS-21707_179470B4.pnach)
 | Golden Compass, The | [SLES-54996](PCSX2%20Patches/SLES-54996_73351A86.pnach) [SLES-55012](PCSX2%20Patches/SLES-55012_73351A86.pnach) [SLUS-21677](PCSX2%20Patches/SLUS-21677_E514BA51.pnach) | |
 | Ghosthunters | [SLUS-20993](PCSX2%20Patches/SLUS-20993_29C7DA54.pnach) | |
+| Grand Theft Auto - San Andreas | [SLES-52541](PCSX2%20Patches/SLES-52541_A1B3F232.pnach) | |
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) [SLUS-21020](PCSX2%20Patches/SLUS-21020_83C9749E.pnach) |  |
 | Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) |  |
 | Heatseeker | [SLES-54346](PCSX2%20Patches/SLES-54346_816CB6E8.pnach) [SLES-54596](PCSX2%20Patches/SLES-54596_8761B0E5.pnach) [SLUS-21570](PCSX2%20Patches/SLUS-21570_B96DD9F4.pnach) | |
