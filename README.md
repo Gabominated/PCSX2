@@ -36,7 +36,7 @@
 | Die Hard - Vendetta | [SLES-51347](PCSX2%20Patches/SLES-51347_F9E575D0.pnach) [SLES-51348](PCSX2%20Patches/SLES-51348_62F6F886.pnach) |  |
 | Disney/Pixar Cars - Mater-National Championship | [SLES-55025](PCSX2%20Patches/SLES-55025_ED999A64.pnach) |  |
 | Disney/Pixar Cars - Race-O-Rama | [SLES-55536](PCSX2%20Patches/SLES-55536_E4278493.pnach) |  |
-| Disney's Dinosaur | [SLES-50042](PCSX2%20Patches/SLES-50042_238B189C.pnach) |  |
+| Disney's Dinosaur | [SLES-50042](PCSX2%20Patches/SLES-50042_238B189C.pnach) [SLES-50043](PCSX2%20Patches/SLES-50043_238B189C.pnach) |  |
 | Dora the Explorer - Dora Saves the Mermaids | [SLES-55112](PCSX2%20Patches/SLES-55112_4AF82486.pnach) |  |
 | Downhill Slalom | [SLES-53963](PCSX2%20Patches/SLES-53963_8A1332C1.pnach) |  |
 | Echo Night Beyond/Nebula | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) | |
@@ -90,7 +90,7 @@
 | Rogue Trooper | [SLES-52921](PCSX2%20Patches/SLES-52921_03C8EA64.pnach) |  |
 | Saint Seiya - The Hades | [SLES-54162](PCSX2%20Patches/SLES-54162_531AB6BC.pnach) |  |
 | Scaler | [SLES-52917](PCSX2%20Patches/SLES-52917_E54D237D.pnach) [SLES-52918](PCSX2%20Patches/SLES-52918_E54D237D.pnach) |  |
-| Scarface - The World is Yours | [SLES-54182](PCSX2%20Patches/SLES-54182_301A1B6E.pnach) [SLES-54183](PCSX2%20Patches/SLES-54183_9A660CC1.pnach) [SLES-54184](PCSX2%20Patches/SLES-54184_20F4FDF8.pnach) |  |
+| Scarface - The World is Yours | [SLES-54182](PCSX2%20Patches/SLES-54182_301A1B6E.pnach) [SLES-54183](PCSX2%20Patches/SLES-54183_9A660CC1.pnach) [SLES-54184](PCSX2%20Patches/SLES-54184_20F4FDF8.pnach) [SLES-54271](PCSX2%20Patches/SLES-54271_B69AF9A5.pnach) |  |
 | Score International Baja 1000 - The Official Game | [SLES-55295](PCSX2%20Patches/SLES-55295_1C3FEC65.pnach) | |
 | Second Sight | [SLES-52670](PCSX2%20Patches/SLES-52670_65087F31.pnach) |  |
 | Secret Service | [SLES-55330](PCSX2%20Patches/SLES-55330_5AC50849.pnach) | |
