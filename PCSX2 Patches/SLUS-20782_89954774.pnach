@@ -2,7 +2,7 @@ gametitle=Blood Will Tell SLUS-20782 89954774
 
 [60 FPS]
 author=Gabominated
-description=Unlocked at 60 FPS. Might need enable EE Overclock to be stable.
+description=Still missing logic 3D.
 patch=1,EE,003D4748,word,24420002
 patch=1,EE,001b4060,word,2403003c //2403001e
 patch=1,EE,00286c20,word,3c023f00 //3c023f80
