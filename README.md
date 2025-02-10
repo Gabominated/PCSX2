@@ -69,6 +69,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Downhill Slalom | [SLES-53963](PCSX2%20Patches/SLES-53963_8A1332C1.pnach) |  |
 | Echo Night Beyond/Nebula | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) | |
 | Fahrenheit / Indigo Prophecy | [SLES-53540](PCSX2%20Patches/SLES-53540_8191D10A.pnach) [SLUS-21196](PCSX2%20Patches/SLUS-21196_A7A37EB8.pnach) |  |
+| Fatal Frame II / Project Zero 2 - Crimson Butterfly | [SLES-52384](PCSX2%20Patches/SLES-52384_9D87F3AF.pnach) [SLUS-20766](PCSX2%20Patches/SLUS-20766_9A51B627.pnach) |  |
 | FlatOut | [SLUS-20901](PCSX2%20Patches/SLUS-20901_E0127F2D.pnach) | |
 | FlatOut 2 | [SLUS-21251](PCSX2%20Patches/SLUS-21251_45DEB7AC.pnach) | |
 | Ford Racing 2 | [SLES-51705](PCSX2%20Patches/SLES-51705_37F695CD.pnach) [SLUS-20788](PCSX2%20Patches/SLUS-20788_515245DF.pnach) |  |
@@ -99,6 +100,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | IndyCar Series | [SLES-51397](PCSX2%20Patches/SLES-51397_949356AE.pnach) [SLUS-20641](PCSX2%20Patches/SLUS-20641_B36EE21E.pnach) |  |
 | Jacked | [SLES-53778](PCSX2%20Patches/SLES-53778_D7F36BB4.pnach) |  |
 | Jeep Thrills | [SLES-55275](PCSX2%20Patches/SLES-55275_A68EB83E.pnach) [SLES-55288](PCSX2%20Patches/SLES-55288_58026BD0.pnach) [SLUS-21760](PCSX2%20Patches/SLUS-21760_3DDBDB2C.pnach) | |
+| Jumper - Griffin's Story | [SLES-55129](PCSX2%20Patches/SLES-55129_08944D35.pnach) [SLUS-21730](PCSX2%20Patches/SLUS-21730_E164CB28.pnach) | |
 | Jurassic - The Hunted | [SLUS-21907](PCSX2%20Patches/SLUS-21907_EFE4448F.pnach) | |
 | Jurassic Park - Operation Genesis | [SLUS-20380](PCSX2%20Patches/SLUS-20380_A99B8FE7.pnach) | |
 | Kill.switch | [SCES-52124](PCSX2%20Patches/SCES-52124_91A65EAE.pnach) |  |
@@ -115,12 +117,14 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Mercenaries 2 - World in Flames | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) | |
 | Moto X Maniac | [SLES-54885](PCSX2%20Patches/SLES-54885_899557DF.pnach) |  |
 | Mr. Bean | [SLES-54666](PCSX2%20Patches/SLES-54666_EDCBBC68.pnach) |  |
+| Metal Slug 3D | [SLPS-25650](PCSX2%20Patches/SLPS-25650_7D8D8BFA.pnach) | |
 | MX 2002 featuring Ricky Carmichael | [SLES-50428](PCSX2%20Patches/SLES-50428_72BEA663.pnach) [SLUS-20072](PCSX2%20Patches/SLUS-20072_FBC3BC36.pnach) |  |
 | MX Rider | [SLES-50132](PCSX2%20Patches/SLES-50132_EB94A7B4.pnach) [SLUS-20234](PCSX2%20Patches/SLUS-20234_FE0E9B39.pnach) |  |
 | MX Superfly | [SLES-51038](PCSX2%20Patches/SLES-51038_9B23B5F1.pnach) [SLUS-20381](PCSX2%20Patches/SLUS-20381_0CD3C2F6.pnach) |  |
 | MX Unleashed | [SLES-52043](PCSX2%20Patches/SLES-52043_DBA1250E.pnach) [SLUS-20767](PCSX2%20Patches/SLUS-20767_9866FE54.pnach) |  |
 | Nitro Bike | [SLES-55192](PCSX2%20Patches/SLES-55192_B2367FD0.pnach) [SLUS-21738](PCSX2%20Patches/SLUS-21738_F5FE754D.pnach) |  |
 | Obscure - II/The Aftermath | [SLES-54782](PCSX2%20Patches/SLES-54782_FC4AC115.pnach) |  |
+| Outlaw Golf 2 | [SLES-52965](PCSX2%20Patches/SLES-52965_57115262.pnach) [SLUS-21030](PCSX2%20Patches/SLUS-21030_1ED4B29C.pnach) | |
 | Paris-Dakar 2 | [SLES-50879](PCSX2%20Patches/SLES-50879_CB4EBD11.pnach) |  |
 | Pirates - The Legend of Black Kat | [SLES-50680](PCSX2%20Patches/SLES-50680_E677B8F1.pnach) |  |
 | Polar Express, The | [SLES-52685](PCSX2%20Patches/SLES-52685_C72FEF17.pnach) [SLUS-20989](PCSX2%20Patches/SLUS-20989_4AC5A94B.pnach) | |
