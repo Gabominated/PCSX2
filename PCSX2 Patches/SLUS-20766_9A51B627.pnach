@@ -1,0 +1,16 @@
+gametitle=Fatal Frame II - Crimson Butterfly NTSC-U SLUS-20766 9A51B627
+
+[60 FPS]
+author=Gabominated & asasega
+description=Might need EE Overclock (130%).
+patch=1,EE,2021b7dc,extended,24020000 //24020001
+patch=1,EE,201E2BD0,extended,00000000 //0C07925A
+patch=1,EE,201b2210,extended,3c014148 //3c0141c8
+patch=1,EE,201F798C,extended,2C42003c //2C42001E
+patch=1,EE,E0040001,extended,002BCF58
+patch=1,EE,2021b7dc,extended,24020001
+patch=1,EE,201E2BD0,extended,0C07925A
+patch=1,EE,201b2210,extended,3c0141c8
+patch=1,EE,201F798C,extended,2C42001E
+patch=1,EE,E0010001,extended,002E4E44
+patch=1,EE,2021b7dc,extended,24020001

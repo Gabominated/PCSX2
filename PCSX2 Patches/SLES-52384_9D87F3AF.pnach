@@ -1,0 +1,16 @@
+gametitle=Project Zero 2 - Crimson Butterfly PAL-M SLES-52384 9D87F3AF
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,2022088C,extended,00000000 //8F82C960
+patch=1,EE,201E6028,extended,00000000 //0C079FB0
+patch=1,EE,201b5ca0,extended,3c014148 //3c0141c8
+patch=1,EE,201FC230,extended,2C42003c //2C42001E
+patch=1,EE,E0040001,extended,002C3FA8
+patch=1,EE,2022088C,extended,8F82C960
+patch=1,EE,201E6028,extended,0C079FB0
+patch=1,EE,201b5ca0,extended,3c0141c8
+patch=1,EE,201FC230,extended,2C42001E
+patch=1,EE,E0010001,extended,002ECEF4
+patch=1,EE,2022088C,extended,8F82C960

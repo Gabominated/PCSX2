@@ -1,0 +1,6 @@
+gametitle=Metal Slug 3D NTSC-J SLPS-25650 7D8D8BFA
+
+[60 FPS]
+author=Gabominated
+description=jump and cam speed still missing.
+patch=1,EE,0013c2fc,word,2404003c //2404001e
