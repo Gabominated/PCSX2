@@ -1,0 +1,14 @@
+gametitle=Firefighter F.D. 18 PAL-M SLES-52096 4590ECC3
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,004F21C0,extended,00000001
+patch=1,EE,E0010001,extended,004CBFFC
+patch=1,EE,004F21C0,extended,00000002
+
+
+0010FF50 speed
+0010FE70 fps doble
+0010FE74 fps
+0010FE98 fps
