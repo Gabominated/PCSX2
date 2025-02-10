@@ -1,0 +1,7 @@
+gametitle=GTC Africa PAL-M SLES-50472 51D8A6A9
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,00109BD4,word,0C04B26A //0C04B244
+patch=1,EE,00109cd4,word,3c023ca3 //3c023d23

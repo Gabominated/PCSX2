@@ -1,0 +1,7 @@
+gametitle=GTC Africa NTSC-J SLPM-62258 8AC3F5D6
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,0010AD84,word,0C04BC1C //0C04BBF6
+patch=1,EE,0010AE88,word,3C023C88 //3C023D08

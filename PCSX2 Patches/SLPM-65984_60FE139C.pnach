@@ -1,0 +1,6 @@
+gametitle=Grand Theft Auto - San Andreas NTSC-J SLPM-65984 60FE139C
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,0034EA80,word,24020002 //24020001

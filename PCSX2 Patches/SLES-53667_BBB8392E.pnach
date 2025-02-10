@@ -1,0 +1,7 @@
+gametitle=Gauntlet - Seven Sorrows PAL-M SLES-53667 BBB8392E
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,00210AB8,word,10600006 //54600006 fps
+patch=1,EE,0050D230,word,3CA3D70A //3D23D70A

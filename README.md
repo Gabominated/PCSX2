@@ -1,21 +1,26 @@
-# PCSX2
-
-> [!NOTE]
-> List of 50/60 FPS, widescreen and improvement patches for PCSX2 emulator
+# PCSX2 Patches
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Downloads](https://img.shields.io/github/downloads/Gabominated/PCSX2/total)
 
-## Introduction
+## 📋 Table of Contents
+
+- [Introduction](#introduction)
+- [Installation and Usage](#installation-and-usage)
+- [Game Patches](#game-patches)
+
+## 🎮 Introduction
 
 PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patches that enhance the gaming experience, including patches to increase FPS, enable widescreen mode, and other improvements.
 
-## Installation and Usage
+## 🛠️ Installation and Usage
 
 1. Download the PCSX2 emulator from its [official site](https://pcsx2.net/).
 2. Download the patches from this repository.
 3. Place the `.pnach` files in the `cheats` folder of the PCSX2 directory.
-4. Launch PCSX2 and enable the patches option in the settings/Game Properties.
+4. Launch PCSX2 and enable the patches option in the settings/Game Properties. Ensure the cheats are activated before starting the game.
+
+## 📂 Game Patches
 
 > 
 | Game Title | Serial/Region | Observations |
@@ -27,12 +32,13 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Alarm for Cobra 11 Vol.2 - Hot Pursuit | [SLES-53360](PCSX2%20Patches/SLES-53360_12117804.pnach) |  |
 | Aliens Versus Predator - Extinction | [SLES-51792](PCSX2%20Patches/SLES-51792_64DA75B2.pnach) [SLUS-20147](PCSX2%20Patches/SLUS-20147_64DA78A3.pnach) |  |
 | Area 51 | [SLUS-20595](PCSX2%20Patches/SLUS-20595_B59EF006.pnach) | |
+| Army Men - Soldiers of Misfortune | [SLUS-21831](PCSX2%20Patches/SLUS-21831_4BB40113.pnach) | |
 | Autobahn Raser - Das Spiel zum Film | [SLES-52459](PCSX2%20Patches/SLES-52459_F2CC17D2.pnach) |  |
 | Autobahn Raser IV | [SLES-51009](PCSX2%20Patches/SLES-51009_284C6B75.pnach) |  |
 | Beach King Stunt Racer | [SLES-51383](PCSX2%20Patches/SLES-51383_5162BCCA.pnach) |  |
 | Ben Hur - Blood of Braves | [SLES-51350](PCSX2%20Patches/SLES-51350_E949C93F.pnach) |  |
 | Bigs, The | [SLUS-21623](PCSX2%20Patches/SLUS-21623_81FF8198.pnach) | |
-| Bigs, THE 2 | [SLUS-21860](PCSX2%20Patches/SLUS-21860_BC94F047.pnach) | |
+| Bigs 2, The | [SLUS-21860](PCSX2%20Patches/SLUS-21860_BC94F047.pnach) | |
 | Bionicle Heroes | [SLES-54150](PCSX2%20Patches/SLES-54150_85495C17.pnach) [SLUS-21428](PCSX2%20Patches/SLUS-21428_EB6C8519.pnach) |  |
 | Black | [SLES-53886](PCSX2%20Patches/SLES-53886_ADDFF505.pnach) [SLES-54030](PCSX2%20Patches/SLES-54030_CAA04879.pnach) [SLPM-66354](PCSX2%20Patches/SLPM-66354_B3A9F9ED.pnach) [SLUS-21376](PCSX2%20Patches/SLUS-21376_5C891FF1.pnach) |  |
 | Blade II | [SLES-51013](PCSX2%20Patches/SLES-51013_66CC8148.pnach) [SLUS-20360](PCSX2%20Patches/SLUS-20360_6D0E5F2D.pnach) |  |
@@ -69,15 +75,16 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Freestyle Metal X | [SLES-50720](PCSX2%20Patches/SLES-50720_C8AB1868.pnach) [SLUS-20494](PCSX2%20Patches/SLUS-20494_946C6967.pnach) |  |
 | Free Running | [SLES-54559](PCSX2%20Patches/SLES-54559_D6A0A3EF.pnach) |  |
 | G.I. Joe - The Rise of Cobra | [SLES-55537](PCSX2%20Patches/SLES-55537_724B94F6.pnach) [SLUS-21886](PCSX2%20Patches/SLUS-21886_4EC21458) |  |
-| Gauntlet - Seven Sorrows | [SLUS-21077](PCSX2%20Patches/SLUS-21077_A8C4C0A9.pnach) | |
-| George of the Jungle | [SLUS-21668](PCSX2%20Patches/SLUS-21668_028AAFC8.pnach)
+| Gauntlet - Seven Sorrows | [SLUS-21077](PCSX2%20Patches/SLUS-21077_A8C4C0A9.pnach) [SLES-53667](PCSX2%20Patches/SLES-53667_BBB8392E.pnach) | |
+| George of the Jungle | [SLUS-21668](PCSX2%20Patches/SLUS-21668_028AAFC8.pnach) | |
+| Ghosthunters | [SLUS-20993](PCSX2%20Patches/SLUS-20993_29C7DA54.pnach) | |
 | Gladiator - Sword of Vengeance | [SLES-51766](PCSX2%20Patches/SLES-51766_80EA26DA.pnach) [SLUS-20793](PCSX2%20Patches/SLUS-20793_C5DAD771.pnach) |  |
 | Go Kart Rally | [SLES-54726](PCSX2%20Patches/SLES-54726_95E80315.pnach) |  |
 | Godfather, The | [SLES-53971](PCSX2%20Patches/SLES-53971_9C593C78.pnach) | |
 | Godzilla - Unleashed | [SLUS-21707](PCSX2%20Patches/SLUS-21707_179470B4.pnach)
 | Golden Compass, The | [SLES-54996](PCSX2%20Patches/SLES-54996_73351A86.pnach) [SLES-55012](PCSX2%20Patches/SLES-55012_73351A86.pnach) [SLUS-21677](PCSX2%20Patches/SLUS-21677_E514BA51.pnach) | |
-| Ghosthunters | [SLUS-20993](PCSX2%20Patches/SLUS-20993_29C7DA54.pnach) | |
-| Grand Theft Auto - San Andreas | [SLES-52541](PCSX2%20Patches/SLES-52541_A1B3F232.pnach) | |
+| Grand Theft Auto - San Andreas | [SLES-52541](PCSX2%20Patches/SLES-52541_A1B3F232.pnach) [SLUS-20946](PCSX2%20Patches/SLUS-20946_2C6BE434.pnach) [SLPM-65984](PCSX2%20Patches/SLPM-65984_60FE139C.pnach) [SLUS-20946](PCSX2%20Patches/SLUS-20946_399A49CA.pnach) | |
+| GTC Africa | [SLPM-62258](PCSX2%20Patches/SLPM-62258_8AC3F5D6.pnach) [SLES-50472](PCSX2%20Patches/SLES-50472_51D8A6A9.pnach) | |
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) [SLUS-21020](PCSX2%20Patches/SLUS-21020_83C9749E.pnach) |  |
 | Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) |  |
 | Heatseeker | [SLES-54346](PCSX2%20Patches/SLES-54346_816CB6E8.pnach) [SLES-54596](PCSX2%20Patches/SLES-54596_8761B0E5.pnach) [SLUS-21570](PCSX2%20Patches/SLUS-21570_B96DD9F4.pnach) | |
