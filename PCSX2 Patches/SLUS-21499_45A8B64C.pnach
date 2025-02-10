@@ -1,0 +1,6 @@
+gametitle=Corvette Evolution GT NTSC-U SLUS-21499 45A8B64C
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,0027DA1C,word,8E220080 //8E220040
