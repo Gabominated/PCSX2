@@ -8,5 +8,5 @@ patch=1,EE,0034D6F0,word,24020002 //24020001
 [480p Mode]
 gsinterlacemode=1
 author=Gabominated
-description=SDTV 480p mode at start.
+description=SDTV 480p mode at start. Use Software renderer for FMVs to avoid shake at videos.
 patch=1,EE,00358940,word,1462000A //1062000A
