@@ -53,6 +53,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Cold Fear | [SLUS-21047](PCSX2%20Patches/SLUS-21047_ECFBAB36.pnach) | |
 | Conan | [SLES-52451](PCSX2%20Patches/SLES-52451_9A206BA3.pnach) |  |
 | Counter Terrorist Special Forces - Fire for Effect | [SLES-53046](PCSX2%20Patches/SLES-53046_EDE9DD5C.pnach) |  |
+| Corvette Evolution GT | [SLUS-21499](PCSX2%20Patches/SLUS-21499_45A8B64C.pnach) | |
 | Crazy Golf - World Tour | [SLES-53318](PCSX2%20Patches/SLES-53318_3EB41444.pnach) |  |
 | Crashed | [SLES-50843](PCSX2%20Patches/SLES-50843_0379B4F7.pnach) |  |
 | Curse - The Eye of Isis | [SLES-51934](PCSX2%20Patches/SLES-51934_7100A15F.pnach) |  |
