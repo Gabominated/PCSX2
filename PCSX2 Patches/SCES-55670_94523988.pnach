@@ -2,7 +2,7 @@ gametitle=Don 2 - The Game PAL-IN SCES-55670 94523988
 
 [50 FPS]
 author=Gabominated
-description=Might need EE Overclock.
+description=Still missing cam speed.
 patch=1,EE,001D9E9C,extended,24020001
 patch=1,EE,E0010001,extended,00473A90
 patch=1,EE,001D9E9C,extended,24020002
