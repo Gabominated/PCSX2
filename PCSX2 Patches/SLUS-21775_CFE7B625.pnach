@@ -1,0 +1,6 @@
+gametitle=Munmmy, The - Tomb of the Dragon Emperor SLUS-21775 CFE7B625
+
+[60 FPS]
+author=Gabominated
+comment=Might need EE Overclock.
+patch=1,EE,00180a34,word,2402003c //2402001e
