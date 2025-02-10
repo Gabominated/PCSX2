@@ -117,9 +117,11 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Mat Hoffman's Pro BMX 2 | [SLES-50870](PCSX2%20Patches/SLES-50870_DF5C06BE.pnach) [SLUS-20335](PCSX2%20Patches/SLUS-20335_A37C0344.pnach) |  |
 | Men in Black II - Alien Escape | [SLUS-20373](PCSX2%20Patches/SLUS-20373_69CF7BDF.pnach) | |
 | Mercenaries 2 - World in Flames | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) | |
+| Metal Slug 3D | [SLPS-25650](PCSX2%20Patches/SLPS-25650_7D8D8BFA.pnach) | |
 | Moto X Maniac | [SLES-54885](PCSX2%20Patches/SLES-54885_899557DF.pnach) |  |
 | Mr. Bean | [SLES-54666](PCSX2%20Patches/SLES-54666_EDCBBC68.pnach) |  |
-| Metal Slug 3D | [SLPS-25650](PCSX2%20Patches/SLPS-25650_7D8D8BFA.pnach) | |
+| Mummy, The - The Animated Series | [SLES-52835](PCSX2%20Patches/SLES-52835_40033F92.pnach) | |
+| Mummy, The - Tomb of the Dragon Emperor | [SLUS-21775](PCSX2%20Patches/SLUS-21775_CFE7B625.pnach) | |
 | MX 2002 featuring Ricky Carmichael | [SLES-50428](PCSX2%20Patches/SLES-50428_72BEA663.pnach) [SLUS-20072](PCSX2%20Patches/SLUS-20072_FBC3BC36.pnach) |  |
 | MX Rider | [SLES-50132](PCSX2%20Patches/SLES-50132_EB94A7B4.pnach) [SLUS-20234](PCSX2%20Patches/SLUS-20234_FE0E9B39.pnach) |  |
 | MX Superfly | [SLES-51038](PCSX2%20Patches/SLES-51038_9B23B5F1.pnach) [SLUS-20381](PCSX2%20Patches/SLUS-20381_0CD3C2F6.pnach) |  |
@@ -160,7 +162,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Sniper Elite | [SLUS-21231](PCSX2%20Patches/SLUS-21231_395779C5.pnach) | |
 | Snow Queen Quest, The | [SLES-54120](PCSX2%20Patches/SLES-54120_4618791D.pnach) | |
 | Snow Rider | [SLES-53936](PCSX2%20Patches/SLES-53936_95DDD361.pnach) |  |
-| Spider-Man - Friend or Foe | [SLES-54901](PCSX2%20Patches/SLES-54901_678BE0A5.pnach) [](PCSX2%20Patches/SLUS-21600_F52477F7.pnach) |  |
+| Spider-Man - Friend or Foe | [SLES-54901](PCSX2%20Patches/SLES-54901_678BE0A5.pnach) [SLUS-21600](PCSX2%20Patches/SLUS-21600_F52477F7.pnach) |  |
 | Star Trek Voyager - Elite Force | [SLES-50738](PCSX2%20Patches/SLES-50738_624F11F1.pnach) [SLUS-20227](PCSX2%20Patches/SLUS-20227_9F70EE4F.pnach) |  |
 | Star Wars - Battlefront 2 | [SLUS-21240](PCSX2%20Patches/SLUS-21240_249540F3.pnach) | |
 | Street Cricket Champions 2 | [SCES-55663](PCSX2%20Patches/SCES-55663_44755604.pnach) |  |
@@ -176,7 +178,6 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Tom Clancy's Rainbow Six - Lockdown | [SLUS-21144](PCSX2%20Patches/SLUS-21144_A80FBAAC.pnach) | |
 | Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) | |
 | TransWorld Surf | [SLUS-20356](PCSX2%20Patches/SLUS-20356_66B7B74E.pnach) [SLES-50886](PCSX2%20Patches/SLES-50886_1E4D0D98.pnach) | |
-| Mummy, The - The Animated Series | [SLES-52835](PCSX2%20Patches/SLES-52835_40033F92.pnach) | |
 | USA Racer | [SLES-50939](PCSX2%20Patches/SLES-50939_29DCD484.pnach) | |
 | Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) [SLPM-65723](PCSX2%20Patches/SLPM-65723_960D74D7.pnach) [SLUS-20738](PCSX2%20Patches/SLUS-20738_901ECEFC.pnach) | |
 | Warriors. The | [SLUS-21215](PCSX2%20Patches/SLUS-21215_B99A75DE.pnach) | |
