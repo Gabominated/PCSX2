@@ -3,6 +3,12 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Downloads](https://img.shields.io/github/downloads/Gabominated/PCSX2/total)
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Installation and Usage](#installation-and-usage)
+- [Game Patches](#game-patches)
+
 ## Introduction
 
 PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patches that enhance the gaming experience, including patches to increase FPS, enable widescreen mode, and other improvements.
@@ -12,8 +18,9 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 1. Download the PCSX2 emulator from its [official site](https://pcsx2.net/).
 2. Download the patches from this repository.
 3. Place the `.pnach` files in the `cheats` folder of the PCSX2 directory.
-4. Launch PCSX2 and enable the patches option in the settings/Game Properties.
+4. Launch PCSX2 and enable the patches option in the settings/Game Properties. Ensure the cheats are activated before starting the game.
 
+## Game Patches
 > 
 | Game Title | Serial/Region | Observations |
 | :---         |     :---:      |          ---: |
