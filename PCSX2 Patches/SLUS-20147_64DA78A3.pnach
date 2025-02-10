@@ -1,10 +1,5 @@
 gametitle=Aliens Versus Predator - Extinction NTSC-U SLUS-20147 64DA78A3
 
-[Widescreen 16:9]
-gsaspectratio=16:9
-description=Widescreen Hack
-patch=1,EE,0017fc74,word,3c023f40
-
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
