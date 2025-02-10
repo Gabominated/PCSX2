@@ -2,7 +2,7 @@ gametitle=Jumper - Griffin's Story NTSC-U SLUS-21730 E164CB28
 
 [60 FPS]
 author=Gabominated
-description=Might need EE Overclock.
+description=Still missing crosshair speed.
 patch=1,EE,201DB720,extended,2C420000
 patch=1,EE,E0010001,extended,0044BA34
 patch=1,EE,201DB720,extended,2C420001
