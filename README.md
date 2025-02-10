@@ -111,7 +111,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | King of Clubs | [SLES-54731](PCSX2%20Patches/SLES-54731_079140D6.pnach) |  |
 | Knights of the Temple II | [SLES-53645](PCSX2%20Patches/SLES-53645_9637D496.pnach) |  |
 | London Racer - Police Madness | [SLES-53536](PCSx2%20Patches/SLES-53536_84BFD6D4.pnach) |  |
-| London Racer World Challenge | [SLES-51580](PCSX2%20Patches/SLES-51580_F97680AA.pnach) |  |
+| London Racer - World Challenge | [SLES-51580](PCSX2%20Patches/SLES-51580_F97680AA.pnach) |  |
 | Lord of the Rings, The - Aragorn's Quest | [SLES-55574](PCSX2%20Patches/SLES-55574_58FCA3F8.pnach) [SLUS-21915](PCSX2%20Patches/SLUS-21915_40619A71.pnach) | |
 | Lord of the Ring, The - The Return of the King | [SLUS-20770](PCSX2%20Patches/SLUS-20770_4CE187F6.pnach) [SLES-52017](PCSX2%20Patches/SLES-52017_9771C478.pnach) | |
 | Magna Carta - Tears of Blood | [SLES-53483](PCSX2%20Patches/SLES-53483_49F78F24.pnach) [SLUS-21221](PCSX2%20Patches/SLUS-21221_C0AC5781.pnach) |  |
