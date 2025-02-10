@@ -1,0 +1,6 @@
+gametitle=Super PickUps NTSC-U SLUS-21450 D304FA88
+
+[60 FPS]
+author=Gabominated
+description=Semaphore still faster but is playable.
+patch=1,EE,0033833C,word,8E220080 //8E220040
