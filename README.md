@@ -169,6 +169,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Star Wars - Battlefront 2 | [SLUS-21240](PCSX2%20Patches/SLUS-21240_249540F3.pnach) | |
 | Street Cricket Champions 2 | [SCES-55663](PCSX2%20Patches/SCES-55663_44755604.pnach) |  |
 | Stuart Little 3 - Big Photo Adventure | [SLUS-21341](PCSX2%20Patches/SLUS-21341_4C7A8693.pnach) [SCES-53422](PCSX2%20Patches/SCES-53422_D1003514.pnach) | |
+| Super PickUps | [SLUS-21450](PCSX2%20Patches/SLUS-21450_D304FA88.pnach) | |
 | Supercar Street Challenge | [SLES-50419](PCSX2%20Patches/SLES-50419_833B70DB.pnach) [SLUS-20012](PCSX2%20Patches/SLUS-20012_6AEABF4E.pnach) |  |
 | Syberia | [SLES-51393](PCSX2%20Patches/SLES-51393_D1ACD489.pnach) |  |
 | Syphon Filter - The Omega Strain | [SCES-52033](PCSX2%20Patches/SCES-52033_27E54B37.pnach) [SCUS-97264](PCSX2%20Patches/SCUS-97264_D5605611.pnach) |  |
