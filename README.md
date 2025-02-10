@@ -174,7 +174,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Supercar Street Challenge | [SLES-50419](PCSX2%20Patches/SLES-50419_833B70DB.pnach) [SLUS-20012](PCSX2%20Patches/SLUS-20012_6AEABF4E.pnach) |  |
 | Syberia | [SLES-51393](PCSX2%20Patches/SLES-51393_D1ACD489.pnach) |  |
 | Syphon Filter - The Omega Strain | [SCES-52033](PCSX2%20Patches/SCES-52033_27E54B37.pnach) [SCUS-97264](PCSX2%20Patches/SCUS-97264_D5605611.pnach) |  |
-| Teenage Mutant Ninja Turtles - Smash-Up | [SLES-55565](PCSX2%20Patches/SLES-55565_CEBA108D.pnach) [SLUS-21904](PCSX2%20Patches/SLUS-21904_532D7041) | |
+| Teenage Mutant Ninja Turtles - Smash-Up | [SLES-55565](PCSX2%20Patches/SLES-55565_CEBA108D.pnach) [SLUS-21904](PCSX2%20Patches/SLUS-21904_532D7041.pnach) | |
 | Teenage Mutant Ninja Turtles 2 - Battle Nexus | [SLUS-20981](PCSX2%20Patches/SLUS-20981_EE628509.pnach) | |
 | Teenage Mutant Ninja Turtles 3 - Mutant Nightmare | [SLUS-21184](PCSX2%20Patches/SLUS-21184_DB42119C.pnach) | |
 | Teen Titans | [SLES-54430](PCSX2%20Patches/SLES-54430_E1F17139.pnach) [SLES-54431](PCSX2%20Patches/SLES-54431_E1F17139.pnach) | |
