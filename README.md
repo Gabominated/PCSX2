@@ -185,6 +185,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | White Van Racer | [SLES-54550](PCSX2%20Patches/SLES-54550_82DDC773.pnach) | |
 | World Destruction League - War Jets | [SLES-50262](PCSX2%20Patches/SLES-50262_60BCC078.pnach) [SLUS-20007](PCSX2%20Patches/SLUS-20007_70C924CC.pnach) | |
 | World Racing | [SLES-51387](PCSX2%20Patches/SLES-51387_E892412E.pnach) | |
+| World Racing 2 | [SLES-53646](PCSX2%20Patches/SLES-53646_2A4A9916.pnach)
 | World War Zero - IronStorm | [SLES-51924](PCSX2%20Patches/SLES-51924_B1C27A19.pnach) | |
 | Worms Forts - Under Siege | [SLES-52734](PCSX2%20Patches/SLES-52734_38C8967A.pnach) [SLUS-21093](PCSX2%20Patches/SLUS-21093_A99BACE1.pnach) | |
 | XGRA - Extreme G Racing Association | [SLUS-20632](PCSX2%20Patches/SLUS-20632_56B36513.pnach) | |
