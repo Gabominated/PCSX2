@@ -2,7 +2,7 @@ gametitle=Jumper - Griffin's Story PAL-M SLES-55129 08944D35
 
 [NTSC mode]
 author=Gabominated
-description=NTSC mode at 60 FPS. Might need EE Overclock.
+description=Still missing crosshair speed.
 patch=1,EE,004488d8,extended,00000003
 patch=1,EE,201DB748,extended,2C420000
 patch=1,EE,E0010001,extended,0044B934
