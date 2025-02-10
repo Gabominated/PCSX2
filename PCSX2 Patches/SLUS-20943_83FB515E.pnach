@@ -9,7 +9,6 @@ patch=1,EE,2067D740,extended,3F249244 //3F5B6DB6
 patch=1,EE,20799250,extended,3FE38E3A //3FAAAAA7
 patch=1,EE,20799254,extended,42C20000 //42920000
 patch=1,EE,207992E0,extended,00000002 //00000000
-patch=1,EE,20A178E4,extended,b3000000 //b3000000
 
 [60 FPS]
 author=Gabominated
