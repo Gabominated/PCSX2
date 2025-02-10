@@ -101,7 +101,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Ice Age 3 - Dawn of the Dinosaurs | [SLUS-21878](PCSX2%20Patches/SLUS-21878_3488C365.pnach) | |
 | IndyCar Series | [SLES-51397](PCSX2%20Patches/SLES-51397_949356AE.pnach) [SLUS-20641](PCSX2%20Patches/SLUS-20641_B36EE21E.pnach) |  |
 | Jacked | [SLES-53778](PCSX2%20Patches/SLES-53778_D7F36BB4.pnach) |  |
-| Jeep Thrills | [SLES-55275](PCSX2%20Patches/SLES-55275_A68EB83E.pnach) [SLES-55288](PCSX2%20Patches/SLES-55288_58026BD0.pnach) [SLUS-21760](PCSX2%20Patches/SLUS-21760_3DDBDB2C.pnach) | |
+| Jeep Thrills | [SLES-55275](PCSX2%20Patches/SLES-55275_A68EB83E.pnach) [SLUS-21760](PCSX2%20Patches/SLUS-21760_3DDBDB2C.pnach) | |
 | Jumper - Griffin's Story | [SLES-55129](PCSX2%20Patches/SLES-55129_08944D35.pnach) [SLUS-21730](PCSX2%20Patches/SLUS-21730_E164CB28.pnach) | |
 | Jurassic - The Hunted | [SLUS-21907](PCSX2%20Patches/SLUS-21907_EFE4448F.pnach) | |
 | Jurassic Park - Operation Genesis | [SLUS-20380](PCSX2%20Patches/SLUS-20380_A99B8FE7.pnach) | |
