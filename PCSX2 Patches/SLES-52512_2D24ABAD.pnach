@@ -2,6 +2,6 @@ gametitle=Headhunter - Redemption PAL-M SLES-52512 2D24ABAD
 
 [50 FPS]
 author=Gabominated
-description=Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
-patch=1,EE,2043a3c8,extended,00000001 //00000002 fps
-patch=1,EE,2059D1C4,extended,3ca3d70a //3d23d70a speed
+description=Might need EE Overclock.
+patch=1,EE,2043a3c8,extended,00000001 //00000002
+patch=1,EE,2059D1C4,extended,3ca3d70a //3d23d70a
