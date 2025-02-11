@@ -1,5 +1,5 @@
 # PCSX2 Patches
-![Visitas](https://shields.io/github/visitors/Gabominated/PCSX2)
+![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Gabominated/PCSX2&title=Visitas)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Downloads](https://img.shields.io/github/downloads/Gabominated/PCSX2/total)
 
