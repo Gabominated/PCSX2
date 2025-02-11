@@ -18,5 +18,4 @@ patch=1,EE,201c0d50,extended,3c013d08 //npc and doors
 patch=1,EE,201c0b5c,extended,3c013d08 //animation ambiente 2
 patch=1,EE,201c0e38,extended,3c013d08 //animation ambiente
 patch=1,EE,20198ab8,extended,3c013f80 //traverse 1
-patch=1,EE,2019B890,extended,3C013F06 //main character 
-
+patch=1,EE,2019B890,extended,3C013F06 //main character
