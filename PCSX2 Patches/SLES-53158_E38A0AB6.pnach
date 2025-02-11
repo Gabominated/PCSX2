@@ -2,7 +2,7 @@ gametitle=Cold Fear PAL-M SLES-53158 E38A0AB6
 
 [50/60 FPS]
 author=Gabominated
-description=Might need EE Overclock.
+description=Might need EE Overclock (130%).
 patch=1,EE,00254638,word,24020002 //24020001
 
 [NTSC Mode]
