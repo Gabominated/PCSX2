@@ -8,7 +8,6 @@ patch=1,EE,00254638,word,24020002 //24020001
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start.
-patch=1,EE,00163168,word,24060002 //24060003
 patch=1,EE,001449c8,word,240301c0 //24030200
 
 [480p Mode]
