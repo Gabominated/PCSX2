@@ -1,0 +1,46 @@
+gametitle=Cold Fear PAL-M SLES-53158 E38A0AB6
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,00254638,word,24020002 //24020001
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,00163168,word,24060002 //24060003
+patch=1,EE,001449c8,word,240301c0 //24030200
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=1,EE,0025FA24,word,10620005 //14620005
+patch=1,EE,001449c8,word,240301c0 //24030200
+
+[test]
+
+//patch=1,EE,00162ac0,word,240b0000 //240b0200
+//patch=1,EE,00163180,word,240701c0 //24070200
+//patch=1,EE,00163198,word,24060000 //24060200
+//patch=1,EE,00163174,word,240701c0 //24070200
+
+//patch=1,EE,0025FA40,word,240201c0 //24020200
+//patch=1,EE,0025fa44,word,240201c0 //24020200
+//patch=1,EE,0025fa80,word,240201c0 //24020200
+
+
+patch=1,EE,00163168,word,24060002 //24060003 video mode
+
+
+patch=1,EE,0025FA24,word,10620005 //14620005 480p
+
+//patch=1,EE,0025FA2C,word,252359D0 //25235950
+
+
+patch=1,EE,001449c8,word,240301c0 //24030200 ntsc
+
+//patch=1,EE,001554e0,word,240401c0 //24040200
+//patch=1,EE,00155e10,word,240401c0 //24040200
+//patch=1,EE,00155f00,word,240401c0 //24040200
+//patch=1,EE,00156bb0,word,240401c0 //24040200
+//patch=1,EE,00156c60,word,240401c0 //24040200
