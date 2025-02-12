@@ -1,0 +1,7 @@
+gametitle=Trigger Man NTSC-U SLUS-20931 AA73521B
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00115FBC,word,8F827A38 //8F8285C8
+patch=1,EE,001FC9D0,word,3C013F80 //3C014080
