@@ -70,7 +70,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Dora the Explorer - Dora Saves the Mermaids | [SLES-55112](PCSX2%20Patches/SLES-55112_4AF82486.pnach) [SLES-55288](PCSX2%20Patches/SLES-55288_58026BD0.pnach) [SLUS-21717](PCSX2%20Patches/SLUS-21717_3340FC2C.pnach) |  |
 | Dora the Explorer - Dora's Big Birthday Adventure | [SLUS-21944](PCSX2%20Patches/SLUS-21944_EAEDE6E8.pnach) | |
 | Downhill Slalom | [SLES-53963](PCSX2%20Patches/SLES-53963_8A1332C1.pnach) |  |
-| Echo Night Beyond/Nebula | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) | |
+| Echo Night Beyond / Nebula - Echo Night | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) | |
 | Fahrenheit / Indigo Prophecy | [SLES-53540](PCSX2%20Patches/SLES-53540_8191D10A.pnach) [SLUS-21196](PCSX2%20Patches/SLUS-21196_A7A37EB8.pnach) |  |
 | Fatal Frame II / Project Zero 2 - Crimson Butterfly | [SLES-52384](PCSX2%20Patches/SLES-52384_9D87F3AF.pnach) [SLUS-20766](PCSX2%20Patches/SLUS-20766_9A51B627.pnach) |  |
 | Firefighter F.D. 18 | [SLES-52096](PCSX2%20Patches/SLES-52096_4590ECC3.pnach) | |
