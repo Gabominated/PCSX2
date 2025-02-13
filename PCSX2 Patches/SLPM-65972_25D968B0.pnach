@@ -1,0 +1,6 @@
+gametitle=Constantine NTSC-J SLPM-65972 25D968B0
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,004BB330,word,00000000 //00000001
