@@ -3,4 +3,4 @@ gametitle=King of Clubs PAL-M SLES-54731 079140D6
 [50 FPS]
 author=Gabominated
 description=Might need EE Overclock (180%).
-patch=1,EE,002FEE90,word,00000000
+patch=1,EE,002FEE90,word,00000000 //0C0C04D8
