@@ -2,7 +2,7 @@ gametitle=Warriors, The NTSC-U SLUS-21215 B99A75DE
 
 [60 FPS BETA]
 author=Gabominated
-description=Press R2+Up to enable and press R2+Down to unable
+description=Press R2+Up to enable and press R2+Down to disable
 patch=1,EE,D05DE3C2,extended,FDBF
 patch=1,EE,2048BE28,extended,24020001
 patch=1,EE,E0020001,extended,0048BE28
