@@ -1,0 +1,15 @@
+gamettitle=Yakuza PAL-M SLES-54171 D3F182A3
+
+[50/60 FPS Beta]
+author=Gabominated
+description=Press R2+UP to enable and press R2+DOWN to unable.
+patch=1,EE,D1F5699C,extended,FDEF
+patch=1,EE,201102E8,extended,00000000
+patch=1,EE,E0020000,extended,001102E8
+patch=1,EE,207FF41C,extended,3F000000
+patch=1,EE,207FF418,extended,3F000000
+patch=1,EE,D1F5699C,extended,FDBF
+patch=1,EE,201102E8,extended,1040000A
+patch=1,EE,E002000A,extended,001102E8
+patch=1,EE,207FF41C,extended,3F800000
+patch=1,EE,207FF418,extended,3F800000
