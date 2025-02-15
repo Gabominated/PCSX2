@@ -1,0 +1,8 @@
+gametitle=Curious George PAL-M SLES-54364 5415FA68
+
+[NTSC Mode/60 FPS]
+author=Gabominated
+description=NTSC mode at 60 FPS. Might need EE Overclock.
+patch=1,EE,00214418,word,00000000 //0C0A3A38
+patch=1,EE,001390CC,word,2403003C //2403001E
+patch=1,EE,0039c9e4,word,00000003 //00000001
