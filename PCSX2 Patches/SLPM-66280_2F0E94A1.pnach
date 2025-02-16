@@ -63,9 +63,3 @@ patch=1,EE,105D8270,word,00015f90 //00015f90 //0002BF20
 author=Gabominated
 description=infinite money toggle on by Gabominated
 patch=1,EE,005D4AC0,word,0098967F
- 
-
-
-
-
-
