@@ -1,0 +1,62 @@
+gametitle=Legacy of Kain - Soul Reaver 2 NTSC-U SLUS-20165 1771BFE4 v1.01
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated & pelvicthrustman
+description=Widescreen Hack
+patch=1,EE,001705FC,word,3C013F60 //3C013F95
+patch=1,EE,00170600,word,00000000 //34215556
+patch=1,EE,00170638,word,00000000 //1443000B
+patch=1,EE,0023E918,word,43c00000 //44000000 FOV
+patch=1,EE,00112DCC,word,3C013F40 //3C013F10 render fix
+patch=1,EE,0023E920,word,00000001 //00000000 debug ws mode
+
+[remove black bars]
+author=pelvicthrustman
+description=Remove black bars in cutscenes. 
+patch=1,EE,0013db5c,word,3C01BF80 //3C01BF40 
+patch=1,EE,0013db64,word,3c013f80 //3C013F40
+
+
+[L3 For Debug Menu/R3 To Exit Menu]
+patch=1,EE,E001FFFD,extended,0026CAC0
+patch=1,EE,1023BBA6,extended,00000004
+patch=1,EE,E002FFFB,extended,0026CAC0
+patch=1,EE,1023BBA6,extended,00000000
+patch=1,EE,0026D0B5,extended,00000006
+
+[test]
+//patch=1,EE,00200B9C,word,3c050000
+//patch=1,EE,00200BA4,word,3c060052
+//patch=1,EE,00200BAC,word,3c070001
+
+patch=1,EE,001d3bf8,word,24057544 //Y-Position //FMV Fix
+patch=1,EE,001d3c10,word,240A1580 //Y-scaling 
+
+//patch=1,EE,002E7E30,word,45000000 //45000000
+
+//patch=1,EE,002E7E48,word,4D800DD6 //4D800DD6 render
+
+//patch=1,EE,002E7E38,word,C5DD77B9 //C5DD77B9
+//patch=1,EE,00170F40,word,3C013F80 //3C013F80 y-fov
+patch=1,EE,00170d90,word,3c013f80 //3c013f80 x-fov
+//patch=1,EE,0011b950,word,3c013F80 //3c013f80 //zoom
+//patch=1,EE,00170e68,word,3c013f80 //3c013f80 zoom
+
+//patch=1,EE,00170d94,word,44811000 //44811000
+
+
+//patch=1,EE,00170d88,word,4600a306 // 4600a306 461ea302
+
+//patch=1,EE,00170d80,word,46000546 // 46000546
+
+
+
+
+patch=1,EE,001705FC,word,3C013F60 //3C013F95
+patch=1,EE,00170600,word,00000000 //34215556
+patch=1,EE,00112DCC,word,3C013F40 //3C013F10 render fix
+patch=1,EE,00170638,word,00000000 //1443000B
+patch=1,EE,0023E918,word,43c00000 //44000000 zoom
+patch=1,EE,0023E920,word,00000001 //00000000 debug ws mode
+//patch=1,EE,001a8a04,word,240601c0 //24060200 res

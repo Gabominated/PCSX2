@@ -1,0 +1,31 @@
+gametitle=Legacy of Kain - Soul Reaver 2 NTSC-U SLUS-20165 230CB71D v2.00
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Widescreen Hack
+patch=1,EE,00170BFC,word,3C013F60 //3C013F95
+patch=1,EE,00170C00,word,00000000 //34215556
+patch=1,EE,00170C38,word,00000000 //1443000B
+patch=1,EE,0023F418,word,43c00000 //44000000 FOV
+patch=1,EE,0011328C,word,3C013F40 //3C013F10 render fix
+patch=1,EE,0023F420,word,00000001 //00000000 debug ws mode
+
+[remove black bars]
+author=Gabominated
+description=Remove black bars in cutscenes. 
+patch=1,EE,0013E144,word,3C01BF80 //3C01BF40
+patch=1,EE,0013E14C,word,3c013f80 //3C013F40
+
+[Widescreen 4:3]
+gsaspectratio=4:3
+author=Gabominated & pelvicthrustman
+description=Widescreen Hack
+patch=1,EE,00170BFC,word,3C013F95
+patch=1,EE,00170C00,word,34215556
+patch=1,EE,00170C38,word,1443000B
+patch=1,EE,0023F418,word,44000000 //FOV
+patch=1,EE,0011328C,word,3C013F10 //render fix
+patch=1,EE,0023F420,word,00000000 //debug ws mode
+patch=1,EE,0013E144,word,3C01BF40 //black border in cutscenes 
+patch=1,EE,0013E14C,word,3C013F40
