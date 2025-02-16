@@ -23,23 +23,3 @@ patch=1,EE,005906F8,word,3C034000 //run in town
 patch=1,EE,0058DF94,word,3C024000 //walk in town
 patch=1,EE,0053D8D0,word,3C024000 //npc monsters speed in quest
 patch=1,EE,001DF858,word,240303B6 //cam speed
-
-[timer]
-patch=1,EE,201E9F3C,extended,00641823 //00641823 // timer reset
-patch=1,EE,E03AEA70,word,00015F90 //00015F90 timer
-patch=1,EE,E03AEA70,word,00015F90 //00015F90 timer 2
-
-[stop IA]
-patch=1,EE,2053D938,extended,0C045A40
-
-[Infinite Health by Codejunkies]
-patch=1,EE,20129B04,extended,24030064
-patch=1,EE,20129B08,extended,A6830302
-
-[Infinite Sprint by Codejunkies]
-patch=1,EE,2052269C,extended,240400E1
-patch=1,EE,205226A0,extended,A6040882
-
-[Psychoserum]
-patch=1,EE,003CCA20,word,00000128
-
