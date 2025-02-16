@@ -1,0 +1,71 @@
+gametitle=Monster Hunter 2 NTSC-J SLPM-66280 2F0E94A1
+
+[60 FPS BETA]
+author=Gabominated
+description=Might need EE overclock.
+patch=1,EE,00218CC4,word,00000000 //00000001 fps
+patch=1,EE,003ABAEC,word,3c023f80 //3c024000 speed 2 quest
+patch=1,EE,0039C1F8,word,3c023f80 //3c024000 speed 1 quest
+patch=1,EE,00714DC0,word,3c023fa0 //3c024020 run in quest
+patch=1,EE,00715874,word,3c023f4C //3c023fCC climb up in quest
+patch=1,EE,00715A94,word,3c023f4C //3c023fCC climb down in quest
+patch=1,EE,00715888,word,3C023fa0 //3c024020 climb up booster
+patch=1,EE,00715AA8,word,3C023fa6 //3c024026 climb down booster
+patch=1,EE,0039C1D0,word,3C023f80 //3c024000 gathering
+patch=1,EE,0077DF50,word,3c023f80 //3c024000 npc in town
+patch=1,EE,00794E84,word,3c023f80 //3c024000 walk in town
+patch=1,EE,00797CA8,word,3C033fa0 //3C034020 run in town
+patch=1,EE,00905604,word,3C023f80 //3c024000 npc in quest
+patch=1,EE,0031AED4,word,2403023F //2403047E cam speed
+
+[30 FPS]
+patch=1,EE,00218CC4,word,00000001 //fps
+patch=1,EE,003ABAEC,word,3c024000 //speed 2 quest
+patch=1,EE,0039C1F8,word,3c024000 //speed 1 quest
+patch=1,EE,00714DC0,word,3c024020 //run in quest
+patch=1,EE,00715874,word,3c023fCC //climb up
+patch=1,EE,00715A94,word,3c023fCC //climb down
+patch=1,EE,00715888,word,3c024020 //climb up booster
+patch=1,EE,00715AA8,word,3c024026 //climb down booster
+patch=1,EE,0039C1D0,word,3c024000 //gathering
+patch=1,EE,0077DF50,word,3c024000 //npc in town
+patch=1,EE,00794E84,word,3c024000 //walk in town
+patch=1,EE,00797CA8,word,3C034020 //run in town
+patch=1,EE,00905604,word,3c024000 //npc in quest
+patch=1,EE,0031AED4,word,2403047E //cam speed
+
+[Max & infinite health]
+author=Gabominated
+description=Max & infinite health toggle on by Gabominated 
+patch=1,EE,005F90AC,word,00960096 //00780078 //max health
+patch=1,EE,005F8C90,word,00960002 //00780002 //main health
+//patch=1,EE,005B396C,word,00960096 //00780078 //health
+
+[infinite stamina]
+author=Gabominated
+description=infinite stamina toggle on by Gabominated
+patch=1,EE,005F9064,word,000001C2 // stamina
+patch=1,EE,001BA048,word,01C20000
+patch=1,EE,005F91A8,word,01C20000 //stamina never decrease
+
+[Pychoserum]
+author=Gabominated
+description=show monster location on map by Gabominated
+patch=1,EE,005F925C,word,00000126 //00000000 //Pychoserum
+
+[stop timer]
+author=Gabominated
+description=stop timer toggle on by Gabominated
+//patch=1,EE,E05B3964,word,0002BF20 //00015f90
+patch=1,EE,105D8270,word,00015f90 //00015f90 //0002BF20
+
+[infinite money]
+author=Gabominated
+description=infinite money toggle on by Gabominated
+patch=1,EE,005D4AC0,word,0098967F
+ 
+
+
+
+
+
