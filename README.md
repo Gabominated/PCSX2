@@ -114,6 +114,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | King Arthur | [SLUS-21046](PCSX2%20Patches/SLUS-21046_4F3B0BA7.pnach) | |
 | King of Clubs | [SLES-54731](PCSX2%20Patches/SLES-54731_079140D6.pnach) |  |
 | Knights of the Temple II | [SLES-53645](PCSX2%20Patches/SLES-53645_9637D496.pnach) |  |
+| Legacy of Kain - Soul Reaver 2 | [SLUS-20165 v1.01](PCSX2%20Patches/SLUS-20165_1771BFE4.pnach) [SLUS-20165 v2.00](PCSX2%20Patches/SLUS-20165_230CB71D.pnach) | |
 | London Racer - Police Madness | [SLES-53536](PCSx2%20Patches/SLES-53536_84BFD6D4.pnach) |  |
 | London Racer - World Challenge | [SLES-51580](PCSX2%20Patches/SLES-51580_F97680AA.pnach) |  |
 | Lord of the Rings, The - Aragorn's Quest | [SLES-55574](PCSX2%20Patches/SLES-55574_58FCA3F8.pnach) [SLUS-21915](PCSX2%20Patches/SLUS-21915_40619A71.pnach) | |
