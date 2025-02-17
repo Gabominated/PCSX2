@@ -35,6 +35,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Army Men - Soldiers of Misfortune | [SLUS-21831](PCSX2%20Patches/SLUS-21831_4BB40113.pnach) | |
 | Autobahn Raser - Das Spiel zum Film | [SLES-52459](PCSX2%20Patches/SLES-52459_F2CC17D2.pnach) |  |
 | Autobahn Raser IV | [SLES-51009](PCSX2%20Patches/SLES-51009_284C6B75.pnach) |  |
+| Batman - Vengeance | [SLUS-20226](PCSX2%20Patches/SLUS-20226_5BD38469.pnach) | |
 | Beach King Stunt Racer | [SLES-51383](PCSX2%20Patches/SLES-51383_5162BCCA.pnach) |  |
 | Ben Hur - Blood of Braves | [SLES-51350](PCSX2%20Patches/SLES-51350_E949C93F.pnach) |  |
 | Bigs, The | [SLUS-21623](PCSX2%20Patches/SLUS-21623_81FF8198.pnach) | |
