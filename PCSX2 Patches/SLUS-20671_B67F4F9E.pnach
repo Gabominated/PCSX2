@@ -1,6 +1,0 @@
-gametitle=Mafia NTSC-U SLUS-20671 B67F4F9E
-
-[60 FPS]
-author=Gabominated
-description=Might need EE Overclock (180-300%).
-patch=1,EE,0046F914,word,0041082B //0052082B
