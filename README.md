@@ -123,6 +123,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Mat Hoffman's Pro BMX 2 | [SLES-50870](PCSX2%20Patches/SLES-50870_DF5C06BE.pnach) [SLUS-20335](PCSX2%20Patches/SLUS-20335_A37C0344.pnach) |  |
 | Men in Black II - Alien Escape | [SLUS-20373](PCSX2%20Patches/SLUS-20373_69CF7BDF.pnach) | |
 | Mercenaries 2 - World in Flames | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) [SLES-54997](PCSX2%20Patches/SLES-54997_A97B93F7.pnach) [SLES-55001](PCSX2%20Patches/SLES-55001_A97C9BFD.pnach) | |
+| Mercenaries - Playground of Destruction | [SLES-53008](PCSX2%20Patches/SLES-53008_CBA0623D.pnach) [SLUS-20932](PCSX2%20Patches/SLUS-20932_23510F99.pnach) | |
 | Metal Slug 3D | [SLPS-25650](PCSX2%20Patches/SLPS-25650_7D8D8BFA.pnach) | |
 | Monster Hunter | [SLES-52707](PCSX2%20Patches/SLES-52707_6E8BAF03.pnach) | |
 | Monster Hunter 2 | [SLPM-66280](PCSX2%20Patches/SLPM-66280_2F0E94A1.pnach) | |
