@@ -175,7 +175,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Snow Rider | [SLES-53936](PCSX2%20Patches/SLES-53936_95DDD361.pnach) |  |
 | Spider-Man - Friend or Foe | [SLES-54901](PCSX2%20Patches/SLES-54901_678BE0A5.pnach) [SLUS-21600](PCSX2%20Patches/SLUS-21600_F52477F7.pnach) |  |
 | Star Trek Voyager - Elite Force | [SLES-50738](PCSX2%20Patches/SLES-50738_624F11F1.pnach) [SLUS-20227](PCSX2%20Patches/SLUS-20227_9F70EE4F.pnach) |  |
-| Star Wars - Battlefront 2 | [SLUS-21240](PCSX2%20Patches/SLUS-21240_249540F3.pnach) | |
+| Star Wars - Battlefront 2 | [SLUS-21240](PCSX2%20Patches/SLUS-21240_249540F3.pnach) [SLES-53501](PCSX2%20Patches/SLES-53501_B68D35CA.pnach) | |
+| Star Wars - Battlefront | [SLES-52545](PCSX2%20Patches/SLES-52545_503BF9E1.pnach) [SLUS-20898](PCSX2%20Patches/SLUS-20898_503BF9E1.pnach) | |
 | Street Cricket Champions 2 | [SCES-55663](PCSX2%20Patches/SCES-55663_44755604.pnach) |  |
 | Stuart Little 3 - Big Photo Adventure | [SLUS-21341](PCSX2%20Patches/SLUS-21341_4C7A8693.pnach) [SCES-53422](PCSX2%20Patches/SCES-53422_D1003514.pnach) | |
 | Super PickUps | [SLUS-21450](PCSX2%20Patches/SLUS-21450_D304FA88.pnach) | |
