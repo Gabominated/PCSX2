@@ -1,0 +1,6 @@
+gametitle=Mercenaries 2 - World in Flames PAL-S SLES-55001 A97C9BFD
+
+[Remove Blur/Bloom]
+author=Gabominated
+description=Removes the post-processing blur/bloom effect
+patch=1,EE,00556A1C,word,00000000
