@@ -3,6 +3,11 @@ gametitle=Star Wars - Battlefront 2 NTSC-U SLUS-21240 02F4B541 Secundary CRC 249
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,20602c9c,extended,00000001 //00000002
-patch=1,EE,E0010001,extended,00744514 //condition at FMVs
+patch=1,EE,20602c9c,extended,00000001
+patch=1,EE,E0010200,extended,015A79B8
 patch=1,EE,20602c9c,extended,00000002
+
+[Remove Blur/Bloom]
+author=Gabominated
+description=Removes the post-processing blur/bloom effect
+patch=1,EE,0060E420,word,00000000
