@@ -1,0 +1,6 @@
+gametitle=Star Wars - Battlefront II PAL-M SLES-53501 02F4B541 secundary crc B68D35CA
+
+[Remove Blur/Bloom]
+author=Gabominated
+description=Removes the post-processing blur/bloom effect
+patch=1,EE,0060E4A0,word,00000000
