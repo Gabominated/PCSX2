@@ -1,0 +1,6 @@
+gametitle=The Fairly OddParents - Shadow Showdown NTSC-U SLUS-20880 CC955736
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,004D1818,word,00000000 //00000001
