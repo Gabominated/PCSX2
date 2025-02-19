@@ -1,0 +1,6 @@
+gametitle=Silent Hill 2 NTSC-U SLUS_20228 FE06A030
+
+[Disable Noise Effect]
+author=Gabominated
+description=Disable noise effect in gameplay.
+patch=1,EE,001A71DC,word,00000000 //0C063BC4
