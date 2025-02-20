@@ -1,0 +1,6 @@
+gametitle=The Matrix - Path of Neo NTSC-U SLUS-21273 8BE5DFF3
+
+[Remove Blur/Bloom]
+author=Gabominated
+description=Removes the post-processing blur/bloom effect.
+patch=1,EE,0044F3E8,word,00000000 //00000001
