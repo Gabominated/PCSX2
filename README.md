@@ -123,6 +123,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Lord of the Ring, The - The Return of the King | [SLUS-20770](PCSX2%20Patches/SLUS-20770_4CE187F6.pnach) [SLES-52017](PCSX2%20Patches/SLES-52017_9771C478.pnach) | |
 | Magna Carta - Tears of Blood | [SLES-53483](PCSX2%20Patches/SLES-53483_49F78F24.pnach) [SLUS-21221](PCSX2%20Patches/SLUS-21221_C0AC5781.pnach) |  |
 | Mat Hoffman's Pro BMX 2 | [SLES-50870](PCSX2%20Patches/SLES-50870_DF5C06BE.pnach) [SLUS-20335](PCSX2%20Patches/SLUS-20335_A37C0344.pnach) |  |
+| Matrix, The - Path of Neo | [](PCSX2%20Patches/SLUS-21273_8BE5DFF3.pnach) | |
 | Men in Black II - Alien Escape | [SLUS-20373](PCSX2%20Patches/SLUS-20373_69CF7BDF.pnach) | |
 | Mercenaries 2 - World in Flames | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) [SLES-54997](PCSX2%20Patches/SLES-54997_A97B93F7.pnach) [SLES-55001](PCSX2%20Patches/SLES-55001_A97C9BFD.pnach) | |
 | Mercenaries - Playground of Destruction | [SLES-53008](PCSX2%20Patches/SLES-53008_CBA0623D.pnach) [SLUS-20932](PCSX2%20Patches/SLUS-20932_23510F99.pnach) | |
