@@ -25,6 +25,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 > 
 | Game Title | Serial/Region | Observations |
 | :---         |     :---:      |          ---: |
+| 007 - Everything or Nothing | [SLUS-20751](PCSX2%20Patches/SLUS-20751_6848699B.pnach) | |
 | 007 - Quantum of Solace  | [SLES-55345](PCSX2%20Patches/SLES-55345_B43AC68E.pnach) |       |
 | 7 Blades | [SLES-50109](PCSX2%20Patches/SLES-50109_97AE372A.pnach) |  |
 | 7 Sins | [SLES-53280](PCSX2%20Patches/SLES-53280_52DEB87B.pnach) |  |
