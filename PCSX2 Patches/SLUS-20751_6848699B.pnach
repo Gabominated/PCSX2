@@ -1,0 +1,13 @@
+gametitle=007 - Everything or Nothing
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,0032F700,word,00000000
+
+0032F700 fps
+0032F6D8 fps
+0032F6F8
+
+00125E60 debug screen
+003891d4 fps***
