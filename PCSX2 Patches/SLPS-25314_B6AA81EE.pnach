@@ -10,3 +10,10 @@ author=Gabominated
 description=Remove flashlight shadows to increase performance.
 patch=1,EE,001441f4,word,3c020000
 
+[Disable Flicker Filter]
+author=Gabominated
+description=Disable Blurry FLicker Filter.
+patch=1,EE,002835E8,word,00000000
+patch=1,EE,002835F0,word,00000000
+patch=1,EE,002835F8,word,00000000
+patch=1,EE,00283600,word,00000000
