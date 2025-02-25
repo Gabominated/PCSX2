@@ -1,0 +1,11 @@
+gametitle=Call of Duty - World at War - Final Fronts NTSC-U SLUS-21746 BFF3DBCB
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%)
+patch=1,EE,0014B398,word,47FFFFF9 //4501FFF9
+
+[Disable Blur/Bloom Effect]
+author=Gabominated
+description=Disable post-processing blur/bloom effect.
+patch=1,EE,0058314C,word,00010101
