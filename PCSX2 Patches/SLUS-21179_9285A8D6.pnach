@@ -1,0 +1,6 @@
+gametitle=Colosseum - Road to Freedom NTSC-U SLUS-21179 9285A8D6
+
+[Disable Blur/Bloom effect]
+author=Gabominated
+description=Disable post-processing blur/bloom effect.
+patch=1,EE,00599D08,word,00000000
