@@ -4,3 +4,8 @@ gametitle=Castleween PAL-M SLES-51249 EE3BCA71
 author=Gabominated
 description=Might need EE Overclock (130%).
 patch=1,EE,00217344,word,3C030000 //3C030001
+
+[Disable Blur/Bloom Effect]
+author=Gabominated
+description=Disable post-processing blur/bloom effect.
+patch=1,EE,0049B5C8,word,00000000 //00080040
