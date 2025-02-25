@@ -44,7 +44,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Black | [SLES-53886](PCSX2%20Patches/SLES-53886_ADDFF505.pnach) [SLES-54030](PCSX2%20Patches/SLES-54030_CAA04879.pnach) [SLPM-66354](PCSX2%20Patches/SLPM-66354_B3A9F9ED.pnach) [SLUS-21376](PCSX2%20Patches/SLUS-21376_5C891FF1.pnach) |  |
 | Blade II | [SLES-51013](PCSX2%20Patches/SLES-51013_66CC8148.pnach) [SLUS-20360](PCSX2%20Patches/SLUS-20360_6D0E5F2D.pnach) |  |
 | Blood Will Tell | [SLUS-20782](PCSX2%20Patches/SLUS-20782_89954774.pnach) | |
-| Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) |  |
+| Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) |  |
 | Call of Duty 3 | [SLUS-21426](PCSX2%20Patches/SLUS-21426_5E843024)
 | Bully / Canis Canem Edit | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
 | Castleween | [SLES-51249](PCSX2%20Patches/SLES-51249_EE3BCA71.pnach) |  |
