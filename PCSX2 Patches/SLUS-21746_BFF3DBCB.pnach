@@ -8,4 +8,4 @@ patch=1,EE,0014B398,word,47FFFFF9 //4501FFF9
 [Disable Blur/Bloom Effect]
 author=Gabominated
 description=Disable post-processing blur/bloom effect.
-patch=1,EE,0058314C,word,00010101
+patch=1,EE,0058314C,word,00000000
