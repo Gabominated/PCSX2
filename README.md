@@ -52,6 +52,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Circus Maximus - Chariot Wars | [SLES-50935](PCSX2%20Patches/SLES-50935_8E0C5071.pnach) |  |
 | Clock Tower 3 | [SLES-51619](PCSX2%20Patches/SLES-51619_D9FC6310.pnach) |  |
 | Cold Fear | [SLUS-21047](PCSX2%20Patches/SLUS-21047_ECFBAB36.pnach) [SLES-53158](PCSX2%20Patches/SLES-53158_E38A0AB6.pnach) | |
+| Colosseum - Road to Freedom | [SLUS-21179](PCSX2%20Patches/SLUS-21179_9285A8D6.pnach) | |
 | Conan | [SLES-52451](PCSX2%20Patches/SLES-52451_9A206BA3.pnach) |  |
 | Constantine | [SLPM-65972](PCSX2%20Patches/SLPM-65972_25D968B0.pnach) | |
 | Counter Terrorist Special Forces - Fire for Effect | [SLES-53046](PCSX2%20Patches/SLES-53046_EDE9DD5C.pnach) |  |
