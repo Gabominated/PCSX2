@@ -1,0 +1,6 @@
+gametitle=God of War NTSC-U SCUS-97399 D6385328
+
+[Disable Blur Effect]
+author=Gabominated
+description=Disable post-processing blur effect.
+patch=1,EE,0029CC98,word,00000000
