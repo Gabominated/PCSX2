@@ -1,0 +1,16 @@
+gametitle=Prince of Persia - Warrior Within NTSC-U SLUS_21022 6b17b39f
+
+[60fps]
+patch=1,EE,207b7f6c,extended,00000001
+
+[Infinite Health]
+patch=1,EE,202173FC,extended,24030176
+patch=1,EE,20217404,extended,AE0301F4
+
+[Disable Blur/Bloom]
+author=Gabominated
+description=Disable post-processing blur/bloom effect.
+patch=1,EE,008206A8,word,00010000
+
+
+
