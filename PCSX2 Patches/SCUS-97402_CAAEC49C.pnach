@@ -1,8 +1,8 @@
 gametitle=Killzone NTSC-U SCUS-97402 CAAEC49C
 
-[Disable Noise Effect]
+[Disable Noise Filter]
 author=Gabominated
-description=Disable noise effect in gameplay.
+description=Disable noise filter in gameplay.
 patch=1,EE,0055DF6C,extended,000000FF
 patch=1,EE,E0010004,extended,0057BA88
 patch=1,EE,0055DF6C,extended,00000000
