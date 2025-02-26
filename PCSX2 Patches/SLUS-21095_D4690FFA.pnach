@@ -1,0 +1,6 @@
+gametitle=DT Racer NTSC-U SLUS-21095 D4690FFA
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,00100574,word,47FFFFDA //4501FFDA
