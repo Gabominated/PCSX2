@@ -1,0 +1,26 @@
+gametitle=Mortal Kombat - Shaolin Monks SLUS-21087 455DD546
+
+[Disable Blur/Bloom Effect]
+author=Gabominated
+description=Disable post-processing blur/bloom effect.
+patch=1,EE,004F4B68,word,00000000
+
+[No-interlacing]
+//gsinterlacemode=1
+author=Gabominated
+description=Force progressive scan 480p mode.
+patch=1,EE,00383384,extended,3c050000
+patch=1,EE,002060DC,extended,3c060001
+patch=1,EE,002060E4,extended,3c070001
+patch=1,EE,00206100,extended,14820031 //10820031
+
+//patch=1,EE,002060f8,word,24120050 //00069403
+//patch=1,EE,0022bd58,word,24120050 //00069403
+//patch=1,EE,0029704c,word,24120050 //00069403
+//patch=1,EE,002a51c8,word,24120050 //00069403
+//patch=1,EE,00383388,word,24120050 //00069403 //
+//patch=1,EE,00383ea4,word,24120050 //00069403
+//patch=1,EE,003840bc,word,24120050 //00069403
+
+
+004F4B68 bloom
