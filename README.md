@@ -154,6 +154,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Power Rangers - Dino Thunder | [SLES-52886](PCSX2%20Patches/SLES-52886_381F8A7B.pnach) [SLUS-20944](PCSX2%20Patches/SLUS-20944_024BF3B4.pnach) |  |
 | Predator - Concrete Jungle | [SLES-53091](PCSX2%20Patches/SLES-53091_AD18AE4F.pnach) |  |
 | Primal | [SCES-51135](PCSX2%20Patches/SCES-51135_DCC4EEEA.pnach) |  |
+| Prince of Persia - The Two Thrones | [SLUS-21287](PCSX2%20Patches/SLUS-21287_84F3309D.pnach) | |
 | Prince of Persia - Warrior Within | [SLUS-21022](PCSX2%20Patches/SLUS-21022_6b17b39f.pnach) | |
 | Prisoner of War | [SLES-50397](PCSX2%20Patches/SLES-50397_61F79C5A.pnach)
 | Pro Biker 2 | [SLES-54888](PCSX2%20Patches/SLES-54888_CD13C390.pnach) |  |
