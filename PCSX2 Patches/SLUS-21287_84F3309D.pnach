@@ -3,4 +3,4 @@ gametitle=Prince of Persia - The Two Thrones NTSC-U SLUS-21287 84F3309D
 [Disable Blur/Bloom Effect]
 author=Gabominated
 description=Disable post-processing blur/bloom effect
-patch=1,EE,00AFA728,word,00010000 //00000000
+patch=1,EE,00AFA728,word,01010101 //00000000
