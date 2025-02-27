@@ -12,7 +12,7 @@ author=asasega & Gabominated
 description=Might need EE Overclock.
 patch=1,EE,002d4c04,word,2c620000 //0062102B
 
-[Remove Blur/Bloom]
+[Disable Blur/Bloom]
 author=Gabominated
-description=Removes the post-processing blur/bloom effect.
+description=disable post-processing blur/bloom effect.
 patch=1,EE,004E97C8,word,00000000 //00000018
