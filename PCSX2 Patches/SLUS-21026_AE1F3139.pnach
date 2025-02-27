@@ -4,3 +4,8 @@ gametitle=Battlefield 2 - Modern Combat NTSC-U SLUS-21026 AE1F3139
 author=Gabominated
 description=Disable post-processing blur effect.
 patch=1,EE,00225010,word,0000B82B //00E0B82D
+
+[Disable Bloom]
+author=Gabominated
+description=Disable post-processing bloom effect.
+patch=1,EE,0022507C,word,AFA40140 //AFA50140
