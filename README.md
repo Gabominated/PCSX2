@@ -47,7 +47,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Blood Will Tell | [SLUS-20782](PCSX2%20Patches/SLUS-20782_89954774.pnach) | |
 | Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) |  |
 | Call of Duty 3 | [SLUS-21426](PCSX2%20Patches/SLUS-21426_5E843024) | |
-| Bully / Canis Canem Edit | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
+| Canis Canem Edit / Bully | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
 | Castleween | [SLES-51249](PCSX2%20Patches/SLES-51249_EE3BCA71.pnach) |  |
 | Chandragupta - Warrior Prince | [SCES-55662](PCSX2%20Patches/SCES-55662_DB2EE959.pnach) |  |
 | Circus Maximus - Chariot Wars | [SLES-50935](PCSX2%20Patches/SLES-50935_8E0C5071.pnach) |  |
