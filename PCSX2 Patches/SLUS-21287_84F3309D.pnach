@@ -1,0 +1,19 @@
+gametitle=Prince of Persia - The Two Thrones 
+
+[60fps]
+patch=1,EE,00A908F8,word,00000001 //00000002
+
+[Disable Blur/Bloom Effect]
+author=fobes
+description=Disable the post-processing blur/bloom effect
+patch=1,EE,00AFA728,word,00010000 //00000000
+
+[Remove Blur/Bloom]
+author=fobes
+description=Removes the post-processing blur/bloom effect
+patch=1,EE,005AA9D4,word,00000000 //0C16D2C0
+//patch=1,EE,00AFA728,word,00010000 //00000000 option 2
+[test]
+12420019 referencia bloom
+2463FFF6
+2442FFF6
