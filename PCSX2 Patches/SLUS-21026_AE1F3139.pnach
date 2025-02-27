@@ -5,28 +5,7 @@ author=Gabominated
 description=Might need EE Overclock (130%).
 patch=1,EE,00221668,word,00000000 //0C08B746
 
-//patch=1,EE,0022DD7C,word,24630002 //24630002
-
 [Disable Blur]
 author=Gabominated
 description=Disable post-processing blur effect.
 patch=1,EE,00225010,word,0000B82B //00E0B82D
-
-0022DCEC fps
-00221668 fps
-[No-interlacing]
-gsinterlacemode=1
-author=Gabominated
-description=Force progressive scan 480p mode.
-//patch=1,EE,0027D3AC,word,3c050000
-//patch=1,EE,0027D3B4,word,3c060050
-//patch=1,EE,0027D3BC,word,3c070001
-//patch=1,EE,00000000,word,3c090010 //00094C00
-
-patch=1,EE,0027D3D0,word,24120050
-
-0010F1CC
-
-00221580 bloom
-
-00225004 blur
