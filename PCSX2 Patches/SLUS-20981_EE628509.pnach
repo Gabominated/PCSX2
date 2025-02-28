@@ -4,5 +4,5 @@ gametitle=Teenage Mutant Ninja Turtles 2 - Battle Nexus NTSC-U SLUS-20981 EE6285
 author=Gabominated
 description=Might need EE Overclock.
 patch=1,EE,00151DA8,word,24020002 //24020001
-patch=1,EE,20552F00,word,3c888889 //3d088889 //speed
+patch=1,EE,20552F00,word,3c888889 //3d088889
 patch=1,EE,20552efc,word,42700000 //41F00000
