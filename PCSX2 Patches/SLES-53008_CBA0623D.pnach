@@ -2,5 +2,5 @@ gametitle=Mercenaries - Playground of Destruction PAL-I SLES-53008 CBA0623D
 
 [Remove Blur/Bloom]
 author=Gabominated
-description=Removes the post-processing blur/bloom effect
+description=Removes the post-processing blur/bloom effect.
 patch=1,EE,004F428C,word,00000000
