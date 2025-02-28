@@ -16,10 +16,12 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Set up GitHub CLI
-      run: sudo apt-get install gh
+      run: |
+        sudo apt-get update
+        sudo apt-get install gh -y
 
     - name: Authenticate GitHub CLI
-      run: gh auth login --with-token < ${{ secrets.GH_TOKEN }}
+      run: echo "${{ secrets.GH_TOKEN }}" | gh auth login --with-token
 
     - name: Get previous release
       id: get_release
