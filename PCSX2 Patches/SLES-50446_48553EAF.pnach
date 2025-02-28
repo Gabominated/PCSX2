@@ -2,5 +2,5 @@ gametitle=Shadow Man - 2econd Coming (E)(SLES-50446)
 
 [50 FPS]
 author=Gabominated
-description=Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
+description=Might need EE Overclock.
 patch=1,EE,202BBD70,extended,00000000 //00000001
