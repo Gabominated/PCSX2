@@ -21,22 +21,18 @@ jobs:
         sudo apt-get install gh -y
 
     - name: Authenticate GitHub CLI
-      run: echo "${{ secrets.GH_TOKEN }}" | gh auth login --with-token
+      run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
 
     - name: Get previous release
       id: get_release
       run: |
         previous_release=$(gh release list --limit 1 --json tagName -q '.[].tagName')
         echo "previous_release=$previous_release" >> $GITHUB_ENV
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     - name: Delete previous release
       if: env.previous_release != ''
       run: |
         gh release delete ${{ env.previous_release }} --yes
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     - name: Check if previous tag exists
       id: check_tag
