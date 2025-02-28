@@ -9,5 +9,5 @@ patch=1,EE,203FD4F8,extended,2C420002
 
 [Remove Blur/Bloom]
 author=Gabominated
-description=Might need to Set Shade Boost Brightness=95
+description=Might need to Set Shade Boost Brightness=95.
 patch=1,EE,00556C1C,word,00000000
