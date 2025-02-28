@@ -21,14 +21,14 @@ jobs:
         previous_release=$(gh release list --limit 1 --json tagName -q '.[].tagName')
         echo "previous_release=$previous_release" >> $GITHUB_ENV
       env:
-        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     - name: Delete previous release
       if: env.previous_release != ''
       run: |
         gh release delete ${{ env.previous_release }} --yes
       env:
-        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     - name: Check if previous tag exists
       id: check_tag
@@ -59,7 +59,7 @@ jobs:
       id: create_release
       uses: actions/create-release@v1
       env:
-        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       with:
         tag_name: latest
         release_name: latest build
@@ -69,7 +69,7 @@ jobs:
     - name: Upload release asset
       uses: actions/upload-release-asset@v1
       env:
-        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ${{ env.ZIP_NAME }}
