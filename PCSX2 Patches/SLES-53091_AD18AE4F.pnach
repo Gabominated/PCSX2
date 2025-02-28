@@ -2,5 +2,5 @@ gametitle=Predator - Concrete Jungle PAL-M SLES-53091 AD18AE4F
 
 [50 FPS]
 author=Gabominated
-description=Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
+description=Might need EE Overclock.
 patch=1,EE,2044E350,extended,00000032 //00000019
