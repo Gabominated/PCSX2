@@ -19,21 +19,21 @@ jobs:
       id: get_release
       run: |
         previous_release=$(gh release list --limit 1 --json tagName -q '.[].tagName')
-        echo "::set-output name=previous_release::$previous_release"
+        echo "previous_release=$previous_release" >> $GITHUB_ENV
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Delete previous release
-      if: steps.get_release.outputs.previous_release != ''
+      if: env.previous_release != ''
       run: |
-        gh release delete ${{ steps.get_release.outputs.previous_release }} --yes
+        gh release delete ${{ env.previous_release }} --yes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Check if previous tag exists
       id: check_tag
       run: |
-        if [ ! -z "${{ steps.get_release.outputs.previous_release }}" ] && git rev-parse ${{ steps.get_release.outputs.previous_release }} >/dev/null 2>&1; then
+        if [ ! -z "${{ env.previous_release }}" ] && git rev-parse ${{ env.previous_release }} >/dev/null 2>&1; then
           echo "tag_exists=true" >> $GITHUB_ENV
         else
           echo "tag_exists=false" >> $GITHUB_ENV
@@ -42,15 +42,15 @@ jobs:
     - name: Delete previous tag
       if: env.tag_exists == 'true'
       run: |
-        git tag -d ${{ steps.get_release.outputs.previous_release }}
-        git push --delete origin ${{ steps.get_release.outputs.previous_release }}
+        git tag -d ${{ env.previous_release }}
+        git push --delete origin ${{ env.previous_release }}
 
     - name: Set up zip file name
       run: echo "ZIP_NAME=patches_$(date +'%d%m%y').zip" >> $GITHUB_ENV
 
     - name: Get short SHA
       id: vars
-      run: echo "::set-output name=short_sha::$(git rev-parse --short HEAD)"
+      run: echo "short_sha=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
 
     - name: Create zip file
       run: zip -r ${{ env.ZIP_NAME }} "PCSX2 Patches"
