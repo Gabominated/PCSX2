@@ -2,7 +2,7 @@ gametitle=Syphon Filter - The Omega Strain PAL-M SCES-52033 27E54B37
 
 [50/60 FPS]
 author=Gabominated
-description=Native 50/60 FPS. Might need EE Overclock (130%)
+description=Native 50/60 FPS. Might need EE Overclock (130%).
 patch=1,EE,00175E1C,word,24020032 //24020019
 patch=1,EE,00175E6C,word,2402003c //2402001E
 
