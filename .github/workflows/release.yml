@@ -66,9 +66,8 @@ jobs:
     - name: Create GitHub release
       id: create_release
       uses: actions/create-release@v1
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       with:
+        token: ${{ secrets.GH_TOKEN }}  # Asegúrate de pasar el token aquí
         tag_name: latest
         release_name: latest build
         draft: false
@@ -76,10 +75,10 @@ jobs:
 
     - name: Upload release asset
       uses: actions/upload-release-asset@v1
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ${{ env.ZIP_NAME }}
         asset_name: ${{ env.ZIP_NAME }}
         asset_content_type: application/zip
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
