@@ -7,3 +7,8 @@ patch=1,EE,E0030002,extended,0047b210
 patch=1,EE,2047b210,extended,00000001 //00000002 //fps
 patch=1,EE,205210a8,extended,3f800000 //40000000 //speed modifiers
 patch=1,EE,2015b274,extended,3c013f40 //3c013f80 //environment speed
+
+[Disable Blur/Bloom]
+author=Gabominated
+description=Disable post-processing blur/bloom effect.
+patch=1,EE,00710490,word,00000000
