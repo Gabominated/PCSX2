@@ -32,4 +32,4 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Sniper Elite                             | [SLUS-21231](PCSX2%20Patches/SLUS-21231_395779C5.pnach) | |
 | Star Wars - Battlefront 2                | [SLUS-21240](PCSX2%20Patches/SLUS-21240_249540F3.pnach) [SLES-53501](PCSX2%20Patches/SLES-53501_B68D35CA.pnach) | |
 | Star Wars - Battlefront                  | [SLES-52545](PCSX2%20Patches/SLES-52545_503BF9E1.pnach) [SLUS-20898](PCSX2%20Patches/SLUS-20898_503BF9E1.pnach) | |
-| Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) | |
+| Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) [SLUS-21356](PCSX2%20Patches/SLUS-21356_0198F1AD.pnach) | |
