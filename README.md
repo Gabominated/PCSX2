@@ -8,6 +8,7 @@
 - [Introduction](#introduction)
 - [Installation and Usage](#installation-and-usage)
 - [Game Patches](#game-patches)
+- [Visual Enhance Patches](https://github.com/Gabominated/PCSX2/blob/main/patches_README.md)
 
 ## 🎮 Introduction
 
