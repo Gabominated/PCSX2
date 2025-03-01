@@ -21,6 +21,7 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Colosseum - Road to Freedom              | [SLUS-21179](PCSX2%20Patches/SLUS-21179_9285A8D6.pnach) [SLES-53356](PCSX2%20Patches/SLES-53356_29CA91F1.pnach) | |
 | Echo Night Beyond / Nebula - Echo Night  | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) | |
 | Killzone                                 | [SCUS-97402](PCSX2%20Patches/SCUS-97402_CAAEC49C.pnach) | |
+| Matrix, The - Path of Neo | [SLUS-21273](PCSX2%20Patches/SLUS-21273_8BE5DFF3.pnach) | |
 | Mercenaries 2 - World in Flames          | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) [SLES-54997](PCSX2%20Patches/SLES-54997_A97B93F7.pnach) [SLES-55001](PCSX2%20Patches/SLES-55001_A97C9BF7.pnach) | |
 | Mercenaries - Playground of Destruction  | [SLES-53008](PCSX2%20Patches/SLES-53008_CBA0623D.pnach) [SLUS-20932](PCSX2%20Patches/SLUS-20932_23510F99.pnach) | |
 | Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) | |
