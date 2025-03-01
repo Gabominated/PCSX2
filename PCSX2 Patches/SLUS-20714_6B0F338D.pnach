@@ -10,5 +10,5 @@ patch=1,EE,2015b274,extended,3c013f40 //3c013f80 //environment speed
 
 [Disable Blur/Bloom]
 author=Gabominated
-description=Disable post-processing blur/bloom effect.
+description=Might need to set Shade Boost, Brightnes:75 and Contrast:48.
 patch=1,EE,00710490,word,00000000
