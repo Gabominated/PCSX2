@@ -23,6 +23,7 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Killzone                                 | [SCUS-97402](PCSX2%20Patches/SCUS-97402_CAAEC49C.pnach) | |
 | Mercenaries 2 - World in Flames          | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) [SLES-54997](PCSX2%20Patches/SLES-54997_A97B93F7.pnach) [SLES-55001](PCSX2%20Patches/SLES-55001_A97C9BF7.pnach) | |
 | Mercenaries - Playground of Destruction  | [SLES-53008](PCSX2%20Patches/SLES-53008_CBA0623D.pnach) [SLUS-20932](PCSX2%20Patches/SLUS-20932_23510F99.pnach) | |
+| Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) | |
 | Okami                                    | [SLES-54439](PCSX2%20Patches/SLES-54439_891F223F.pnach) [SLPM-66375](PCSX2%20Patches/SLPM-66375_C5DEFEA0.pnach) [SLUS-21115](PCSX2%20Patches/SLUS-21115_21068223.pnach) | |
 | Project - Snowblind                      | [SLUS-21037](PCSX2%20Patches/SLUS-21037_7849F069.pnach) | |
 | Red Ninja - End of Honor                 | [SLUS-20714](PCSX2%20Patches/SLUS-20714_6B0F338D.pnach) | |
