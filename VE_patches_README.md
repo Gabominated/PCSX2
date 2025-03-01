@@ -2,7 +2,7 @@
 
 ## 🎮 Introduction
 
-This directory contains patches for the PCSX2 emulator. The table below lists patches specifically designed to correct issues related to blur, bloom, filters, and other visual effects that impact the visual quality of PlayStation 2 games when emulated with PCSX2. These patches aim to enhance the gaming experience by improving the overall visual fidelity of the games.
+This directory contains patches for the PCSX2 emulator. The table below lists patches specifically designed to correct issues related to blur, bloom, Ghosting, filters, and other visual effects that impact the visual quality of PlayStation 2 games when emulated with PCSX2. These patches aim to enhance the gaming experience by improving the overall visual fidelity of the games.
 
 ## 🛠️ Installation and Usage
 
