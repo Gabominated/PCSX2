@@ -1,3 +1,33 @@
-# Parches para PCSX2
+## VISUAL ENHANCE PATCHES
 
-Esta carpeta contiene parches para el emulador PCSX2. A continuación se presenta una lista de los parches disponibles:
+## 🎮 Introduction
+
+This directory contains patches for the PCSX2 emulator. The table below lists patches specifically designed to correct issues related to blur, bloom, filters, and other visual effects that impact the visual quality of PlayStation 2 games when emulated with PCSX2. These patches aim to enhance the gaming experience by improving the overall visual fidelity of the games.
+
+## 🛠️ Installation and Usage
+
+1. Download the PCSX2 emulator from its [official site](https://pcsx2.net/).
+2. Download the patches from this repository.
+3. Place the `.pnach` files in the `cheats` folder of the PCSX2 directory.
+4. Launch PCSX2 and enable the patches option in the settings/Game Properties. Ensure the cheats are activated before starting the game.
+
+## 📂 Game Patches
+
+| Game Title                               | Serial/Region | Observations |
+| ---------------------------------------- | :-----------: | -----------: |
+| Battlefield 2 - Modern Combat            | [SLUS-21026](PCSX2%20Patches/SLUS-21026_AE1F3139.pnach) | |
+| Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) | |
+| Castleween                               | [SLES-51249](PCSX2%20Patches/SLES-51249_EE3BCA71.pnach) | |
+| Colosseum - Road to Freedom              | [SLUS-21179](PCSX2%20Patches/SLUS-21179_9285A8D6.pnach) [SLES-53356](PCSX2%20Patches/SLES-53356_29CA91F1.pnach) | |
+| Echo Night Beyond / Nebula - Echo Night  | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) | |
+| Killzone                                 | [SCUS-97402](PCSX2%20Patches/SCUS-97402_CAAEC49C.pnach) | |
+| Mercenaries 2 - World in Flames          | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) [SLES-54997](PCSX2%20Patches/SLES-54997_A97B93F7.pnach) [SLES-55001](PCSX2%20Patches/SLES-55001_A97C9BF7.pnach) | |
+| Mercenaries - Playground of Destruction  | [SLES-53008](PCSX2%20Patches/SLES-53008_CBA0623D.pnach) [SLUS-20932](PCSX2%20Patches/SLUS-20932_23510F99.pnach) | |
+| Okami                                    | [SLES-54439](PCSX2%20Patches/SLES-54439_891F223F.pnach) [SLPM-66375](PCSX2%20Patches/SLPM-66375_C5DEFEA0.pnach) [SLUS-21115](PCSX2%20Patches/SLUS-21115_21068223.pnach) | |
+| Project - Snowblind                      | [SLUS-21037](PCSX2%20Patches/SLUS-21037_7849F069.pnach) | |
+| Red Ninja - End of Honor                 | [SLUS-20714](PCSX2%20Patches/SLUS-20714_6B0F338D.pnach) | |
+| Silent Hill 2                            | [SLUS-20228](PCSX2%20Patches/SLUS-20228_FE06A030.pnach) | |
+| Sniper Elite                             | [SLUS-21231](PCSX2%20Patches/SLUS-21231_395779C5.pnach) | |
+| Star Wars - Battlefront 2                | [SLUS-21240](PCSX2%20Patches/SLUS-21240_249540F3.pnach) [SLES-53501](PCSX2%20Patches/SLES-53501_B68D35CA.pnach) | |
+| Star Wars - Battlefront                  | [SLES-52545](PCSX2%20Patches/SLES-52545_503BF9E1.pnach) [SLUS-20898](PCSX2%20Patches/SLUS-20898_503BF9E1.pnach) | |
+| Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) | |
