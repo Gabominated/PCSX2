@@ -2,10 +2,10 @@ gametitle=Bionicle Heroes NTSC-U SLUS-21428 EB6C8519
 
 [Widescreen 16:9]
 gsaspectratio=16:9
-author=Arapapa
-description=Widescreen fix
-patch=1,EE,00388cf8,word,3c013f80 //3c013f40 Zoom fix (Internal Widescreen Option)
-patch=1,EE,00388d28,word,3c013f10 //3c013f40 X-Fov
+author=Gabominated
+description=Enable native widescreen.
+patch=1,EE,00388D04,word,3C013F10 //3C013F00 zoom fix
+patch=1,EE,0065F798,word,00000001 //00000000
 
 [60 FPS]
 author=Gabominated
