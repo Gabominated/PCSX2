@@ -15,7 +15,7 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 
 | Game Title                               | Serial/Region | Observations |
 | ---------------------------------------- | :-----------: | -----------: |
-| Battlefield 2 - Modern Combat            | [SLUS-21026](PCSX2%20Patches/SLUS-21026_AE1F3139.pnach) | |
+| Battlefield 2 - Modern Combat            | [SLUS-21026](PCSX2%20Patches/SLUS-21026_AE1F3139.pnach) | - [x] Tested |
 | Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) | |
 | Castleween                               | [SLES-51249](PCSX2%20Patches/SLES-51249_EE3BCA71.pnach) | |
 | Colosseum - Road to Freedom              | [SLUS-21179](PCSX2%20Patches/SLUS-21179_9285A8D6.pnach) [SLES-53356](PCSX2%20Patches/SLES-53356_29CA91F1.pnach) | |
