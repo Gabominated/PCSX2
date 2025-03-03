@@ -1,0 +1,10 @@
+gametitle=Disney/Pixar WALL-E PAL-S SLES-55186 87332077
+
+[Disable Blur/Bloom]
+author=Gabominated
+description=Might need to set Shade Boost, Brightnes:75 and Contrast:48.
+patch=1,EE,00733AE0,word,00070000
+
+[test]
+//patch=1,EE,002f2ddc,word,24050280 //24050200 res
+
