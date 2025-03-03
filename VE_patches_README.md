@@ -19,6 +19,7 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) | |
 | Castleween                               | [SLES-51249](PCSX2%20Patches/SLES-51249_EE3BCA71.pnach) | |
 | Colosseum - Road to Freedom              | [SLUS-21179](PCSX2%20Patches/SLUS-21179_9285A8D6.pnach) [SLES-53356](PCSX2%20Patches/SLES-53356_29CA91F1.pnach) | |
+| Disney/Pixar WALL-E | [SLUS-21736](PCSX2%20Patches/SLUS-21736_C4F479F5.pnach) [SLES-55186](PCSX2%20Patches/SLES-55186_87332077.pnach) | |
 | Echo Night Beyond / Nebula - Echo Night  | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) | |
 | Killzone                                 | [SCUS-97402](PCSX2%20Patches/SCUS-97402_CAAEC49C.pnach) | |
 | Matrix, The - Path of Neo | [SLUS-21273](PCSX2%20Patches/SLUS-21273_8BE5DFF3.pnach) | |
