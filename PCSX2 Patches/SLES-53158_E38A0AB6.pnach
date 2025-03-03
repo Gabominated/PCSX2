@@ -1,5 +1,12 @@
 gametitle=Cold Fear PAL-M SLES-53158 E38A0AB6
 
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Enable native widescreen.
+patch=1,EE,0046EF34,word,00000001 //00000000
+patch=1,EE,004F9480,word,01000000 //00000000
+
 [50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
