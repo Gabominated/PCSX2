@@ -5,3 +5,8 @@ author=Gabominated
 description=Might need EE Overclock.
 patch=1,EE,2043a3c8,extended,00000001 //00000002
 patch=1,EE,2059D1C4,extended,3ca3d70a //3d23d70a
+
+[Disable Blur]
+author=Gabominated
+description=Disable post-processing blur effect.
+patch=1,EE,001464AC,word,00000000
