@@ -1,4 +1,4 @@
-## VISUAL ENHANCE PATCHES
+## Visual Enhance Patches
 
 ## 🎮 Introduction
 
