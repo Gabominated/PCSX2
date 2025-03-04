@@ -7,5 +7,6 @@ patch=1,EE,0016E1F4,word,240201c0 //24030200
 
 [Disable Blur/Bloom]
 author=Gabominated
-description=Might need to set Shade Boost, Brightnes:80 and Contrast:45.
-patch=1,EE,018DC644,word,00000000
+description=Might need to set Shade Boost, Brightnes:70 and Contrast:45.
+patch=1,EE,E0010200,extended,018DC644
+patch=1,EE,218DC644,extended,00000000
