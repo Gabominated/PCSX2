@@ -22,6 +22,7 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Disney/Pixar WALL-E | [SLUS-21736](PCSX2%20Patches/SLUS-21736_C4F479F5.pnach) [SLES-55186](PCSX2%20Patches/SLES-55186_87332077.pnach) | |
 | DreamWorks Shrek - Smash n' Crash Racing | [SLES-54553](PCSX2%20Patches/SLES-54553_7C8125F4.pnach) [SLUS-21392](PCSX2%20Patches/SLUS-21392_34B473E6.pnach) |Tested :heavy_check_mark:|
 | Echo Night Beyond / Nebula - Echo Night  | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) |Tested :heavy_check_mark:|
+| Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) [SLUS-20817](PCSX2%20Patches/SLUS-20817_2F5EB1FF.pnach) |  |
 | Killzone                                 | [SCUS-97402](PCSX2%20Patches/SCUS-97402_CAAEC49C.pnach) |Tested :heavy_check_mark:|
 | Matrix, The - Path of Neo | [SLUS-21273](PCSX2%20Patches/SLUS-21273_8BE5DFF3.pnach) ||
 | Mercenaries 2 - World in Flames          | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) [SLES-54997](PCSX2%20Patches/SLES-54997_A97B93F7.pnach) [SLES-55001](PCSX2%20Patches/SLES-55001_A97C9BFD.pnach) |Tested :heavy_check_mark:|
