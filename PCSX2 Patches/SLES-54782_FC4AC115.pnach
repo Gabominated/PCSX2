@@ -2,11 +2,11 @@ gametitle=ObsCure II PAL-M SLES-54782 FC4AC115
 
 [50 FPS]
 author=Gabominated
-description=Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
+description=Might need EE Overclock.
 patch=1,EE,2013D188,extended,2C420001 //2C420002
 
 [480p Mode]
 gsinterlacemode=1
 author=Gabominated
-description=SDTV 480p mode at start. Might need enable EE Overclock to be stable.
+description=SDTV 480p mode at start.
 patch=1,EE,0010CF00,word,24120050
