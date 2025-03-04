@@ -2,10 +2,16 @@ gametitle=Headhunter - Redemption PAL-M SLES-52512 2D24ABAD
 
 [50/60 FPS]
 author=Gabominated
-description=Might need EE Overclock.
-patch=1,EE,00157D78,word,0042102A //0043102A
-patch=1,EE,00166f8c,word,24070032 //24070019
-patch=1,EE,001670C8,word,2403003c //2403001E
+description=Might need EE Overclock (180%).
+patch=1,EE,20157D78,extended,0042102A
+patch=1,EE,20166f8c,extended,24070032
+patch=1,EE,201670C8,extended,2403003c
+patch=1,EE,E0010032,extended,0043BA24
+patch=1,EE,2043BA24,extended,00000019
+patch=1,EE,E001003C,extended,0043BA24
+patch=1,EE,2043BA24,extended,0000001E
+patch=1,EE,E0010001,extended,005CCF78
+patch=1,EE,20157D78,extended,0043102A
 
 [NTSC Mode]
 author=Gabominated
