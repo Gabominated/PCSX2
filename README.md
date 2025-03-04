@@ -101,6 +101,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Godzilla - Unleashed | [SLUS-21707](PCSX2%20Patches/SLUS-21707_179470B4.pnach)
 | Golden Compass, The | [SLES-54996](PCSX2%20Patches/SLES-54996_73351A86.pnach) [SLES-55012](PCSX2%20Patches/SLES-55012_73351A86.pnach) [SLUS-21677](PCSX2%20Patches/SLUS-21677_E514BA51.pnach) | |
 | Grand Theft Auto - San Andreas | [SLES-52541](PCSX2%20Patches/SLES-52541_A1B3F232.pnach) [SLUS-20946](PCSX2%20Patches/SLUS-20946_2C6BE434.pnach) [SLPM-65984](PCSX2%20Patches/SLPM-65984_60FE139C.pnach) [SLUS-20946](PCSX2%20Patches/SLUS-20946_399A49CA.pnach) | |
+| Grand Theft Auto - Vice City Stories | [SLUS-21590](PCSX2%20Patches/SLUS-21590_4F32A11F.pnach) | |
 | GTC Africa | [SLPM-62258](PCSX2%20Patches/SLPM-62258_8AC3F5D6.pnach) [SLES-50472](PCSX2%20Patches/SLES-50472_51D8A6A9.pnach) | |
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) [SLUS-21020](PCSX2%20Patches/SLUS-21020_83C9749E.pnach) |  |
 | Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) |  |
