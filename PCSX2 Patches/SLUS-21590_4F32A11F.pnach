@@ -1,0 +1,6 @@
+gametitle=Grand Theft Auto - Vice City Stories NTSC-U SLUS-21590 4F32A11F
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,00317A54,word,2C420001 //2C420002
