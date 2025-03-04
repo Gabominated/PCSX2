@@ -2,5 +2,5 @@ gametitle=DreamWorks Shrek - Smash n' Crash Racing PAL-M SLES-54553 7C8125F4
 
 [NTSC Mode]
 author=Gabominated
-description=NTSC mode at start.
+description=NTSC mode at start. FMVs remain in PAL.
 patch=1,EE,0016E1F4,word,240201c0 //24030200
