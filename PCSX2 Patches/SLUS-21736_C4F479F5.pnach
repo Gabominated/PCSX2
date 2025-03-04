@@ -4,3 +4,8 @@ gametitle=Disney/Pixar WALL-E NTSC-U SLUS-21736 C4F479F5
 author=Gabominated
 description=Might need to set Shade Boost, Brightnes:70 and Saturation:60.
 patch=1,EE,00733AE0,word,00070000
+
+[Disable Blur/Bloom]
+author=Gabominated
+description=Might need to set Shade Boost, Brightnes:80 and Contrast:45.
+patch=1,EE,018DC644,word,00000000
