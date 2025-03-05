@@ -67,6 +67,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Dawn of Mana | [SLUS-21574](PCSX2%20Patches/SLUS-21574_9DC6EE5A.pnach) | |
 | Despicable Me - The Game | [SLUS-21933](PCSX2%20Patches/SLUS-21933_4106DBA1.pnach) | |
 | Die Hard - Vendetta | [SLES-51347](PCSX2%20Patches/SLES-51347_F9E575D0.pnach) [SLES-51348](PCSX2%20Patches/SLES-51348_62F6F886.pnach) |  |
+| Disney/Pixar Cars | [SLUS-21151](PCSX2%20Patches/SLUS-21151_F2A25D7B.pnach) | |
 | Disney/Pixar Cars - Mater-National Championship | [SLES-55025](PCSX2%20Patches/SLES-55025_ED999A64.pnach) [SLUS-21637](PCSX2%20Patches/SLUS-21637_57F534F4.pnach) |  |
 | Disney/Pixar Cars - Race-O-Rama | [SLES-55536](PCSX2%20Patches/SLES-55536_E4278493.pnach) [SLUS-21883](PCSX2%20Patches/SLUS-21883_E4278493.pnach) |  |
 | Disney/Pixar WALL-E | [SLUS-21736](PCSX2%20Patches/SLUS-21736_C4F479F5.pnach) [SLES-55186](PCSX2%20Patches/SLES-55186_87332077.pnach) | |
