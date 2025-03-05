@@ -6,3 +6,8 @@ description=Might need EE Overclock (130%).
 patch=1,EE,001B1EE4,extended,24040001
 patch=1,EE,E0010001,extended,004956B8
 patch=1,EE,001B1EE4,extended,24040002
+
+[Disable Blur/Bloom]
+author=Gabominated
+description=Disable post-processing Blur/Bloom effect
+patch=1,EE,004F7B90,word,00000201
