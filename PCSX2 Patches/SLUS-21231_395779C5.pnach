@@ -8,4 +8,5 @@ patch=1,EE,00199018,word,1460000A //1060000A
 [Remove Blur/Bloom]
 author=Gabominated
 description=Might need to set Shade Boost, Brightnes:75 and Saturation:30.
-patch=1,EE,004AB878,word,00000000 //00000001
+patch=1,EE,0017B090,word,00000000
+patch=1,EE,0017B10C,word,00000000
