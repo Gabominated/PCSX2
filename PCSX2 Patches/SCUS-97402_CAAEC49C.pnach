@@ -1,5 +1,11 @@
 gametitle=Killzone NTSC-U SCUS-97402 CAAEC49C
 
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Enable native widescreen.
+patch=1,EE,005DA364,word,00000001
+
 [Disable Noise Filter]
 author=Gabominated
 description=Disable noise filter in gameplay.
