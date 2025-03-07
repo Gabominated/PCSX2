@@ -6,3 +6,8 @@ description=Might need EE Overclock.
 patch=1,EE,201B8AE4,extended,24040001
 patch=1,EE,E0010001,extended,004B77B8
 patch=1,EE,201B8AE4,extended,24040002
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC Mode at start. FMVs broken.
+patch=1,EE,00219390,word,1400001B //1000001B
