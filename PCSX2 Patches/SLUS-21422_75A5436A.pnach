@@ -1,0 +1,8 @@
+gametitle=Tom Clancy's Ghost Recon - Advanced Warfighter NTSC-U SLUS-21422 433B0342
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Widescreen Hack
+patch=1,EE,E0010004,extended,010AF984
+patch=1,EE,210AF97C,extended,3f400000
