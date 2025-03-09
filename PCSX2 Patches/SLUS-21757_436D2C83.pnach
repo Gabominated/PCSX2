@@ -1,0 +1,6 @@
+gametitle=DreamWorks Kung Fu Panda NTSC-U SLUS-21757 436D2C83
+
+[Disable Filter]
+author=Gabominated
+description=Disable brown filter and reducing blur.
+patch=1,EE,00578E78,word,00000000
