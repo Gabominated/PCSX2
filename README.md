@@ -33,6 +33,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Alarm for Cobra 11 | [SLES-52063](PCSX2%20Patches/SLES-52063_77E924AC.pnach) |  |
 | Alarm for Cobra 11 Vol.2 - Hot Pursuit | [SLES-53360](PCSX2%20Patches/SLES-53360_12117804.pnach) |  |
 | Aliens Versus Predator - Extinction | [SLES-51792](PCSX2%20Patches/SLES-51792_64DA75B2.pnach) [SLUS-20147](PCSX2%20Patches/SLUS-20147_64DA78A3.pnach) |  |
+| Alone in the Dark | [SLES-55207](PCSX2%20Patches/SLES-55207_68FC3CF9.pnach) | |
 | Area 51 | [SLUS-20595](PCSX2%20Patches/SLUS-20595_B59EF006.pnach) | |
 | Army Men - Soldiers of Misfortune | [SLUS-21831](PCSX2%20Patches/SLUS-21831_4BB40113.pnach) | |
 | Autobahn Raser - Das Spiel zum Film | [SLES-52459](PCSX2%20Patches/SLES-52459_F2CC17D2.pnach) |  |
