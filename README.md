@@ -188,7 +188,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Shadow Man - 2econd Coming | [SLES-50446](PCSX2%20Patches/SLES-50446_48553EAF.pnach) |  |
 | Sims 2, The | [SLUS-21265](PCSX2%20Patches/SLUS-21265_B67577F3.pnach) | |
 | Silent Hill 2 | [SLUS-20228](PCSX2%20Patches/SLUS-20228_FE06A030.pnach) | |
-| Ski and Shoot | [SLUS-21839](PCSX2%20Patches/SLUS-21839_FD37553A) | |
+| Ski and Shoot | [SLUS-21839](PCSX2%20Patches/SLUS-21839_FD37553A.pnach) | |
 | Skyscraper | [SLES-55152](PCSX2%20Patches/SLES-55152_EAEEC017.pnach) |  |
 | Smash Cars | [SLES-51800](PCSX2%20Patches/SLES-51800_7FE15107.pnach) [SLUS-20620](PCSX2%20Patches/SLUS-20620_1E4F42FF.pnach) |  |
 | Sniper Elite | [SLUS-21231](PCSX2%20Patches/SLUS-21231_395779C5.pnach) | |
