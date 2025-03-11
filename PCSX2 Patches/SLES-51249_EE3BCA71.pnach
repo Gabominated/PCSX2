@@ -1,6 +1,6 @@
 gametitle=Castleween PAL-M SLES-51249 EE3BCA71
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
 patch=1,EE,00217344,word,3C030000 //3C030001
