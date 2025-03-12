@@ -1,6 +1,14 @@
 gametitle=Knights of the Temple II PAL-M SLES-53645 9637D496
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated & PeterDelta
 description=Might need EE Overclock (130%).
 patch=1,EE,0010AF04,word,2C620001 //2C620002
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC Mode at start. Minor glitches in some menu.
+patch=1,EE,001028cc,word,24060002 //24060003
+patch=1,EE,00102d88,word,240701C0 //24070200
+patch=1,EE,0010c21c,word,240701c0 //24070200
+patch=1,EE,00110c6c,word,240701c0 //24070200
