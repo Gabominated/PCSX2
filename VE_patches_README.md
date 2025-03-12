@@ -20,7 +20,6 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Castleween                               | [SLES-51249](PCSX2%20Patches/SLES-51249_EE3BCA71.pnach) |Tested :heavy_check_mark:|
 | Colosseum - Road to Freedom              | [SLUS-21179](PCSX2%20Patches/SLUS-21179_9285A8D6.pnach) [SLES-53356](PCSX2%20Patches/SLES-53356_29CA91F1.pnach) | |
 | Disney/Pixar Cars | [SLUS-21151](PCSX2%20Patches/SLUS-21151_F2A25D7B.pnach) | |
-| Disney/Pixar WALL-E | [SLUS-21736](PCSX2%20Patches/SLUS-21736_C4F479F5.pnach) [SLES-55186](PCSX2%20Patches/SLES-55186_87332077.pnach) | |
 | DreamWorks Kung Fu Panda | [SLUS-21757](PCSX2%20Patches/SLUS-21757_436D2C83.pnach) ||
 | DreamWorks Shrek - Smash n' Crash Racing | [SLES-54553](PCSX2%20Patches/SLES-54553_7C8125F4.pnach) [SLUS-21392](PCSX2%20Patches/SLUS-21392_34B473E6.pnach) |Tested :heavy_check_mark:|
 | Echo Night Beyond / Nebula - Echo Night  | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) |Tested :heavy_check_mark:|
