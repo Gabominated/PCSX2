@@ -71,7 +71,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Disney/Pixar Cars | [SLUS-21151](PCSX2%20Patches/SLUS-21151_F2A25D7B.pnach) | |
 | Disney/Pixar Cars - Mater-National Championship | [SLES-55025](PCSX2%20Patches/SLES-55025_ED999A64.pnach) [SLUS-21637](PCSX2%20Patches/SLUS-21637_57F534F4.pnach) |  |
 | Disney/Pixar Cars - Race-O-Rama | [SLES-55536](PCSX2%20Patches/SLES-55536_E4278493.pnach) [SLUS-21883](PCSX2%20Patches/SLUS-21883_E4278493.pnach) |  |
-| Disney/Pixar WALL-E | [SLES-55186](PCSX2%20Patches/SLES-55186_87332077.pnach) | |
+| Disney/Pixar WALL-E | [SLES-55186](PCSX2%20Patches/SLES-55186_87332077.pnach) [SLUS-21736](PCSX2%20Patches/SLUS-21736_C4F479F5.pnach) | |
 | Disney's Dinosaur | [SLES-50042](PCSX2%20Patches/SLES-50042_238B189C.pnach) [SLES-50043](PCSX2%20Patches/SLES-50043_238B189C.pnach) |  |
 | Dirge of Cerberus - Final Fantasy VII | [SLUS-21419](PCSX2%20Patches/SLUS-21419_44A5FA15.pnach) | |
 | Don 2 - The Game | [SCES-55670](PCSX2%20Patches/SCES-55670_94523988.pnach) | |
