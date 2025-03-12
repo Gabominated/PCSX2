@@ -8,3 +8,9 @@ patch=1,EE,006BCFE8,word,00000002 //00000003
 patch=1,EE,006BCFE4,word,000001c0 //00000200
 patch=1,EE,00739F08,word,00000280 //00000200
 patch=1,EE,00739F0C,word,000001c0 //00000200
+
+[Disable Blur/Bloom]
+author=Gabominated
+description=Might need to set Shade Boost, Brightnes:75 and Contrast:48.
+patch=1,EE,00733AE0,word,00070000
+patch=1,EE,00733EE0,word,00070000
