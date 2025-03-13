@@ -7,7 +7,7 @@ description=Enable native widescreen.
 patch=1,EE,00388D04,word,3C013F10 //3C013F00 zoom fix
 patch=1,EE,0065F798,word,00000001 //00000000
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
 patch=1,EE,001C9674,word,24020002 //24020004
