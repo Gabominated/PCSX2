@@ -5,7 +5,7 @@ author=Gabominated
 description=Might need EE Overclock.
 patch=1,EE,001AB670,word,10400003 //14800003
 
-[Disable Blur/Bloom Effect]
+[Disable Blur/Bloom]
 author=Gabominated
 description=Disable post-processing blur/bloom effect.
 patch=1,EE,007A39E4,word,00000000
