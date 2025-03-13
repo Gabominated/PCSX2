@@ -14,6 +14,6 @@ patch=1,EE,001C9674,word,24020002 //24020004
 
 [NTSC Mode]
 author=Gabominated
-description=NTS Mode at start.
+description=NTSC Mode at start.
 patch=1,EE,0042CF00,word,24020005 //24020004
 patch=1,EE,004A9C3C,word,000001c0 //00000200
