@@ -22,3 +22,9 @@ patch=1,EE,202506EC,extended,3C013F80 //3C013FAA
 patch=1,EE,202506F0,extended,34210000 //3421aaab
 patch=1,EE,2021d354,extended,3c013f25 //3c013f00 inventory background
 patch=1,EE,20281268,extended,3c013f80 //3c013f00 render fix
+
+[50/60 FPS Beta]
+author=Gabominated
+description=graphical glitches.
+patch=1,EE,00431CDC,word,00000001 //00000002 //fps
+patch=1,EE,00425E98,word,3F000000 //3F800000 //speed with graphical glitches
