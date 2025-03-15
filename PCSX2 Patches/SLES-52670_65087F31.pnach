@@ -3,4 +3,5 @@ gametitle=Second Sight PAL-M SLES-52670 65087F31
 [50 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,20102dac,extended,10000003 //10400003
+patch=1,EE,00102CF4,word,24020001 //24020002
+//patch=1,EE,20102dac,extended,10000003 //10400003
