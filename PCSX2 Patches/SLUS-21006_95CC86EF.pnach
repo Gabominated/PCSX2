@@ -1,0 +1,6 @@
+gametitle=Ghost in the Shell - Stand Alone Complex NTSC-U SLUS_21006 2F123FD8
+
+[60 FPS]
+author=Gabominated
+description=Native 60 FPS. Might need EE Overclock.
+patch=0,EE,00266fc0,word,24020001
