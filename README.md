@@ -96,6 +96,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | G.I. Joe - The Rise of Cobra | [SLES-55537](PCSX2%20Patches/SLES-55537_724B94F6.pnach) [SLUS-21886](PCSX2%20Patches/SLUS-21886_4EC21458.pnach) |  |
 | Gauntlet - Seven Sorrows | [SLUS-21077](PCSX2%20Patches/SLUS-21077_A8C4C0A9.pnach) [SLES-53667](PCSX2%20Patches/SLES-53667_BBB8392E.pnach) | |
 | George of the Jungle | [SLUS-21668](PCSX2%20Patches/SLUS-21668_028AAFC8.pnach) | |
+| Ghost in the Shell - Stand Alone Complex | [SLUS-21006](PCSX2%20Patches/SLUS-21006_95CC86EF.pnach) | |
 | Ghosthunters | [SLUS-20993](PCSX2%20Patches/SLUS-20993_29C7DA54.pnach) | |
 | Gladiator - Sword of Vengeance | [SLES-51766](PCSX2%20Patches/SLES-51766_80EA26DA.pnach) [SLUS-20793](PCSX2%20Patches/SLUS-20793_C5DAD771.pnach) |  |
 | Go Kart Rally | [SLES-54726](PCSX2%20Patches/SLES-54726_95E80315.pnach) |  |
