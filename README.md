@@ -190,6 +190,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Secret Service | [SLES-55330](PCSX2%20Patches/SLES-55330_5AC50849.pnach) [SLUS-21836](PCSX2%20Patches/SLUS-21836_5AA9405C.pnach) | |
 | Shadow Man - 2econd Coming | [SLES-50446](PCSX2%20Patches/SLES-50446_48553EAF.pnach) |  |
 | Sims 2, The | [SLUS-21265](PCSX2%20Patches/SLUS-21265_B67577F3.pnach) | |
+| Sims 2,The - Castaway | [SLES-54903](PCSX2%20Patches/SLES-54903_E7692E0B.pnach) | |
 | Silent Hill 2 | [SLUS-20228](PCSX2%20Patches/SLUS-20228_FE06A030.pnach) | |
 | Ski and Shoot | [SLUS-21839](PCSX2%20Patches/SLUS-21839_FD37553A.pnach) | |
 | Skyscraper | [SLES-55152](PCSX2%20Patches/SLES-55152_EAEEC017.pnach) |  |
