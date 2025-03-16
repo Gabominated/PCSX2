@@ -1,6 +1,6 @@
 gametitle=Sims 2,The - Castaway PAL-M SLES-54903 E7692E0B
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
 patch=1,EE,2042A420,extended,28820001 //28820002
