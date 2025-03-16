@@ -84,6 +84,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Downhill Slalom | [SLES-53963](PCSX2%20Patches/SLES-53963_8A1332C1.pnach) |  |
 | Echo Night Beyond / Nebula - Echo Night | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) | |
 | Evil Dead - Regeneration | [SLUS-21048](PCSX2%20Patches/SLUS-21048_9DE65987.pnach) [SLES-53457](PCSX2%20Patches/SLES-53457_9DE65987.pnach) | |
+| Eragon | [SLES-54159](PCSX2%20Patches/SLES-54159_3E9B19C2.pnach) ||
 | Fahrenheit / Indigo Prophecy | [SLES-53540](PCSX2%20Patches/SLES-53540_8191D10A.pnach) [SLUS-21196](PCSX2%20Patches/SLUS-21196_A7A37EB8.pnach) |  |
 | Fairly OddParents, The - Shadow Showdown | [SLUS-20880](PCSX2%20Patches/SLUS-20880_CC955736.pnach) | |
 | Fatal Frame II / Project Zero 2 - Crimson Butterfly | [SLES-52384](PCSX2%20Patches/SLES-52384_9D87F3AF.pnach) [SLUS-20766](PCSX2%20Patches/SLUS-20766_9A51B627.pnach) |  |
