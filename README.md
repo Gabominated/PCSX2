@@ -199,6 +199,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Sniper Elite | [SLUS-21231](PCSX2%20Patches/SLUS-21231_395779C5.pnach) | |
 | Snow Queen Quest, The | [SLES-54120](PCSX2%20Patches/SLES-54120_4618791D.pnach) | |
 | Snow Rider | [SLES-53936](PCSX2%20Patches/SLES-53936_95DDD361.pnach) |  |
+| Spider-Man 2 | [SLES-52372](PCSX2%20Patches/SLES-52372_6B68932C.pnach) ||
 | Spider-Man - Friend or Foe | [SLES-54901](PCSX2%20Patches/SLES-54901_678BE0A5.pnach) [SLUS-21600](PCSX2%20Patches/SLUS-21600_F52477F7.pnach) |  |
 | Star Trek Voyager - Elite Force | [SLES-50738](PCSX2%20Patches/SLES-50738_624F11F1.pnach) [SLUS-20227](PCSX2%20Patches/SLUS-20227_9F70EE4F.pnach) |  |
 | Star Wars - Battlefront 2 | [SLUS-21240](PCSX2%20Patches/SLUS-21240_249540F3.pnach) [SLES-53501](PCSX2%20Patches/SLES-53501_B68D35CA.pnach) | |
