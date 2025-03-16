@@ -12,3 +12,10 @@ patch=1,EE,E001FFBF,extended,016B14C2
 patch=1,EE,2042A420,extended,28820002
 patch=1,EE,E001FFEF,extended,016B14C2
 patch=1,EE,2042A420,extended,28820002
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,0041B8B8,word,14000003 //10000003
+patch=1,EE,0041B8B4,word,240201c0 //24020200
+patch=1,EE,0041bff4,word,240201c0 //24020200
