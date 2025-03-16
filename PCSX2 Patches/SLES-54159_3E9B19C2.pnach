@@ -1,0 +1,8 @@
+gametitle=Eragon PAL-M SLES-54159 3E9B19C2
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,001BD818,word,14400003 //10400003
+patch=1,EE,001BD52C,word,54400002 //50400002
+patch=1,EE,001BD538,word,54400002 //50400002
