@@ -1,0 +1,7 @@
+gametitle=The Simpsons Skateboarding PAL-S SLES-51361 D3FB54E5
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC Mode at start.
+patch=1,EE,002418d0,word,24060002 //24060003
+patch=1,EE,0036cf54,word,000001C0 //00000200
