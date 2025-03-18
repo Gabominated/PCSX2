@@ -30,6 +30,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | 007 - Quantum of Solace  | [SLES-55345](PCSX2%20Patches/SLES-55345_B43AC68E.pnach) |       |
 | 7 Blades | [SLES-50109](PCSX2%20Patches/SLES-50109_97AE372A.pnach) |  |
 | 7 Sins | [SLES-53280](PCSX2%20Patches/SLES-53280_52DEB87B.pnach) |  |
+| Agent Hugo - Hula Holiday | [SLES-55365](PCSX2%20Patches/SLES-55365_ADEFE7CB.pnach) ||
+| Agent Hugo - Lemoon Twist | [SLES-54918](PCSX2%20Patches/SLES-54918_C33DEDD7.pnach) ||
 | Alarm for Cobra 11 | [SLES-52063](PCSX2%20Patches/SLES-52063_77E924AC.pnach) |  |
 | Alarm for Cobra 11 Vol.2 - Hot Pursuit | [SLES-53360](PCSX2%20Patches/SLES-53360_12117804.pnach) |  |
 | Aliens Versus Predator - Extinction | [SLES-51792](PCSX2%20Patches/SLES-51792_64DA75B2.pnach) [SLUS-20147](PCSX2%20Patches/SLUS-20147_64DA78A3.pnach) |  |
