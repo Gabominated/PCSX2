@@ -1,0 +1,7 @@
+gametitle=Aliens in the Attic PAL-M SLES-55532 3AAD52A4
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,003EED10,word,0000003C //00000032
+patch=1,EE,003eed1c,word,000001c0 //00000200
