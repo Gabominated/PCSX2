@@ -1,0 +1,14 @@
+gametitle=Agent Hugo - Lemoon Twist PAL-M SLES-54918 C33DEDD7
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%)
+patch=1,EE,00193E40,word,14400008 //10400008
+patch=1,EE,0019095C,word,3C0142C8 //3C014248
+patch=1,EE,001909B8,word,3C0142F0 //3C014270
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC Mode at start. FMVs are out of audio sync.
+patch=1,EE,0019094C,word,10400011 //14400011
+patch=1,EE,001909A8,word,10400014 //14400014

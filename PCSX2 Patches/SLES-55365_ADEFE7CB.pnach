@@ -1,0 +1,7 @@
+gametitle=Agent Hugo - Hula Holiday PAL-M SLES-55365 ADEFE7CB
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC Mode at start.
+patch=1,EE,002DD704,word,10400011 //14400011
+patch=1,EE,002DD760,word,10400014 //14400014
