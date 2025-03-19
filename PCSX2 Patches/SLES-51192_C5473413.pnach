@@ -1,0 +1,6 @@
+gametitle=Harry Potter and the Chamber of Secrets PAL-E SLES-51192 C5473413
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,001bdad4,word,241001c0
