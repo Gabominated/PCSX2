@@ -1,6 +1,6 @@
 gametitle=Score International Baja 1000 - World Championship Off Road Racing PAL-E SLES-55295 1C3FEC65
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
 patch=1,EE,202D1C34,extended,24110001
@@ -8,3 +8,12 @@ patch=1,EE,20C33FAC,extended,3CA3D70A
 patch=1,EE,E0020001,extended,00480978
 patch=1,EE,202D1C34,extended,24110002
 patch=1,EE,20C33FAC,extended,3D23D70A
+patch=1,EE,E0010002,extended,003210B4
+patch=1,EE,20C33FAC,extended,3C888889
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,003210B4,word,24060002 //24060003
+patch=1,EE,002964AC,word,14600007 //10600007
+patch=1,EE,002ACFF4,word,240700E0 //24070100
