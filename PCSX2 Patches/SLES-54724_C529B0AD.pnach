@@ -1,0 +1,8 @@
+gametitle=Spider-Man 3 PAL-M SLES-54724 C529B0AD
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,0010850c,word,24020002
+patch=1,EE,003d45a4,word,241401c0
+patch=1,EE,003D45A8,word,240300E0
