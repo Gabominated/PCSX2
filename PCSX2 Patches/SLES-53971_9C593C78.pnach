@@ -1,6 +1,11 @@
 gametitle=Godfather, The PAL-S SLES-53971 9C593C78
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
 patch=1,EE,202E4ECC,extended,00000000 //14400008 //fps
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,00116e80,word,240301c0 //24030200
