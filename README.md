@@ -83,6 +83,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Dora the Explorer - Dora's Big Birthday Adventure | [SLUS-21944](PCSX2%20Patches/SLUS-21944_EAEDE6E8.pnach) | |
 | DreamWorks Kung Fu Panda | [SLUS-21757](PCSX2%20Patches/SLUS-21757_436D2C83.pnach) ||
 | DreamWorks Shrek - Smash n' Crash Racing | [SLES-54553](PCSX2%20Patches/SLES-54553_7C8125F4.pnach) [SLUS-21392](PCSX2%20Patches/SLUS-21392_34B473E6.pnach) | |
+| DreamWorks Over the Hedge | [SLES-53866](PCSX2%20Patches/SLES-53866_290C8D74.pnach) ||
 | DT Racer | [SLUS-21095](PCSX2%20Patches/SLUS-21095_D4690FFA.pnach) | |
 | Downhill Slalom | [SLES-53963](PCSX2%20Patches/SLES-53963_8A1332C1.pnach) |  |
 | Echo Night Beyond / Nebula - Echo Night | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) | |
