@@ -1,0 +1,8 @@
+gametitle=DreamWorks Over the Hedge PAL-E SLES-53866 290C8D74
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. Broken FMVs.
+patch=2,EE,0022FF5C,word,8C430001 //8C430000
+//patch=1,EE,0022FF64,word,24020002 //24020003 alt
+patch=2,EE,004A1288,word,000001c0 //00000200
