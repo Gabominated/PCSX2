@@ -3,4 +3,4 @@ gametitle=Johnny Bravo Date-O-Rama PAL-E SLES-54671 89AC2A0A
 [NTSC Mode]
 author=Gabominated
 description=NTSC Mode at start.
-patch=1,EE,003a3b58,word,00000003
+patch=1,EE,001679A4,word,24020000
