@@ -103,6 +103,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | George of the Jungle | [SLUS-21668](PCSX2%20Patches/SLUS-21668_028AAFC8.pnach) | |
 | Ghost in the Shell - Stand Alone Complex | [SLUS-21006](PCSX2%20Patches/SLUS-21006_95CC86EF.pnach) | |
 | Ghosthunters | [SLUS-20993](PCSX2%20Patches/SLUS-20993_29C7DA54.pnach) | |
+| Ghost Rider | [SLES-54317](PCSX2%20Patches/SLES-54317_F9DD17AA.pnach) ||
 | Gladiator - Sword of Vengeance | [SLES-51766](PCSX2%20Patches/SLES-51766_80EA26DA.pnach) [SLUS-20793](PCSX2%20Patches/SLUS-20793_C5DAD771.pnach) |  |
 | Go Kart Rally | [SLES-54726](PCSX2%20Patches/SLES-54726_95E80315.pnach) |  |
 | Godfather, The | [SLES-53971](PCSX2%20Patches/SLES-53971_9C593C78.pnach) | |
