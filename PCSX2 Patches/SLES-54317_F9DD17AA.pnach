@@ -1,0 +1,13 @@
+gametitle=Ghost Rider PAL-M SLES-54317 F9DD17AA
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,0056cc74,word,000001c0
+patch=1,EE,0056ce0c,word,000001c0
+patch=1,EE,0056ce24,word,000001c0
+patch=1,EE,0056ce3c,word,000001c0
+patch=1,EE,0056ce54,word,000001c0
+patch=1,EE,0056ce68,word,000001c0
+patch=1,EE,0056ce6c,word,000001c0
+patch=1,EE,0056ce84,word,000001c0
