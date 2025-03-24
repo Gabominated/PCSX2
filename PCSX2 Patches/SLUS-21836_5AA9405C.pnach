@@ -2,5 +2,5 @@ gametitle=Secret Service NTSC-U SLUS-21836 5AA9405C
 
 [60 FPS]
 author=Gabominated
-description=Unlocked at 60 FPS. Might need enable EE Overclock to be stable.
-patch=1,EE,201841F8,extended,2C420001 //2C420002
+description=Might need EE Overclock (180%).
+patch=1,EE,001841F8,word,2C420000 //2C420002
