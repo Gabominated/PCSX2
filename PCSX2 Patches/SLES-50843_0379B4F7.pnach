@@ -1,6 +1,12 @@
 gametitle=Crashed PAL-M SLES-50843 0379B4F7
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
 patch=1,EE,00227758,word,24020000 //24020001
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=1,EE,001E59E0,word,8FA200E0 //8FA200F0
+patch=1,EE,001E5A18,word,24060050 //24060002
