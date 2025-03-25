@@ -1,6 +1,20 @@
 gametitle=Lord of the Ring, The - The Return of the King PAL-M SLES-52017 9771C478
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
 patch=1,EE,0014B334,word,3C030000 //3C033F80
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC Mode at start. A few glitches at main screen title.
+patch=1,EE,00144894,word,24060002 //24060003
+patch=1,EE,00144878,word,0803FFE0 //A7821B8E
+patch=1,EE,000FFF80,word,A7821B8E //00000000
+patch=1,EE,000FFF84,word,240201C0 //00000000
+patch=1,EE,000FFF88,word,0805121F //00000000
+patch=1,EE,0014bd74,word,3c023F4C //3c023f80
+patch=1,EE,0014BD78,word,3442CCCD //44820000
+patch=1,EE,0014BD7C,word,44820000 //03E00008
+patch=1,EE,0014BD80,word,03E00008 //46010002
+patch=1,EE,0014BD84,word,46010002 //00000000
