@@ -7,7 +7,7 @@ patch=1,EE,0014B334,word,3C030000 //3C033F80
 
 [NTSC Mode]
 author=Gabominated
-description=NTSC Mode at start. A few glitches at main screen title.
+description=NTSC Mode at start. FMVs aren't sync and few glitches at main screen title.
 patch=1,EE,00144894,word,24060002 //24060003
 patch=1,EE,00144878,word,0803FFE0 //A7821B8E
 patch=1,EE,000FFF80,word,A7821B8E //00000000
