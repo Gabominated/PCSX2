@@ -230,6 +230,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) [SLUS-21356](PCSX2%20Patches/SLUS-21356_0198F1AD.pnach) | |
 | TransWorld Surf | [SLUS-20356](PCSX2%20Patches/SLUS-20356_66B7B74E.pnach) [SLES-50886](PCSX2%20Patches/SLES-50886_1E4D0D98.pnach) | |
 | Trigger Man | [SLUS-20931](PCSX2%20Patches/SLUS-20931_AA73521B.pnach) | |
+| Turok - Evolution | [SLES-50479](PCSX2%20Patches/SLES-50479_A9E852B1.pnach)
 | USA Racer | [SLES-50939](PCSX2%20Patches/SLES-50939_29DCD484.pnach) | |
 | Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) [SLPM-65723](PCSX2%20Patches/SLPM-65723_960D74D7.pnach) [SLUS-20738](PCSX2%20Patches/SLUS-20738_901ECEFC.pnach) | |
 | Warriors. The | [SLUS-21215](PCSX2%20Patches/SLUS-21215_B99A75DE.pnach) | |
