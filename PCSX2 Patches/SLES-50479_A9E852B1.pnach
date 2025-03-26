@@ -2,5 +2,5 @@ gametitle=Turok - Evolution PAL-M SLES-50479 A9E852B1
 
 [NTSC Mode]
 author=Gabominated
-description=NTSC Mode at start. Logo videos broken.
+description=NTSC Mode at start. Logo and demo videos broken.
 patch=1,EE,00327B24,word,24060002 //24060003
