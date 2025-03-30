@@ -1,0 +1,7 @@
+gametitle=The Da Vinci Code PAL-M SLES-54031 CC39A3E6
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,003BC53C,word,24060002 //24060003
+patch=1,EE,003BBF50,word,240901c0 //24090200
