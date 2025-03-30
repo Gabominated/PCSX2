@@ -68,6 +68,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Curious George | [SLES-54364](PCSX2%20Patches/SLES-54364_5415FA68.pnach) | |
 | Curse - The Eye of Isis | [SLES-51934](PCSX2%20Patches/SLES-51934_7100A15F.pnach) |  |
 | Dark Chronicle | [SCES-51190](PCSX2%20Patches/SCES-51190_059E5FAA.pnach) |  |
+| Da Vinci Code, The | [SLES-54031](PCSX2%20Patches/SLES-54031_CC39A3E6.pnach) ||
 | Dawn of Mana | [SLUS-21574](PCSX2%20Patches/SLUS-21574_9DC6EE5A.pnach) | |
 | Despicable Me - The Game | [SLUS-21933](PCSX2%20Patches/SLUS-21933_4106DBA1.pnach) | |
 | Die Hard - Vendetta | [SLES-51347](PCSX2%20Patches/SLES-51347_F9E575D0.pnach) [SLES-51348](PCSX2%20Patches/SLES-51348_62F6F886.pnach) |  |
