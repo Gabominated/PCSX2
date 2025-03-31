@@ -1,6 +1,4 @@
 # PCSX2 Patches
-![visitors](https://visitor-count-badge.herokuapp.com/badge?page_id=Gabominated.PCSX2)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Gabominated.PCSX2)
 ![visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Gabominated/PCSX2&title=Visit)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Downloads](https://img.shields.io/github/downloads/Gabominated/PCSX2/total)
