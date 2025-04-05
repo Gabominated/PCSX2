@@ -1,0 +1,11 @@
+gametitle=Ice Age 3 - Dawn of the Dinosaurs PAL-M SLES-55487 61E4C8E7
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC Mode at start. FMVs audio skip.
+patch=1,EE,2010275c,extended,24020000
+patch=1,EE,2058237C,extended,0000001E
+patch=1,EE,E0011900,extended,0058237F
+patch=1,EE,2058237F,extended,00001E00
+patch=1,EE,E0013200,extended,0058237F
+patch=1,EE,2058237F,extended,00003C00
