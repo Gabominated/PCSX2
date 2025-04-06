@@ -125,6 +125,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Hugo - Magic in the Trollwoods | [SLES-55597](PCSX2%20Patches/SLES-55597_7DEB9F03.pnach) [SLES-55598](PCSX2%20Patches/SLES-55598_FFA75E86.pnach) | |
 | Ice Age 2 - The Meltdown | [SLUS-21307](PCSX2%20Patches/SLUS-21307_EEC195CA.pnach) [SLES-53984](PCSX2%20Patches/SLES-53984_2EC49E65.pnach) | |
 | Ice Age 3 - Dawn of the Dinosaurs | [SLUS-21878](PCSX2%20Patches/SLUS-21878_3488C365.pnach) [SLES-55487](PCSX2%20Patches/SLES-55487_61E4C8E7.pnach) | |
+| Indiana Jones and the Staff of Kings | [SLES-55448](PCSX2%20Patches/SLES-55448_528C8054.pnach) ||
 | IndyCar Series | [SLES-51397](PCSX2%20Patches/SLES-51397_949356AE.pnach) [SLUS-20641](PCSX2%20Patches/SLUS-20641_B36EE21E.pnach) |  |
 | Jacked | [SLES-53778](PCSX2%20Patches/SLES-53778_D7F36BB4.pnach) |  |
 | Jeep Thrills | [SLES-55275](PCSX2%20Patches/SLES-55275_A68EB83E.pnach) [SLUS-21760](PCSX2%20Patches/SLUS-21760_3DDBDB2C.pnach) | |
