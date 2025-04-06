@@ -2,7 +2,7 @@ gametitle=Indiana Jones and the Staff of Kings PAL-M SLES-55448 528C8054
 
 [50/60 FPS]
 author=Gabominated
-description=Might need EE Overclock.
+description=Might need EE Overclock (180%).
 patch=1,EE,001505B0,word,8C225750 //8C425750
 
 [NTSC Mode]
