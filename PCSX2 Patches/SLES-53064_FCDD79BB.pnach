@@ -1,0 +1,6 @@
+gametitle=FIFA Street PAL-M SLES-53064 FCDD79BB
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00294208,word,24100000 //24100001
