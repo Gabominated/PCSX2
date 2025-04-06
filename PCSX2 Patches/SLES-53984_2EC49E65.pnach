@@ -1,0 +1,11 @@
+gametitle=Ice Age 2 - The Meltdown PAL-M SLES-53984 2EC49E65
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. FMVs skip.
+patch=1,EE,2016EFB0,extended,10E0000F
+patch=1,EE,2016EFF4,extended,2C420000
+patch=1,EE,2016EF68,extended,24020000
+patch=1,EE,2016EF98,extended,24020000
+patch=1,EE,E0013200,extended,003B4DEF
+patch=1,EE,203B4DEF,extended,00003C00

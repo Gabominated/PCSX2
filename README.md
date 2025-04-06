@@ -68,6 +68,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Curious George | [SLES-54364](PCSX2%20Patches/SLES-54364_5415FA68.pnach) | |
 | Curse - The Eye of Isis | [SLES-51934](PCSX2%20Patches/SLES-51934_7100A15F.pnach) |  |
 | Dark Chronicle | [SCES-51190](PCSX2%20Patches/SCES-51190_059E5FAA.pnach) |  |
+| Da Vinci Code, The | [SLES-54031](PCSX2%20Patches/SLES-54031_CC39A3E6.pnach) ||
 | Dawn of Mana | [SLUS-21574](PCSX2%20Patches/SLUS-21574_9DC6EE5A.pnach) | |
 | Despicable Me - The Game | [SLUS-21933](PCSX2%20Patches/SLUS-21933_4106DBA1.pnach) | |
 | Die Hard - Vendetta | [SLES-51347](PCSX2%20Patches/SLES-51347_F9E575D0.pnach) [SLES-51348](PCSX2%20Patches/SLES-51348_62F6F886.pnach) |  |
@@ -122,8 +123,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Hitman 2 - Silent Assassin | [SLES-50992](PCSX2%20Patches/SLES-50992_5B9ACF79.pnach) [SLES-51107](PCSX2%20Patches/SLES-51107_5B9ACF79.pnach) [SLES-51108](PCSX2%20Patches/SLES-51108_5B9ACF79.pnach) [SLES-51110](PCSX2%20Patches/SLES-51110_5B9ACF79.pnach) [SLES-51109](PCSX2%20Patches/SLES-51109_5B9ACF79.pnach) |  |
 | Home Alone | [SLES-54469](PCSX2%20Patches/SLES-54469_E1FCDA9D.pnach) |  |
 | Hugo - Magic in the Trollwoods | [SLES-55597](PCSX2%20Patches/SLES-55597_7DEB9F03.pnach) [SLES-55598](PCSX2%20Patches/SLES-55598_FFA75E86.pnach) | |
-| Ice Age 2 - The Meltdown | [SLUS-21307](PCSX2%20Patches/SLUS-21307_EEC195CA.pnach) | |
-| Ice Age 3 - Dawn of the Dinosaurs | [SLUS-21878](PCSX2%20Patches/SLUS-21878_3488C365.pnach) | |
+| Ice Age 2 - The Meltdown | [SLUS-21307](PCSX2%20Patches/SLUS-21307_EEC195CA.pnach) [SLES-53984](PCSX2%20Patches/SLES-53984_2EC49E65.pnach) | |
+| Ice Age 3 - Dawn of the Dinosaurs | [SLUS-21878](PCSX2%20Patches/SLUS-21878_3488C365.pnach) [SLES-55487](PCSX2%20Patches/SLES-55487_61E4C8E7.pnach) | |
 | IndyCar Series | [SLES-51397](PCSX2%20Patches/SLES-51397_949356AE.pnach) [SLUS-20641](PCSX2%20Patches/SLUS-20641_B36EE21E.pnach) |  |
 | Jacked | [SLES-53778](PCSX2%20Patches/SLES-53778_D7F36BB4.pnach) |  |
 | Jeep Thrills | [SLES-55275](PCSX2%20Patches/SLES-55275_A68EB83E.pnach) [SLUS-21760](PCSX2%20Patches/SLUS-21760_3DDBDB2C.pnach) | |
