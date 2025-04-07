@@ -140,6 +140,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Kill.switch | [SCES-52124](PCSX2%20Patches/SCES-52124_91A65EAE.pnach) |  |
 | Killzone | [SCUS-97402](PCSX2%20Patches/SCUS-97402_CAAEC49C.pnach) [SCES-52004](PCSX2%20Patches/SCES-52004_6624A78C.pnach) | |
 | King Arthur | [SLUS-21046](PCSX2%20Patches/SLUS-21046_4F3B0BA7.pnach) | |
+| Peter Jackson's King Kong - The Official Game of the Movie | [SLES-53703](PCSX2%20Patches/SLES-53703_2D0F72D6.pnach) ||
 | King of Clubs | [SLES-54731](PCSX2%20Patches/SLES-54731_079140D6.pnach) |  |
 | Knights of the Temple II | [SLES-53645](PCSX2%20Patches/SLES-53645_9637D496.pnach) |  |
 | Legacy of Kain - Soul Reaver 2 | [SLUS-20165 v1.01](PCSX2%20Patches/SLUS-20165_1771BFE4.pnach) [SLUS-20165 v2.00](PCSX2%20Patches/SLUS-20165_230CB71D.pnach) | |
