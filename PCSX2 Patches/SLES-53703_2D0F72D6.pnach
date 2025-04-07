@@ -1,0 +1,6 @@
+gametitle=Peter Jackson's King Kong - The Official Game of the Movie PAL-M SLES-53703 2D0F72D6
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00119184,word,1400000F //1000000F
