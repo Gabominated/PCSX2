@@ -140,7 +140,6 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Kill.switch | [SCES-52124](PCSX2%20Patches/SCES-52124_91A65EAE.pnach) |  |
 | Killzone | [SCUS-97402](PCSX2%20Patches/SCUS-97402_CAAEC49C.pnach) [SCES-52004](PCSX2%20Patches/SCES-52004_6624A78C.pnach) | |
 | King Arthur | [SLUS-21046](PCSX2%20Patches/SLUS-21046_4F3B0BA7.pnach) | |
-| Peter Jackson's King Kong - The Official Game of the Movie | [SLES-53703](PCSX2%20Patches/SLES-53703_2D0F72D6.pnach) ||
 | King of Clubs | [SLES-54731](PCSX2%20Patches/SLES-54731_079140D6.pnach) |  |
 | Knights of the Temple II | [SLES-53645](PCSX2%20Patches/SLES-53645_9637D496.pnach) |  |
 | Legacy of Kain - Soul Reaver 2 | [SLUS-20165 v1.01](PCSX2%20Patches/SLUS-20165_1771BFE4.pnach) [SLUS-20165 v2.00](PCSX2%20Patches/SLUS-20165_230CB71D.pnach) | |
@@ -172,6 +171,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Okami | [SLES-54439](PCSX2%20Patches/SLES-54439_891F223F.pnach) [SLPM-66375](PCSX2%20Patches/SLPM-66375_C5DEFEA0.pnach) [SLUS-21115](PCSX2%20Patches/SLUS-21115_21068223.pnach) | |
 | Outlaw Golf 2 | [SLES-52965](PCSX2%20Patches/SLES-52965_57115262.pnach) [SLUS-21030](PCSX2%20Patches/SLUS-21030_1ED4B29C.pnach) | |
 | Paris-Dakar 2 | [SLES-50879](PCSX2%20Patches/SLES-50879_CB4EBD11.pnach) |  |
+| Peter Jackson's King Kong - The Official Game of the Movie | [SLES-53703](PCSX2%20Patches/SLES-53703_2D0F72D6.pnach) ||
 | Pirates - The Legend of Black Kat | [SLES-50680](PCSX2%20Patches/SLES-50680_E677B8F1.pnach) |  |
 | Polar Express, The | [SLES-52685](PCSX2%20Patches/SLES-52685_C72FEF17.pnach) [SLUS-20989](PCSX2%20Patches/SLUS-20989_4AC5A94B.pnach) | |
 | Power Rangers - Dino Thunder | [SLES-52886](PCSX2%20Patches/SLES-52886_381F8A7B.pnach) [SLUS-20944](PCSX2%20Patches/SLUS-20944_024BF3B4.pnach) |  |
