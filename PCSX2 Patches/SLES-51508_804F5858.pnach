@@ -1,0 +1,7 @@
+gametitle=The Hulk PAL-M SLES-51508 804F5858
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=1,EE,004BFC74,word,14400007 //10400007
+patch=1,EE,004BFC04,word,240401E0 //24040200
