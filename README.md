@@ -126,6 +126,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Hitman 2 - Silent Assassin | [SLES-50992](PCSX2%20Patches/SLES-50992_5B9ACF79.pnach) [SLES-51107](PCSX2%20Patches/SLES-51107_5B9ACF79.pnach) [SLES-51108](PCSX2%20Patches/SLES-51108_5B9ACF79.pnach) [SLES-51110](PCSX2%20Patches/SLES-51110_5B9ACF79.pnach) [SLES-51109](PCSX2%20Patches/SLES-51109_5B9ACF79.pnach) |  |
 | Home Alone | [SLES-54469](PCSX2%20Patches/SLES-54469_E1FCDA9D.pnach) |  |
 | Hugo - Magic in the Trollwoods | [SLES-55597](PCSX2%20Patches/SLES-55597_7DEB9F03.pnach) [SLES-55598](PCSX2%20Patches/SLES-55598_FFA75E86.pnach) | |
+| Hulk, The | [SLES-51508](PCSX2%20Patches/SLES-51508_804F5858.pnach) ||
 | Ice Age 2 - The Meltdown | [SLUS-21307](PCSX2%20Patches/SLUS-21307_EEC195CA.pnach) [SLES-53984](PCSX2%20Patches/SLES-53984_2EC49E65.pnach) | |
 | Ice Age 3 - Dawn of the Dinosaurs | [SLUS-21878](PCSX2%20Patches/SLUS-21878_3488C365.pnach) [SLES-55487](PCSX2%20Patches/SLES-55487_61E4C8E7.pnach) | |
 | Indiana Jones and the Staff of Kings | [SLES-55448](PCSX2%20Patches/SLES-55448_528C8054.pnach) ||
