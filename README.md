@@ -92,6 +92,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Eragon | [SLES-54159](PCSX2%20Patches/SLES-54159_3E9B19C2.pnach) ||
 | Fahrenheit / Indigo Prophecy | [SLES-53540](PCSX2%20Patches/SLES-53540_8191D10A.pnach) [SLUS-21196](PCSX2%20Patches/SLUS-21196_A7A37EB8.pnach) |  |
 | Fairly OddParents, The - Shadow Showdown | [SLUS-20880](PCSX2%20Patches/SLUS-20880_CC955736.pnach) | |
+| Family Guy - The Video Game | [SLES-54126](PCSX2%20Patches/SLES-54126_E393DFE5.pnach) ||
 | Fatal Frame II / Project Zero 2 - Crimson Butterfly | [SLES-52384](PCSX2%20Patches/SLES-52384_9D87F3AF.pnach) [SLUS-20766](PCSX2%20Patches/SLUS-20766_9A51B627.pnach) |  |
 | FIFA Street 2 | [SLES-53797](PCSX2%20Patches/SLES-53797_A0DC603B.pnach) ||
 | FIFA Street | [SLES-53064](PCSX2%20Patches/SLES-53064_FCDD79BB.pnach) ||
