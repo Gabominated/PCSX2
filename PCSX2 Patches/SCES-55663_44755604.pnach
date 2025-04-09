@@ -4,3 +4,9 @@ gametitle=Street Cricket Champions 2 PAL-IN SCES-55663 44755604
 author=Gabominated
 description=Might need EE Overclock (130%).
 patch=1,EE,00399B64,word,2A0D0001 //2A0D0002
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,0039D550,word,24060002
+patch=0,EE,0039CED8,word,30820000
