@@ -1,0 +1,12 @@
+gametitle=Street Cricket Champions PAL-IN SCES-55591 B83D59DA
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,003950B4,word,2A0D0000
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00398A60,word,24060002
+patch=0,EE,00398428,word,30820000
