@@ -1,0 +1,6 @@
+gametitle=Family Guy - The Video Game PAL-M SLES-54126 E393DFE5
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,0014E0D8,word,14600002 //10600002
