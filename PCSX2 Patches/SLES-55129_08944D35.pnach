@@ -1,6 +1,6 @@
 gametitle=Jumper - Griffin's Story PAL-M SLES-55129 08944D35
 
-[NTSC mode]
+[NTSC mode/60 FPS]
 author=Gabominated
 description=Still missing crosshair speed.
 patch=1,EE,004488d8,extended,00000003
