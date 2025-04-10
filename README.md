@@ -161,6 +161,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Monster Hunter 2 | [SLPM-66280](PCSX2%20Patches/SLPM-66280_2F0E94A1.pnach) | |
 | Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) | |
 | Moto X Maniac | [SLES-54885](PCSX2%20Patches/SLES-54885_899557DF.pnach) |  |
+| Motocross Mania 3 | [SLUS-21229](PCSX2%20Patches/SLUS-21229_00E9B795.pnach) ||
 | MotorStorm - Arctic Edge | [SCES-55573](PCSX2%20Patches/SCES-55573_3C967DB9.pnach) | |
 | Mr. Bean | [SLES-54666](PCSX2%20Patches/SLES-54666_EDCBBC68.pnach) |  |
 | Mummy, The - The Animated Series | [SLES-52835](PCSX2%20Patches/SLES-52835_40033F92.pnach) | |
