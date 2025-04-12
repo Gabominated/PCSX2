@@ -9,4 +9,5 @@ patch=1,EE,0021A53C,word,14600006 //10600006
 author=Gabominated
 description=NTSC Mode at start.
 patch=1,EE,00219420,word,10450007 //14450007
+patch=1,EE,00656AE4,word,00000280 //00000200
 patch=1,EE,00656AE8,word,000001c0 //00000200
