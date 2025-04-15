@@ -1,5 +1,23 @@
 gametitle=The Simpsons Skateboarding PAL-S SLES-51361 D3FB54E5
 
+[50/60 FPS]
+author=Gabominated
+description=Patch ported from NTSC-U ver. by Souzooka
+patch=1,EE,00508F98,word,00000000 //00000001
+patch=1,EE,00333B9C,word,00000014 //00000028
+patch=1,EE,00333BA0,word,00000014 //00000028
+patch=1,EE,00333BBC,word,00000014 //00000028
+patch=1,EE,00333BD0,word,00000014 //00000028
+patch=1,EE,00333BD4,word,00000014 //00000028
+patch=1,EE,00333BA4,word,3CA3D70A //3D23D70A
+patch=1,EE,00333BA8,word,3B03126F //3B83126F
+patch=1,EE,00333BC4,word,3CA3D70A //3D23D70A
+patch=1,EE,00333BC8,word,3B03126F //3B83126F
+patch=1,EE,004EAAB0,word,3CA3D70A //3D23D70A
+patch=1,EE,004BF420,word,3CA3D70A //3D23D70A
+patch=1,EE,0017AD40,word,3C023D0E //3C023D8E
+patch=1,EE,0017AD8C,word,3C02BD0E //3C02BD8E
+
 [NTSC Mode]
 author=Gabominated
 description=NTSC Mode at start.
