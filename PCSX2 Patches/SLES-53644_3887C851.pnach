@@ -1,0 +1,8 @@
+gametitle=Gene Troopers PAL-M SLES-53644 3887C851
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,00263F34,word,24060002 //24060003
+patch=1,EE,00263f4c,word,240701c0 //24070200
+patch=1,EE,0026443c,word,240701c0 //24070200
