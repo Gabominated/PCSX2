@@ -141,7 +141,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Jumper - Griffin's Story | [SLES-55129](PCSX2%20Patches/SLES-55129_08944D35.pnach) [SLUS-21730](PCSX2%20Patches/SLUS-21730_E164CB28.pnach) | |
 | Jurassic - The Hunted | [SLUS-21907](PCSX2%20Patches/SLUS-21907_EFE4448F.pnach) | |
 | Jurassic Park - Operation Genesis | [SLUS-20380](PCSX2%20Patches/SLUS-20380_A99B8FE7.pnach) | |
-| Kaan Barbarian Blade | [SLES-52179](PCSX2%20Patches/SLES-52179_973793E8.pnach) ||
+| Kaan Barbarian's Blade | [SLES-52179](PCSX2%20Patches/SLES-52179_973793E8.pnach) ||
 | Kill.switch | [SCES-52124](PCSX2%20Patches/SCES-52124_91A65EAE.pnach) |  |
 | Killzone | [SCUS-97402](PCSX2%20Patches/SCUS-97402_CAAEC49C.pnach) [SCES-52004](PCSX2%20Patches/SCES-52004_6624A78C.pnach) | |
 | King Arthur | [SLUS-21046](PCSX2%20Patches/SLUS-21046_4F3B0BA7.pnach) | |
