@@ -1,0 +1,8 @@
+gametitle=4x4 Evo 2 PAL-M SLES-51199 96C83B94
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,00279AB0,word,24060002 //24060004
+patch=1,EE,004E6450,word,000001c0 //00000200
+patch=1,EE,0028E314,word,240700E0 //240700F0
