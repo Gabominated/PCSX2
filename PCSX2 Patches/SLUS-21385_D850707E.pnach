@@ -1,0 +1,11 @@
+gametitle=The Godfather NTSC-U SLUS-21385 D850707E
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,005C5D28,word,42EFC28F //426FC28F
+
+[Disable Additional Filter]
+author=Gabominated
+description=Disable additional opaque filter.
+patch=1,EE,005C5D2C,byte,00
