@@ -115,7 +115,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Ghost Rider | [SLES-54317](PCSX2%20Patches/SLES-54317_F9DD17AA.pnach) ||
 | Gladiator - Sword of Vengeance | [SLES-51766](PCSX2%20Patches/SLES-51766_80EA26DA.pnach) [SLUS-20793](PCSX2%20Patches/SLUS-20793_C5DAD771.pnach) |  |
 | Go Kart Rally | [SLES-54726](PCSX2%20Patches/SLES-54726_95E80315.pnach) |  |
-| Godfather, The | [SLES-53971](PCSX2%20Patches/SLES-53971_9C593C78.pnach) | |
+| Godfather, The | [SLES-53971](PCSX2%20Patches/SLES-53971_9C593C78.pnach) [SLUS-21385](PCSX2%20Patches/SLUS-21385_D850707E.pnach) [SLUS-21406](PCSX2%20Patches/SLUS-21406_D850707E.pnach)| |
 | God of War | [SCUS-97399](PCSX2%20Patches/SCUS-97399_D6385328.pnach) | |
 | Godzilla - Unleashed | [SLUS-21707](PCSX2%20Patches/SLUS-21707_179470B4.pnach)
 | Golden Compass, The | [SLES-54996](PCSX2%20Patches/SLES-54996_73351A86.pnach) [SLES-55012](PCSX2%20Patches/SLES-55012_73351A86.pnach) [SLUS-21677](PCSX2%20Patches/SLUS-21677_E514BA51.pnach) | |
