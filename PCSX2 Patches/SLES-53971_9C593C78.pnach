@@ -1,5 +1,12 @@
 gametitle=El Padrino PAL-S SLES-53971 203CFBB4
 
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated & Arapapa
+description=Widescreen hack
+patch=1,EE,005C5D24,word,3F100000 //3F400000
+patch=1,EE,0035F26C,word,3C013F20 //3C013F00
+
 [50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
