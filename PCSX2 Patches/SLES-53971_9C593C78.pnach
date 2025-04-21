@@ -18,7 +18,7 @@ patch=1,EE,2036f410,extended,3c0142f0
 author=Gabominated
 description=NTSC mode at start.
 patch=1,EE,20116e80,extended,240301c0
-patch=1,EE,E0010000,extended,00603C78
+patch=1,EE,E0010000,extended,00603C84
 patch=1,EE,205C6414,extended,3f4CCCCD
 
 [Disable Additional Filter]
