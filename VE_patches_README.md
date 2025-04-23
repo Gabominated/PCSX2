@@ -19,9 +19,9 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) |  |
 | Castleween                               | [SLES-51249](PCSX2%20Patches/SLES-51249_EE3BCA71.pnach) |Tested :heavy_check_mark:|
 | Colosseum - Road to Freedom              | [SLUS-21179](PCSX2%20Patches/SLUS-21179_9285A8D6.pnach) [SLES-53356](PCSX2%20Patches/SLES-53356_29CA91F1.pnach) | |
-| Disney/Pixar Cars | [SLUS-21151](PCSX2%20Patches/SLUS-21151_F2A25D7B.pnach) | |
+| Disney/Pixar Cars | [SLUS-21151](PCSX2%20Patches/SLUS-21151_F2A25D7B.pnach) |Tested :heavy_check_mark:|
 | Disney/Pixar WALL-E | [SLES-55186](PCSX2%20Patches/SLES-55186_87332077.pnach) [SLUS-21736](PCSX2%20Patches/SLUS-21736_C4F479F5.pnach) | |
-| DreamWorks Kung Fu Panda | [SLUS-21757](PCSX2%20Patches/SLUS-21757_436D2C83.pnach) ||
+| DreamWorks Kung Fu Panda | [SLUS-21757](PCSX2%20Patches/SLUS-21757_436D2C83.pnach) |Tested :heavy_check_mark:|
 | DreamWorks Shrek - Smash n' Crash Racing | [SLES-54553](PCSX2%20Patches/SLES-54553_7C8125F4.pnach) [SLUS-21392](PCSX2%20Patches/SLUS-21392_34B473E6.pnach) |Tested :heavy_check_mark:|
 | Echo Night Beyond / Nebula - Echo Night  | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) |Tested :heavy_check_mark:|
 | Free Running | [SLES-54559](PCSX2%20Patches/SLES-54559_D6A0A3EF.pnach) |  |
@@ -34,10 +34,10 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) |Tested :heavy_check_mark:|
 | Okami                                    | [SLES-54439](PCSX2%20Patches/SLES-54439_891F223F.pnach) [SLPM-66375](PCSX2%20Patches/SLPM-66375_C5DEFEA0.pnach) [SLUS-21115](PCSX2%20Patches/SLUS-21115_21068223.pnach) |Tested :heavy_check_mark:|
 | Prince of Persia - The Two Thrones | [SLUS-21287](PCSX2%20Patches/SLUS-21287_84F3309D.pnach) | |
-| Project - Snowblind                      | [SLUS-21037](PCSX2%20Patches/SLUS-21037_7849F069.pnach) | |
+| Project - Snowblind                      | [SLUS-21037](PCSX2%20Patches/SLUS-21037_7849F069.pnach) |Tested :heavy_check_mark:|
 | Red Ninja - End of Honor                 | [SLUS-20714](PCSX2%20Patches/SLUS-20714_6B0F338D.pnach) | |
 | Silent Hill 2                            | [SLUS-20228](PCSX2%20Patches/SLUS-20228_FE06A030.pnach) | |
-| Sniper Elite                             | [SLUS-21231](PCSX2%20Patches/SLUS-21231_395779C5.pnach) | |
+| Sniper Elite                             | [SLUS-21231](PCSX2%20Patches/SLUS-21231_395779C5.pnach) |Tested :heavy_check_mark:|
 | Star Wars - Battlefront 2                | [SLUS-21240](PCSX2%20Patches/SLUS-21240_249540F3.pnach) [SLES-53501](PCSX2%20Patches/SLES-53501_B68D35CA.pnach) |Tested :heavy_check_mark:|
 | Star Wars - Battlefront                  | [SLES-52545](PCSX2%20Patches/SLES-52545_503BF9E1.pnach) [SLUS-20898](PCSX2%20Patches/SLUS-20898_503BF9E1.pnach) |Tested :heavy_check_mark:|
 | Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) [SLUS-21356](PCSX2%20Patches/SLUS-21356_0198F1AD.pnach) | |
