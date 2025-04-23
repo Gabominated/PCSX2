@@ -30,6 +30,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | 007 - Everything or Nothing | [SLUS-20751](PCSX2%20Patches/SLUS-20751_6848699B.pnach) | |
 | 007 - From Russia with Love | [SLES-53553](PCSX2%20Patches/SLES-53553_22DC8EAC.pnach) ||
 | 007 - Quantum of Solace  | [SLES-55345](PCSX2%20Patches/SLES-55345_B43AC68E.pnach) | |
+| 187 - Ride or Die | [SLUS-21116](PCSX2%20Patches/SLUS-21116_FD2CF599.pnach) [SLES-52276](PCSX2%20Patches/SLES-52276_83BE7C8E.pnach) ||
 | 4x4 Evo 2 | [SLES-51199](PCSX2%20Patches/SLES-51199_96C83B94.pnach) ||
 | 7 Blades | [SLES-50109](PCSX2%20Patches/SLES-50109_97AE372A.pnach) |  |
 | 7 Sins | [SLES-53280](PCSX2%20Patches/SLES-53280_52DEB87B.pnach) |  |
