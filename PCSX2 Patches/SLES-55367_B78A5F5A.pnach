@@ -3,8 +3,9 @@ gametitle=Call of Duty - World at War - Final Fronts PAL-M SLES-55367 B78A5F5A
 [50 FPS]
 author=Gabominated
 description=Might need EE overclock (130%)
-patch=1,EE,0014B398,word,47FFFFF9 //4501FFF9
-//patch=1,EE,00583B50,word,42480000 //41C80000
+patch=1,EE,004209C0,word,3C014270 //3C0141f0
+patch=1,EE,004209E4,word,3C014248 //3C0141C8
+//patch=1,EE,0014B398,word,47FFFFF9 //4501FFF9
 
 [Disable Blur/Bloom]
 author=Gabominated
