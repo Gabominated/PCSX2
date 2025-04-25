@@ -3,4 +3,5 @@ gametitle=Prince of Persia - Warrior Within NTSC-U SLUS_21022 6b17b39f
 [Disable Blur/Bloom]
 author=Gabominated
 description=Disable post-processing blur/bloom effect.
-patch=1,EE,008206A8,word,00010000
+patch=1,EE,005379AC,word,00000000
+//patch=1,EE,008206A8,word,00010000
