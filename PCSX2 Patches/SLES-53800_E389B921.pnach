@@ -1,0 +1,6 @@
+gametitle=Rampage - Total Destruction PAL-M SLES-53800 E389B921
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock
+patch=1,EE,002B7868,word,24020032 //24020019
