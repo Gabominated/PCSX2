@@ -197,6 +197,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Psi-Ops - The Mindgate Conspiracy | [SLES-52703](PCSX2%20Patches/SLES-52703_C08BE6C0.pnach) [SLUS-20688](PCSX2%20Patches/SLUS-20688_9C71B59E.pnach) |  |
 | Quake III - Revolution | [SLES-50126](PCSX2%20Patches/SLES-50126_2064ACE6.pnach) ||
 | Racing Simulation 3 | [SLES-51633](PCSX2%20Patches/SLES-51633_C7AA13F6.pnach) |  |
+| Rampage - Total Destruction | [SLES-53800](PCSX2%20Patches/SLES-53800_E389B921.pnach) ||
 | Red Ninja - End of Honor | [SLUS-20714](PCSX2%20Patches/SLUS-20714_6B0F338D.pnach) | |
 | Red Star, The | [SLES-54581](PCSX2%20Patches/SLES-54581_C1FDACF2.pnach) ||
 | Reign of Fire | [SLES-50873](PCSX2%20Patches/SLES-50873_79464D5E.pnach) [SLUS-20556](PCSX2%20Patches/SLUS-20556_D10945CE.pnach) |  |
