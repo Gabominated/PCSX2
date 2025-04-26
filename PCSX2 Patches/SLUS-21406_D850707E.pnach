@@ -1,12 +1,5 @@
 gametitle=The Godfather - Collector's Edition NTSC-U SLUS-21406 D850707E
 
-[Widescreen 16:9]
-gsaspectratio=16:9
-author=Gabominated & Arapapa
-description=Widescreen hack
-patch=1,EE,005C5D24,word,3F24924A //3F5B6DB8
-patch=1,EE,0035F26C,word,3C013F20 //3C013F00
-
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
