@@ -1,0 +1,7 @@
+gametitle=Short Track Racing - Trading Paint NTSC-U SLUS-21857 C56B0941
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,004AE6A8,word,2C420000 //2C420001
+patch=1,EE,00178b8c,word,2403003c //2403001e
