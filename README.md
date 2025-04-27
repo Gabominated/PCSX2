@@ -215,6 +215,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Second Sight | [SLES-52670](PCSX2%20Patches/SLES-52670_65087F31.pnach) |  |
 | Secret Service | [SLES-55330](PCSX2%20Patches/SLES-55330_5AC50849.pnach) [SLUS-21836](PCSX2%20Patches/SLUS-21836_5AA9405C.pnach) | |
 | Shadow Man - 2econd Coming | [SLES-50446](PCSX2%20Patches/SLES-50446_48553EAF.pnach) |  |
+| Short Track Racing - Trading Paint | [SLUS-21857](PCSX2%20Patches/SLUS-21857_C56B0941.pnach) ||
 | Simpsons Skateboarding, The | [SLES-51361](PCSX2%20Patches/SLES-51361_D3FB54E5.pnach) ||
 | Sims 2, The | [SLUS-21265](PCSX2%20Patches/SLUS-21265_B67577F3.pnach) | |
 | Sims 2, The - Castaway | [SLES-54903](PCSX2%20Patches/SLES-54903_E7692E0B.pnach) | |
