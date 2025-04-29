@@ -10,6 +10,9 @@ patch=1,EE,0029D360,word,3C023F2B //3C023F00
 
 [60 FPS]
 author=Gabominated
-description=Might need EE Overclock. some elements still double speed.
-patch=1,EE,00177178,word,24420002 //24420001
-//patch=1,EE,001771BC,word,2C610001 //2C610002
+description=Might need EE Overclock (300%). Semaphore still double speed.
+patch=1,EE,20177178,extended,24420002
+patch=1,EE,E0010001,extended,003D45B0
+patch=1,EE,20177178,extended,24420001
+//patch=1,EE,001771FC,word,24040001 //24040002 native (hang with videos)
+//patch=1,EE,201771BC,word,2C610001 //2C610002 less stable
