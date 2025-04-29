@@ -1,0 +1,7 @@
+gametitle=WWE Crush Hour PA-E SLES-51600 D2738AD3
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock. some elements still double speed.
+patch=1,EE,00177828,word,24420002 //24420001
+//patch=1,EE,0017786C,word,2C610001 //2C610002
