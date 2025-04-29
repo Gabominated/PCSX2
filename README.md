@@ -260,6 +260,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | World Racing 2 | [SLES-53646](PCSX2%20Patches/SLES-53646_2A4A9916.pnach)
 | World War Zero - IronStorm | [SLES-51924](PCSX2%20Patches/SLES-51924_B1C27A19.pnach) | |
 | Worms Forts - Under Siege | [SLES-52734](PCSX2%20Patches/SLES-52734_38C8967A.pnach) [SLUS-21093](PCSX2%20Patches/SLUS-21093_A99BACE1.pnach) | |
+| WWE Crush Hour | [SLUS-20385](PCSX2%20Patches/SLUS-20385_CD6A0695.pnach) ||
 | WWI - Aces of the Sky | [SLES-54205](PCSX2%20Patches/SLES-54205_8C84FD93.pnach) ||
 | XGRA - Extreme G Racing Association | [SLUS-20632](PCSX2%20Patches/SLUS-20632_56B36513.pnach) | |
 | X-Men - The Official Game | [SLES-54066](PCSX2%20Patches/SLES-54066_DF217C0B.pnach) [SLUS-21107](PCSX2%20Patches/SLUS-21107_AEFCA55C.pnach) | |
