@@ -10,6 +10,6 @@ patch=1,EE,0029D360,word,3C023F2B //3C023F00
 
 [60 FPS]
 author=Gabominated
-description=Might need EE Overclock. some elements remain double.
+description=Might need EE Overclock. some elements still double speed.
 patch=1,EE,00177178,word,24420002 //24420001
 //patch=1,EE,001771BC,word,2C610001 //2C610002
