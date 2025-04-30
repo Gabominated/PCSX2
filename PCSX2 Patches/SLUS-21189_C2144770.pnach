@@ -1,0 +1,8 @@
+gametitle=The Suffering - Ties That Bind NTSC-U SLUS-21189 C2144770
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,2022016C,extended,24420002
+patch=1,EE,E0010001,extended,00526114
+patch=1,EE,2022016C,extended,24420001
