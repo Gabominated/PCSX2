@@ -239,6 +239,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Super PickUps | [SLUS-21450](PCSX2%20Patches/SLUS-21450_D304FA88.pnach) | |
 | Supercar Street Challenge | [SLES-50419](PCSX2%20Patches/SLES-50419_833B70DB.pnach) [SLUS-20012](PCSX2%20Patches/SLUS-20012_6AEABF4E.pnach) |  |
 | Syberia | [SLES-51393](PCSX2%20Patches/SLES-51393_D1ACD489.pnach) |  |
+| Suffering, The | [SLUS-20636](PCSX2%20Patches/SLUS-20636_0486AD78.pnach) ||
+| Suffering, The - Ties That Bind | [SLUS-21189](PCSX2%20Patches/SLUS-21189_C2144770.pnach) ||
 | Syphon Filter - The Omega Strain | [SCES-52033](PCSX2%20Patches/SCES-52033_27E54B37.pnach) [SCUS-97264](PCSX2%20Patches/SCUS-97264_D5605611.pnach) |  |
 | Teenage Mutant Ninja Turtles - Smash-Up | [SLES-55565](PCSX2%20Patches/SLES-55565_CEBA108D.pnach) [SLUS-21904](PCSX2%20Patches/SLUS-21904_532D7041.pnach) | |
 | Teenage Mutant Ninja Turtles 2 - Battle Nexus | [SLUS-20981](PCSX2%20Patches/SLUS-20981_EE628509.pnach) | |
