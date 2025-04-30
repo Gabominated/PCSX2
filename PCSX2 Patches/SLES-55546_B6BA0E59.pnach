@@ -1,0 +1,6 @@
+gametitle=The Secret Saturdays - Beasts of the 5th Sun PAL-M SLES-55546 B6BA0E59
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00150B8C,word,14600002
