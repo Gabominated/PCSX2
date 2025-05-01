@@ -2,6 +2,6 @@ gametitle=Critical Velocity NTSC-J SLPS-25532 4CCEF323
 
 [60 FPS]
 author=Gabominated
-description=Might need EE Overclock (130%).
+description=Might need EE Overclock (130%). Timers and enviroment at double speed.
 patch=0,EE,0016da58,word,2404003c //2404001e fps native
 //patch=1,EE,0047CF70,word,0000003c //0000001e fps realtime
