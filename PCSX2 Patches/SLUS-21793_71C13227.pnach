@@ -1,0 +1,6 @@
+gametitle=DT Carnage NTSC-U SLUS-21793 71C13227
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00444614,word,3c888889 //3C088889
