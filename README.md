@@ -215,7 +215,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Scaler | [SLES-52917](PCSX2%20Patches/SLES-52917_E54D237D.pnach) [SLES-52918](PCSX2%20Patches/SLES-52918_E54D237D.pnach) |  |
 | Scarface - The World is Yours | [SLES-54182](PCSX2%20Patches/SLES-54182_301A1B6E.pnach) [SLES-54183](PCSX2%20Patches/SLES-54183_9A660CC1.pnach) [SLES-54184](PCSX2%20Patches/SLES-54184_20F4FDF8.pnach) [SLES-54271](PCSX2%20Patches/SLES-54271_B69AF9A5.pnach) |  |
 | Score International Baja 1000 - The Official Game | [SLES-55295](PCSX2%20Patches/SLES-55295_1C3FEC65.pnach) [SLUS-21850](PCSX2%20Patches/SLUS-21850_9AB3424F.pnach) | |
-| Second Sight | [SLES-52670](PCSX2%20Patches/SLES-52670_65087F31.pnach) |  |
+| Second Sight | [SLES-52670](PCSX2%20Patches/SLES-52670_65087F31.pnach) [SLUS-21033](PCSX2%20Patches/SLUS-21033_16E3BE78.pnach) |  |
 | Secret Saturdays, The - Beasts of the 5th Sun | [SLES-55546](PCSX2%20Patches/SLES-55546_B6BA0E59.pnach) ||
 | Secret Service | [SLES-55330](PCSX2%20Patches/SLES-55330_5AC50849.pnach) [SLUS-21836](PCSX2%20Patches/SLUS-21836_5AA9405C.pnach) | |
 | Shadow Man - 2econd Coming | [SLES-50446](PCSX2%20Patches/SLES-50446_48553EAF.pnach) |  |
