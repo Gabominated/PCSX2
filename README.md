@@ -91,7 +91,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | DreamWorks Shrek - Smash n' Crash Racing | [SLES-54553](PCSX2%20Patches/SLES-54553_7C8125F4.pnach) [SLUS-21392](PCSX2%20Patches/SLUS-21392_34B473E6.pnach) | |
 | DreamWorks Over the Hedge | [SLES-53866](PCSX2%20Patches/SLES-53866_290C8D74.pnach) ||
 | DT Carnage | [SLUS-21793](PCSX2%20Patches/SLUS-21793_71C13227.pnach) || 
-| DT Racer | [SLUS-21095](PCSX2%20Patches/SLUS-21095_D4690FFA.pnach) | |
+| DT Racer | [SLUS-21095](PCSX2%20Patches/SLUS-21095_D4690FFA.pnach) [SLES-53904](PCSX2%20Patches\SLES-53904_4A5144DD.pnach) | |
 | Downhill Slalom | [SLES-53963](PCSX2%20Patches/SLES-53963_8A1332C1.pnach) |  |
 | Echo Night Beyond / Nebula - Echo Night | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) | |
 | ESPN - NFL Football | [SLUS-20727](PCSX2%20Patches/SLUS-20727_56920AD1.pnach) ||
