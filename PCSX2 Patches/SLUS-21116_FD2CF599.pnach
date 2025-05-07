@@ -3,4 +3,5 @@ gametitle=187 - Ride or Die NTSC-U SLUS-21116 FD2CF599
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,001E9038,word,C6000002 //C6000004
+patch=0,EE,00594a6c,word,3C75C28F //3CF5C28F
+//patch=1,EE,001E9038,word,C6000002 //C6000004
