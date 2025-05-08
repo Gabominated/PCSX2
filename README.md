@@ -255,6 +255,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Tom Clancy's Ghost Recon - Advanced Warfighter | [SLUS-21422](PCSX2%20Patches/SLUS-21422_75A5436A.pnach) | |
 | Tom Clancy's Rainbow Six - Lockdown | [SLUS-21144](PCSX2%20Patches/SLUS-21144_A80FBAAC.pnach) | |
 | Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) [SLUS-21356](PCSX2%20Patches/SLUS-21356_0198F1AD.pnach) | |
+| Transformers | [SLUS-20668](PCSX2%20Patches/SLUS-20668_F40DAE1E.pnach) ||
 | TransWorld Surf | [SLUS-20356](PCSX2%20Patches/SLUS-20356_66B7B74E.pnach) [SLES-50886](PCSX2%20Patches/SLES-50886_1E4D0D98.pnach) | |
 | Trigger Man | [SLUS-20931](PCSX2%20Patches/SLUS-20931_AA73521B.pnach) | |
 | Turok - Evolution | [SLES-50479](PCSX2%20Patches/SLES-50479_A9E852B1.pnach)
