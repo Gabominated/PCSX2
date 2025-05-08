@@ -1,0 +1,11 @@
+gametitle=Transformers NTSC-U SLUS-20668 F40DAE1E
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,2025DF98,extended,AF80BDE4
+patch=1,EE,2063d4a8,extended,426FC28F
+patch=1,EE,E0010001,extended,006CF20C
+patch=1,EE,2025DF98,extended,AF82BDE4
+patch=1,EE,E001FFFF,extended,008FA178
+patch=1,EE,2063d4a8,extended,42EFC28F
