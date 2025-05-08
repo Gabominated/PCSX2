@@ -1,0 +1,7 @@
+gametitle=Pryzm - Chapter One - The Dark Unicorn NTSC-U SLUS-20172 51706243
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,0017D8A8,word,1440000A //1040000A
+patch=1,EE,001E4144,word,3C013C88 //3C013D08
