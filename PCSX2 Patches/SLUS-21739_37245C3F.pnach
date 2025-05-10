@@ -1,0 +1,11 @@
+gametitle=Iron Man NTSC-U SLUS-21739 37245C3F
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,00447340,word,00000000
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=0,EE,00157AF0,word,54400008 //50400008

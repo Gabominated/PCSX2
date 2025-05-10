@@ -1,0 +1,18 @@
+gametitle=Iron Man PAL-M SLES-55198 37245C3F
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,00447340,word,00000000
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00157874,word,3C040002 //3C040001
+//patch=0,EE,0015787C,word,14800004 //10800004
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=0,EE,00157874,word,3C040002 //3C040001
+patch=0,EE,00157AF0,word,54400008 //50400008
