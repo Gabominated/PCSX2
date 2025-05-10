@@ -252,6 +252,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Teenage Mutant Ninja Turtles 2 - Battle Nexus | [SLUS-20981](PCSX2%20Patches/SLUS-20981_EE628509.pnach) | |
 | Teenage Mutant Ninja Turtles 3 - Mutant Nightmare | [SLUS-21184](PCSX2%20Patches/SLUS-21184_DB42119C.pnach) | |
 | Teen Titans | [SLES-54430](PCSX2%20Patches/SLES-54430_E1F17139.pnach) [SLES-54431](PCSX2%20Patches/SLES-54431_E1F17139.pnach) | |
+| Terminator 3, The - The Redemption | [SLUS-20852](PCSX2%20Patches/SLUS-20852_B993C212.pnach) ||
+| Terminator, The - Dawn of Fate | [SLUS-20391](PCSX2%20Patches/SLUS-20391_DFA59850.pnach) |
 | TOCA Race Driver 3 | [SLES-53087](PCSX2%20Patches/SLES-53087_EE0618ED.pnach) | |
 | Tom Clancy's Ghost Recon - Advanced Warfighter | [SLUS-21422](PCSX2%20Patches/SLUS-21422_75A5436A.pnach) | |
 | Tom Clancy's Rainbow Six - Lockdown | [SLUS-21144](PCSX2%20Patches/SLUS-21144_A80FBAAC.pnach) | |
