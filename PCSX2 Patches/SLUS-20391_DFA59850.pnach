@@ -1,0 +1,7 @@
+gametitle=The Terminator - Dawn of Fate NTSC-U SLUS-20391 DFA59850
+
+[60 FPS]
+author=Gabominated
+description=Native 60 FPS. Might need EE Overclock (130%).
+patch=0,EE,00176fb0,word,3c014120 //3c0141a0
+//patch=1,EE,005E9664,word,41200000 //41A00000

@@ -1,0 +1,7 @@
+gametitle=The Terminator 3 - The Redemption NTSC-U SLUS-20852 B993C212
+
+[60 FPS]
+author=Gabominated
+description=Native 60 FPS. Might need EE Overclock (180%).
+patch=0,EE,003050e8,word,3C014120 //3C0141A0
+//patch=1,EE,006D0EF4,word,41200000 //41A00000
