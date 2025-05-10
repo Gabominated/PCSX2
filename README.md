@@ -139,6 +139,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Ice Age 3 - Dawn of the Dinosaurs | [SLUS-21878](PCSX2%20Patches/SLUS-21878_3488C365.pnach) [SLES-55487](PCSX2%20Patches/SLES-55487_61E4C8E7.pnach) | |
 | Indiana Jones and the Staff of Kings | [SLES-55448](PCSX2%20Patches/SLES-55448_528C8054.pnach) ||
 | IndyCar Series | [SLES-51397](PCSX2%20Patches/SLES-51397_949356AE.pnach) [SLUS-20641](PCSX2%20Patches/SLUS-20641_B36EE21E.pnach) |  |
+| Iron Man | [SLUS-21739](/PCSX2%20Patches/SLUS-21739_37245C3F.pnach) [SLES-55198](PCSX2%20Patches/SLES-55198_37245C3F.pnach) | |
 | Jacked | [SLES-53778](PCSX2%20Patches/SLES-53778_D7F36BB4.pnach) |  |
 | Jeep Thrills | [SLES-55275](PCSX2%20Patches/SLES-55275_A68EB83E.pnach) [SLUS-21760](PCSX2%20Patches/SLUS-21760_3DDBDB2C.pnach) | |
 | Jimmy Neutron - Boy Genius | [SLES-51298](PCSX2%20Patches/SLES-51298_C60BA9E7.pnach) ||
