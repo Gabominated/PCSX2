@@ -70,6 +70,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Crazy Golf - World Tour | [SLES-53318](PCSX2%20Patches/SLES-53318_3EB41444.pnach) |  |
 | Crashed | [SLES-50843](PCSX2%20Patches/SLES-50843_0379B4F7.pnach) |  |
 | Critical Velocity | [SLPS-25532](PCSX2%20Patches/SLPS-25532_4CCEF323.pnach) ||
+| Cubix Robots for Everyone - Showdown | [SLUS-20547](PCSX2%20Patches/SLUS-20547_11E88D60.pnach) ||
 | Curious George | [SLES-54364](PCSX2%20Patches/SLES-54364_5415FA68.pnach) | |
 | Curse - The Eye of Isis | [SLES-51934](PCSX2%20Patches/SLES-51934_7100A15F.pnach) |  |
 | Dark Chronicle | [SCES-51190](PCSX2%20Patches/SCES-51190_059E5FAA.pnach) |  |
