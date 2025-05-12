@@ -1,0 +1,6 @@
+gametitle=Medal of Honor - European Assault NTSC-U SLUS-21199 BB70FFB9
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,00497E20,word,00000001
