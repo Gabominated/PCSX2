@@ -1,0 +1,6 @@
+gametitle=Transformers - Revenge of the Fallen NTSC-U SLUS-21881 137C792E
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00473B04,word,00000000
