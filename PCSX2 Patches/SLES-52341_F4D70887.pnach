@@ -1,0 +1,8 @@
+gametitle=The X-Files - Resist or Serve PAL-E SLES-52341 F4D70887
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock.
+patch=1,EE,00325B70,word,00000000 //00000001 uncap frame limit
+patch=1,EE,0010702C,word,3C013F00 //3C013F80 framerate gameplay
+patch=1,EE,00326EEC,word,3E800000 //3f000000 framerate cutscenes
