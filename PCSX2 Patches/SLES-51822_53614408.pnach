@@ -1,0 +1,12 @@
+gametitle=Alias PAL-I SLES-51822 53614408
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00385AD0,word,00000000
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. FMVs skip.
+patch=0,EE,00100804,word,24070002
+patch=0,EE,00100800,word,240601c0

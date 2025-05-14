@@ -1,14 +1,6 @@
-gametitle=Alias (NTSC-U)
-
-[Widescreen 16:9]
-gsaspectratio=16:9
-author=Arapapa
-
-// 16:9
-patch=1,EE,00248178,word,3c013ec0 // 3c013f00 hor fov
-patch=1,EE,001f3c30,word,3c013f40 // 3c013f80 renderfix
+gametitle=Alias NTSC-U SLUS-20673 E3ADDC73
 
 [60 FPS]
-author=asasega & Gabominated
-description=Unlocked at 60 FPS. Might need enable EE Overclock to be stable.
-patch=1,EE,2024BEF0,extended,14400039 //10400039
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00385B50,word,00000000
