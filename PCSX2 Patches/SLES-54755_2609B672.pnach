@@ -1,0 +1,8 @@
+gametitle=Transformers - The Game PAL-E SLES-54755 2609B672
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,004b1550,word,00000002 //cap 50/60FPS
+patch=1,EE,00436378,word,3C014248 //framerate 50Hrz
+patch=1,EE,00436388,word,3c014270 //framerate 60Hrz

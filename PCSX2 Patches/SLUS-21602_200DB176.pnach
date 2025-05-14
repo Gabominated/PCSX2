@@ -1,0 +1,7 @@
+gametitle=Transformers - The Game NTSC-USA SLUS-21602 200DB176
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,004b1550,word,00000002 //cap 60FPS
+patch=1,EE,00436388,word,3c014270 //framerate
