@@ -65,6 +65,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Cold Fear | [SLUS-21047](PCSX2%20Patches/SLUS-21047_ECFBAB36.pnach) [SLES-53158](PCSX2%20Patches/SLES-53158_E38A0AB6.pnach) | |
 | Colosseum - Road to Freedom | [SLUS-21179](PCSX2%20Patches/SLUS-21179_9285A8D6.pnach) [SLES-53356](PCSX2%20Patches/SLES-53356_29CA91F1.pnach) | |
 | Conan | [SLES-52451](PCSX2%20Patches/SLES-52451_9A206BA3.pnach) |  |
+| Conflict - Desert Storm II - Back to Baghdad | [SLUS-20689](PCSX2%20Patches/SLUS-20689_2BE460DF.pnach) [SLES-51523](PCSX2%20Patches/SLES-51523_AA40FD87.pnach) ||
+| Conflict - Vietnam | [SLUS-21045](PCSX2%20Patches/SLUS-21045_CC6CBF20.pnach) [SLES-52630](PCSX2%20Patches/SLES-52630_F0206B09.pnach) ||
 | Constantine | [SLPM-65972](PCSX2%20Patches/SLPM-65972_25D968B0.pnach) [SLES-52872](PCSX2%20Patches/SLES-52872_715AD5FD.pnach)| |
 | Counter Terrorist Special Forces - Fire for Effect | [SLES-53046](PCSX2%20Patches/SLES-53046_EDE9DD5C.pnach) |  |
 | Corvette Evolution GT | [SLUS-21499](PCSX2%20Patches/SLUS-21499_45A8B64C.pnach) | |
