@@ -36,6 +36,7 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Prince of Persia - The Two Thrones | [SLUS-21287](PCSX2%20Patches/SLUS-21287_84F3309D.pnach) | |
 | Prince of Persia - Warrior Within | [SLUS-21022](PCSX2%20Patches/SLUS-21022_6b17b39f.pnach) | |
 | Project - Snowblind                      | [SLUS-21037](PCSX2%20Patches/SLUS-21037_7849F069.pnach) |Tested :heavy_check_mark:|
+| Red Dead Revolver | [SLES-52478](PCSX2%20Patches/SLES-52478_E2E67E23.pnach) ||
 | Red Ninja - End of Honor                 | [SLUS-20714](PCSX2%20Patches/SLUS-20714_6B0F338D.pnach) | |
 | Silent Hill 2                            | [SLUS-20228](PCSX2%20Patches/SLUS-20228_FE06A030.pnach) | |
 | Sniper Elite                             | [SLUS-21231](PCSX2%20Patches/SLUS-21231_395779C5.pnach) |Tested :heavy_check_mark:|
