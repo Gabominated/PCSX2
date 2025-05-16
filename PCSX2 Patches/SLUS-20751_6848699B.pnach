@@ -3,4 +3,5 @@ gametitle=007 - Everything or Nothing NTSC-U SLUS-20751 6848699B
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,0032F700,word,00000000
+patch=1,EE,007A6964,word,00000000
+//patch=1,EE,0032F700,word,00000000
