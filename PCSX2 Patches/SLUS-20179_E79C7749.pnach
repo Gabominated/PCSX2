@@ -3,6 +3,8 @@ gametitle=The X-Files - Resist or Serve NTSC-U SLUS_20179 E79C7749
 [60 FPS]
 author=Gabominated & asasega
 description=Might need EE overclock.
-patch=1,EE,00325770,word,00000000 //00000001 uncap frame limit
-patch=1,EE,0010702C,word,3C013F00 //3C013F80 framerate gameplay
-patch=1,EE,00326AF4,word,3E800000 //3f000000 framerate cutscenes
+patch=1,EE,00325770,word,00000000 //00000001
+patch=1,EE,00107024,word,3C014270 //3C0141F0
+patch=1,EE,0010702C,word,3C013F00 //3C013F80
+patch=1,EE,00326AF4,word,3E800000 //3f000000
+patch=1,EE,00326B80,word,3F000000 //3f800000
