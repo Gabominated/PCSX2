@@ -1,0 +1,6 @@
+gametitle=Medal of Honor - Vanguard NTSC-U SLUS-21597 EA1BFC51
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,004EDB34,word,00000001

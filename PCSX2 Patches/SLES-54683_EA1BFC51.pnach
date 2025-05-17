@@ -1,0 +1,6 @@
+gametitle=Medal of Honor - Vanguard PAL-M SLES-54683 EA1BFC51
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,004EDB34,word,00000001
