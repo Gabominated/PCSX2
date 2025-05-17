@@ -170,6 +170,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Mat Hoffman's Pro BMX 2 | [SLES-50870](PCSX2%20Patches/SLES-50870_DF5C06BE.pnach) [SLUS-20335](PCSX2%20Patches/SLUS-20335_A37C0344.pnach) |  |
 | Matrix, The - Path of Neo | [SLUS-21273](PCSX2%20Patches/SLUS-21273_8BE5DFF3.pnach) | |
 | Medal of Honor - European Assault | [SLUS-21199](PCSX2%20Patches/SLUS-21199_BB70FFB9.pnach) [SLES-53332](PCSX2%20Patches/SLES-53332_BB70FFB9.pnach) [SLES-53336](PCSX2%20Patches/SLES-53336_BB70FFB9.pnach) ||
+| Medal of Honor - Vanguard | [SLUS-21597](PCSX2%20Patches/SLUS-21597_EA1BFC51.pnach) [SLES-54683](PCSX2%20Patches/SLES-54683_EA1BFC51.pnach)
 | Men in Black II - Alien Escape | [SLUS-20373](PCSX2%20Patches/SLUS-20373_69CF7BDF.pnach) | |
 | Mercenaries 2 - World in Flames | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) [SLES-54997](PCSX2%20Patches/SLES-54997_A97B93F7.pnach) [SLES-55001](PCSX2%20Patches/SLES-55001_A97C9BFD.pnach) | |
 | Mercenaries - Playground of Destruction | [SLES-53008](PCSX2%20Patches/SLES-53008_CBA0623D.pnach) [SLUS-20932](PCSX2%20Patches/SLUS-20932_23510F99.pnach) | |
