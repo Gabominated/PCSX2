@@ -3,9 +3,9 @@ gametitle=Disney/Pixar Cars - Race-O-Rama PAL-M SLES-55536 E4278493
 [50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,201A07D4,extended,0060102D //0060202D
+patch=1,EE,201A0770,extended,24030001
 patch=1,EE,E0010001,extended,003FCD38
-patch=1,EE,201A07D4,extended,0060202D
+patch=1,EE,201A0770,extended,24030002
 
 [NTSC/480p Mode]
 author=Gabominated
