@@ -3,7 +3,8 @@ gametitle=Canis Canem Edit PAL-M SLES-53561 C78A495D
 [50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,201F3EF8,extended,28420001 //28420002
+patch=1,EE,005E1CFC,word,00000000 //00000001
+//patch=1,EE,201F3EF8,extended,28420001 //28420002
 
 [480p Mode]
 gsinterlacemode=1
