@@ -1,0 +1,6 @@
+gametitle=Jumanji PAL-A SLES-54436 EE4111C7
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,0025E43C,word,00000001
