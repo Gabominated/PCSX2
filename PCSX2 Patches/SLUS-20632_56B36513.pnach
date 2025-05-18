@@ -3,4 +3,5 @@ gametitle=XGRA - Extreme G Racing Association NTSC-U SLUS-20632 56B36513
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock at 130%.
-patch=1,EE,001A78B4,word,14400004 //10400004
+patch=1,EE,002BDFB0,word,00000000 //00000001
+//patch=1,EE,001A78B4,word,14400004 //10400004
