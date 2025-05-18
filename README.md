@@ -149,6 +149,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Jeep Thrills | [SLES-55275](PCSX2%20Patches/SLES-55275_A68EB83E.pnach) [SLUS-21760](PCSX2%20Patches/SLUS-21760_3DDBDB2C.pnach) | |
 | Jimmy Neutron - Boy Genius | [SLES-51298](PCSX2%20Patches/SLES-51298_C60BA9E7.pnach) ||
 | Johnny Bravo Date-O-Rama | [SLES-54671](PCSX2%20Patches/SLES-54671_89AC2A0A.pnach) | |
+| Jumanji | [SLES-54436](PCSX2%20Patches/SLES-54436_EE4111C7.pnach) ||
 | Jumper - Griffin's Story | [SLES-55129](PCSX2%20Patches/SLES-55129_08944D35.pnach) [SLUS-21730](PCSX2%20Patches/SLUS-21730_E164CB28.pnach) | |
 | Jurassic - The Hunted | [SLUS-21907](PCSX2%20Patches/SLUS-21907_EFE4448F.pnach) | |
 | Jurassic Park - Operation Genesis | [SLUS-20380](PCSX2%20Patches/SLUS-20380_A99B8FE7.pnach) | |
