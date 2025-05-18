@@ -1,8 +1,8 @@
 gametitle=King Arthur NTSC-U SLUS_21046 4F3B0BA7
 
 [60 FPS]
-author=asasega & Gabominated
-description=Might need enable EE Overclock.
-patch=1,EE,20129ECC,word,28420001 //28420002
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,2034865C,extended,00000001
 patch=1,EE,E0010001,extended,0050E860
-patch=1,EE,20129ECC,extended,28420002
+patch=1,EE,2034865C,extended,00000101
