@@ -160,6 +160,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | King of Clubs | [SLES-54731](PCSX2%20Patches/SLES-54731_079140D6.pnach) |  |
 | Knights of the Temple II | [SLES-53645](PCSX2%20Patches/SLES-53645_9637D496.pnach) |  |
 | Knights of the Temple - Infernal Crusade | [SLES-52448](PCSX2%20Patches/SLES-52448_A03898F9.pnach) ||
+| Lara Croft Tomb Raider - Anniversary | [SLUS-21555](PCSX2%20Patches/SLUS-21555_B639EB17.pnach) [SLPS-25856](PCSX2%20Patches/SLPS-25856_B05805B6.pnach) [SLES-54674](PCSX2%20Patches/SLES-54674_A629A376.pnach) ||
+| Lara Croft Tomb Raider - Legend | [SLUS-21203](PCSX2%20Patches/SLUS-21203_BC8B3F50.pnach) [SLES-53908](PCSX2%20Patches/SLES-53908_05177ECE.pnach) ||
 | Legacy of Kain - Soul Reaver 2 | [SLUS-20165 v1.01](PCSX2%20Patches/SLUS-20165_1771BFE4.pnach) [SLUS-20165 v2.00](PCSX2%20Patches/SLUS-20165_230CB71D.pnach) | |
 | London Racer - Police Madness | [SLES-53536](PCSX2%20Patches/SLES-53536_84BFD6D4.pnach) |  |
 | London Racer - World Challenge | [SLES-51580](PCSX2%20Patches/SLES-51580_F97680AA.pnach) |  |
