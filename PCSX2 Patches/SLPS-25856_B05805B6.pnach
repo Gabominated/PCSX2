@@ -1,0 +1,6 @@
+gametitle=Lara Croft Tomb Raider - Anniversary NTSC-J SLPS-25856 B05805B6
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,003BE8FC,word,00000000

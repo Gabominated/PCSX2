@@ -1,0 +1,6 @@
+gametitle=Lara Croft Tomb Raider - Legend NTSC-U SLUS-21203 BC8B3F50
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,003B8DD4,word,00000000
