@@ -2,6 +2,13 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=PCSX2)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Downloads](https://img.shields.io/github/downloads/Gabominated/PCSX2/total)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Gabominated/PCSX2)
+![GitHub contributors](https://img.shields.io/github/contributors/Gabominated/PCSX2)
+![GitHub last commit](https://img.shields.io/github/last-commit/Gabominated/PCSX2)
+![Repo size](https://img.shields.io/github/repo-size/Gabominated/PCSX2)
+![Issues](https://img.shields.io/github/issues/Gabominated/PCSX2)
+![Pull Requests](https://img.shields.io/github/issues-pr/Gabominated/PCSX2)
+![Main language](https://img.shields.io/github/languages/top/Gabominated/PCSX2)
 
 
 ## 📋 Table of Contents
