@@ -1,0 +1,6 @@
+gametitle=Indiana Jones and the Staff of Kings NTSC-U SLUS-21885 B15F0BD6
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,00485950,word,00000000
