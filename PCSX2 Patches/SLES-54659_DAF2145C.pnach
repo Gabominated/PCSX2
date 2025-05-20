@@ -1,0 +1,8 @@
+gametitle=Star Wars - The Force Unleashed PAL-M SLES-54659 DAF2145C
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,1051B210,extended,00000000
+patch=1,EE,E0010001,extended,007B0018
+patch=1,EE,1051B210,extended,00000001

@@ -1,0 +1,15 @@
+gametitle=Star Wars - The Force Unleashed NTSC-U SLUS-21614 879CDA5E
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Enable native widescreen.
+patch=1,EE,107B04F0,extended,00000001
+patch=1,EE,10A48718,extended,00000001
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,1051B590,extended,00000000
+patch=1,EE,E0010001,extended,007B0398
+patch=1,EE,1051B590,extended,00000001
