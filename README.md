@@ -95,6 +95,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Disney/Pixar WALL-E | [SLES-55186](PCSX2%20Patches/SLES-55186_87332077.pnach) [SLUS-21736](PCSX2%20Patches/SLUS-21736_C4F479F5.pnach) | |
 | Disney's Dinosaur | [SLES-50042](PCSX2%20Patches/SLES-50042_238B189C.pnach) [SLES-50043](PCSX2%20Patches/SLES-50043_238B189C.pnach) |  |
 | Dirge of Cerberus - Final Fantasy VII | [SLUS-21419](PCSX2%20Patches/SLUS-21419_44A5FA15.pnach) | |
+| Dog's Life | [SLUS-21018](PCSX2%20Patches/SLUS-21018_35CB5180.pnach) [SCES-51248](PCSX2%20Patches/SCES-51248_531061F2.pnach) [SLPM-65995](PCSX2%20Patches/SLPM-65995_08E89523.pnach) ||
 | Don 2 - The Game | [SCES-55670](PCSX2%20Patches/SCES-55670_94523988.pnach) | |
 | Dora the Explorer - Dora Saves the Crystal Kingdom | [SLUS-21923](PCSX2%20Patches/SLUS-21923_643BED21.pnach) | |
 | Dora the Explorer - Dora Saves the Mermaids | [SLES-55112](PCSX2%20Patches/SLES-55112_4AF82486.pnach) [SLES-55288](PCSX2%20Patches/SLES-55288_58026BD0.pnach) [SLUS-21717](PCSX2%20Patches/SLUS-21717_3340FC2C.pnach) |  |
