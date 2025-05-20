@@ -1,0 +1,6 @@
+gametitle=Dog's Life PAL-M SCES-51248 531061F2
+
+[Disable Blur]
+author=Gabominated
+description=Disable DOF/blur post-processing effect.
+patch=1,EE,0081A198,word,00000000
