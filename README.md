@@ -281,7 +281,10 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Transformers - The Game | [SLUS-21602](PCSX2%20Patches/SLUS-21602_200DB176.pnach) [SLES-54755](PCSX2%20Patches/SLES-54755_2609B672.pnach) [SLES-54757](PCSX2%20Patches/SLES-54757_F654BFDC.pnach) ||
 | TransWorld Surf | [SLUS-20356](PCSX2%20Patches/SLUS-20356_66B7B74E.pnach) [SLES-50886](PCSX2%20Patches/SLES-50886_1E4D0D98.pnach) | |
 | Trigger Man | [SLUS-20931](PCSX2%20Patches/SLUS-20931_AA73521B.pnach) | |
-| Turok - Evolution | [SLES-50479](PCSX2%20Patches/SLES-50479_A9E852B1.pnach)
+| Turok - Evolution | [SLES-50479](PCSX2%20Patches/SLES-50479_A9E852B1.pnach) ||
+| TY the Tasmanian Tiger | [SLUS-20571](PCSX2%20Patches/SLUS-20571_4F755D39.pnach) [SLES-51220](PCSX2%20Patches/SLES-51220_D59D3252.pnach) ||
+| TY the Tasmanian Tiger 2 - Bush Rescue | [SLUS-21057](PCSX2%20Patches/SLUS-21057_5A1BB2A1.pnach) [SLES-52709](PCSX2%20Patches/SLES-52709_B9FDB9EE.pnach) ||
+| TY the Tasmanian Tiger 3 - Night of the Quinkan | [SLUS-21253](PCSX2%20Patches/SLUS-21253_CA8872BA.pnach) [SLES-53636](PCSX2%20Patches/SLES-53636_64E8F1DC.pnach) ||
 | USA Racer | [SLES-50939](PCSX2%20Patches/SLES-50939_29DCD484.pnach) | |
 | Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) [SLPM-65723](PCSX2%20Patches/SLPM-65723_960D74D7.pnach) [SLUS-20738](PCSX2%20Patches/SLUS-20738_901ECEFC.pnach) | |
 | Warriors. The | [SLUS-21215](PCSX2%20Patches/SLUS-21215_B99A75DE.pnach) | |
