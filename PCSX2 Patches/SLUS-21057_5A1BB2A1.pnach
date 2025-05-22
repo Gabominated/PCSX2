@@ -1,0 +1,8 @@
+gametitle=TY the Tasmanian Tiger 2 - Bush Rescue NTSC-U SLUS-21057 5A1BB2A1
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,20499E40,extended,00000000
+patch=1,EE,E0010001,extended,006F4E6C
+patch=1,EE,20499E40,extended,00000001

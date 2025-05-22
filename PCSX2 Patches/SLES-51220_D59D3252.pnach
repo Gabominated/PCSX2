@@ -1,0 +1,6 @@
+gametitle=TY the Tasmanian Tiger PAL-M SLES-51220 D59D3252
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00496E80,word,00000000

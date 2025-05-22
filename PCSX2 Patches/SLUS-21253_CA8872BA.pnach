@@ -1,0 +1,8 @@
+gametitle=TY the Tasmanian Tiger 3 - Night of the Quinkan NTSC-U SLUS-21253 CA8872BA
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,20515E60,extended,00000000
+patch=1,EE,E0010001,extended,01D54C6C
+patch=1,EE,20515E60,extended,00000001

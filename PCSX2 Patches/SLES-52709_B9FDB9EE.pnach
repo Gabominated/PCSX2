@@ -1,0 +1,8 @@
+gametitle=TY the Tasmanian Tiger 2 - Bush Rescue PAL-M SLES-52709 B9FDB9EE
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,2049A240,extended,00000000
+patch=1,EE,E0010001,extended,006F52EC
+patch=1,EE,2049A240,extended,00000001
