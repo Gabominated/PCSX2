@@ -1,5 +1,10 @@
 gametitle=Mercenaries - Playground of Destruction NTSC-U SLUS-20932 23510F99
 
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,004A55DC,word,00000000
+
 [Remove Blur/Bloom]
 author=Gabominated
 description=Removes the post-processing blur/bloom effect
