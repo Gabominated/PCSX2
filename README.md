@@ -38,6 +38,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | 4x4 Evo 2 | [SLES-51199](PCSX2%20Patches/SLES-51199_96C83B94.pnach) ||
 | 7 Blades | [SLES-50109](PCSX2%20Patches/SLES-50109_97AE372A.pnach) |  |
 | 7 Sins | [SLES-53280](PCSX2%20Patches/SLES-53280_52DEB87B.pnach) |  |
+| Aeon Flux | [SLUS-21205](PCSX2%20Patches/SLUS-21205_9FA0A1B0.pnach) ||
 | Agent Hugo - Hula Holiday | [SLES-55365](PCSX2%20Patches/SLES-55365_ADEFE7CB.pnach) ||
 | Agent Hugo - Lemoon Twist | [SLES-54918](PCSX2%20Patches/SLES-54918_C33DEDD7.pnach) ||
 | Alarm for Cobra 11 | [SLES-52063](PCSX2%20Patches/SLES-52063_77E924AC.pnach) |  |
@@ -57,8 +58,10 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Bigs 2, The | [SLUS-21860](PCSX2%20Patches/SLUS-21860_BC94F047.pnach) | |
 | Bionicle Heroes | [SLES-54150](PCSX2%20Patches/SLES-54150_85495C17.pnach) [SLUS-21428](PCSX2%20Patches/SLUS-21428_EB6C8519.pnach) |  |
 | Black | [SLES-53886](PCSX2%20Patches/SLES-53886_ADDFF505.pnach) [SLES-54030](PCSX2%20Patches/SLES-54030_CAA04879.pnach) [SLPM-66354](PCSX2%20Patches/SLPM-66354_B3A9F9ED.pnach) [SLUS-21376](PCSX2%20Patches/SLUS-21376_5C891FF1.pnach) |  |
+| Blowout | [SLUS-20850](PCSX2%20Patches/SLUS-20850_71584BAC.pnach) ||
 | Blade II | [SLES-51013](PCSX2%20Patches/SLES-51013_66CC8148.pnach) [SLUS-20360](PCSX2%20Patches/SLUS-20360_6D0E5F2D.pnach) |  |
 | Blood Will Tell | [SLUS-20782](PCSX2%20Patches/SLUS-20782_89954774.pnach) | |
+| BloodRayne | [SLUS-20461](PCSX2%20Patches/SLUS-20461_17244B57.pnach) ||
 | Bully / Canis Canem Edit | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
 | Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) |  |
 | Call of Duty 3 | [SLUS-21426](PCSX2%20Patches/SLUS-21426_5E843024.pnach) | |
@@ -97,6 +100,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Dora the Explorer - Dora Saves the Crystal Kingdom | [SLUS-21923](PCSX2%20Patches/SLUS-21923_643BED21.pnach) | |
 | Dora the Explorer - Dora Saves the Mermaids | [SLES-55112](PCSX2%20Patches/SLES-55112_4AF82486.pnach) [SLES-55288](PCSX2%20Patches/SLES-55288_58026BD0.pnach) [SLUS-21717](PCSX2%20Patches/SLUS-21717_3340FC2C.pnach) |  |
 | Dora the Explorer - Dora's Big Birthday Adventure | [SLUS-21944](PCSX2%20Patches/SLUS-21944_EAEDE6E8.pnach) | |
+| Drakan - The Ancients' Gates | [SCUS-97128](PCSX2%20Patches/SCUS-97128_4167D813.pnach) ||
 | DreamWorks Kung Fu Panda | [SLUS-21757](PCSX2%20Patches/SLUS-21757_436D2C83.pnach) ||
 | DreamWorks Shrek - Smash n' Crash Racing | [SLES-54553](PCSX2%20Patches/SLES-54553_7C8125F4.pnach) [SLUS-21392](PCSX2%20Patches/SLUS-21392_34B473E6.pnach) | |
 | DreamWorks Over the Hedge | [SLES-53866](PCSX2%20Patches/SLES-53866_290C8D74.pnach) ||
@@ -154,6 +158,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Jeep Thrills | [SLES-55275](PCSX2%20Patches/SLES-55275_A68EB83E.pnach) [SLUS-21760](PCSX2%20Patches/SLUS-21760_3DDBDB2C.pnach) | |
 | Jimmy Neutron - Boy Genius | [SLES-51298](PCSX2%20Patches/SLES-51298_C60BA9E7.pnach) ||
 | Johnny Bravo Date-O-Rama | [SLES-54671](PCSX2%20Patches/SLES-54671_89AC2A0A.pnach) | |
+| Judge Dredd - Dredd vs. Death | [SLUS-20869](PCSX2%20Patches/SLUS-20869_759F05CB.pnach) [SLES-51650](PCSX2%20Patches/SLES-51650_6E900957.pnach)
 | Jumanji | [SLES-54436](PCSX2%20Patches/SLES-54436_EE4111C7.pnach) ||
 | Jumper - Griffin's Story | [SLES-55129](PCSX2%20Patches/SLES-55129_08944D35.pnach) [SLUS-21730](PCSX2%20Patches/SLUS-21730_E164CB28.pnach) | |
 | Jurassic - The Hunted | [SLUS-21907](PCSX2%20Patches/SLUS-21907_EFE4448F.pnach) | |
@@ -197,7 +202,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | MX Superfly | [SLES-51038](PCSX2%20Patches/SLES-51038_9B23B5F1.pnach) [SLUS-20381](PCSX2%20Patches/SLUS-20381_0CD3C2F6.pnach) |  |
 | MX Unleashed | [SLES-52043](PCSX2%20Patches/SLES-52043_DBA1250E.pnach) [SLUS-20767](PCSX2%20Patches/SLUS-20767_9866FE54.pnach) |  |
 | Nitro Bike | [SLES-55192](PCSX2%20Patches/SLES-55192_B2367FD0.pnach) [SLUS-21738](PCSX2%20Patches/SLUS-21738_F5FE754D.pnach) |  |
-| Obscure - II / The Aftermath | [SLES-54782](PCSX2%20Patches/SLES-54782_FC4AC115.pnach) |  |
+| Obscure - II / The Aftermath | [SLUS-21709](PCSX2%20Patches/SLUS-21709_408DFB9C.pnach) [SLES-54782](PCSX2%20Patches/SLES-54782_FC4AC115.pnach) |  |
 | Okami | [SLES-54439](PCSX2%20Patches/SLES-54439_891F223F.pnach) [SLPM-66375](PCSX2%20Patches/SLPM-66375_C5DEFEA0.pnach) [SLUS-21115](PCSX2%20Patches/SLUS-21115_21068223.pnach) | |
 | Outlaw Golf 2 | [SLES-52965](PCSX2%20Patches/SLES-52965_57115262.pnach) [SLUS-21030](PCSX2%20Patches/SLUS-21030_1ED4B29C.pnach) | |
 | Paris-Dakar 2 | [SLES-50879](PCSX2%20Patches/SLES-50879_CB4EBD11.pnach) |  |
@@ -269,7 +274,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Teenage Mutant Ninja Turtles - Smash-Up | [SLES-55565](PCSX2%20Patches/SLES-55565_CEBA108D.pnach) [SLUS-21904](PCSX2%20Patches/SLUS-21904_532D7041.pnach) | |
 | Teenage Mutant Ninja Turtles 2 - Battle Nexus | [SLUS-20981](PCSX2%20Patches/SLUS-20981_EE628509.pnach) | |
 | Teenage Mutant Ninja Turtles 3 - Mutant Nightmare | [SLUS-21184](PCSX2%20Patches/SLUS-21184_DB42119C.pnach) | |
-| Teen Titans | [SLES-54430](PCSX2%20Patches/SLES-54430_E1F17139.pnach) [SLES-54431](PCSX2%20Patches/SLES-54431_E1F17139.pnach) | |
+| Teen Titans | [SLUS-21183](PCSX2%20Patches/SLUS-21183_E1F17139.pnach) [SLES-54430](PCSX2%20Patches/SLES-54430_E1F17139.pnach) [SLES-54431](PCSX2%20Patches/SLES-54431_E1F17139.pnach) | |
 | Terminator 3, The - The Redemption | [SLUS-20852](PCSX2%20Patches/SLUS-20852_B993C212.pnach) ||
 | Terminator, The - Dawn of Fate | [SLUS-20391](PCSX2%20Patches/SLUS-20391_DFA59850.pnach) |
 | TOCA Race Driver 3 | [SLES-53087](PCSX2%20Patches/SLES-53087_EE0618ED.pnach) | |
