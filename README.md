@@ -62,6 +62,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Blade II | [SLES-51013](PCSX2%20Patches/SLES-51013_66CC8148.pnach) [SLUS-20360](PCSX2%20Patches/SLUS-20360_6D0E5F2D.pnach) |  |
 | Blood Will Tell | [SLUS-20782](PCSX2%20Patches/SLUS-20782_89954774.pnach) | |
 | BloodRayne | [SLUS-20461](PCSX2%20Patches/SLUS-20461_17244B57.pnach) ||
+| BloodRayne 2 | [SLUS-20862](PCSX2%20Patches/SLUS-20862_2AFA6F3A.pnach) [SLES-53832](PCSX2%20Patches/SLES-53832_436E4801.pnach) ||
 | Bully / Canis Canem Edit | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
 | Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) |  |
 | Call of Duty 3 | [SLUS-21426](PCSX2%20Patches/SLUS-21426_5E843024.pnach) | |
@@ -139,6 +140,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Grand Theft Auto - San Andreas | [SLES-52541](PCSX2%20Patches/SLES-52541_A1B3F232.pnach) [SLUS-20946](PCSX2%20Patches/SLUS-20946_2C6BE434.pnach) [SLPM-65984](PCSX2%20Patches/SLPM-65984_60FE139C.pnach) [SLUS-20946](PCSX2%20Patches/SLUS-20946_399A49CA.pnach) | |
 | Grand Theft Auto - Vice City Stories | [SLUS-21590](PCSX2%20Patches/SLUS-21590_4F32A11F.pnach) | |
 | GTC Africa | [SLPM-62258](PCSX2%20Patches/SLPM-62258_8AC3F5D6.pnach) [SLES-50472](PCSX2%20Patches/SLES-50472_51D8A6A9.pnach) | |
+| Gun | [SLUS-21139](PCSX2%20Patches/SLUS-21139_4B80628D.pnach) [SLES-53523](PCSX2%20Patches/SLES-53523_98D7BF5E.pnach) ||
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) [SLUS-21020](PCSX2%20Patches/SLUS-21020_83C9749E.pnach) |  |
 | Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) [SLUS-20817](PCSX2%20Patches/SLUS-20817_2F5EB1FF.pnach) |  |
 | Heatseeker | [SLES-54346](PCSX2%20Patches/SLES-54346_816CB6E8.pnach) [SLES-54596](PCSX2%20Patches/SLES-54596_8761B0E5.pnach) [SLUS-21570](PCSX2%20Patches/SLUS-21570_B96DD9F4.pnach) | |
@@ -223,7 +225,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Quake III - Revolution | [SLES-50126](PCSX2%20Patches/SLES-50126_2064ACE6.pnach) ||
 | Racing Simulation 3 | [SLES-51633](PCSX2%20Patches/SLES-51633_C7AA13F6.pnach) |  |
 | Rampage - Total Destruction | [SLES-53800](PCSX2%20Patches/SLES-53800_E389B921.pnach) ||
-| Red Dead Revolver | [SLES-52478](PCSX2%20Patches/SLES-52478_E2E67E23.pnach) ||
+| Red Dead Revolver | [SLUS-20500](PCSX2%20Patches/SLUS-20500_E169BAF8.pnach) [SLES-52478](PCSX2%20Patches/SLES-52478_E2E67E23.pnach) ||
 | Red Ninja - End of Honor | [SLUS-20714](PCSX2%20Patches/SLUS-20714_6B0F338D.pnach) | |
 | Red Star, The | [SLES-54581](PCSX2%20Patches/SLES-54581_C1FDACF2.pnach) ||
 | Reign of Fire | [SLES-50873](PCSX2%20Patches/SLES-50873_79464D5E.pnach) [SLUS-20556](PCSX2%20Patches/SLUS-20556_D10945CE.pnach) |  |
@@ -291,6 +293,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | TY the Tasmanian Tiger 2 - Bush Rescue | [SLUS-21057](PCSX2%20Patches/SLUS-21057_5A1BB2A1.pnach) [SLES-52709](PCSX2%20Patches/SLES-52709_B9FDB9EE.pnach) ||
 | TY the Tasmanian Tiger 3 - Night of the Quinkan | [SLUS-21253](PCSX2%20Patches/SLUS-21253_CA8872BA.pnach) [SLES-53636](PCSX2%20Patches/SLES-53636_64E8F1DC.pnach) ||
 | USA Racer | [SLES-50939](PCSX2%20Patches/SLES-50939_29DCD484.pnach) | |
+| Unreal Tournament | [SLUS-20034](PCSX2%20Patches/SLUS-20034_5751CAC1.pnach) ||
 | Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) [SLPM-65723](PCSX2%20Patches/SLPM-65723_960D74D7.pnach) [SLUS-20738](PCSX2%20Patches/SLUS-20738_901ECEFC.pnach) | |
 | Warriors. The | [SLUS-21215](PCSX2%20Patches/SLUS-21215_B99A75DE.pnach) | |
 | White Van Racer | [SLES-54550](PCSX2%20Patches/SLES-54550_82DDC773.pnach) | |
