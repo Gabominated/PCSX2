@@ -1,0 +1,6 @@
+gametitle=BloodRayne NTSC-U SLUS-20461 17244B57
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,003BBAF4,word,00000000

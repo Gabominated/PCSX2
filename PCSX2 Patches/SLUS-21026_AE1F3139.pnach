@@ -1,5 +1,10 @@
 gametitle=Battlefield 2 - Modern Combat NTSC-U SLUS-21026 AE1F3139
 
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,009854B4,word,00000000
+
 [Disable Blur]
 author=Gabominated
 description=Disable post-processing blur effect.

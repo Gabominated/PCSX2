@@ -1,0 +1,6 @@
+gametitle=Aeon Flux NTSC-U SLUS-21205 9FA0A1B0
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (300%).
+patch=1,EE,00616464,word,00000001

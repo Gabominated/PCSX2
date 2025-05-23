@@ -1,9 +1,10 @@
 gametitle=ObsCure II PAL-M SLES-54782 FC4AC115
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,2013D188,extended,2C420001 //2C420002
+patch=1,EE,0051B180,word,00000001
+//patch=1,EE,2013D188,extended,2C420001 //2C420002
 
 [480p Mode]
 gsinterlacemode=1

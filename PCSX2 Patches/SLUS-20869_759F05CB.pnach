@@ -1,0 +1,6 @@
+gametitle=Judge Dredd - Dredd vs. Death NTSC-U SLUS-20869 759F05CB
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,0033DDD8,word,00000000

@@ -1,0 +1,6 @@
+gametitle=Obscure - The Aftermath NTSC-U SLUS 21709 408DFB9C
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,0051A800,word,00000001

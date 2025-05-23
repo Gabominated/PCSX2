@@ -1,0 +1,6 @@
+gametitle=Judge Dredd - Dredd vs. Death PAL-E SLES-51650 6E900957
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,0033FA50,word,00000000

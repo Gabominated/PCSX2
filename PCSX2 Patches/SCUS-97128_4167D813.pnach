@@ -1,0 +1,7 @@
+gametitle=Drakan - The Ancients' Gates NTSC-U SCUS-97128 4167D813
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,E0010000,extended,004DC8A0
+patch=1,EE,204E9D18,extended,00000003

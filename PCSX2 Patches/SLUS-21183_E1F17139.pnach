@@ -1,0 +1,6 @@
+gametitle=Teen Titans NTSC-U SLUS-21183 E1F17139
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,003D9678,word,00000001
