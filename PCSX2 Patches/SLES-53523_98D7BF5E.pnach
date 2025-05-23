@@ -1,0 +1,6 @@
+gametitle=Gun PAL-M SLES-53523 98D7BF5E
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,0047CF28,word,00000000

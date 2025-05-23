@@ -1,0 +1,6 @@
+gametitle=BloodRayne 2 
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,0055F3DC,word,00000000

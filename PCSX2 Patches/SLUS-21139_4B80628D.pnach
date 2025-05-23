@@ -1,0 +1,6 @@
+gametitle=Gun NTSC-U SLUS-21139 4B80628D
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,0047D8B0,word,00000000
