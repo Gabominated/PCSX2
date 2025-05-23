@@ -3,6 +3,5 @@ gametitle=The Suffering NTSC-U SLUS-20636 0x0486AD78
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
-patch=1,EE,201F881C,extended,24420002
-patch=1,EE,E0010001,extended,00475204
-patch=1,EE,201F881C,extended,24420001
+patch=1,EE,E0010000,extended,00475204
+patch=1,EE,204751C4,extended,00000002
