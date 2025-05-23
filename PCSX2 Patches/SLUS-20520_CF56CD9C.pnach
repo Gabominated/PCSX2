@@ -4,4 +4,4 @@ gametitle=The Lord of the Rings - The Fellowship of the Ring NTSC-U SLUS-20520 C
 author=Gabominated
 description=Might need EE Overclock (180%).
 patch=1,EE,E0010000,extended,00390DAC
-patch=1,EE,2039BD7C,extended,00000000
+patch=1,EE,2039BD7C,extended,00000002
