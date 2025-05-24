@@ -1,6 +1,6 @@
-gametitle=Unreal Tournament NTSC-U SLUS-200341 5751CAC1
+gametitle=Unreal Tournament NTSC-U SLUS-20034 5751CAC1
 
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock (180%).
-patch=1,EE,003367A8,extended,00000000
+patch=1,EE,003367A8,word,00000000
