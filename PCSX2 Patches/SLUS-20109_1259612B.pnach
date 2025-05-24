@@ -1,0 +1,6 @@
+gametitle=Rune - Viking Warlord NTSC-U SLUS-20109 3A09007C 1259612B
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,00399268,word,00000001

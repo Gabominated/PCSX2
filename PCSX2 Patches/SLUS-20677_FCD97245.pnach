@@ -1,0 +1,6 @@
+gametitle=XIII NTSC-U SLUS-20677 FCD97245
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00437A9C,word,00000001

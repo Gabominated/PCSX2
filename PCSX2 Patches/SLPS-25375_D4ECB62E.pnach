@@ -1,0 +1,6 @@
+gametitle=XIII NTSC-J SLPS-25375 D4ECB62E
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,0043911C,word,00000001
