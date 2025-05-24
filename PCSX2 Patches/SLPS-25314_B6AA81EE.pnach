@@ -8,7 +8,8 @@ patch=1,EE,001401BC,word,14200014
 [Performance Fix]
 author=Gabominated
 description=Remove flashlight shadows to increase performance.
-patch=1,EE,001441f4,word,3c020000
+patch=1,EE,00285C48,word,00000000 //00000001
+//patch=1,EE,001441f4,word,3c020000
 
 [Disable Flicker Filter]
 author=Gabominated
