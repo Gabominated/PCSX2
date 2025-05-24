@@ -4,5 +4,5 @@ gametitle=Area 51 NTSC-U SLUS-20595 B59EF006
 author=Gabominated
 description=Might need EE Overclock.
 patch=1,EE,E0010000,extended,0059FE28
-patch=1,EE,205CE6F4,extended,00000001
+patch=1,EE,205CE6F4,extended,00000002
 
