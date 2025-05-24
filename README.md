@@ -236,6 +236,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | RoadKill | [SLUS-20687](PCSX2%20Patches/SLUS-20687_EBD245D0.pnach) | |
 | Rogue Trooper | [SLUS-21320](PCSX2%20Patches/SLUS-21320_2F63F868.pnach) [SLES-52921](PCSX2%20Patches/SLES-52921_03C8EA64.pnach) |  |
 | Run Like Hell - Hunt or Be Hunted | [SLUS-20037](PCSX2%20Patches/SLUS-20037_F802A575.pnach) | |
+| Rune - Viking Warlord | [SLUS-20109](PCSX2%20Patches/SLUS-20109_1259612B.pnach) |
 | Saint Seiya - The Hades | [SLES-54162](PCSX2%20Patches/SLES-54162_531AB6BC.pnach) |  |
 | Scaler | [SLES-52917](PCSX2%20Patches/SLES-52917_E54D237D.pnach) [SLES-52918](PCSX2%20Patches/SLES-52918_E54D237D.pnach) |  |
 | Scarface - The World is Yours | [SLES-54182](PCSX2%20Patches/SLES-54182_301A1B6E.pnach) [SLES-54183](PCSX2%20Patches/SLES-54183_9A660CC1.pnach) [SLES-54184](PCSX2%20Patches/SLES-54184_20F4FDF8.pnach) [SLES-54271](PCSX2%20Patches/SLES-54271_B69AF9A5.pnach) |  |
@@ -308,4 +309,5 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | X-Files, The - Resist or Serve | [SLUS-20179](PCSX2%20Patches/SLUS-20179_E79C7749.pnach) [SLES-52341](PCSX2%20Patches/SLES-52341_F4D70887.pnach) |
 | X-Men - The Official Game | [SLES-54066](PCSX2%20Patches/SLES-54066_DF217C0B.pnach) [SLUS-21107](PCSX2%20Patches/SLUS-21107_AEFCA55C.pnach) | |
 | Xena - Warrior Princess | [SLES-54541](PCSX2%20Patches/SLES-54541_59B36669.pnach) ||
+| XIII | [SLUS-20677](PCSX2%20Patches/SLUS-20677_FCD97245.pnach) [SLPS-25375](PCSX2%20Patches/SLPS-25375_D4ECB62E.pnach) ||
 | Yakuza | [SLES-54171](PCSX2%20Patches/SLES-54171_D3F182A3.pnach) | |
