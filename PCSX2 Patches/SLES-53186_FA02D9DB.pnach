@@ -1,0 +1,6 @@
+gametitle=International Super Karts PAL-E SLES-53186 FA02D9DB
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,0025ACF8,word,00000000
