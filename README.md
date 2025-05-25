@@ -51,6 +51,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Army Men - Soldiers of Misfortune | [SLUS-21831](PCSX2%20Patches/SLUS-21831_4BB40113.pnach) | |
 | Autobahn Raser - Das Spiel zum Film | [SLES-52459](PCSX2%20Patches/SLES-52459_F2CC17D2.pnach) |  |
 | Autobahn Raser IV | [SLES-51009](PCSX2%20Patches/SLES-51009_284C6B75.pnach) |  |
+| Batman - Vengeance | [SLUS-20226](PCSX2%20Patches/SLUS-20226_B13B67CD.pnach) ||
 | Battlefield 2 - Modern Combat | [SLUS-21026](PCSX2%20Patches/SLUS-21026_AE1F3139.pnach) | |
 | Beach King Stunt Racer | [SLES-51383](PCSX2%20Patches/SLES-51383_5162BCCA.pnach) |  |
 | Ben Hur - Blood of Braves | [SLES-51350](PCSX2%20Patches/SLES-51350_E949C93F.pnach) |  |
@@ -296,6 +297,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | USA Racer | [SLES-50939](PCSX2%20Patches/SLES-50939_29DCD484.pnach) | |
 | Unreal Tournament | [SLUS-20034](PCSX2%20Patches/SLUS-20034_5751CAC1.pnach) ||
 | Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) [SLPM-65723](PCSX2%20Patches/SLPM-65723_960D74D7.pnach) [SLUS-20738](PCSX2%20Patches/SLUS-20738_901ECEFC.pnach) | |
+| Wild Wild Racing | [SLES-50009](PCSX2%20Patches/SLES-50009_04FE3778.pnach) ||
 | Warriors. The | [SLUS-21215](PCSX2%20Patches/SLUS-21215_B99A75DE.pnach) | |
 | White Van Racer | [SLES-54550](PCSX2%20Patches/SLES-54550_82DDC773.pnach) | |
 | World Destruction League - War Jets | [SLES-50262](PCSX2%20Patches/SLES-50262_60BCC078.pnach) [SLUS-20007](PCSX2%20Patches/SLUS-20007_70C924CC.pnach) | |
