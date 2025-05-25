@@ -1,0 +1,6 @@
+gametitle=Wild Wild Racing PAL-M SLES-50009 04FE3778
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00378E94,word,00000001

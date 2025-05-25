@@ -1,0 +1,6 @@
+gametitle=Batman - Vengeance NTSC-U SLUS-20226 B13B67CD
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00787810,word,00000001
