@@ -212,7 +212,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Paris-Dakar 2 | [SLES-50879](PCSX2%20Patches/SLES-50879_CB4EBD11.pnach) |  |
 | Peter Jackson's King Kong - The Official Game of the Movie | [SLES-53703](PCSX2%20Patches/SLES-53703_2D0F72D6.pnach) ||
 | Pirates - The Legend of Black Kat | [SLES-50680](PCSX2%20Patches/SLES-50680_E677B8F1.pnach) | |
-| Pirates of the Caribbean - The Legend of Jack Sparrow | [SLUS-21110](PCSX2%20Patches/SLUS-21110_632E3976.pnach) |
+| Pirates of the Caribbean - The Legend of Jack Sparrow | [SLUS-21110](PCSX2%20Patches/SLUS-21110_632E3976.pnach) [SLES-54083](PCSX2%20Patches/SLES-54083_7E186593.pnach) |
 | Polar Express, The | [SLES-52685](PCSX2%20Patches/SLES-52685_C72FEF17.pnach) [SLUS-20989](PCSX2%20Patches/SLUS-20989_4AC5A94B.pnach) | |
 | Power Rangers - Dino Thunder | [SLES-52886](PCSX2%20Patches/SLES-52886_381F8A7B.pnach) [SLUS-20944](PCSX2%20Patches/SLUS-20944_024BF3B4.pnach) |  |
 | Predator - Concrete Jungle | [SLES-53091](PCSX2%20Patches/SLES-53091_AD18AE4F.pnach) |  |
