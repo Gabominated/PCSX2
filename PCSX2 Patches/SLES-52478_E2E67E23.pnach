@@ -8,10 +8,4 @@ patch=1,EE,004FD20C,word,00000001
 [Disable Blur]
 author=Gabominated
 description=Disable the Post-Processing blur effect.
-patch=1,EE,004C7200,word,00000000 //0C0C42BA
-
-[Disable Blur optional]
-author=Gabominated
-description=Disable the Post-Processing blur effect.
-patch=1,EE,004C71F8,word,03e00008 //27BDFFF0
-patch=1,EE,004C71FC,word,00000000 //FFBF0000
+patch=1,EE,00310B54,word,00000000
