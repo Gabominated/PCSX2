@@ -3,4 +3,5 @@ gametitle=Polar Express, The NTSC-U SLUS-20989 4AC5A94B
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
-patch=1,EE,00352AB8,word,24020002 //24020001
+patch=1,EE,10514274,extended,00000001 //03E80002
+//patch=1,EE,00352AB8,word,24020002 //24020001

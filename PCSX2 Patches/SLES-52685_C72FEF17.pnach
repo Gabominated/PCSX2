@@ -3,4 +3,5 @@ gametitle=Polar Express, The PAL-M SLES-52685 C72FEF17
 [50 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
-patch=1,EE,003528F8,word,24020002 //24020001
+patch=1,EE,10514174,extended,00000001 //03E80002
+//patch=1,EE,003528F8,word,24020002 //24020001

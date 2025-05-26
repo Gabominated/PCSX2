@@ -3,4 +3,5 @@ gametitle=Bigs, The NTSC-U SLUS-21623 81FF8198
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,003F490C,word,2c420001 //2c420002
+patch=1,EE,00595604,word,00000001
+//patch=1,EE,003F490C,word,2c420001 //2c420002
