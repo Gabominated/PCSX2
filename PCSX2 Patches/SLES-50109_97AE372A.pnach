@@ -2,16 +2,16 @@ gametitle=7 Blades PAL-M SLES-50109 97AE372A
 
 [Widescreen 16:9]
 gsaspectratio=16:9
-author=Arapapa & Gabominated
+author=Gabominated
 description=Widescreen hack
-patch=1,EE,002EF7EC,word,3C013FAB //3C013F80 Y-FOV 3C013FAB
-patch=1,EE,002EF970,word,3C0143c0 //3C014400 zoom a by Gabominated
-patch=1,EE,002EF978,word,3C01433f //3C014380 zoom b by Gabominated
+patch=1,EE,00552674,word,3FAB0000 //3F800000
+patch=1,EE,002EF970,word,3C0143c0 //3C014400
+patch=1,EE,002EF978,word,3C01433f //3C014380
 
 [50 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,203BE838,extended,24020000 //24020001 fps
-patch=1,EE,2051bb2c,extended,3E99999a //3F19999a speed
-patch=1,EE,2035e8e8,extended,3c013f00 //3c013f80 map A
-patch=1,EE,2036565c,extended,3c013f00 //3c013f80 map B
+patch=1,EE,00552670,word,00000100 //00000200
+patch=1,EE,0051bb2c,word,3E99999a //3F19999a
+patch=1,EE,0035e8e8,word,3c013f00 //3c013f80
+patch=1,EE,0036565c,word,3c013f00 //3c013f80
