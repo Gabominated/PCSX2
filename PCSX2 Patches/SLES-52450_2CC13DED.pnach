@@ -1,0 +1,6 @@
+gametitle=Serious Sam - Next Encounter PAL-M SLES-52450 2CC13DED
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00344338,word,00000001
