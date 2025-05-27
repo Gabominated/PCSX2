@@ -247,6 +247,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Second Sight | [SLES-52670](PCSX2%20Patches/SLES-52670_65087F31.pnach) [SLUS-21033](PCSX2%20Patches/SLUS-21033_16E3BE78.pnach) |  |
 | Secret Saturdays, The - Beasts of the 5th Sun | [SLES-55546](PCSX2%20Patches/SLES-55546_B6BA0E59.pnach) ||
 | Secret Service | [SLES-55330](PCSX2%20Patches/SLES-55330_5AC50849.pnach) [SLUS-21836](PCSX2%20Patches/SLUS-21836_5AA9405C.pnach) | |
+| Serious Sam - Next Encounter | [SLUS-20907](PCSX2%20Patches/SLUS-20907_155466E8.pnach) [SLES-52450](PCSX2%20Patches/SLES-52450_2CC13DED.pnach) ||
 | Shadow Man - 2econd Coming | [SLES-50446](PCSX2%20Patches/SLES-50446_48553EAF.pnach) |  |
 | Short Track Racing - Trading Paint | [SLUS-21857](PCSX2%20Patches/SLUS-21857_C56B0941.pnach) ||
 | Simpsons Skateboarding, The | [SLES-51361](PCSX2%20Patches/SLES-51361_D3FB54E5.pnach) ||
