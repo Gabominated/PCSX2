@@ -1,0 +1,6 @@
+gametitle=The Ant Bully NTSC-U SLUS-21415 5B555F88
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,004086F0,word,00000000

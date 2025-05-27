@@ -1,0 +1,6 @@
+gametitle=Monster House NTSC-U SLUS-21400 1AFD7469
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,003D2530,word,00000000

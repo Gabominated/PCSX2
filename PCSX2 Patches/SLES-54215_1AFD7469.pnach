@@ -1,0 +1,11 @@
+gametitle=Monster House PAL-M SLES-54215 1AFD7469
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,003D2530,word,00000000
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,0015A454,word,3C040002
