@@ -47,6 +47,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Aliens in the Attic | [SLES-55532](PCSX2%20Patches/SLES-55532_3AAD52A4.pnach) ||
 | Aliens Versus Predator - Extinction | [SLES-51792](PCSX2%20Patches/SLES-51792_64DA75B2.pnach) [SLUS-20147](PCSX2%20Patches/SLUS-20147_64DA78A3.pnach) |  |
 | Alone in the Dark | [SLES-55207](PCSX2%20Patches/SLES-55207_68FC3CF9.pnach) | |
+| Ant Bully, The | [SLUS-21415](PCSX2%20Patches/SLUS-21415_E10A865B.pnach) |
 | Area 51 | [SLUS-20595](PCSX2%20Patches/SLUS-20595_B59EF006.pnach) | |
 | Army Men - Soldiers of Misfortune | [SLUS-21831](PCSX2%20Patches/SLUS-21831_4BB40113.pnach) | |
 | Autobahn Raser - Das Spiel zum Film | [SLES-52459](PCSX2%20Patches/SLES-52459_F2CC17D2.pnach) |  |
@@ -192,6 +193,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Mercenaries 2 - World in Flames | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) [SLES-54997](PCSX2%20Patches/SLES-54997_A97B93F7.pnach) [SLES-55001](PCSX2%20Patches/SLES-55001_A97C9BFD.pnach) | |
 | Mercenaries - Playground of Destruction | [SLUS-20932](PCSX2%20Patches/SLUS-20932_23510F99.pnach) [SLES-52588](PCSX2%20Patches/SLES-52588_85931FDF.pnach) [SLES-53008](PCSX2%20Patches/SLES-53008_CBA0623D.pnach) | |
 | Metal Slug 3D | [SLPS-25650](PCSX2%20Patches/SLPS-25650_7D8D8BFA.pnach) | |
+| Monster House | [SLUS-21400](PCSX2%20Patches/SLUS-21400_1AFD7469.pnach) [SLES-54215](PCSX2%20Patches/SLES-54215_1AFD7469.pnach) |
 | Monster Hunter | [SLES-52707](PCSX2%20Patches/SLES-52707_6E8BAF03.pnach) | |
 | Monster Hunter 2 | [SLPM-66280](PCSX2%20Patches/SLPM-66280_2F0E94A1.pnach) | |
 | Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) | |
