@@ -1,4 +1,4 @@
-gametitle=Pirates of the Caribbean - The Legend of Jack Sparrow PAL-E SLES-54083 7E186593
+gametitle=Pirates of the Caribbean - The Legend of Jack Sparrow PAL-M SLES-54237 E6C2F211 (v2.00)
 
 [50/60 FPS]
 author=Gabominated
@@ -8,5 +8,5 @@ patch=1,EE,019B43C0,word,00000001
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start. FMVs skip.
-patch=0,EE,0038320C,word,24030002
+patch=0,EE,003831E4,word,24030002
 patch=0,EE,0049b090,word,000001c0
