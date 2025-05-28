@@ -1,0 +1,6 @@
+gametitle=Disney's Kim Possible - What's the Switch? NTSC-U SLUS-21437 86B490D1
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00308A70,word,00000000
