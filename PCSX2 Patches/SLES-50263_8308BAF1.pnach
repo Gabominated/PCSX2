@@ -1,0 +1,6 @@
+gametitle=Portal Runner PAL-E SLES-50263 8308BAF1
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,0027FD54,word,00000001
