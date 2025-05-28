@@ -1,0 +1,11 @@
+gametitle=Happy Feet PAL-M SLES-54421 3FFB22A6
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,004141F0,word,00000000
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,0015B5E4,word,3C040002

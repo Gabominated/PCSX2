@@ -1,0 +1,6 @@
+gametitle=Happy Feet NTSC-U SLUS-21455 BAFEFC57
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,004140F0,word,00000000
