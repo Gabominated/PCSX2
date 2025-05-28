@@ -145,6 +145,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | GTC Africa | [SLPM-62258](PCSX2%20Patches/SLPM-62258_8AC3F5D6.pnach) [SLES-50472](PCSX2%20Patches/SLES-50472_51D8A6A9.pnach) | |
 | Gun | [SLUS-21139](PCSX2%20Patches/SLUS-21139_4B80628D.pnach) [SLES-53523](PCSX2%20Patches/SLES-53523_98D7BF5E.pnach) ||
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) [SLUS-21020](PCSX2%20Patches/SLUS-21020_83C9749E.pnach) |  |
+| Happy Feet | [SLUS-21455](PCSX2%20Patches/SLUS-21455_BAFEFC57.pnach) [SLES-54421](PCSX2%20Patches/SLES-54421_3FFB22A6.pnach) |
 | Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) [SLUS-20817](PCSX2%20Patches/SLUS-20817_2F5EB1FF.pnach) |  |
 | Heatseeker | [SLES-54346](PCSX2%20Patches/SLES-54346_816CB6E8.pnach) [SLES-54596](PCSX2%20Patches/SLES-54596_8761B0E5.pnach) [SLUS-21570](PCSX2%20Patches/SLUS-21570_B96DD9F4.pnach) | |
 | Heroes of the Pacific | [SLES-53441](PCSX2%20Patches/SLES-53441_F8E600FC.pnach) [SLUS-20943](PCSX2%20Patches/SLUS-20943_83FB515E.pnach) |  |
