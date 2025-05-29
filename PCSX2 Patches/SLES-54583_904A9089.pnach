@@ -1,0 +1,6 @@
+gametitle=Surf's Up PAL-M SLES-54583 904A9089
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00789D30,word,00000001

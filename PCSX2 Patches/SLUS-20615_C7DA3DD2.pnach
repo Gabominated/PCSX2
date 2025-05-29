@@ -1,0 +1,6 @@
+gametitle=Fantastic 4 NTSC-U SLUS-20615 C7DA3DD2
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,0031F2F0,word,00000001

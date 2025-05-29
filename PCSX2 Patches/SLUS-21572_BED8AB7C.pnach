@@ -1,0 +1,6 @@
+gametitle=Surf's Up NTSC-U SLUS-21572 BED8AB7C
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00787DB0,word,00000001

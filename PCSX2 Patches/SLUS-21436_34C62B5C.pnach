@@ -1,0 +1,6 @@
+gametitle=Just Cause NTSC-U SLUS-21436 34C62B5C
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,007BEFDC,word,3EC00000
