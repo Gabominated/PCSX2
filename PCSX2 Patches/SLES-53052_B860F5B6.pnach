@@ -1,0 +1,7 @@
+gametitle=Robots PAL-M SLES-53052 B860F5B6
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00196280,word,1400000A
+patch=1,EE,00349AB0,word,00000001
