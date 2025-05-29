@@ -118,6 +118,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Fahrenheit / Indigo Prophecy | [SLES-53540](PCSX2%20Patches/SLES-53540_8191D10A.pnach) [SLUS-21196](PCSX2%20Patches/SLUS-21196_A7A37EB8.pnach) |  |
 | Fairly OddParents, The - Shadow Showdown | [SLUS-20880](PCSX2%20Patches/SLUS-20880_CC955736.pnach) | |
 | Family Guy - The Video Game | [SLES-54126](PCSX2%20Patches/SLES-54126_E393DFE5.pnach) ||
+| Fantastic 4 | [SLUS-20615](PCSX2%20Patches/SLUS-20615_C7DA3DD2.pnach) |
 | Fatal Frame II / Project Zero 2 - Crimson Butterfly | [SLES-52384](PCSX2%20Patches/SLES-52384_9D87F3AF.pnach) [SLUS-20766](PCSX2%20Patches/SLUS-20766_9A51B627.pnach) |  |
 | FIFA Street 2 | [SLES-53797](PCSX2%20Patches/SLES-53797_A0DC603B.pnach) ||
 | FIFA Street | [SLES-53064](PCSX2%20Patches/SLES-53064_FCDD79BB.pnach) ||
@@ -170,6 +171,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Jumper - Griffin's Story | [SLES-55129](PCSX2%20Patches/SLES-55129_08944D35.pnach) [SLUS-21730](PCSX2%20Patches/SLUS-21730_E164CB28.pnach) | |
 | Jurassic - The Hunted | [SLUS-21907](PCSX2%20Patches/SLUS-21907_EFE4448F.pnach) | |
 | Jurassic Park - Operation Genesis | [SLUS-20380](PCSX2%20Patches/SLUS-20380_A99B8FE7.pnach) | |
+| Just Cause | [SLUS-21436](PCSX2%20Patches/SLUS-21436_34C62B5C.pnach) |
 | Kaan Barbarian's Blade | [SLES-52179](PCSX2%20Patches/SLES-52179_973793E8.pnach) ||
 | Kill.switch | [SCES-52124](PCSX2%20Patches/SCES-52124_91A65EAE.pnach) |  |
 | Killzone | [SCUS-97402](PCSX2%20Patches/SCUS-97402_CAAEC49C.pnach) [SCES-52004](PCSX2%20Patches/SCES-52004_6624A78C.pnach) | |
@@ -277,6 +279,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Street Cricket Champions 2 | [SCES-55663](PCSX2%20Patches/SCES-55663_44755604.pnach) |  |
 | Street Cricket Champions | [SCES-55591](PCSX2%20Patches/SCES-55591_B83D59DA.pnach) ||
 | Stuart Little 3 - Big Photo Adventure | [SLUS-21341](PCSX2%20Patches/SLUS-21341_4C7A8693.pnach) [SCES-53422](PCSX2%20Patches/SCES-53422_D1003514.pnach) | |
+| Surf's Up | [SLUS-21572](PCSX2%20Patches/SLUS-21572_BED8AB7C.pnach) [SLES-54583](PCSX2%20Patches/SLES-54583_904A9089.pnach) |
 | Suffering, The | [SLUS-20636](PCSX2%20Patches/SLUS-20636_0486AD78.pnach) ||
 | Suffering, The - Ties That Bind | [SLUS-21189](PCSX2%20Patches/SLUS-21189_C2144770.pnach) ||
 | Super PickUps | [SLUS-21450](PCSX2%20Patches/SLUS-21450_D304FA88.pnach) | |
