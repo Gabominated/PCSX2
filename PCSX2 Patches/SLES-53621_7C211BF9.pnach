@@ -1,0 +1,6 @@
+gametitle=Wallace & Gromit - The Curse of the Were-Rabbit PAL-M SLES-53621 7C211BF9
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00874BA0,word,3C9BA5E3 //3D1BA5E3

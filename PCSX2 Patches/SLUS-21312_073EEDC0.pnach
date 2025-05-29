@@ -1,0 +1,6 @@
+gametitle=Wallace & Gromit - The Curse of the Were-Rabbit NTSC-U SLUS-21312 073EEDC0
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00874BA0,word,3C75C28F //3CF5C28F
