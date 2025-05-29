@@ -1,0 +1,6 @@
+gametitle=Manhunt 2 NTSC-U SLUS-21613 3B0ADBEF
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,005BF7B8,word,00000001

@@ -1,0 +1,6 @@
+gametitle=Manhunt 2 PAL-M SLES-54819 887AD3A0
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,005BF938,word,00000001
