@@ -244,6 +244,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Resident Evil 4 | [SLES-53702](PCSX2%20Patches/SLES-53702_6BA2F6B9.pnach) [SLUS-21134](PCSX2%20Patches/SLUS-21134_013E349D.pnach) |  |
 | Rise of the Kasai | [SCUS-97416](PCSX2%20Patches/SCUS-97416_EDE17E1B.pnach) |  |
 | Robin Hood's Quest | [SLES-54125](PCSX2%20Patches/SLES-54125_79F6D5C9.pnach) |  |
+| Robots | [SLUS-20942](PCSX2%20Patches/SLUS-20942_5931A065.pnach) [SLES-53052](PCSX2%20Patches/SLES-53052_B860F5B6.pnach) |
 | RoadKill | [SLUS-20687](PCSX2%20Patches/SLUS-20687_EBD245D0.pnach) | |
 | Rogue Trooper | [SLUS-21320](PCSX2%20Patches/SLUS-21320_2F63F868.pnach) [SLES-52921](PCSX2%20Patches/SLES-52921_03C8EA64.pnach) |  |
 | Run Like Hell - Hunt or Be Hunted | [SLUS-20037](PCSX2%20Patches/SLUS-20037_F802A575.pnach) | |
