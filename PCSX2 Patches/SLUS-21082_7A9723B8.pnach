@@ -1,0 +1,6 @@
+gametitle=The Chronicles of Narnia - The Lion, the Witch and the Wardrobe NTSC-U SLUS-21082 7A9723B8
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,003E3358,word,00000001
