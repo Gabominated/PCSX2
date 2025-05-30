@@ -70,6 +70,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Call of Duty 3 | [SLUS-21426](PCSX2%20Patches/SLUS-21426_5E843024.pnach) | |
 | Castleween | [SLES-51249](PCSX2%20Patches/SLES-51249_EE3BCA71.pnach) |  |
 | Chandragupta - Warrior Prince | [SCES-55662](PCSX2%20Patches/SCES-55662_DB2EE959.pnach) |  |
+| Chronicles of Narnia, The - Prince Caspian | [SLUS-21756](PCSX2%20Patches/SLUS-21756_E43E46E6.pnach) |
+| Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe | [SLUS-21082](PCSX2%20Patches/SLUS-21082_7A9723B8.pnach) |
 | Circus Maximus - Chariot Wars | [SLES-50935](PCSX2%20Patches/SLES-50935_8E0C5071.pnach) |  |
 | Clock Tower 3 | [SLES-51619](PCSX2%20Patches/SLES-51619_D9FC6310.pnach) |  |
 | Cold Fear | [SLUS-21047](PCSX2%20Patches/SLUS-21047_ECFBAB36.pnach) [SLES-53158](PCSX2%20Patches/SLES-53158_E38A0AB6.pnach) | |
@@ -281,6 +283,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Street Cricket Champions 2 | [SCES-55663](PCSX2%20Patches/SCES-55663_44755604.pnach) |  |
 | Street Cricket Champions | [SCES-55591](PCSX2%20Patches/SCES-55591_B83D59DA.pnach) ||
 | Stuart Little 3 - Big Photo Adventure | [SLUS-21341](PCSX2%20Patches/SLUS-21341_4C7A8693.pnach) [SCES-53422](PCSX2%20Patches/SCES-53422_D1003514.pnach) | |
+| Stuntman - Ignition | [SLUS-21626](PCSX2%20Patches/SLUS-21626_BFF1C010.pnach) |
 | Surf's Up | [SLUS-21572](PCSX2%20Patches/SLUS-21572_BED8AB7C.pnach) [SLES-54583](PCSX2%20Patches/SLES-54583_904A9089.pnach) |
 | Suffering, The | [SLUS-20636](PCSX2%20Patches/SLUS-20636_0486AD78.pnach) ||
 | Suffering, The - Ties That Bind | [SLUS-21189](PCSX2%20Patches/SLUS-21189_C2144770.pnach) ||
