@@ -1,0 +1,6 @@
+gameplay=Los 4 Fantásticos PAL-S SLES-53147 F67E4351
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,0031FC70,word,00000001
