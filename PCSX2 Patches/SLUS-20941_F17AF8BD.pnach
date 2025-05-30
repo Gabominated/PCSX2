@@ -1,0 +1,11 @@
+gametitle=The Incredible Hulk - Ultimate Destruction NTSC-U SLUS-20941 F17AF8BD
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,01D1E474,word,00000001
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=1,EE,005FA958,word,00000001

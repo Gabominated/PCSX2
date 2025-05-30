@@ -1,0 +1,16 @@
+gametitle=The Incredible Hulk - Ultimate Destruction PAL-M SLES-53430 6B3D50A5
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,01D204F4,word,00000001
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,005FC9D4,word,00000000
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=1,EE,005FC9D8,word,00000001
