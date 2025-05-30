@@ -1,0 +1,7 @@
+gametitle=Red Faction NTSC-U SLUS-20073 3EF4376C (v2.00)
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,002ACA94,word,00000001
+//patch=1,EE,00164FAC,word,24040001

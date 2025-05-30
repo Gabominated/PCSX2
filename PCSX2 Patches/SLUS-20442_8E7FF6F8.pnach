@@ -1,0 +1,6 @@
+gametitle=Red Faction II NTSC-U SLUS-20442 8E7FF6F8
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00335020,word,00000001
