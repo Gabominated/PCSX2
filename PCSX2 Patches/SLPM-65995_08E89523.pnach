@@ -3,7 +3,8 @@ gametitle=Dog's Life NTSC-J SLPM-65995 08E89523
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,007B7660,word,3C888889
+patch=1,EE,E0013D08,extended,007B7662
+patch=1,EE,207B7660,extended,3C88AB86
 
 [Disable Blur]
 author=Gabominated
