@@ -1,0 +1,6 @@
+gametitle=Big Idea's VeggieTales - LarryBoy and the Bad Apple NTSC-U SLUS-21440 4E838541
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,001002D0,word,3C013C4C

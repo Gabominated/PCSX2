@@ -1,0 +1,6 @@
+gametitle=Big Idea's VeggieTales - LarryBoy and the Bad Apple PAL-I SLES-54536 98733CA3
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,001002D0,word,3C013C75
