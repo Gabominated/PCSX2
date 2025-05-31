@@ -58,6 +58,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Ben Hur - Blood of Braves | [SLES-51350](PCSX2%20Patches/SLES-51350_E949C93F.pnach) |  |
 | Bigs, The | [SLUS-21623](PCSX2%20Patches/SLUS-21623_81FF8198.pnach) | |
 | Bigs 2, The | [SLUS-21860](PCSX2%20Patches/SLUS-21860_BC94F047.pnach) | |
+| Big Idea's VeggieTales - LarryBoy and the Bad Apple | [SLUS-21440](PCSX2%20Patches/SLUS-21440_4E838541.pnach) [SLES-54536](PCSX2%20Patches/SLES-54536_98733CA3.pnach) |
 | Bionicle Heroes | [SLES-54150](PCSX2%20Patches/SLES-54150_85495C17.pnach) [SLUS-21428](PCSX2%20Patches/SLUS-21428_EB6C8519.pnach) |  |
 | Black | [SLES-53886](PCSX2%20Patches/SLES-53886_ADDFF505.pnach) [SLES-54030](PCSX2%20Patches/SLES-54030_CAA04879.pnach) [SLPM-66354](PCSX2%20Patches/SLPM-66354_B3A9F9ED.pnach) [SLUS-21376](PCSX2%20Patches/SLUS-21376_5C891FF1.pnach) |  |
 | Blowout | [SLUS-20850](PCSX2%20Patches/SLUS-20850_71584BAC.pnach) ||
