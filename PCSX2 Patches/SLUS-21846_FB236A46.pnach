@@ -1,0 +1,12 @@
+gametitle=Sonic Unleashed NTSC-U SLUS-21846 FB236A46
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Widescreen hack
+patch=1,EE,00870048,word,3FD21DAF //3F9D9643
+
+[60 FPS]
+author=Gabominated
+description=Native 60 FPS. Might need EE overclock (130%).
+patch=0,EE,100d91a0,extended,00000000
