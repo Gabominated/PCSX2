@@ -9,7 +9,7 @@ patch=1,EE,00870048,word,3FD21DAF //3F9D9643
 [FMVs aspect ratio]
 author=Monsterjamp & Gabominated
 description=Use in combination with widescreen patch to fix aspect ratio in FMVs.
-patch=1,EE,E0010012,extended,00780A18
+patch=1,EE,E0020012,extended,00780A18
 patch=1,EE,20ED1A68,extended,43E00000
 patch=1,EE,20ED1A58,extended,00000000
 
