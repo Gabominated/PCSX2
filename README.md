@@ -276,6 +276,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Sniper Elite | [SLUS-21231](PCSX2%20Patches/SLUS-21231_395779C5.pnach) | |
 | Snow Queen Quest, The | [SLES-54120](PCSX2%20Patches/SLES-54120_4618791D.pnach) | |
 | Snow Rider | [SLES-53936](PCSX2%20Patches/SLES-53936_95DDD361.pnach) |  |
+| Sonic Unleashed | [SLUS-21846](PCSX2%20Patches/SLUS-21846_FB236A46.pnach) [SLES-55380](PCSX2%20Patches/SLES-55380_8C913264.pnach) |
 | Sopranos, The - Road to Respect | [SLES-54209](PCSX2%20Patches/SLES-54209_673AF937.pnach) ||
 | Spider-Man 2 | [SLES-52372](PCSX2%20Patches/SLES-52372_6B68932C.pnach) ||
 | Spider-Man 3 | [SLES-54724](PCSX2%20Patches/SLES-54724_C529B0AD.pnach) ||
