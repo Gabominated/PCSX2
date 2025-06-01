@@ -83,6 +83,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Conflict - Vietnam | [SLUS-21045](PCSX2%20Patches/SLUS-21045_CC6CBF20.pnach) [SLES-52630](PCSX2%20Patches/SLES-52630_F0206B09.pnach) ||
 | Constantine | [SLPM-65972](PCSX2%20Patches/SLPM-65972_25D968B0.pnach) [SLES-52872](PCSX2%20Patches/SLES-52872_715AD5FD.pnach)| |
 | Counter Terrorist Special Forces - Fire for Effect | [SLES-53046](PCSX2%20Patches/SLES-53046_EDE9DD5C.pnach) |  |
+| Coraline | [SLUS-21854](PCSX2%20Patches/SLUS-21854_64ABECC8.pnach) |
 | Corvette Evolution GT | [SLUS-21499](PCSX2%20Patches/SLUS-21499_45A8B64C.pnach) | |
 | Crazy Golf - World Tour | [SLES-53318](PCSX2%20Patches/SLES-53318_3EB41444.pnach) |  |
 | Crashed | [SLES-50843](PCSX2%20Patches/SLES-50843_0379B4F7.pnach) |  |
