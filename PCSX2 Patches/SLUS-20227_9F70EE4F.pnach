@@ -3,4 +3,5 @@ gametitle=Star Trek Voyager - Elite Force NTSC-U SLUS-20227 9F70EE4F
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock (180%).
-patch=1,EE,001FE2CC,word,3C020035 //3C020036
+patch=1,EE,003653C8,word,00000000
+//patch=1,EE,001FE2CC,word,3C020035 //3C020036

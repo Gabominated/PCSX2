@@ -3,4 +3,5 @@ gametitle=Star Trek Voyager - Elite Force PAL-M SLES-50738 624F11F1
 [50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock (180%).
-patch=1,EE,001FFD54,word,3C020036 //3C020037
+patch=1,EE,0036A6D8,word,00000000
+//patch=1,EE,001FFD54,word,3C020036 //3C020037
