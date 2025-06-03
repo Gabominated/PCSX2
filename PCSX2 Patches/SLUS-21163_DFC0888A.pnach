@@ -1,0 +1,6 @@
+gametitle=Brothers in Arms - Road to Hill 30 NTSC SLUS-21163 DFC0888A
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,006A4740,word,00000001

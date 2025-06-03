@@ -1,0 +1,6 @@
+gametitle=Grand Theft Auto III NTSC-U SLUS-20062 5E115FB6
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,004167F8,word,00000001

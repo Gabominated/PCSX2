@@ -1,0 +1,6 @@
+gametitle=Grand Theft Auto III PAL-M SLES-50330 581954FC (v1.60)
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,00417CFC,word,00000001
