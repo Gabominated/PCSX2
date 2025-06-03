@@ -66,6 +66,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Blood Will Tell | [SLUS-20782](PCSX2%20Patches/SLUS-20782_89954774.pnach) | |
 | BloodRayne | [SLUS-20461](PCSX2%20Patches/SLUS-20461_17244B57.pnach) ||
 | BloodRayne 2 | [SLUS-20862](PCSX2%20Patches/SLUS-20862_2AFA6F3A.pnach) [SLES-53832](PCSX2%20Patches/SLES-53832_436E4801.pnach) ||
+| Brothers in Arms - Road to Hill 30 | [SLUS-21163](PCSX2%20Patches/SLUS-21163_DFC0888A.pnach) |
 | Bully / Canis Canem Edit | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
 | Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) |  |
 | Call of Duty 3 | [SLUS-21426](PCSX2%20Patches/SLUS-21426_5E843024.pnach) | |
@@ -145,6 +146,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | God of War | [SCUS-97399](PCSX2%20Patches/SCUS-97399_D6385328.pnach) | |
 | Godzilla - Unleashed | [SLUS-21707](PCSX2%20Patches/SLUS-21707_179470B4.pnach)
 | Golden Compass, The | [SLES-54996](PCSX2%20Patches/SLES-54996_73351A86.pnach) [SLES-55012](PCSX2%20Patches/SLES-55012_73351A86.pnach) [SLUS-21677](PCSX2%20Patches/SLUS-21677_E514BA51.pnach) | |
+| Grand Theft Auto III | [SLUS-20062](PCSX2%20Patches/SLUS-20062_5E115FB6.pnach) [SLES-50330](PCSX2%20Patches/SLES-50330_581954FC.pnach) |
 | Grand Theft Auto - San Andreas | [SLES-52541](PCSX2%20Patches/SLES-52541_A1B3F232.pnach) [SLUS-20946](PCSX2%20Patches/SLUS-20946_2C6BE434.pnach) [SLPM-65984](PCSX2%20Patches/SLPM-65984_60FE139C.pnach) [SLUS-20946](PCSX2%20Patches/SLUS-20946_399A49CA.pnach) | |
 | Grand Theft Auto - Vice City Stories | [SLUS-21590](PCSX2%20Patches/SLUS-21590_4F32A11F.pnach) | |
 | GTC Africa | [SLPM-62258](PCSX2%20Patches/SLPM-62258_8AC3F5D6.pnach) [SLES-50472](PCSX2%20Patches/SLES-50472_51D8A6A9.pnach) | |
