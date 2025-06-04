@@ -8,5 +8,6 @@ patch=1,EE,0010b998,word,3c013f17 //3c013f00 zoom/fov fix
 
 [50 FPS]
 author=Gabominated
-description=Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
-patch=1,EE,001934BC,word,14600009 //10600009
+description=Might need EE Overclock (130%).
+patch=1,EE,00339DA0,word,00000000
+//patch=1,EE,001934BC,word,14600009 //10600009
