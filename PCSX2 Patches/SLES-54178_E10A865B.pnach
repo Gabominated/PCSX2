@@ -1,0 +1,11 @@
+gametitle=The Ant Bully PAL-E SLES-54178 E10A865B
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,004086F0,word,00000000
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,0015B464,word,3C040002
