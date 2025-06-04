@@ -1,6 +1,6 @@
-gametitle=Paris Dakar Rally SLUS-20324 EC3E8E86
+gametitle=Paris Dakar Rally NTSC-U SLUS-20324 EC3E8E86
 
 [60 FPS]
-author=asasega
-description=Might need EE Overclock.
-patch=1,EE,0012A164,word,2C420001 //2C420002
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,002DF2E8,word,00000001
