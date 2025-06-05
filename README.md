@@ -35,6 +35,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | 007 - From Russia with Love | [SLES-53553](PCSX2%20Patches/SLES-53553_22DC8EAC.pnach) ||
 | 007 - Quantum of Solace  | [SLES-55345](PCSX2%20Patches/SLES-55345_B43AC68E.pnach) | |
 | 187 - Ride or Die | [SLUS-21116](PCSX2%20Patches/SLUS-21116_FD2CF599.pnach) [SLES-52276](PCSX2%20Patches/SLES-52276_83BE7C8E.pnach) ||
+| 24 - The Game | [SLUS-21268](PCSX2%20Patches/SLUS-21268_F1C7201E.pnach) | 
 | 4x4 Evo 2 | [SLES-51199](PCSX2%20Patches/SLES-51199_96C83B94.pnach) ||
 | 7 Blades | [SLES-50109](PCSX2%20Patches/SLES-50109_97AE372A.pnach) |  |
 | 7 Sins | [SLES-53280](PCSX2%20Patches/SLES-53280_52DEB87B.pnach) |  |
@@ -219,6 +220,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | MX Rider | [SLES-50132](PCSX2%20Patches/SLES-50132_EB94A7B4.pnach) [SLUS-20234](PCSX2%20Patches/SLUS-20234_FE0E9B39.pnach) |  |
 | MX Superfly | [SLES-51038](PCSX2%20Patches/SLES-51038_9B23B5F1.pnach) [SLUS-20381](PCSX2%20Patches/SLUS-20381_0CD3C2F6.pnach) |  |
 | MX Unleashed | [SLES-52043](PCSX2%20Patches/SLES-52043_DBA1250E.pnach) [SLUS-20767](PCSX2%20Patches/SLUS-20767_9866FE54.pnach) |  |
+| MX vs. ATV Unleashed | [SLUS-21104](PCSX2%20Patches/SLUS-21104_95BB1901.pnach) [SLES-53106](PCSX2%20Patches/SLES-53106_D7AE31F4.pnach) |
+| MX vs. ATV Untamed | [SLUS-21701](PCSX2%20Patches/SLUS-21701_08FE7DFD.pnach) |
 | Nitro Bike | [SLES-55192](PCSX2%20Patches/SLES-55192_B2367FD0.pnach) [SLUS-21738](PCSX2%20Patches/SLUS-21738_F5FE754D.pnach) |  |
 | Obscure - II / The Aftermath | [SLUS-21709](PCSX2%20Patches/SLUS-21709_408DFB9C.pnach) [SLES-54782](PCSX2%20Patches/SLES-54782_FC4AC115.pnach) |  |
 | Okami | [SLES-54439](PCSX2%20Patches/SLES-54439_891F223F.pnach) [SLPM-66375](PCSX2%20Patches/SLPM-66375_C5DEFEA0.pnach) [SLUS-21115](PCSX2%20Patches/SLUS-21115_21068223.pnach) | |
