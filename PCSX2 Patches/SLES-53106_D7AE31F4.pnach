@@ -1,0 +1,8 @@
+gametitle=MX vs. ATV Unleashed PAL-E SLES-53106 D7AE31F4
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,E0010000,extended,00391178
+patch=1,EE,10406A50,extended,00000001
+//patch=1,EE,1073133C,extended,00000002

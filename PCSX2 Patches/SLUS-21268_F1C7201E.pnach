@@ -1,0 +1,7 @@
+gametitle=24 - The Game NTSC-U SLUS-21268 F1C7201E
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,E0010000,extended,0058EEF3
+patch=1,EE,105FBFD0,extended,00000001

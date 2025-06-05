@@ -1,0 +1,8 @@
+gametitle=MX vs. ATV Unleashed NTSC-U SLUS-21104 95BB1901
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,E0010000,extended,00395AB8
+patch=1,EE,1040C190,extended,00000001
+//patch=1,EE,10799FBC,extended,00000002

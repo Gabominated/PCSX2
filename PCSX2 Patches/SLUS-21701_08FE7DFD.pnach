@@ -1,0 +1,8 @@
+gametitle=MX vs. ATV - Untamed NTSC-U SLUS-21701 08FE7DFD
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,E0010000,extended,003B3878
+patch=1,EE,10421DD0,extended,00000001
+//patch=1,EE,107E710C,extended,00000002
