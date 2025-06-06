@@ -3,4 +3,5 @@ gametitle=Autobahn Raser IV PAL-G SLES-51009 284C6B75
 [50 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,0013D210,word,24020000 //24020001
+patch=1,EE,001D2DD4,word,24020001 //24020002
+//patch=1,EE,0013D210,word,24020000 //24020001

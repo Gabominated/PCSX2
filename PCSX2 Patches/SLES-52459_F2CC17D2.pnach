@@ -3,4 +3,5 @@ gametitle=Autobahn Raser - Das Spiel zum Film PAL-G SLES-52459 F2CC17D2
 [50 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,00136E80,word,24020000 //24020001
+patch=1,EE,00253BD8,word,00000000
+//patch=1,EE,00136E80,word,24020000 //24020001

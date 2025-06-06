@@ -3,4 +3,5 @@ gametitle=USA Racer PAL-M SLES-50939 29DCD484
 [50 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,00140C50,word,24020000 //24020001
+patch=1,EE,0025463C,word,2C420000 //2C420001
+//patch=1,EE,00140C50,word,24020000 //24020001
