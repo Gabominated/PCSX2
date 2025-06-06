@@ -3,4 +3,5 @@ gametitle=Alarm for Cobra 11 PAL-E SLES-52063 77E924AC
 [50 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,00136AC0,word,24020000 //24020001
+patch=1,EE,0025B3F8,word,24020000
+//patch=1,EE,00136AC0,word,24020000 //24020001
