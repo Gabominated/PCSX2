@@ -1,0 +1,11 @@
+gametitle=Ed, Edd n Eddy - The Mis-Edventures PAL-E SLES-53747 CBC1955F
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,003F2220,word,00000000
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,0015FFB0,word,14400004
