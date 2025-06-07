@@ -1,5 +1,10 @@
 gametitle=DreamWorks Kung Fu Panda NTSC-U SLUS-21757 436D2C83
 
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,0057583C,word,24630002
+
 [Disable Filter]
 author=Gabominated
 description=Disable brown filter and reducing blur.
