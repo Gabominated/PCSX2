@@ -1,0 +1,6 @@
+gametitle=DreamWorks Bee Movie Game NTSC-U SLUS-21622 07717046
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,0043EC20,word,00000001
