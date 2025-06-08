@@ -3,4 +3,5 @@ gametitle=Snow Rider PAL-E SLES-53936 95DDD361
 [50 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,0014E4F4,word,1460000A //1060000A
+patch=1,EE,005D7D78,word,00000001
+//patch=1,EE,0014E4F4,word,1460000A //1060000A
