@@ -111,6 +111,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Dora the Explorer - Dora Saves the Mermaids | [SLES-55112](PCSX2%20Patches/SLES-55112_4AF82486.pnach) [SLES-55288](PCSX2%20Patches/SLES-55288_58026BD0.pnach) [SLUS-21717](PCSX2%20Patches/SLUS-21717_3340FC2C.pnach) |  |
 | Dora the Explorer - Dora's Big Birthday Adventure | [SLUS-21944](PCSX2%20Patches/SLUS-21944_EAEDE6E8.pnach) | |
 | Drakan - The Ancients' Gates | [SCUS-97128](PCSX2%20Patches/SCUS-97128_4167D813.pnach) ||
+| DreamWorks Bee Movie Game | [SLUS-21622](PCSX2%20Patches/SLUS-21622_07717046.pnach) |
 | DreamWorks Kung Fu Panda | [SLUS-21757](PCSX2%20Patches/SLUS-21757_436D2C83.pnach) ||
 | DreamWorks Shrek - Smash n' Crash Racing | [SLES-54553](PCSX2%20Patches/SLES-54553_7C8125F4.pnach) [SLUS-21392](PCSX2%20Patches/SLUS-21392_34B473E6.pnach) | |
 | DreamWorks Over the Hedge | [SLES-53866](PCSX2%20Patches/SLES-53866_290C8D74.pnach) ||
