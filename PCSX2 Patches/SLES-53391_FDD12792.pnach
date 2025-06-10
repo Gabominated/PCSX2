@@ -1,0 +1,8 @@
+gametitle=Ultimate Spider-Man PAL-M SLES-53391 FDD12792
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,E0010000,extended,006B75A0
+patch=1,EE,1069FE10,extended,00000001
+patch=1,EE,206F99B0,extended,3C888889
