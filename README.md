@@ -326,6 +326,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | TY the Tasmanian Tiger 3 - Night of the Quinkan | [SLUS-21253](PCSX2%20Patches/SLUS-21253_CA8872BA.pnach) [SLES-53636](PCSX2%20Patches/SLES-53636_64E8F1DC.pnach) ||
 | USA Racer | [SLES-50939](PCSX2%20Patches/SLES-50939_29DCD484.pnach) | |
 | Unreal Tournament | [SLUS-20034](PCSX2%20Patches/SLUS-20034_5751CAC1.pnach) ||
+| Ultimate Spider-Man | [SLUS-20870](PCSX2%20Patches/SLUS-20870_FDD12792.pnach) [SLES-53391](PCSX2%20Patches/SLES-53391_FDD12792.pnach) |
 | Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) [SLPM-65723](PCSX2%20Patches/SLPM-65723_960D74D7.pnach) [SLUS-20738](PCSX2%20Patches/SLUS-20738_901ECEFC.pnach) | |
 | Wallace & Gromit - The Curse of the Were-Rabbit | [SLUS-21312](PCSX2%20Patches/SLUS-21312_073EEDC0.pnach) [SLES-53621](PCSX2%20Patches/SLES-53621_7C211BF9.pnach) |
 | Warriors. The | [SLUS-21215](PCSX2%20Patches/SLUS-21215_B99A75DE.pnach) | |
