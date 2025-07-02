@@ -1,6 +1,12 @@
 gametitle=Saint Seiya - The Hades PAL-M SLES-54162 531AB6BC
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
 patch=1,EE,005FDDA0,word,00000000 //00000001
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,002bf9e4,word,24080002 //24080003
+patch=1,EE,0050022C,word,00000001 //00000002
