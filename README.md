@@ -258,6 +258,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Reign of Fire | [SLES-50873](PCSX2%20Patches/SLES-50873_79464D5E.pnach) [SLUS-20556](PCSX2%20Patches/SLUS-20556_D10945CE.pnach) |  |
 | Resident Evil - Code: Veronica X | [SLUS-20184](PCSX2%20Patches/SLUS-20184_24036809.pnach) | |
 | Resident Evil 4 | [SLES-53702](PCSX2%20Patches/SLES-53702_6BA2F6B9.pnach) [SLUS-21134](PCSX2%20Patches/SLUS-21134_013E349D.pnach) |  |
+| Return to Castle Wolfenstein - Operation Resurrection | [SLUS-20297](PCSX2%20Patches/SLUS-20297_5F4DB1DD.pnach) [SLES-51449](PCSX2%20Patches/SLES-51449_461C79A5.pnach) [SLES-51522](PCSX2%20Patches/SLES-51522_0F58C006.pnach) |
 | Rise of the Kasai | [SCUS-97416](PCSX2%20Patches/SCUS-97416_EDE17E1B.pnach) |  |
 | Robin Hood's Quest | [SLES-54125](PCSX2%20Patches/SLES-54125_79F6D5C9.pnach) |  |
 | Robots | [SLUS-20942](PCSX2%20Patches/SLUS-20942_5931A065.pnach) [SLES-53052](PCSX2%20Patches/SLES-53052_B860F5B6.pnach) |
