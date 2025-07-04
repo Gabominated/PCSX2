@@ -1,0 +1,12 @@
+gametitle=Return to Castle Wolfenstein - Operation Resurrection PAL-E SLES-51449 461C79A5
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00234A50,word,00000000
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,00236248,word,0000003c
+patch=1,EE,0023624C,word,00000002

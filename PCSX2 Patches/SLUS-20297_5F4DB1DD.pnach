@@ -1,0 +1,6 @@
+gametitle=Return to Castle Wolfenstein - Operation Resurrection NTSC-U SLUS-20297 5F4DB1DD
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00234A50,word,00000000
