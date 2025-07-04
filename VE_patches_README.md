@@ -34,6 +34,7 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Mercenaries - Playground of Destruction  | [SLES-53008](PCSX2%20Patches/SLES-53008_CBA0623D.pnach) [SLUS-20932](PCSX2%20Patches/SLUS-20932_23510F99.pnach) | |
 | Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) |Tested :heavy_check_mark:|
 | Okami                                    | [SLES-54439](PCSX2%20Patches/SLES-54439_891F223F.pnach) [SLPM-66375](PCSX2%20Patches/SLPM-66375_C5DEFEA0.pnach) [SLUS-21115](PCSX2%20Patches/SLUS-21115_21068223.pnach) |Tested :heavy_check_mark:|
+| Prince of Persia - The Sands of Time | [SLUS-20743](PCSX2%20Patches/SLUS-20743_7F6EB3D0.pnach) |
 | Prince of Persia - The Two Thrones | [SLUS-21287](PCSX2%20Patches/SLUS-21287_84F3309D.pnach) | |
 | Prince of Persia - Warrior Within | [SLUS-21022](PCSX2%20Patches/SLUS-21022_6b17b39f.pnach) | |
 | Project - Snowblind                      | [SLUS-21037](PCSX2%20Patches/SLUS-21037_7849F069.pnach) |Tested :heavy_check_mark:|
