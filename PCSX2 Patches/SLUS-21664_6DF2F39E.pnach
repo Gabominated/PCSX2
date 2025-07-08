@@ -1,0 +1,7 @@
+gametitle=The Sims 2 - Castaway NTSC-U SLUS-21664 6DF2F39E
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,E0010000,extended,01A32FC2
+patch=1,EE,10596E04,extended,00000001
