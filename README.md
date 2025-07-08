@@ -278,7 +278,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Short Track Racing - Trading Paint | [SLUS-21857](PCSX2%20Patches/SLUS-21857_C56B0941.pnach) ||
 | Simpsons Skateboarding, The | [SLES-51361](PCSX2%20Patches/SLES-51361_D3FB54E5.pnach) ||
 | Sims 2, The | [SLUS-21265](PCSX2%20Patches/SLUS-21265_B67577F3.pnach) | |
-| Sims 2, The - Castaway | [SLES-54903](PCSX2%20Patches/SLES-54903_E7692E0B.pnach) | |
+| Sims 2, The - Castaway | [SLES-54903](PCSX2%20Patches/SLES-54903_E7692E0B.pnach) [SLUS-21664](PCSX2%20Patches/SLUS-21664_6DF2F39E.pnach) | |
 | Silent Hill 2 | [SLUS-20228](PCSX2%20Patches/SLUS-20228_FE06A030.pnach) | |
 | Ski and Shoot | [SLUS-21839](PCSX2%20Patches/SLUS-21839_FD37553A.pnach) | |
 | Skyscraper | [SLES-55152](PCSX2%20Patches/SLES-55152_EAEEC017.pnach) |  |
