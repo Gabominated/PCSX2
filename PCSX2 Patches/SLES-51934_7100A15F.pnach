@@ -9,9 +9,13 @@ patch=1,EE,003A6780,word,24020002 //24020001
 author=Gabominated
 description=NTSC mode at startup, FMVs remain in PAL.
 patch=1,EE,002b45b0,word,240201c0 //24020200
+patch=1,EE,002DB2D0,word,240700E0 //24070100
+patch=1,EE,002DB29C,word,24060002 //24060003
 
 [480p Mode]
 author=Gabominated
 description=SDTV 480p mode at start. FMVs remain in PAL. 
 patch=1,EE,003B0A68,word,10620005 //14620005
 patch=1,EE,002b45b0,word,240201c0 //24020200
+patch=1,EE,002DB2D0,word,240700E0 //24070100
+patch=1,EE,002DB29C,word,24060002 //24060003
