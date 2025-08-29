@@ -1,0 +1,7 @@
+gametitle=Grandia III NTSC-U SLUS-21334 5B657DAD Disc 1 of 2
+
+[60 FPS]
+author=Gabominated
+description=Might need enable EE Overclock to be stable.
+patch=1,EE,001EBAD0,word,0000001e
+patch=1,EE,001EBAE1,word,003f0000
