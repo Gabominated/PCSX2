@@ -1,0 +1,6 @@
+gametitle=James Cameron's Dark Angel NTSC-U SLUS-20379 29BA2F04
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00153E10,word,40004800 //40024800
