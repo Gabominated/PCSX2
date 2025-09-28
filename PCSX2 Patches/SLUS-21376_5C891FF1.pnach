@@ -7,3 +7,13 @@ patch=1,EE,001c5b10,word,24040001 //24040002
 patch=1,EE,0012508C,word,24040001 //24040002
 patch=1,EE,00102648,word,2404003c //2404001e
 patch=1,EE,00125078,word,2410003c //2410001e
+
+[Video mode]
+author=Gabominated
+description=Always display standard-480p selector.
+patch=1,EE,003BE7A4,word,00000001
+
+[No Blur While Reload]
+author=Gabominated
+description=No blur while reloading weapons.
+patch=1,EE,005719D4,word,00000000
