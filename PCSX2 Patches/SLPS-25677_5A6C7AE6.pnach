@@ -4,5 +4,5 @@ gametitle=BLOOD+ One Night Kiss NTSC-J SLPS-25677 5A6C7AE6
 author=Gabominated
 description=Might need EE overclock (130%).
 patch=1,EE,0045C594,word,00000001
-patch=1,EE,01B78DE8,word,3F000000
+patch=1,EE,003C4880,word,3F000000
 patch=1,EE,01B78E14,word,3F400000
