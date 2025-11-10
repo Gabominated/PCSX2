@@ -65,6 +65,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Blowout | [SLUS-20850](PCSX2%20Patches/SLUS-20850_71584BAC.pnach) ||
 | Blade II | [SLES-51013](PCSX2%20Patches/SLES-51013_66CC8148.pnach) [SLUS-20360](PCSX2%20Patches/SLUS-20360_6D0E5F2D.pnach) |  |
 | Blood Will Tell | [SLUS-20782](PCSX2%20Patches/SLUS-20782_89954774.pnach) | |
+| BLOOD+ One Night Kiss | [SLPS-25677](PCSX2%20Patches/SLPS-25677_5A6C7AE6.pnach) |
 | BloodRayne | [SLUS-20461](PCSX2%20Patches/SLUS-20461_17244B57.pnach) ||
 | BloodRayne 2 | [SLUS-20862](PCSX2%20Patches/SLUS-20862_2AFA6F3A.pnach) [SLES-53832](PCSX2%20Patches/SLES-53832_436E4801.pnach) ||
 | Brothers in Arms - Road to Hill 30 | [SLUS-21163](PCSX2%20Patches/SLUS-21163_DFC0888A.pnach) |
