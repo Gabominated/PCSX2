@@ -1,7 +1,7 @@
 gametitle=Robots NTSC-U SLUS-20942 5931A065
 
 [60 FPS]
-author=Gabominated & asasega
+author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,00195DB4,word,1400000A
-patch=1,EE,003489d0,word,00000001
+patch=1,EE,00195DB4,word,1400000A //1000000A
+patch=1,EE,0013B948,word,14000004 //10000004

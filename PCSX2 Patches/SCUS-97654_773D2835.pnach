@@ -1,0 +1,6 @@
+gametitle=MotorStorm - Arctic Edge NTSC-U SCUS-97654 773D2835
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00284D88,word,24020001

@@ -1,0 +1,6 @@
+gametitle=Shadow of Rome NTSC-U SLUS-20902 57818AF6
+
+[Disable Post-Processing Effects]
+author=Gabominated
+description=Disable post-processing effects.
+patch=1,EE,002E5258,word,00000000

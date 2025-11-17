@@ -1,0 +1,6 @@
+gametitle=Shadow of Rome PAL-M SLES-52950 B1995E29
+
+[Disable Post-Processing Effects]
+author=Gabominated
+description=Disable post-processing effects.
+patch=1,EE,002E57C8,word,00000000

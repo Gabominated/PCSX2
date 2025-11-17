@@ -1,5 +1,10 @@
 gametitle=MotorStorm - Arctic Edge PAL-M SCES-55573 3C967DB9
 
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00284C50,word,24020001
+
 [480p Mode]
 g-sinterlacemode=1
 author=Gabominated

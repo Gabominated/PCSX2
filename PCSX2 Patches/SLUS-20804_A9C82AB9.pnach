@@ -1,0 +1,6 @@
+gametitle=Forgotten Realms - Demon Stone NTSC-U SLUS-20804 A9C82AB9
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00180D78,word,28410001 //28410002
