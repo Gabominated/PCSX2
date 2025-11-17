@@ -136,6 +136,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | FlatOut | [SLUS-20901](PCSX2%20Patches/SLUS-20901_E0127F2D.pnach) | |
 | FlatOut 2 | [SLUS-21251](PCSX2%20Patches/SLUS-21251_45DEB7AC.pnach) | |
 | Ford Racing 2 | [SLES-51705](PCSX2%20Patches/SLES-51705_37F695CD.pnach) [SLUS-20788](PCSX2%20Patches/SLUS-20788_515245DF.pnach) |  |
+| Forgotten Realms - Demon Stone | [SLUS-20804](PCSX2%20Patches/SLUS-20804_A9C82AB9.pnach) |
 | Freestyle Metal X | [SLES-50720](PCSX2%20Patches/SLES-50720_C8AB1868.pnach) [SLUS-20494](PCSX2%20Patches/SLUS-20494_946C6967.pnach) |  |
 | Free Running | [SLES-54559](PCSX2%20Patches/SLES-54559_D6A0A3EF.pnach) |  |
 | G.I. Joe - The Rise of Cobra | [SLES-55537](PCSX2%20Patches/SLES-55537_724B94F6.pnach) [SLUS-21886](PCSX2%20Patches/SLUS-21886_4EC21458.pnach) |  |
@@ -200,6 +201,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Lord of the Rings, The - Aragorn's Quest | [SLES-55574](PCSX2%20Patches/SLES-55574_58FCA3F8.pnach) [SLUS-21915](PCSX2%20Patches/SLUS-21915_40619A71.pnach) | |
 | Lord of the Rings, The - The Fellowship of the Ring | [SLUS-20520](PCSX2%20Patches/SLUS-20520_CF56CD9C.pnach) ||
 | Lord of the Rings, The - The Return of the King | [SLUS-20770](PCSX2%20Patches/SLUS-20770_4CE187F6.pnach) [SLES-52017](PCSX2%20Patches/SLES-52017_9771C478.pnach) | |
+| Lord of the Rings, The - The Two Towers | [SLES-51252](PCSX2%20Patches/SLES-51252_DC43F2B8) |
 | Medal of Honor - European Assault | [SLUS-21199](PCSX2%20Patches/SLUS-21199_BB70FFB9.pnach) [SLES-53332](PCSX2%20Patches/SLES-53332_BB70FFB9.pnach) [SLES-53336](PCSX2%20Patches/SLES-53336_BB70FFB9.pnach) ||
 | Medal of Honor - Vanguard | [SLUS-21597](PCSX2%20Patches/SLUS-21597_EA1BFC51.pnach) [SLES-54683](PCSX2%20Patches/SLES-54683_EA1BFC51.pnach) |
 | Mafia | [SLUS-20671](PCSX2%20Patches/SLUS-20671_B67F4F9E.pnach) ||
@@ -217,7 +219,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) | |
 | Moto X Maniac | [SLES-54885](PCSX2%20Patches/SLES-54885_899557DF.pnach) |  |
 | Motocross Mania 3 | [SLUS-21229](PCSX2%20Patches/SLUS-21229_00E9B795.pnach) ||
-| MotorStorm - Arctic Edge | [SCES-55573](PCSX2%20Patches/SCES-55573_3C967DB9.pnach) | |
+| MotorStorm - Arctic Edge | [SCES-55573](PCSX2%20Patches/SCES-55573_3C967DB9.pnach) [SCUS-97654](PCSX2%20Patches/SCUS-97654_773D2835.pnach) | |
 | Mr. Bean | [SLES-54666](PCSX2%20Patches/SLES-54666_EDCBBC68.pnach) |  |
 | Mummy, The - The Animated Series | [SLES-52835](PCSX2%20Patches/SLES-52835_40033F92.pnach) | |
 | Mummy, The - Tomb of the Dragon Emperor | [SLUS-21775](PCSX2%20Patches/SLUS-21775_CFE7B625.pnach) | |
@@ -279,10 +281,12 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Secret Service | [SLES-55330](PCSX2%20Patches/SLES-55330_5AC50849.pnach) [SLUS-21836](PCSX2%20Patches/SLUS-21836_5AA9405C.pnach) | |
 | Serious Sam - Next Encounter | [SLUS-20907](PCSX2%20Patches/SLUS-20907_155466E8.pnach) [SLES-52450](PCSX2%20Patches/SLES-52450_2CC13DED.pnach) ||
 | Shadow Man - 2econd Coming | [SLES-50446](PCSX2%20Patches/SLES-50446_48553EAF.pnach) |  |
+| Shadow of Rome | [SLUS-20902](PCSX2%20Patches/SLUS-20902_57818AF6.pnach) [SLES-52950](PCSX2%20Patches/SLES-52950_B1995E29.pnach) |
 | Short Track Racing - Trading Paint | [SLUS-21857](PCSX2%20Patches/SLUS-21857_C56B0941.pnach) ||
 | Simpsons Skateboarding, The | [SLES-51361](PCSX2%20Patches/SLES-51361_D3FB54E5.pnach) ||
 | Sims 2, The | [SLUS-21265](PCSX2%20Patches/SLUS-21265_B67577F3.pnach) | |
 | Sims 2, The - Castaway | [SLES-54903](PCSX2%20Patches/SLES-54903_E7692E0B.pnach) [SLUS-21664](PCSX2%20Patches/SLUS-21664_6DF2F39E.pnach) | |
+| Silent Hill - Origins | [SLUS-21731](PCSX2%20Patches/SLUS-21731_A8D83239.pnach) |
 | Silent Hill 2 | [SLUS-20228](PCSX2%20Patches/SLUS-20228_FE06A030.pnach) | |
 | Ski and Shoot | [SLUS-21839](PCSX2%20Patches/SLUS-21839_FD37553A.pnach) | |
 | Skyscraper | [SLES-55152](PCSX2%20Patches/SLES-55152_EAEEC017.pnach) |  |
