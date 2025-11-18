@@ -1,8 +1,8 @@
 gametitle=FlatOut NTSC-U SLUS-20901 E0127F2D
 
 [60 FPS]
-author=asasega & Gabominated
+author=Gabominated
 description=Might need EE Overclock (130%).
-patch=1,EE,2034E97C,extended,00000001
+patch=1,EE,1028995C,extended,24420002
 patch=1,EE,E0010001,extended,0031A970
-patch=1,EE,2034E97C,extended,00000002
+patch=1,EE,1028995C,extended,24420001

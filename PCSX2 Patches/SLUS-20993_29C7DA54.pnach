@@ -1,8 +1,8 @@
 gametitle=Ghosthunters NTSC-U SLUS-20993 29C7DA54
 
 [60 FPS]
-author=asasega & Gabominated
+author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,2056A1F0,extended,00000001 //00000002
+patch=1,EE,10354A74,extended,2442FFFE
 patch=1,EE,E0010001,extended,00651FE0
-patch=1,EE,2056A1F0,extended,00000002
+patch=1,EE,10354A74,extended,2442FFFF
