@@ -33,6 +33,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | :---         |     :---:      |          ---: |
 | 007 - Everything or Nothing | [SLUS-20751](PCSX2%20Patches/SLUS-20751_6848699B.pnach) | |
 | 007 - From Russia with Love | [SLES-53553](PCSX2%20Patches/SLES-53553_22DC8EAC.pnach) ||
+| 007 - Nightfire | [SLUS-20579](PCSX2%20Patches/SLUS-20579_5B86BB62.pnach) | 
 | 007 - Quantum of Solace  | [SLES-55345](PCSX2%20Patches/SLES-55345_B43AC68E.pnach) | |
 | 187 - Ride or Die | [SLUS-21116](PCSX2%20Patches/SLUS-21116_FD2CF599.pnach) [SLES-52276](PCSX2%20Patches/SLES-52276_83BE7C8E.pnach) ||
 | 24 - The Game | [SLUS-21268](PCSX2%20Patches/SLUS-21268_F1C7201E.pnach) | 
@@ -86,6 +87,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Conflict - Vietnam | [SLUS-21045](PCSX2%20Patches/SLUS-21045_CC6CBF20.pnach) [SLES-52630](PCSX2%20Patches/SLES-52630_F0206B09.pnach) ||
 | Constantine | [SLPM-65972](PCSX2%20Patches/SLPM-65972_25D968B0.pnach) [SLES-52872](PCSX2%20Patches/SLES-52872_715AD5FD.pnach)| |
 | Counter Terrorist Special Forces - Fire for Effect | [SLES-53046](PCSX2%20Patches/SLES-53046_EDE9DD5C.pnach) |  |
+| Crash of the Titans | [SLUS-21583](PCSX2%20Patches/SLUS-21583_C6E85EF0.pnach) |
 | Coraline | [SLUS-21854](PCSX2%20Patches/SLUS-21854_64ABECC8.pnach) |
 | Corvette Evolution GT | [SLUS-21499](PCSX2%20Patches/SLUS-21499_45A8B64C.pnach) | |
 | Crazy Golf - World Tour | [SLES-53318](PCSX2%20Patches/SLES-53318_3EB41444.pnach) |  |
@@ -160,6 +162,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Gun | [SLUS-21139](PCSX2%20Patches/SLUS-21139_4B80628D.pnach) [SLES-53523](PCSX2%20Patches/SLES-53523_98D7BF5E.pnach) ||
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) [SLUS-21020](PCSX2%20Patches/SLUS-21020_83C9749E.pnach) |  |
 | Happy Feet | [SLUS-21455](PCSX2%20Patches/SLUS-21455_BAFEFC57.pnach) [SLES-54421](PCSX2%20Patches/SLES-54421_3FFB22A6.pnach) |
+| Harry Potter and the Chamber of Secrets | [SLES-51192](PCSX2%20Patches/SLES-51192_C5473413.pnach) |
 | Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) [SLUS-20817](PCSX2%20Patches/SLUS-20817_2F5EB1FF.pnach) |  |
 | Heatseeker | [SLES-54346](PCSX2%20Patches/SLES-54346_816CB6E8.pnach) [SLES-54596](PCSX2%20Patches/SLES-54596_8761B0E5.pnach) [SLUS-21570](PCSX2%20Patches/SLUS-21570_B96DD9F4.pnach) | |
 | Heroes of the Pacific | [SLES-53441](PCSX2%20Patches/SLES-53441_F8E600FC.pnach) [SLUS-20943](PCSX2%20Patches/SLUS-20943_83FB515E.pnach) |  |
@@ -275,12 +278,13 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Saint Seiya - The Hades | [SLES-54162](PCSX2%20Patches/SLES-54162_531AB6BC.pnach) |  |
 | Scaler | [SLES-52917](PCSX2%20Patches/SLES-52917_E54D237D.pnach) [SLES-52918](PCSX2%20Patches/SLES-52918_E54D237D.pnach) |  |
 | Scarface - The World is Yours | [SLES-54182](PCSX2%20Patches/SLES-54182_301A1B6E.pnach) [SLES-54183](PCSX2%20Patches/SLES-54183_9A660CC1.pnach) [SLES-54184](PCSX2%20Patches/SLES-54184_20F4FDF8.pnach) [SLES-54271](PCSX2%20Patches/SLES-54271_B69AF9A5.pnach) |  |
+| Scooby-Doo! Night of 100 Frights | [SLUS-20349](PCSX2%20Patches/SLUS-20349_10B1F370.pnach) [SLES-51017](PCSX2%20Patches/SLES-51017_E0FBB4A5.pnach)
 | Score International Baja 1000 - The Official Game | [SLES-55295](PCSX2%20Patches/SLES-55295_1C3FEC65.pnach) [SLUS-21850](PCSX2%20Patches/SLUS-21850_9AB3424F.pnach) | |
 | Second Sight | [SLES-52670](PCSX2%20Patches/SLES-52670_65087F31.pnach) [SLUS-21033](PCSX2%20Patches/SLUS-21033_16E3BE78.pnach) |  |
 | Secret Saturdays, The - Beasts of the 5th Sun | [SLES-55546](PCSX2%20Patches/SLES-55546_B6BA0E59.pnach) ||
 | Secret Service | [SLES-55330](PCSX2%20Patches/SLES-55330_5AC50849.pnach) [SLUS-21836](PCSX2%20Patches/SLUS-21836_5AA9405C.pnach) | |
 | Serious Sam - Next Encounter | [SLUS-20907](PCSX2%20Patches/SLUS-20907_155466E8.pnach) [SLES-52450](PCSX2%20Patches/SLES-52450_2CC13DED.pnach) ||
-| Shadow Man - 2econd Coming | [SLES-50446](PCSX2%20Patches/SLES-50446_48553EAF.pnach) |  |
+| Shadow Man - 2econd Coming | [SLUS-20413](PCSX2%20Patches/SLUS-20413_60AD8FA7.pnach) [SLES-50446](PCSX2%20Patches/SLES-50446_48553EAF.pnach) |  |
 | Shadow of Rome | [SLUS-20902](PCSX2%20Patches/SLUS-20902_57818AF6.pnach) [SLES-52950](PCSX2%20Patches/SLES-52950_B1995E29.pnach) |
 | Short Track Racing - Trading Paint | [SLUS-21857](PCSX2%20Patches/SLUS-21857_C56B0941.pnach) ||
 | Simpsons Skateboarding, The | [SLES-51361](PCSX2%20Patches/SLES-51361_D3FB54E5.pnach) ||
