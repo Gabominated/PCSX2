@@ -3,7 +3,7 @@ gametitle=Scarface - The World is Yours PAL-M SLES-54182 301A1B6E
 [50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
-patch=1,EE,20DAFCBC,extended,00000000 //00000001
+patch=1,EE,00634F68,word,AC6000DC
 
 [480p Mode]
 author=Gabominated

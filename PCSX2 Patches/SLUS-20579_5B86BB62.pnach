@@ -1,0 +1,8 @@
+gametitle=007 - Nightfire NTSC-U SLUS-20579 5B86BB62
+
+[60 FPS]
+author=Gabominated
+description=60 fps for driving and rail missions. Might need EE Overclock (180%-300%).
+patch=1,EE,E0010004,extended,001799B8
+patch=1,EE,201799B8,extended,00000000
+//001799B4 Alt

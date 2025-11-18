@@ -1,0 +1,6 @@
+gametitle=Shadow Man - 2econd Coming NTSC-U SLUS-20413 60AD8FA7
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00214DFC,word,AF80B448

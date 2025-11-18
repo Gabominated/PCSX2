@@ -1,0 +1,6 @@
+gametitle=Scooby-Doo! Night of 100 Frights PAL-E SLES-51017 E0FBB4A5
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,001239F8,word,24630002

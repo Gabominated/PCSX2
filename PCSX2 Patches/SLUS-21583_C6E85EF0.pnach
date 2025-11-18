@@ -1,0 +1,6 @@
+gametitle=Crash of the Titans NTSC-U SLUS-21583 C6E85EF0
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00491B74,word,AC8000A0
