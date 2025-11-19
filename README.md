@@ -97,6 +97,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Curious George | [SLES-54364](PCSX2%20Patches/SLES-54364_5415FA68.pnach) | |
 | Curse - The Eye of Isis | [SLES-51934](PCSX2%20Patches/SLES-51934_7100A15F.pnach) |  |
 | Dark Chronicle | [SCES-51190](PCSX2%20Patches/SCES-51190_059E5FAA.pnach) |  |
+| Darkwatch | [SLUS-21042](PCSX2%20Patches/SLUS-21042_327053e8.pnach) |
 | Da Vinci Code, The | [SLES-54031](PCSX2%20Patches/SLES-54031_CC39A3E6.pnach) ||
 | Dark Angel, James Cameron's | [SLUS-20379](PCSX2%20Patches/SLUS-20379_29BA2F04.pnach) |
 | Dawn of Mana | [SLUS-21574](PCSX2%20Patches/SLUS-21574_9DC6EE5A.pnach) | |
@@ -298,6 +299,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Ski and Shoot | [SLUS-21839](PCSX2%20Patches/SLUS-21839_FD37553A.pnach) | |
 | Skyscraper | [SLES-55152](PCSX2%20Patches/SLES-55152_EAEEC017.pnach) |  |
 | Smash Cars | [SLES-51800](PCSX2%20Patches/SLES-51800_7FE15107.pnach) [SLUS-20620](PCSX2%20Patches/SLUS-20620_1E4F42FF.pnach) |  |
+| Smuggler's Run | [SLUS-20065](PCSX2%20Patches/SLUS-20065_0E7F91DA.pnach) |
+| Smuggler's Run 2 - Hostile Territory | [SLUS-20204](PCSX2%20Patches/SLUS-20204_0EF2C216.pnach) |
 | Sniper Elite | [SLUS-21231](PCSX2%20Patches/SLUS-21231_395779C5.pnach) | |
 | Snow Queen Quest, The | [SLES-54120](PCSX2%20Patches/SLES-54120_4618791D.pnach) | |
 | Snow Rider | [SLES-53936](PCSX2%20Patches/SLES-53936_95DDD361.pnach) |  |
