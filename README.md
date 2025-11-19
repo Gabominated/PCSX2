@@ -101,6 +101,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Dark Angel, James Cameron's | [SLUS-20379](PCSX2%20Patches/SLUS-20379_29BA2F04.pnach) |
 | Dawn of Mana | [SLUS-21574](PCSX2%20Patches/SLUS-21574_9DC6EE5A.pnach) | |
 | Despicable Me - The Game | [SLUS-21933](PCSX2%20Patches/SLUS-21933_4106DBA1.pnach) | |
+| Destroy All Humans! | [SLUS-20945](PCSX2%20Patches/SLUS-20945_67A29886.pnach) |
+| Destroy All Humans! 2 | [SLUS-21439](PCSX2%20Patches/SLUS-21439_42DF8C8C.pnach) |
 | Die Hard - Vendetta | [SLES-51347](PCSX2%20Patches/SLES-51347_F9E575D0.pnach) [SLES-51348](PCSX2%20Patches/SLES-51348_62F6F886.pnach) |  |
 | Disney's Kim Possible - What's the Switch? | [SLUS-21437](PCSX2%20Patches/SLUS-21437_86B490D1.pnach) [SLES-54388](PCSX2%20Patches/SLES-54388_86B490D1.pnach) |
 | Disney/Pixar Cars | [SLUS-21151](PCSX2%20Patches/SLUS-21151_F2A25D7B.pnach) | |
@@ -286,6 +288,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Serious Sam - Next Encounter | [SLUS-20907](PCSX2%20Patches/SLUS-20907_155466E8.pnach) [SLES-52450](PCSX2%20Patches/SLES-52450_2CC13DED.pnach) ||
 | Shadow Man - 2econd Coming | [SLUS-20413](PCSX2%20Patches/SLUS-20413_60AD8FA7.pnach) [SLES-50446](PCSX2%20Patches/SLES-50446_48553EAF.pnach) |  |
 | Shadow of Rome | [SLUS-20902](PCSX2%20Patches/SLUS-20902_57818AF6.pnach) [SLES-52950](PCSX2%20Patches/SLES-52950_B1995E29.pnach) |
+| ShellShock - Nam '67 | [SLUS-20828](PCSX2%20Patches/SLUS-20828_38bd8d2e.pnach) [SLES-51982](PCSX2%20Patches/SLES-51982_38BD8D2E.pnach) |
 | Short Track Racing - Trading Paint | [SLUS-21857](PCSX2%20Patches/SLUS-21857_C56B0941.pnach) ||
 | Simpsons Skateboarding, The | [SLES-51361](PCSX2%20Patches/SLES-51361_D3FB54E5.pnach) ||
 | Sims 2, The | [SLUS-21265](PCSX2%20Patches/SLUS-21265_B67577F3.pnach) | |
