@@ -1,0 +1,6 @@
+gametitle=Destroy All Humans! NTSC-U SLUS-20945 67A29886
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00314BBC,word,AC80028C

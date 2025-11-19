@@ -1,5 +1,10 @@
 gametitle=Prince of Persia - The Sands of Time NTSC-U SLUS-20743 7F6EB3D0
 
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,004A2788,word,00000000
+
 [Disable Blur/Bloom]
 author=Gabominated
 description=Disable post-processing blur/bloom effect.

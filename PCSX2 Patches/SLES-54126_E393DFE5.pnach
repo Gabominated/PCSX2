@@ -1,5 +1,10 @@
 gametitle=Family Guy - The Video Game PAL-M SLES-54126 E393DFE5
 
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,0017223C,word,AC409898
+
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start.

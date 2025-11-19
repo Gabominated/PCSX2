@@ -1,4 +1,9 @@
-gametitle=Prince of Persia - Warrior Within NTSC-U SLUS_21022 6b17b39f
+gametitle=Prince of Persia - Warrior Within NTSC-U SLUS_21022 6B17B39F
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,0052D5D8,word,00000000
 
 [Disable Blur/Bloom]
 author=Gabominated

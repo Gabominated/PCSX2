@@ -1,5 +1,10 @@
 gametitle=Prince of Persia - The Two Thrones NTSC-U SLUS-21287 84F3309D
 
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,0059F798,word,00000000
+
 [Disable Blur/Bloom Effect]
 author=Gabominated
 description=Disable post-processing blur/bloom effect

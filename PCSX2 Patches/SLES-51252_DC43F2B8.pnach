@@ -3,4 +3,5 @@ gametitle=The Lord of the Rings - The Two Towers PAL-M SLES-51252 DC43F2B8
 [50 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,0010634C,word,2C410001
+patch=1,EE,00106674,word,A3808454
+//patch=1,EE,0010634C,word,2C410001
