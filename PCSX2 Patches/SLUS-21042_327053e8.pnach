@@ -1,0 +1,6 @@
+gametitle=Darkwatch NTSC-U SLUS-21042 327053E8
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,004F330C,word,A38087F8

@@ -1,0 +1,6 @@
+gametitle=Smuggler's Run 2 - Hostile Territory NTSC-U SLUS-20204 0EF2C216
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,002E44D0,word,AC40EE44

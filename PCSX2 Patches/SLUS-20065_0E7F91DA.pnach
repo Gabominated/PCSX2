@@ -1,0 +1,6 @@
+gametitle=Smuggler's Run NTSC-U SLUS-20065 0E7F91DA
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,001032CC,word,AC604F14
