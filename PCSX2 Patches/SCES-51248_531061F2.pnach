@@ -1,5 +1,10 @@
 gametitle=Dog's Life PAL-M SCES-51248 531061F2
 
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=0,EE,0019B820,word,3C013F00
+
 [Disable Blur]
 author=Gabominated
 description=Disable DOF/blur post-processing effect.

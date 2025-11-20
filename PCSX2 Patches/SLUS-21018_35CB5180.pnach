@@ -1,5 +1,10 @@
 gametitle=Dog's Life NTSC-U SLUS-21018 35CB5180
 
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0019EA68,word,3C013F00
+
 [Disable Blur]
 author=Gabominated
 description=Disable DOF/blur post-processing effect.
