@@ -1,0 +1,6 @@
+gametitle=Thing, The NTSC-U SLUS-20371 3F0DC9DC
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,0031F520,word,AC208CA0

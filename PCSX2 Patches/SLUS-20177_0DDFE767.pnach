@@ -1,0 +1,6 @@
+gametitle=Test Drive - Off-Road - Wide Open NTSC-U SLUS-20177 0DDFE767
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,001012E8,word,24050001
