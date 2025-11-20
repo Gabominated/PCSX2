@@ -262,6 +262,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Quake III - Revolution | [SLES-50126](PCSX2%20Patches/SLES-50126_2064ACE6.pnach) ||
 | Racing Simulation 3 | [SLES-51633](PCSX2%20Patches/SLES-51633_C7AA13F6.pnach) |  |
 | Rampage - Total Destruction | [SLES-53800](PCSX2%20Patches/SLES-53800_E389B921.pnach) ||
+| Rayman - Revolution | [SLUS-20138](PCSX2%20Patches/SLUS-20138_D2F77DF2.pnach) [SLPS-25029](PCSX2%20Patches/SLPS-25029_BD9E8B57.pnach) [SLES-50044](PCSX2%20Patches/SLES-50044_55EDA5A0.pnach) |
 | Red Dead Revolver | [SLUS-20500](PCSX2%20Patches/SLUS-20500_E169BAF8.pnach) [SLES-52478](PCSX2%20Patches/SLES-52478_E2E67E23.pnach) ||
 | Red Faction | [SLUS-20073 (v2.00)](PCSX2%20Patches/SLUS-20073_3EF4376C.pnach) |
 | Red Faction II | [SLUS-20442](PCSX2%20Patches/SLUS-20442_8E7FF6F8.pnach)
