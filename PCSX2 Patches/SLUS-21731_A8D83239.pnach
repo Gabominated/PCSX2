@@ -2,5 +2,6 @@ gametitle=Silent Hill - Origins NTSC-U SLUS-21731 A8D83239
 
 [60 FPS]
 author=Gabominated
-description=Might need EE overclock (130%).
-patch=1,EE,0022DAA0,word,24020002
+description=Might need EE overclock (180%).
+patch=0,EE,0022DCDC,word,A3808404
+//patch=1,EE,0022DAA0,word,24020002 //Alt

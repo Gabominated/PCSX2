@@ -1,0 +1,6 @@
+gametitle=Rayman - Revolution PAL-M SLES-50044 55EDA5A0
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,001413CC,word,24420002

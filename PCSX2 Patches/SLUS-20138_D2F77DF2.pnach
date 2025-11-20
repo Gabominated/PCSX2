@@ -1,0 +1,6 @@
+gametitle=Rayman - Revolution NTSC-U SLUS-20138 D2F77DF2
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00141404,word,24420002

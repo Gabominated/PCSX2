@@ -1,0 +1,6 @@
+gametitle=Rayman - Revolution NTSC-J SLPS-25029 BD9E8B57
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,0014490C,word,24420002
