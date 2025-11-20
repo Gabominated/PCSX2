@@ -332,7 +332,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Teen Titans | [SLUS-21183](PCSX2%20Patches/SLUS-21183_E1F17139.pnach) [SLES-54430](PCSX2%20Patches/SLES-54430_E1F17139.pnach) [SLES-54431](PCSX2%20Patches/SLES-54431_E1F17139.pnach) | |
 | Terminator 3, The - The Redemption | [SLUS-20852](PCSX2%20Patches/SLUS-20852_B993C212.pnach) ||
 | Terminator, The - Dawn of Fate | [SLUS-20391](PCSX2%20Patches/SLUS-20391_DFA59850.pnach) |
-| Test Drive - Off-Road - Wide Open | [SLUS-20177](Patches/SLUS-20177_0DDFE767.pnach) |
+| Test Drive - Off-Road - Wide Open | [SLUS-20177](PCSX2%20Patches/SLUS-20177_0DDFE767.pnach) |
 | Thing, The | [SLUS-20371](PCSX2%20Patches/SLUS-20371_3F0DC9DC.pnach) |
 | TOCA Race Driver 3 | [SLES-53087](PCSX2%20Patches/SLES-53087_EE0618ED.pnach) | |
 | Tom Clancy's Ghost Recon - Advanced Warfighter | [SLUS-21422](PCSX2%20Patches/SLUS-21422_75A5436A.pnach) | |
