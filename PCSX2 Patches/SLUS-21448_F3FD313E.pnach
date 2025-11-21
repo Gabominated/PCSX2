@@ -1,0 +1,10 @@
+gametitle=Rule of Rose NTSC-U SLUS-21448 F3FD313E
+
+[60 FPS]
+author=Gabominated & asasega
+description=Might need EE overclock (130%).
+patch=0,EE,0011768C,word,00000000
+patch=0,EE,00108588,word,3C013F00
+patch=1,EE,002EA740,word,3F000000
+patch=1,EE,002EA744,word,3F000000
+patch=1,EE,002EA748,word,3F000000
