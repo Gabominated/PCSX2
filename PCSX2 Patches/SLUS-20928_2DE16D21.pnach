@@ -3,7 +3,7 @@ gametitle=Echo Night - Beyond NTSC-U SLUS-20928 2DE16D21
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,00318340,word,00000002
+patch=1,EE,00140204,word,AE600360
 
 [Performance Fix]
 author=Gabominated

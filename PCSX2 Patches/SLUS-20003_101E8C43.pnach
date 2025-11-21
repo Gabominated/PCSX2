@@ -3,4 +3,5 @@ gametitle=Portal Runner NTSC-U SLUS-20003 101E8C43
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,0027FDA4,word,00000001
+patch=1,EE,0016EE28,word,24630002
+//patch=1,EE,0027FDA4,word,000000001
