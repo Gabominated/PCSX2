@@ -3,4 +3,5 @@ gametitle=Cubix Robots for Everyone - Showdown NTSC-USA SLUS-20547 11E88D60
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,0020427C,word,E6000044
+patch=0,EE,002045A0,word,460C0043
+//patch=1,EE,0020427C,word,E6000044
