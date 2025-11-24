@@ -3,4 +3,5 @@ gametitle=Motocross Mania 3 NTSC-U SLUS-21229 00E9B795
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,003218EC,word,00000001
+patch=0,EE,001EDF70,word,24050001
+//patch=1,EE,003218EC,word,00000001
