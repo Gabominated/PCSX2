@@ -1,0 +1,6 @@
+gametitle=Jackie Chan Adventures PAL-M SCES-52412 AC4DFD5A
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=0,EE,00211CE8,word,24020001
