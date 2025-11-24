@@ -183,6 +183,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | International Super Karts | [SLES-53186](PCSX2%20Patches/SLES-53186_FA02D9DB.pnach) ||
 | Iron Man | [SLUS-21739](/PCSX2%20Patches/SLUS-21739_37245C3F.pnach) [SLES-55198](PCSX2%20Patches/SLES-55198_37245C3F.pnach) | |
 | Jacked | [SLES-53778](PCSX2%20Patches/SLES-53778_D7F36BB4.pnach) |  |
+| Jackie Chan Adventures | [SCES-52412](PCSX2%20Patches/SCES-52412_AC4DFD5A.pnach) |
 | Jeep Thrills | [SLES-55275](PCSX2%20Patches/SLES-55275_A68EB83E.pnach) [SLUS-21760](PCSX2%20Patches/SLUS-21760_3DDBDB2C.pnach) | |
 | Jimmy Neutron - Boy Genius | [SLES-51298](PCSX2%20Patches/SLES-51298_C60BA9E7.pnach) ||
 | Johnny Bravo Date-O-Rama | [SLES-54671](PCSX2%20Patches/SLES-54671_89AC2A0A.pnach) | |
