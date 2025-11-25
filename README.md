@@ -241,6 +241,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Obscure - II / The Aftermath | [SLUS-21709](PCSX2%20Patches/SLUS-21709_408DFB9C.pnach) [SLES-54782](PCSX2%20Patches/SLES-54782_FC4AC115.pnach) |  |
 | Okami | [SLES-54439](PCSX2%20Patches/SLES-54439_891F223F.pnach) [SLPM-66375](PCSX2%20Patches/SLPM-66375_C5DEFEA0.pnach) [SLUS-21115](PCSX2%20Patches/SLUS-21115_21068223.pnach) | |
 | Outlaw Golf 2 | [SLES-52965](PCSX2%20Patches/SLES-52965_57115262.pnach) [SLUS-21030](PCSX2%20Patches/SLUS-21030_1ED4B29C.pnach) | |
+| Pac-Man World Rally | [SLUS-21328](PCSX2%20Patches/SLUS-21328_99BD2C0C.pnach) |
 | Paris-Dakar 2 | [SLES-50879](PCSX2%20Patches/SLES-50879_CB4EBD11.pnach) |  |
 | Paris-Dakar Rally | [SLUS-20324](PCSX2%20Patches/SLUS-20324_EC3E8E86.pnach) |
 | Peter Jackson's King Kong - The Official Game of the Movie | [SLES-53703](PCSX2%20Patches/SLES-53703_2D0F72D6.pnach) ||
