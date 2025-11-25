@@ -1,0 +1,7 @@
+gametitle=Pac-Man World Rally NTSC-U SLUS-21328 99BD2C0C
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,00168AC4,word,C48C10D0
+patch=0,EE,001836E4,word,87849394
