@@ -6,3 +6,8 @@ description=Might need EE Overclock (180%).
 patch=1,EE,004b1550,word,00000002 //uncapped frame limit 60 FPS
 patch=1,EE,004363A0,word,3C014248 //framerate PAL 50Hrz
 patch=1,EE,004363B0,word,3c014270 //framerate NTSC 60Hrz
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00285260,word,8C694664
