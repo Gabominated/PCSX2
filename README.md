@@ -98,7 +98,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Curse - The Eye of Isis | [SLES-51934](PCSX2%20Patches/SLES-51934_7100A15F.pnach) |  |
 | Dark Chronicle | [SCES-51190](PCSX2%20Patches/SCES-51190_059E5FAA.pnach) |  |
 | Darkwatch | [SLUS-21042](PCSX2%20Patches/SLUS-21042_327053e8.pnach) |
-| Da Vinci Code, The | [SLUS-21443](PCSX2%20Patches\SLUS-21443_9AC33DB5.pnach) [SLES-54031](PCSX2%20Patches/SLES-54031_CC39A3E6.pnach) ||
+| Da Vinci Code, The | [SLUS-21443](PCSX2%20Patches/SLUS-21443_9AC33DB5.pnach) [SLES-54031](PCSX2%20Patches/SLES-54031_CC39A3E6.pnach) ||
 | Dark Angel, James Cameron's | [SLUS-20379](PCSX2%20Patches/SLUS-20379_29BA2F04.pnach) |
 | Dawn of Mana | [SLUS-21574](PCSX2%20Patches/SLUS-21574_9DC6EE5A.pnach) | |
 | Despicable Me - The Game | [SLUS-21933](PCSX2%20Patches/SLUS-21933_4106DBA1.pnach) | |
