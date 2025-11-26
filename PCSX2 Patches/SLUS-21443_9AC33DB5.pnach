@@ -1,0 +1,6 @@
+gametittle=DaVinci Code, The SLUS-21443 9AC33DB5
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00122B94,word,AF8095F4

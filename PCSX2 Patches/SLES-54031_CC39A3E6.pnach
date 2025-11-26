@@ -1,5 +1,10 @@
 gametitle=The Da Vinci Code PAL-M SLES-54031 CC39A3E6
 
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00122BA4,word,AF8095F4
+
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start.
