@@ -208,7 +208,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Lord of the Rings, The - Aragorn's Quest | [SLES-55574](PCSX2%20Patches/SLES-55574_58FCA3F8.pnach) [SLUS-21915](PCSX2%20Patches/SLUS-21915_40619A71.pnach) | |
 | Lord of the Rings, The - The Fellowship of the Ring | [SLUS-20520](PCSX2%20Patches/SLUS-20520_CF56CD9C.pnach) ||
 | Lord of the Rings, The - The Return of the King | [SLUS-20770](PCSX2%20Patches/SLUS-20770_4CE187F6.pnach) [SLES-52017](PCSX2%20Patches/SLES-52017_9771C478.pnach) | |
-| Lord of the Rings, The - The Two Towers | [SLES-51252](PCSX2%20Patches/SLES-51252_DC43F2B8) |
+| Lord of the Rings, The - The Two Towers | [SLES-51252](PCSX2%20Patches/SLES-51252_DC43F2B8.pnach) |
 | Medal of Honor - European Assault | [SLUS-21199](PCSX2%20Patches/SLUS-21199_BB70FFB9.pnach) [SLES-53332](PCSX2%20Patches/SLES-53332_BB70FFB9.pnach) [SLES-53336](PCSX2%20Patches/SLES-53336_BB70FFB9.pnach) ||
 | Medal of Honor - Vanguard | [SLUS-21597](PCSX2%20Patches/SLUS-21597_EA1BFC51.pnach) [SLES-54683](PCSX2%20Patches/SLES-54683_EA1BFC51.pnach) |
 | Mafia | [SLUS-20671](PCSX2%20Patches/SLUS-20671_B67F4F9E.pnach) ||
