@@ -317,6 +317,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Star Trek Voyager - Elite Force | [SLES-50738](PCSX2%20Patches/SLES-50738_624F11F1.pnach) [SLUS-20227](PCSX2%20Patches/SLUS-20227_9F70EE4F.pnach) |  |
 | Star Wars - Battlefront 2 | [SLUS-21240](PCSX2%20Patches/SLUS-21240_249540F3.pnach) [SLES-53501](PCSX2%20Patches/SLES-53501_B68D35CA.pnach) | |
 | Star Wars - Battlefront | [SLES-52545](PCSX2%20Patches/SLES-52545_503BF9E1.pnach) [SLUS-20898](PCSX2%20Patches/SLUS-20898_503BF9E1.pnach) | |
+| Star Wars - Episode III - Revenge of the Sith | [SLUS-21143](PCSX2%20Patches/SLUS-21143_976EA156.pnach) |
 | Star Wars - The Force Unleashed | [SLUS-21614](PCSX2%20Patches/SLUS-21614_879CDA5E.pnach) [SLPS-25888](PCSX2%20Patches/SLPS-25888_CC9BFDE3.pnach) [SLES-54659](PCSX2%20Patches/SLES-54659_DAF2145C.pnach)
 | Street Cricket Champions 2 | [SCES-55663](PCSX2%20Patches/SCES-55663_44755604.pnach) |  |
 | Street Cricket Champions | [SCES-55591](PCSX2%20Patches/SCES-55591_B83D59DA.pnach) ||
