@@ -1,0 +1,6 @@
+gametitle=Star Wars - Episode III - Revenge of the Sith NTSC-U SLUS-21143 976EA156
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,00130394,word,AF808580
