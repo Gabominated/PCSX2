@@ -1,0 +1,6 @@
+gametitle=Predator - Concrete Jungle NTSC-U SLUS-20875 9798D85A
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0019FAD4,word,8F83BEE0

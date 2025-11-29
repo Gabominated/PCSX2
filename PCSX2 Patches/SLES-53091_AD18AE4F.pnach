@@ -3,9 +3,7 @@ gametitle=Predator - Concrete Jungle PAL-M SLES-53091 AD18AE4F
 [50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,2044E350,extended,00000032
-patch=1,EE,E0010001,extended,003606C8
-patch=1,EE,2044E350,extended,0000003C
+patch=0,EE,0019FAD4,word,8F83BEE0
 
 [NTSC Mode]
 author=Gabominated
