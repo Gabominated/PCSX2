@@ -2,8 +2,9 @@ gametitle=Curse - The Eye of Isis PAL-M SLES-51934 7100A15F
 
 [50/60 FPS]
 author=Gabominated
-comment=Might need EE Overclock (130%).
-patch=1,EE,003A6780,word,24020002 //24020001
+description=Might need EE Overclock (130%).
+patch=1,EE,003A699C,word,A3808490
+//patch=1,EE,003A6780,word,24020002 //24020001
 
 [NTSC Mode]
 author=Gabominated
