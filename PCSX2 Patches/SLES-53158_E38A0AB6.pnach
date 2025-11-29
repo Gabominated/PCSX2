@@ -10,7 +10,8 @@ patch=1,EE,004F9480,word,01000000 //00000000
 [50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
-patch=1,EE,00254638,word,24020002 //24020001
+patch=0,EE,00256934,word,A3808814
+//patch=1,EE,00254638,word,24020002 //24020001
 
 [NTSC Mode]
 author=Gabominated

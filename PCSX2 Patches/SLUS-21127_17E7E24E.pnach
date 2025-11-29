@@ -1,0 +1,14 @@
+gametitle=Brave - The Search for Spirit Dancer NTSC-U SLUS-21127 17E7E24E
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Enable native widescreen.
+patch=0,EE,0021ABA0,word,8C820000
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,10234C28,extended,3C013F40
+patch=1,EE,E0010001,extended,00460F3C
+patch=1,EE,10234C28,extended,3C013FC0

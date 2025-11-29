@@ -10,4 +10,5 @@ patch=1,EE,004F9500,word,01000000 //00000000
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
-patch=1,EE,00254678,word,24020002 //24020001
+patch=0,EE,00256974,word,A3808814
+//patch=1,EE,00254678,word,24020002 //24020001
