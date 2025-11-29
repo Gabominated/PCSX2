@@ -251,7 +251,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Polar Express, The | [SLES-52685](PCSX2%20Patches/SLES-52685_C72FEF17.pnach) [SLUS-20989](PCSX2%20Patches/SLUS-20989_4AC5A94B.pnach) | |
 | Portal Runner | [SLUS-20003](PCSX2%20Patches/SLUS-20003_101E8C43.pnach) [SLES-50444](PCSX2%20Patches/SLES-50444_802EBFF7.pnach) [SLES-50263](PCSX2%20Patches/SLES-50263_8308BAF1.pnach) |
 | Power Rangers - Dino Thunder | [SLES-52886](PCSX2%20Patches/SLES-52886_381F8A7B.pnach) [SLUS-20944](PCSX2%20Patches/SLUS-20944_024BF3B4.pnach) |  |
-| Predator - Concrete Jungle | [SLES-53091](PCSX2%20Patches/SLES-53091_AD18AE4F.pnach) |  |
+| Predator - Concrete Jungle | [SLUS-20875](PCSX2%20Patches/SLUS-20875_9798D85A.pnach) [SLES-53091](PCSX2%20Patches/SLES-53091_AD18AE4F.pnach) |  |
 | Primal | [SCES-51135](PCSX2%20Patches/SCES-51135_DCC4EEEA.pnach) |  |
 | Prince of Persia - The Sands of Time | [SLUS-20743](PCSX2%20Patches/SLUS-20743_7F6EB3D0.pnach) |
 | Prince of Persia - The Two Thrones | [SLUS-21287](PCSX2%20Patches/SLUS-21287_84F3309D.pnach) | |
