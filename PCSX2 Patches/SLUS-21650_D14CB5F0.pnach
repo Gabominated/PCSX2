@@ -1,11 +1,11 @@
 gametitle=Mercenaries 2 - World in Flames SLUS-21650 D14CB5F0
 
 [60 FPS]
-author=asasega & Gabominated
+author=Gabominated
 description=Might need EE Overclock (180%).
-patch=1,EE,203FD4F8,extended,2C420001 //2C420002
-patch=1,EE,E0010001,extended,004FB450
-patch=1,EE,203FD4F8,extended,2C420002
+patch=0,EE,00306288,word,24020001
+patch=0,EE,002FCC80,word,24020001
+patch=0,EE,00336330,word,AC80CB70
 
 [Remove Blur/Bloom]
 author=Gabominated
