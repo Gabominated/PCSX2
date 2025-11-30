@@ -327,6 +327,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Surf's Up | [SLUS-21572](PCSX2%20Patches/SLUS-21572_BED8AB7C.pnach) [SLES-54583](PCSX2%20Patches/SLES-54583_904A9089.pnach) |
 | Suffering, The | [SLUS-20636](PCSX2%20Patches/SLUS-20636_0486AD78.pnach) ||
 | Suffering, The - Ties That Bind | [SLUS-21189](PCSX2%20Patches/SLUS-21189_C2144770.pnach) ||
+| Summoner 2 | [SLUS-2044](PCSX2%20Patches/SLUS-20448_93551583.pnach) |
 | Super PickUps | [SLUS-21450](PCSX2%20Patches/SLUS-21450_D304FA88.pnach) | |
 | Supercar Street Challenge | [SLES-50419](PCSX2%20Patches/SLES-50419_833B70DB.pnach) [SLUS-20012](PCSX2%20Patches/SLUS-20012_6AEABF4E.pnach) |  |
 | Syberia | [SLES-51393](PCSX2%20Patches/SLES-51393_D1ACD489.pnach) |  |
