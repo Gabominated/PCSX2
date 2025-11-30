@@ -1,0 +1,6 @@
+gametitle=Summoner 2 NTSC-U SLUS-20448 93551583
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00188168,word,24630002
