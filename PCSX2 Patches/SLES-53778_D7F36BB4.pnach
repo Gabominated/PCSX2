@@ -3,4 +3,5 @@ gametitle=Jacked PAL-M SLES-53778 D7F36BB4
 [50 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,004BCF60,word,00000032 //00000019
+patch=0,EE,001F369C,word,8E020068
+//patch=1,EE,004BCF60,word,00000032 //00000019
