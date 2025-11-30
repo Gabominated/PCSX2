@@ -1,0 +1,12 @@
+gametitle=The Mummy Returns NTSC-U SLUS-20253 035BF93D
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,00122164,word,A0600036
+//0025DCC4 alt
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,0012215C,word,A0600035

@@ -229,6 +229,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Motocross Mania 3 | [SLUS-21229](PCSX2%20Patches/SLUS-21229_00E9B795.pnach) ||
 | MotorStorm - Arctic Edge | [SCES-55573](PCSX2%20Patches/SCES-55573_3C967DB9.pnach) [SCUS-97654](PCSX2%20Patches/SCUS-97654_773D2835.pnach) | |
 | Mr. Bean | [SLES-54666](PCSX2%20Patches/SLES-54666_EDCBBC68.pnach) |  |
+| Mummy Returns, The | [SLUS-20253](PCSX2%20Patches/SLUS-20253_035BF93D.pnach) [SLES-50510](PCSX2%20Patches/SLES-50510_B9254C98.pnach) |
 | Mummy, The - The Animated Series | [SLES-52835](PCSX2%20Patches/SLES-52835_40033F92.pnach) | |
 | Mummy, The - Tomb of the Dragon Emperor | [SLUS-21775](PCSX2%20Patches/SLUS-21775_CFE7B625.pnach) | |
 | MX 2002 featuring Ricky Carmichael | [SLES-50428](PCSX2%20Patches/SLES-50428_72BEA663.pnach) [SLUS-20072](PCSX2%20Patches/SLUS-20072_FBC3BC36.pnach) |  |
