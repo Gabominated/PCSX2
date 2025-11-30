@@ -161,7 +161,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Grand Theft Auto III | [SLUS-20062](PCSX2%20Patches/SLUS-20062_5E115FB6.pnach) [SLES-50330](PCSX2%20Patches/SLES-50330_581954FC.pnach) |
 | Grand Theft Auto - San Andreas | [SLES-52541](PCSX2%20Patches/SLES-52541_A1B3F232.pnach) [SLUS-20946](PCSX2%20Patches/SLUS-20946_2C6BE434.pnach) [SLPM-65984](PCSX2%20Patches/SLPM-65984_60FE139C.pnach) [SLUS-20946](PCSX2%20Patches/SLUS-20946_399A49CA.pnach) | |
 | Grand Theft Auto - Vice City Stories | [SLUS-21590](PCSX2%20Patches/SLUS-21590_4F32A11F.pnach) | |
-| Grandia III | [SLUS-21334](PCSX2%20Patches/SLUS-21334_5B657DAD.pnach) |
+| Grandia III | [SLUS-21334 Disc 1](PCSX2%20Patches/SLUS-21334_5B657DAD.pnach) [SLUS-21345 Disc 2](PCSX2%20Patches/SLUS-21345_5B657DAD.pnach) |
 | GTC Africa | [SLPM-62258](PCSX2%20Patches/SLPM-62258_8AC3F5D6.pnach) [SLES-50472](PCSX2%20Patches/SLES-50472_51D8A6A9.pnach) | |
 | Gun | [SLUS-21139](PCSX2%20Patches/SLUS-21139_4B80628D.pnach) [SLES-53523](PCSX2%20Patches/SLES-53523_98D7BF5E.pnach) ||
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) [SLUS-21020](PCSX2%20Patches/SLUS-21020_83C9749E.pnach) |  |
