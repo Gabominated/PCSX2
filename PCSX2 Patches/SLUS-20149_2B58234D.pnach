@@ -1,0 +1,6 @@
+gametitle=Tribes - Aerial Assault NTSC-U SLUS-20149 2B58234D
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,0034AC24,word,00000000
