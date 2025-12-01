@@ -1,0 +1,6 @@
+gametitle=Gadget and the Gadgetinis PAL-M SLES-52845 2235C82F
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=0,EE,001149DC,word,24030000
