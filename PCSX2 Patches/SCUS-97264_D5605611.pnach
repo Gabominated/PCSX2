@@ -3,4 +3,6 @@ gametitle=Syphon Filter - The Omega Strain NTSC-U SCUS-97264 D5605611
 [60 FPS]
 author=Gabominated
 description=Native 60 FPS. Might need EE Overclock (130%).
-patch=1,EE,00165728,word,2402003c //2402001E
+patch=0,EE,00165728,word,2402003c
+patch=0,EE,00165500,word,8C2483D4
+patch=0,EE,001684A8,word,8C2383D4
