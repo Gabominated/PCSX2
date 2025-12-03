@@ -1,0 +1,13 @@
+gametitle=Minority Report - Everybody Runs PAL-E SLES-51230 09A37D38
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0047F6A8,word,8C62EA40
+//0051EA40
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00461F00,word,14C00010
+patch=0,EE,00461F04,word,8C46B720
