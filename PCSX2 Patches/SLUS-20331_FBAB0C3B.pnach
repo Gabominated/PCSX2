@@ -1,0 +1,6 @@
+gametitle=Minority Report - Everybody Runs NTSC-U SLUS-20331 FBAB0C3B
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0047E3C0,word,8C620CC0
