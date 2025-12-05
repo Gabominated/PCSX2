@@ -3,4 +3,5 @@ gametitle=Evil Dead - Regeneration NTSC-U SLUS-21048 9DE65987
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,00377194,word,24020002 //24020001
+patch=0,EE,003773E4,word,A38084F8
+//patch=1,EE,00377194,word,24020002 //24020001

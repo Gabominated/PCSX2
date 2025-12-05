@@ -3,4 +3,11 @@ gametitle=Evil Dead - Regeneration PAL-E SLES-53457 9DE65987
 [50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,00377194,word,24020002 //24020001
+patch=0,EE,003773E4,word,A38084F8
+//patch=0,EE,00377194,word,24020002 //24020001
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00124040,word,8C40B848
+patch=0,EE,00235a20,word,241001c0
