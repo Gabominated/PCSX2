@@ -147,6 +147,9 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Free Running | [SLES-54559](PCSX2%20Patches/SLES-54559_D6A0A3EF.pnach) |  |
 | G.I. Joe - The Rise of Cobra | [SLES-55537](PCSX2%20Patches/SLES-55537_724B94F6.pnach) [SLUS-21886](PCSX2%20Patches/SLUS-21886_4EC21458.pnach) |  |
 | Gadget and the Gadgetinis | [SLES-52845](PCSX2%20Patches/SLES-52845_2235C82F.pnach) |
+| Garfield | [SLES-52843](PCSX2%20Patches/SLES-52843_F8F8CD47.pnach) |
+| Garfield 2 | [SLES-54172](PCSX2%20Patches/SLES-54172_627B8252.pnach) |
+| Garfield - Lasagna World Tour | [SLUS-21749](PCSX2%20Patches/SLUS-21749_5C241958.pnach) |
 | Gauntlet - Seven Sorrows | [SLUS-21077](PCSX2%20Patches/SLUS-21077_A8C4C0A9.pnach) [SLES-53667](PCSX2%20Patches/SLES-53667_BBB8392E.pnach) | |
 | Gene Troopers | [SLES-53644](PCSX2%20Patches/SLES-53644_3887C851.pnach) ||
 | George of the Jungle | [SLUS-21668](PCSX2%20Patches/SLUS-21668_028AAFC8.pnach) | |
