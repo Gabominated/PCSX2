@@ -1,0 +1,6 @@
+gametitle=Garfield - Lasagna World Tour NTSC-U SLUS-21749 5C241958
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,001A4B80,word,24030001

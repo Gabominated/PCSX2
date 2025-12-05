@@ -1,0 +1,6 @@
+gametitle=Garfield PAL-M SLES-52843 F8F8CD47
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,00240DC0,word,C4207D60

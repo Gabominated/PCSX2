@@ -1,0 +1,11 @@
+gametitle=Garfield 2 PAL-M SLES-54172 627B8252
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,003D15DC,word,34630000
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,003D15F0,word,34630100
