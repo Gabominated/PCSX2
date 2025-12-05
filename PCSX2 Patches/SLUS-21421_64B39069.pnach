@@ -1,0 +1,8 @@
+gametitle=Spy Hunter - Nowhere to Run NTSC-U SLUS-21421 64B39069
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0038E88C,word,24420002
+patch=0,EE,00268710,word,3C0142F0
+patch=0,EE,00268720,word,3C014270
