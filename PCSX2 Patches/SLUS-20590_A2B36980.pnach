@@ -1,0 +1,8 @@
+gametitle=Spy Hunter 2 NTSC-U SLUS-20590 A2B36980
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,001009E0,word,8C433C24
+patch=0,EE,001053A4,word,8C433C24
+patch=0,EE,002EB864,word,3C013F00

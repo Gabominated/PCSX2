@@ -1,0 +1,10 @@
+gametitle=Spy Hunter 2 PAL-M SLES-51841 23657D39
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,001009E0,word,8C435944
+patch=0,EE,00105434,word,8C435944
+patch=0,EE,002ED3DC,word,3C013F00
+//00325944
+//00328384
