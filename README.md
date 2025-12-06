@@ -43,8 +43,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Aeon Flux | [SLUS-21205](PCSX2%20Patches/SLUS-21205_9FA0A1B0.pnach) ||
 | Agent Hugo - Hula Holiday | [SLES-55365](PCSX2%20Patches/SLES-55365_ADEFE7CB.pnach) ||
 | Agent Hugo - Lemoon Twist | [SLES-54918](PCSX2%20Patches/SLES-54918_C33DEDD7.pnach) ||
-| Alarm for Cobra 11 | [SLES-52063](PCSX2%20Patches/SLES-52063_77E924AC.pnach) |  |
 | Alarm for Cobra 11 Vol.2 - Hot Pursuit | [SLES-53360](PCSX2%20Patches/SLES-53360_12117804.pnach) |  |
+| Alarm for Cobra 11 | [SLES-52063](PCSX2%20Patches/SLES-52063_77E924AC.pnach) |  |
 | Alias | [SLUS-20673](PCSX2%20Patches/SLUS-20673_E3ADDC73.pnach) [SLES-51822](PCSX2%20Patches/SLES-51822_53614408.pnach) ||
 | Aliens in the Attic | [SLES-55532](PCSX2%20Patches/SLES-55532_3AAD52A4.pnach) ||
 | Aliens Versus Predator - Extinction | [SLES-51792](PCSX2%20Patches/SLES-51792_64DA75B2.pnach) [SLUS-20147](PCSX2%20Patches/SLUS-20147_64DA78A3.pnach) |  |
@@ -58,18 +58,18 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Battlefield 2 - Modern Combat | [SLUS-21026](PCSX2%20Patches/SLUS-21026_AE1F3139.pnach) | |
 | Beach King Stunt Racer | [SLES-51383](PCSX2%20Patches/SLES-51383_5162BCCA.pnach) |  |
 | Ben Hur - Blood of Braves | [SLES-51350](PCSX2%20Patches/SLES-51350_E949C93F.pnach) |  |
-| Bigs, The | [SLUS-21623](PCSX2%20Patches/SLUS-21623_81FF8198.pnach) | |
-| Bigs 2, The | [SLUS-21860](PCSX2%20Patches/SLUS-21860_BC94F047.pnach) | |
 | Big Idea's VeggieTales - LarryBoy and the Bad Apple | [SLUS-21440](PCSX2%20Patches/SLUS-21440_4E838541.pnach) [SLES-54536](PCSX2%20Patches/SLES-54536_98733CA3.pnach) |
+| Bigs 2, The | [SLUS-21860](PCSX2%20Patches/SLUS-21860_BC94F047.pnach) | |
+| Bigs, The | [SLUS-21623](PCSX2%20Patches/SLUS-21623_81FF8198.pnach) | |
 | Bionicle Heroes | [SLES-54150](PCSX2%20Patches/SLES-54150_85495C17.pnach) [SLUS-21428](PCSX2%20Patches/SLUS-21428_EB6C8519.pnach) |  |
 | Black | [SLES-53886](PCSX2%20Patches/SLES-53886_ADDFF505.pnach) [SLES-54030](PCSX2%20Patches/SLES-54030_CAA04879.pnach) [SLPM-66354](PCSX2%20Patches/SLPM-66354_B3A9F9ED.pnach) [SLUS-21376](PCSX2%20Patches/SLUS-21376_5C891FF1.pnach) |  |
-| Blowout | [SLUS-20850](PCSX2%20Patches/SLUS-20850_71584BAC.pnach) ||
-| Brave - The Search for Spirit Dancer | [SLUS-21127](PCSX2%20Patches/SLUS-21127_17E7E24E.pnach) | 
 | Blade II | [SLES-51013](PCSX2%20Patches/SLES-51013_66CC8148.pnach) [SLUS-20360](PCSX2%20Patches/SLUS-20360_6D0E5F2D.pnach) |  |
 | Blood Will Tell | [SLUS-20782](PCSX2%20Patches/SLUS-20782_89954774.pnach) | |
 | BLOOD+ One Night Kiss | [SLPS-25677](PCSX2%20Patches/SLPS-25677_5A6C7AE6.pnach) |
-| BloodRayne | [SLUS-20461](PCSX2%20Patches/SLUS-20461_17244B57.pnach) ||
 | BloodRayne 2 | [SLUS-20862](PCSX2%20Patches/SLUS-20862_2AFA6F3A.pnach) [SLES-53832](PCSX2%20Patches/SLES-53832_436E4801.pnach) ||
+| BloodRayne | [SLUS-20461](PCSX2%20Patches/SLUS-20461_17244B57.pnach) ||
+| Blowout | [SLUS-20850](PCSX2%20Patches/SLUS-20850_71584BAC.pnach) ||
+| Brave - The Search for Spirit Dancer | [SLUS-21127](PCSX2%20Patches/SLUS-21127_17E7E24E.pnach) | 
 | Brothers in Arms - Road to Hill 30 | [SLUS-21163](PCSX2%20Patches/SLUS-21163_DFC0888A.pnach) |
 | Bully / Canis Canem Edit | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
 | Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) |  |
@@ -87,50 +87,50 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Conflict - Global Terror | [SLUS-21172](PCSX2%20Patches/SLUS-21172_005AA020.pnach) ||
 | Conflict - Vietnam | [SLUS-21045](PCSX2%20Patches/SLUS-21045_CC6CBF20.pnach) [SLES-52630](PCSX2%20Patches/SLES-52630_F0206B09.pnach) ||
 | Constantine | [SLPM-65972](PCSX2%20Patches/SLPM-65972_25D968B0.pnach) [SLES-52872](PCSX2%20Patches/SLES-52872_715AD5FD.pnach)| |
-| Counter Terrorist Special Forces - Fire for Effect | [SLES-53046](PCSX2%20Patches/SLES-53046_EDE9DD5C.pnach) |  |
-| Crash of the Titans | [SLUS-21583](PCSX2%20Patches/SLUS-21583_C6E85EF0.pnach) |
 | Coraline | [SLUS-21854](PCSX2%20Patches/SLUS-21854_64ABECC8.pnach) |
 | Corvette Evolution GT | [SLUS-21499](PCSX2%20Patches/SLUS-21499_45A8B64C.pnach) | |
-| Crazy Golf - World Tour | [SLES-53318](PCSX2%20Patches/SLES-53318_3EB41444.pnach) |  |
+| Counter Terrorist Special Forces - Fire for Effect | [SLES-53046](PCSX2%20Patches/SLES-53046_EDE9DD5C.pnach) |  |
+| Crash of the Titans | [SLUS-21583](PCSX2%20Patches/SLUS-21583_C6E85EF0.pnach) |
 | Crashed | [SLES-50843](PCSX2%20Patches/SLES-50843_0379B4F7.pnach) |  |
+| Crazy Golf - World Tour | [SLES-53318](PCSX2%20Patches/SLES-53318_3EB41444.pnach) |  |
 | Critical Velocity | [SLPS-25532](PCSX2%20Patches/SLPS-25532_4CCEF323.pnach) ||
 | Cubix Robots for Everyone - Showdown | [SLUS-20547](PCSX2%20Patches/SLUS-20547_11E88D60.pnach) ||
 | Curious George | [SLES-54364](PCSX2%20Patches/SLES-54364_5415FA68.pnach) | |
 | Curse - The Eye of Isis | [SLES-51934](PCSX2%20Patches/SLES-51934_7100A15F.pnach) |  |
-| Dark Chronicle | [SCES-51190](PCSX2%20Patches/SCES-51190_059E5FAA.pnach) |  |
-| Darkwatch | [SLUS-21042](PCSX2%20Patches/SLUS-21042_327053e8.pnach) |
 | Da Vinci Code, The | [SLUS-21443](PCSX2%20Patches/SLUS-21443_9AC33DB5.pnach) [SLES-54031](PCSX2%20Patches/SLES-54031_CC39A3E6.pnach) ||
 | Dark Angel, James Cameron's | [SLUS-20379](PCSX2%20Patches/SLUS-20379_29BA2F04.pnach) |
+| Dark Chronicle | [SCES-51190](PCSX2%20Patches/SCES-51190_059E5FAA.pnach) |  |
+| Darkwatch | [SLUS-21042](PCSX2%20Patches/SLUS-21042_327053e8.pnach) |
 | Dawn of Mana | [SLUS-21574](PCSX2%20Patches/SLUS-21574_9DC6EE5A.pnach) | |
 | Despicable Me - The Game | [SLUS-21933](PCSX2%20Patches/SLUS-21933_4106DBA1.pnach) | |
-| Destroy All Humans! | [SLUS-20945](PCSX2%20Patches/SLUS-20945_67A29886.pnach) |
 | Destroy All Humans! 2 | [SLUS-21439](PCSX2%20Patches/SLUS-21439_42DF8C8C.pnach) |
+| Destroy All Humans! | [SLUS-20945](PCSX2%20Patches/SLUS-20945_67A29886.pnach) |
 | Die Hard - Vendetta | [SLES-51347](PCSX2%20Patches/SLES-51347_F9E575D0.pnach) [SLES-51348](PCSX2%20Patches/SLES-51348_62F6F886.pnach) |  |
+| Dirge of Cerberus - Final Fantasy VII | [SLUS-21419](PCSX2%20Patches/SLUS-21419_44A5FA15.pnach) | |
+| Disney's Dinosaur | [SLES-50042](PCSX2%20Patches/SLES-50042_238B189C.pnach) [SLES-50043](PCSX2%20Patches/SLES-50043_238B189C.pnach) |  |
 | Disney's Kim Possible - What's the Switch? | [SLUS-21437](PCSX2%20Patches/SLUS-21437_86B490D1.pnach) [SLES-54388](PCSX2%20Patches/SLES-54388_86B490D1.pnach) |
-| Disney/Pixar Cars | [SLUS-21151](PCSX2%20Patches/SLUS-21151_F2A25D7B.pnach) | |
 | Disney/Pixar Cars - Mater-National Championship | [SLES-55025](PCSX2%20Patches/SLES-55025_ED999A64.pnach) [SLUS-21637](PCSX2%20Patches/SLUS-21637_57F534F4.pnach) |  |
 | Disney/Pixar Cars - Race-O-Rama | [SLES-55536](PCSX2%20Patches/SLES-55536_E4278493.pnach) [SLUS-21883](PCSX2%20Patches/SLUS-21883_E4278493.pnach) |  |
+| Disney/Pixar Cars | [SLUS-21151](PCSX2%20Patches/SLUS-21151_F2A25D7B.pnach) | |
 | Disney/Pixar WALL-E | [SLES-55186](PCSX2%20Patches/SLES-55186_87332077.pnach) [SLUS-21736](PCSX2%20Patches/SLUS-21736_C4F479F5.pnach) | |
-| Disney's Dinosaur | [SLES-50042](PCSX2%20Patches/SLES-50042_238B189C.pnach) [SLES-50043](PCSX2%20Patches/SLES-50043_238B189C.pnach) |  |
-| Dirge of Cerberus - Final Fantasy VII | [SLUS-21419](PCSX2%20Patches/SLUS-21419_44A5FA15.pnach) | |
 | Dog's Life | [SLUS-21018](PCSX2%20Patches/SLUS-21018_35CB5180.pnach) [SCES-51248](PCSX2%20Patches/SCES-51248_531061F2.pnach) [SLPM-65995](PCSX2%20Patches/SLPM-65995_08E89523.pnach) ||
 | Don 2 - The Game | [SCES-55670](PCSX2%20Patches/SCES-55670_94523988.pnach) | |
 | Dora the Explorer - Dora Saves the Crystal Kingdom | [SLUS-21923](PCSX2%20Patches/SLUS-21923_643BED21.pnach) | |
 | Dora the Explorer - Dora Saves the Mermaids | [SLES-55112](PCSX2%20Patches/SLES-55112_4AF82486.pnach) [SLES-55288](PCSX2%20Patches/SLES-55288_58026BD0.pnach) [SLUS-21717](PCSX2%20Patches/SLUS-21717_3340FC2C.pnach) |  |
 | Dora the Explorer - Dora's Big Birthday Adventure | [SLUS-21944](PCSX2%20Patches/SLUS-21944_EAEDE6E8.pnach) | |
+| Downhill Slalom | [SLES-53963](PCSX2%20Patches/SLES-53963_8A1332C1.pnach) |  |
 | Drakan - The Ancients' Gates | [SCUS-97128](PCSX2%20Patches/SCUS-97128_4167D813.pnach) ||
 | DreamWorks Bee Movie Game | [SLUS-21622](PCSX2%20Patches/SLUS-21622_07717046.pnach) |
 | DreamWorks Kung Fu Panda | [SLUS-21757](PCSX2%20Patches/SLUS-21757_436D2C83.pnach) ||
-| DreamWorks Shrek - Smash n' Crash Racing | [SLES-54553](PCSX2%20Patches/SLES-54553_7C8125F4.pnach) [SLUS-21392](PCSX2%20Patches/SLUS-21392_34B473E6.pnach) | |
 | DreamWorks Over the Hedge | [SLES-53866](PCSX2%20Patches/SLES-53866_290C8D74.pnach) ||
+| DreamWorks Shrek - Smash n' Crash Racing | [SLES-54553](PCSX2%20Patches/SLES-54553_7C8125F4.pnach) [SLUS-21392](PCSX2%20Patches/SLUS-21392_34B473E6.pnach) | |
 | DT Carnage | [SLUS-21793](PCSX2%20Patches/SLUS-21793_71C13227.pnach) || 
 | DT Racer | [SLUS-21095](PCSX2%20Patches/SLUS-21095_D4690FFA.pnach) [SLES-53904](PCSX2%20Patches/SLES-53904_4A5144DD.pnach) | |
-| Downhill Slalom | [SLES-53963](PCSX2%20Patches/SLES-53963_8A1332C1.pnach) |  |
 | Echo Night Beyond / Nebula - Echo Night | [SLUS-20928](PCSX2%20Patches/SLUS-20928_2DE16D21.pnach) [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) | |
 | Ed, Edd n Eddy - The Mis-Edventures | [SLUS-21260](PCSX2%20Patches/SLUS-21260_B0AE2D8A.pnach) [SLES-53747](PCSX2%20Patches/SLES-53747_CBC1955F.pnach) |
+| Eragon | [SLES-54159](PCSX2%20Patches/SLES-54159_3E9B19C2.pnach) ||
 | ESPN - NFL Football | [SLUS-20727](PCSX2%20Patches/SLUS-20727_56920AD1.pnach) ||
 | Evil Dead - Regeneration | [SLUS-21048](PCSX2%20Patches/SLUS-21048_9DE65987.pnach) [SLES-53457](PCSX2%20Patches/SLES-53457_9DE65987.pnach) | |
-| Eragon | [SLES-54159](PCSX2%20Patches/SLES-54159_3E9B19C2.pnach) ||
 | Fahrenheit / Indigo Prophecy | [SLES-53540](PCSX2%20Patches/SLES-53540_8191D10A.pnach) [SLUS-21196](PCSX2%20Patches/SLUS-21196_A7A37EB8.pnach) |  |
 | Fairly OddParents, The - Shadow Showdown | [SLUS-20880](PCSX2%20Patches/SLUS-20880_CC955736.pnach) | |
 | Family Guy - The Video Game | [SLES-54126](PCSX2%20Patches/SLES-54126_E393DFE5.pnach) ||
@@ -139,32 +139,32 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | FIFA Street 2 | [SLES-53797](PCSX2%20Patches/SLES-53797_A0DC603B.pnach) ||
 | FIFA Street | [SLES-53064](PCSX2%20Patches/SLES-53064_FCDD79BB.pnach) ||
 | Firefighter F.D. 18 | [SLES-52096](PCSX2%20Patches/SLES-52096_4590ECC3.pnach) | |
-| FlatOut | [SLUS-20901](PCSX2%20Patches/SLUS-20901_E0127F2D.pnach) | |
 | FlatOut 2 | [SLUS-21251](PCSX2%20Patches/SLUS-21251_45DEB7AC.pnach) | |
+| FlatOut | [SLUS-20901](PCSX2%20Patches/SLUS-20901_E0127F2D.pnach) | |
 | Ford Racing 2 | [SLES-51705](PCSX2%20Patches/SLES-51705_37F695CD.pnach) [SLUS-20788](PCSX2%20Patches/SLUS-20788_515245DF.pnach) |  |
 | Forgotten Realms - Demon Stone | [SLUS-20804](PCSX2%20Patches/SLUS-20804_A9C82AB9.pnach) |
-| Freestyle Metal X | [SLES-50720](PCSX2%20Patches/SLES-50720_C8AB1868.pnach) [SLUS-20494](PCSX2%20Patches/SLUS-20494_946C6967.pnach) |  |
 | Free Running | [SLES-54559](PCSX2%20Patches/SLES-54559_D6A0A3EF.pnach) |  |
+| Freestyle Metal X | [SLES-50720](PCSX2%20Patches/SLES-50720_C8AB1868.pnach) [SLUS-20494](PCSX2%20Patches/SLUS-20494_946C6967.pnach) |  |
 | G.I. Joe - The Rise of Cobra | [SLES-55537](PCSX2%20Patches/SLES-55537_724B94F6.pnach) [SLUS-21886](PCSX2%20Patches/SLUS-21886_4EC21458.pnach) |  |
 | Gadget and the Gadgetinis | [SLES-52845](PCSX2%20Patches/SLES-52845_2235C82F.pnach) |
-| Garfield | [SLES-52843](PCSX2%20Patches/SLES-52843_F8F8CD47.pnach) |
-| Garfield 2 | [SLES-54172](PCSX2%20Patches/SLES-54172_627B8252.pnach) |
 | Garfield - Lasagna World Tour | [SLUS-21749](PCSX2%20Patches/SLUS-21749_5C241958.pnach) |
+| Garfield 2 | [SLES-54172](PCSX2%20Patches/SLES-54172_627B8252.pnach) |
+| Garfield | [SLES-52843](PCSX2%20Patches/SLES-52843_F8F8CD47.pnach) |
 | Gauntlet - Seven Sorrows | [SLUS-21077](PCSX2%20Patches/SLUS-21077_A8C4C0A9.pnach) [SLES-53667](PCSX2%20Patches/SLES-53667_BBB8392E.pnach) | |
 | Gene Troopers | [SLES-53644](PCSX2%20Patches/SLES-53644_3887C851.pnach) ||
 | George of the Jungle | [SLUS-21668](PCSX2%20Patches/SLUS-21668_028AAFC8.pnach) | |
 | Ghost in the Shell - Stand Alone Complex | [SLUS-21006](PCSX2%20Patches/SLUS-21006_95CC86EF.pnach) | |
-| Ghosthunters | [SLUS-20993](PCSX2%20Patches/SLUS-20993_29C7DA54.pnach) | |
 | Ghost Rider | [SLES-54317](PCSX2%20Patches/SLES-54317_F9DD17AA.pnach) ||
+| Ghosthunters | [SLUS-20993](PCSX2%20Patches/SLUS-20993_29C7DA54.pnach) | |
 | Gladiator - Sword of Vengeance | [SLES-51766](PCSX2%20Patches/SLES-51766_80EA26DA.pnach) [SLUS-20793](PCSX2%20Patches/SLUS-20793_C5DAD771.pnach) |  |
 | Go Kart Rally | [SLES-54726](PCSX2%20Patches/SLES-54726_95E80315.pnach) |  |
-| Godfather, The | [SLES-53971](PCSX2%20Patches/SLES-53971_9C593C78.pnach) [SLUS-21385](PCSX2%20Patches/SLUS-21385_D850707E.pnach) [SLUS-21406](PCSX2%20Patches/SLUS-21406_D850707E.pnach)| |
 | God of War | [SCUS-97399](PCSX2%20Patches/SCUS-97399_D6385328.pnach) | |
+| Godfather, The | [SLES-53971](PCSX2%20Patches/SLES-53971_9C593C78.pnach) [SLUS-21385](PCSX2%20Patches/SLUS-21385_D850707E.pnach) [SLUS-21406](PCSX2%20Patches/SLUS-21406_D850707E.pnach)| |
 | Godzilla - Unleashed | [SLUS-21707](PCSX2%20Patches/SLUS-21707_179470B4.pnach)
 | Golden Compass, The | [SLES-54996](PCSX2%20Patches/SLES-54996_73351A86.pnach) [SLES-55012](PCSX2%20Patches/SLES-55012_73351A86.pnach) [SLUS-21677](PCSX2%20Patches/SLUS-21677_E514BA51.pnach) | |
-| Grand Theft Auto III | [SLUS-20062](PCSX2%20Patches/SLUS-20062_5E115FB6.pnach) [SLES-50330](PCSX2%20Patches/SLES-50330_581954FC.pnach) |
 | Grand Theft Auto - San Andreas | [SLES-52541](PCSX2%20Patches/SLES-52541_A1B3F232.pnach) [SLUS-20946](PCSX2%20Patches/SLUS-20946_2C6BE434.pnach) [SLPM-65984](PCSX2%20Patches/SLPM-65984_60FE139C.pnach) [SLUS-20946](PCSX2%20Patches/SLUS-20946_399A49CA.pnach) | |
 | Grand Theft Auto - Vice City Stories | [SLUS-21590](PCSX2%20Patches/SLUS-21590_4F32A11F.pnach) | |
+| Grand Theft Auto III | [SLUS-20062](PCSX2%20Patches/SLUS-20062_5E115FB6.pnach) [SLES-50330](PCSX2%20Patches/SLES-50330_581954FC.pnach) |
 | Grandia III | [SLUS-21334 Disc 1](PCSX2%20Patches/SLUS-21334_5B657DAD.pnach) [SLUS-21345 Disc 2](PCSX2%20Patches/SLUS-21345_5B657DAD.pnach) |
 | GTC Africa | [SLPM-62258](PCSX2%20Patches/SLPM-62258_8AC3F5D6.pnach) [SLES-50472](PCSX2%20Patches/SLES-50472_51D8A6A9.pnach) | |
 | Gun | [SLUS-21139](PCSX2%20Patches/SLUS-21139_4B80628D.pnach) [SLES-53523](PCSX2%20Patches/SLES-53523_98D7BF5E.pnach) ||
@@ -203,8 +203,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Killzone | [SCUS-97402](PCSX2%20Patches/SCUS-97402_CAAEC49C.pnach) [SCES-52004](PCSX2%20Patches/SCES-52004_6624A78C.pnach) | |
 | King Arthur | [SLUS-21046](PCSX2%20Patches/SLUS-21046_4F3B0BA7.pnach) | |
 | King of Clubs | [SLES-54731](PCSX2%20Patches/SLES-54731_079140D6.pnach) |  |
-| Knights of the Temple II | [SLES-53645](PCSX2%20Patches/SLES-53645_9637D496.pnach) |  |
 | Knights of the Temple - Infernal Crusade | [SLES-52448](PCSX2%20Patches/SLES-52448_A03898F9.pnach) ||
+| Knights of the Temple II | [SLES-53645](PCSX2%20Patches/SLES-53645_9637D496.pnach) |  |
 | Lara Croft Tomb Raider - Anniversary | [SLUS-21555](PCSX2%20Patches/SLUS-21555_B639EB17.pnach) [SLPS-25856](PCSX2%20Patches/SLPS-25856_B05805B6.pnach) [SLES-54674](PCSX2%20Patches/SLES-54674_A629A376.pnach) ||
 | Lara Croft Tomb Raider - Legend | [SLUS-21203](PCSX2%20Patches/SLUS-21203_BC8B3F50.pnach) [SLES-53908](PCSX2%20Patches/SLES-53908_05177ECE.pnach) ||
 | Legacy of Kain - Soul Reaver 2 | [SLUS-20165 v1.01](PCSX2%20Patches/SLUS-20165_1771BFE4.pnach) [SLUS-20165 v2.00](PCSX2%20Patches/SLUS-20165_230CB71D.pnach) | |
@@ -214,21 +214,21 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Lord of the Rings, The - The Fellowship of the Ring | [SLUS-20520](PCSX2%20Patches/SLUS-20520_CF56CD9C.pnach) ||
 | Lord of the Rings, The - The Return of the King | [SLUS-20770](PCSX2%20Patches/SLUS-20770_4CE187F6.pnach) [SLES-52017](PCSX2%20Patches/SLES-52017_9771C478.pnach) | |
 | Lord of the Rings, The - The Two Towers | [SLES-51252](PCSX2%20Patches/SLES-51252_DC43F2B8.pnach) |
-| Medal of Honor - European Assault | [SLUS-21199](PCSX2%20Patches/SLUS-21199_BB70FFB9.pnach) [SLES-53332](PCSX2%20Patches/SLES-53332_BB70FFB9.pnach) [SLES-53336](PCSX2%20Patches/SLES-53336_BB70FFB9.pnach) ||
-| Medal of Honor - Vanguard | [SLUS-21597](PCSX2%20Patches/SLUS-21597_EA1BFC51.pnach) [SLES-54683](PCSX2%20Patches/SLES-54683_EA1BFC51.pnach) |
 | Mafia | [SLUS-20671](PCSX2%20Patches/SLUS-20671_B67F4F9E.pnach) ||
 | Magna Carta - Tears of Blood | [SLES-53483](PCSX2%20Patches/SLES-53483_49F78F24.pnach) [SLUS-21221](PCSX2%20Patches/SLUS-21221_C0AC5781.pnach) |  |
+| Manhunt 2 | [SLUS-21613](PCSX2%20Patches/SLUS-21613_3B0ADBEF.pnach) [SLES-54819](PCSX2%20Patches/SLES-54819_887AD3A0.pnach) |
 | Mat Hoffman's Pro BMX 2 | [SLES-50870](PCSX2%20Patches/SLES-50870_DF5C06BE.pnach) [SLUS-20335](PCSX2%20Patches/SLUS-20335_A37C0344.pnach) |  |
 | Matrix, The - Path of Neo | [SLUS-21273](PCSX2%20Patches/SLUS-21273_8BE5DFF3.pnach) | |
-| Manhunt 2 | [SLUS-21613](PCSX2%20Patches/SLUS-21613_3B0ADBEF.pnach) [SLES-54819](PCSX2%20Patches/SLES-54819_887AD3A0.pnach) |
+| Medal of Honor - European Assault | [SLUS-21199](PCSX2%20Patches/SLUS-21199_BB70FFB9.pnach) [SLES-53332](PCSX2%20Patches/SLES-53332_BB70FFB9.pnach) [SLES-53336](PCSX2%20Patches/SLES-53336_BB70FFB9.pnach) ||
+| Medal of Honor - Vanguard | [SLUS-21597](PCSX2%20Patches/SLUS-21597_EA1BFC51.pnach) [SLES-54683](PCSX2%20Patches/SLES-54683_EA1BFC51.pnach) |
 | Men in Black II - Alien Escape | [SLUS-20373](PCSX2%20Patches/SLUS-20373_69CF7BDF.pnach) | |
-| Mercenaries 2 - World in Flames | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) [SLES-54997](PCSX2%20Patches/SLES-54997_A97B93F7.pnach) [SLES-55001](PCSX2%20Patches/SLES-55001_A97C9BFD.pnach) | |
 | Mercenaries - Playground of Destruction | [SLUS-20932](PCSX2%20Patches/SLUS-20932_23510F99.pnach) [SLES-52588](PCSX2%20Patches/SLES-52588_85931FDF.pnach) [SLES-53008](PCSX2%20Patches/SLES-53008_CBA0623D.pnach) | |
+| Mercenaries 2 - World in Flames | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) [SLES-54997](PCSX2%20Patches/SLES-54997_A97B93F7.pnach) [SLES-55001](PCSX2%20Patches/SLES-55001_A97C9BFD.pnach) | |
 | Metal Slug 3D | [SLPS-25650](PCSX2%20Patches/SLPS-25650_7D8D8BFA.pnach) | |
 | Minority Report - Everybody Runs | [SLUS-20331](PCSX2%20Patches/SLUS-20331_FBAB0C3B.pnach) [SLES-51230](PCSX2%20Patches/SLES-51230_09A37D38.pnach) |
 | Monster House | [SLUS-21400](PCSX2%20Patches/SLUS-21400_1AFD7469.pnach) [SLES-54215](PCSX2%20Patches/SLES-54215_1AFD7469.pnach) |
-| Monster Hunter | [SLES-52707](PCSX2%20Patches/SLES-52707_6E8BAF03.pnach) | |
 | Monster Hunter 2 | [SLPM-66280](PCSX2%20Patches/SLPM-66280_2F0E94A1.pnach) | |
+| Monster Hunter | [SLES-52707](PCSX2%20Patches/SLES-52707_6E8BAF03.pnach) | |
 | Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) | |
 | Moto X Maniac | [SLES-54885](PCSX2%20Patches/SLES-54885_899557DF.pnach) |  |
 | Motocross Mania 3 | [SLUS-21229](PCSX2%20Patches/SLUS-21229_00E9B795.pnach) ||
@@ -273,8 +273,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Rampage - Total Destruction | [SLES-53800](PCSX2%20Patches/SLES-53800_E389B921.pnach) ||
 | Rayman - Revolution | [SLUS-20138](PCSX2%20Patches/SLUS-20138_D2F77DF2.pnach) [SLPS-25029](PCSX2%20Patches/SLPS-25029_BD9E8B57.pnach) [SLES-50044](PCSX2%20Patches/SLES-50044_55EDA5A0.pnach) |
 | Red Dead Revolver | [SLUS-20500](PCSX2%20Patches/SLUS-20500_E169BAF8.pnach) [SLES-52478](PCSX2%20Patches/SLES-52478_E2E67E23.pnach) ||
-| Red Faction | [SLUS-20073 (v2.00)](PCSX2%20Patches/SLUS-20073_3EF4376C.pnach) |
 | Red Faction II | [SLUS-20442](PCSX2%20Patches/SLUS-20442_8E7FF6F8.pnach)
+| Red Faction | [SLUS-20073 (v2.00)](PCSX2%20Patches/SLUS-20073_3EF4376C.pnach) |
 | Red Ninja - End of Honor | [SLUS-20714](PCSX2%20Patches/SLUS-20714_6B0F338D.pnach) | |
 | Red Star, The | [SLES-54581](PCSX2%20Patches/SLES-54581_C1FDACF2.pnach) ||
 | Reign of Fire | [SLES-50873](PCSX2%20Patches/SLES-50873_79464D5E.pnach) [SLUS-20556](PCSX2%20Patches/SLUS-20556_D10945CE.pnach) |  |
@@ -282,9 +282,9 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Resident Evil 4 | [SLES-53702](PCSX2%20Patches/SLES-53702_6BA2F6B9.pnach) [SLUS-21134](PCSX2%20Patches/SLUS-21134_013E349D.pnach) |  |
 | Return to Castle Wolfenstein - Operation Resurrection | [SLUS-20297](PCSX2%20Patches/SLUS-20297_5F4DB1DD.pnach) [SLES-51449](PCSX2%20Patches/SLES-51449_461C79A5.pnach) [SLES-51522](PCSX2%20Patches/SLES-51522_0F58C006.pnach) |
 | Rise of the Kasai | [SCUS-97416](PCSX2%20Patches/SCUS-97416_EDE17E1B.pnach) |  |
+| RoadKill | [SLUS-20687](PCSX2%20Patches/SLUS-20687_EBD245D0.pnach) | |
 | Robin Hood's Quest | [SLES-54125](PCSX2%20Patches/SLES-54125_79F6D5C9.pnach) |  |
 | Robots | [SLUS-20942](PCSX2%20Patches/SLUS-20942_5931A065.pnach) [SLES-53052](PCSX2%20Patches/SLES-53052_B860F5B6.pnach) |
-| RoadKill | [SLUS-20687](PCSX2%20Patches/SLUS-20687_EBD245D0.pnach) | |
 | Rogue Trooper | [SLUS-21320](PCSX2%20Patches/SLUS-21320_2F63F868.pnach) [SLES-52921](PCSX2%20Patches/SLES-52921_03C8EA64.pnach) |  |
 | Rule of Rose | [SLUS-21448](PCSX2%20Patches/SLUS-21448_F3FD313E.pnach) |
 | Run Like Hell - Hunt or Be Hunted | [SLUS-20037](PCSX2%20Patches/SLUS-20037_F802A575.pnach) | |
@@ -302,25 +302,25 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Shadow of Rome | [SLUS-20902](PCSX2%20Patches/SLUS-20902_57818AF6.pnach) [SLES-52950](PCSX2%20Patches/SLES-52950_B1995E29.pnach) |
 | ShellShock - Nam '67 | [SLUS-20828](PCSX2%20Patches/SLUS-20828_38bd8d2e.pnach) [SLES-51982](PCSX2%20Patches/SLES-51982_38BD8D2E.pnach) |
 | Short Track Racing - Trading Paint | [SLUS-21857](PCSX2%20Patches/SLUS-21857_C56B0941.pnach) ||
-| Simpsons Skateboarding, The | [SLES-51361](PCSX2%20Patches/SLES-51361_D3FB54E5.pnach) ||
-| Sims 2, The | [SLUS-21265](PCSX2%20Patches/SLUS-21265_B67577F3.pnach) | |
-| Sims 2, The - Castaway | [SLES-54903](PCSX2%20Patches/SLES-54903_E7692E0B.pnach) [SLUS-21664](PCSX2%20Patches/SLUS-21664_6DF2F39E.pnach) | |
 | Silent Hill - Origins | [SLUS-21731](PCSX2%20Patches/SLUS-21731_A8D83239.pnach) |
 | Silent Hill 2 | [SLUS-20228](PCSX2%20Patches/SLUS-20228_FE06A030.pnach) | |
+| Simpsons Skateboarding, The | [SLES-51361](PCSX2%20Patches/SLES-51361_D3FB54E5.pnach) ||
+| Sims 2, The - Castaway | [SLES-54903](PCSX2%20Patches/SLES-54903_E7692E0B.pnach) [SLUS-21664](PCSX2%20Patches/SLUS-21664_6DF2F39E.pnach) | |
+| Sims 2, The | [SLUS-21265](PCSX2%20Patches/SLUS-21265_B67577F3.pnach) | |
 | Ski and Shoot | [SLUS-21839](PCSX2%20Patches/SLUS-21839_FD37553A.pnach) | |
 | Skyscraper | [SLES-55152](PCSX2%20Patches/SLES-55152_EAEEC017.pnach) |  |
 | Smash Cars | [SLES-51800](PCSX2%20Patches/SLES-51800_7FE15107.pnach) [SLUS-20620](PCSX2%20Patches/SLUS-20620_1E4F42FF.pnach) |  |
-| Smuggler's Run | [SLUS-20065](PCSX2%20Patches/SLUS-20065_0E7F91DA.pnach) |
 | Smuggler's Run 2 - Hostile Territory | [SLUS-20204](PCSX2%20Patches/SLUS-20204_0EF2C216.pnach) |
+| Smuggler's Run | [SLUS-20065](PCSX2%20Patches/SLUS-20065_0E7F91DA.pnach) |
 | Sniper Elite | [SLUS-21231](PCSX2%20Patches/SLUS-21231_395779C5.pnach) | |
 | Snow Queen Quest, The | [SLES-54120](PCSX2%20Patches/SLES-54120_4618791D.pnach) | |
 | Snow Rider | [SLES-53936](PCSX2%20Patches/SLES-53936_95DDD361.pnach) |  |
 | Sonic Unleashed | [SLUS-21846](PCSX2%20Patches/SLUS-21846_FB236A46.pnach) [SLES-55380](PCSX2%20Patches/SLES-55380_8C913264.pnach) |
 | Sopranos, The - Road to Respect | [SLES-54209](PCSX2%20Patches/SLES-54209_673AF937.pnach) ||
-| Spider-Man 2 | [SLES-52372](PCSX2%20Patches/SLES-52372_6B68932C.pnach) ||
-| Spider-Man 3 | [SLES-54724](PCSX2%20Patches/SLES-54724_C529B0AD.pnach) ||
 | Spider-Man - Friend or Foe | [SLES-54901](PCSX2%20Patches/SLES-54901_678BE0A5.pnach) [SLUS-21600](PCSX2%20Patches/SLUS-21600_F52477F7.pnach) |  |
 | Spider-Man - Web of Shadows | [SLES-55372](PCSX2%20Patches/SLES-55372_F14C1D82.pnach) ||
+| Spider-Man 2 | [SLES-52372](PCSX2%20Patches/SLES-52372_6B68932C.pnach) ||
+| Spider-Man 3 | [SLES-54724](PCSX2%20Patches/SLES-54724_C529B0AD.pnach) ||
 | Spy Hunter - Nowhere to Run | [SLUS-21421](PCSX2%20Patches/SLUS-21421_64B39069.pnach) |
 | Spy Hunter 2 | [SLUS-20590](PCSX2%20Patches/SLUS-20590_A2B36980.pnach) [SLES-51841](PCSX2%20Patches/SLES-51841_23657D39.pnach) |
 | Star Trek Voyager - Elite Force | [SLES-50738](PCSX2%20Patches/SLES-50738_624F11F1.pnach) [SLUS-20227](PCSX2%20Patches/SLUS-20227_9F70EE4F.pnach) |  |
@@ -332,18 +332,18 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Street Cricket Champions | [SCES-55591](PCSX2%20Patches/SCES-55591_B83D59DA.pnach) ||
 | Stuart Little 3 - Big Photo Adventure | [SLUS-21341](PCSX2%20Patches/SLUS-21341_4C7A8693.pnach) [SCES-53422](PCSX2%20Patches/SCES-53422_D1003514.pnach) | |
 | Stuntman - Ignition | [SLUS-21626](PCSX2%20Patches/SLUS-21626_BFF1C010.pnach) |
-| Surf's Up | [SLUS-21572](PCSX2%20Patches/SLUS-21572_BED8AB7C.pnach) [SLES-54583](PCSX2%20Patches/SLES-54583_904A9089.pnach) |
-| Suffering, The | [SLUS-20636](PCSX2%20Patches/SLUS-20636_0486AD78.pnach) ||
 | Suffering, The - Ties That Bind | [SLUS-21189](PCSX2%20Patches/SLUS-21189_C2144770.pnach) ||
+| Suffering, The | [SLUS-20636](PCSX2%20Patches/SLUS-20636_0486AD78.pnach) ||
 | Summoner 2 | [SLUS-2044](PCSX2%20Patches/SLUS-20448_93551583.pnach) |
 | Super PickUps | [SLUS-21450](PCSX2%20Patches/SLUS-21450_D304FA88.pnach) | |
 | Supercar Street Challenge | [SLES-50419](PCSX2%20Patches/SLES-50419_833B70DB.pnach) [SLUS-20012](PCSX2%20Patches/SLUS-20012_6AEABF4E.pnach) |  |
+| Surf's Up | [SLUS-21572](PCSX2%20Patches/SLUS-21572_BED8AB7C.pnach) [SLES-54583](PCSX2%20Patches/SLES-54583_904A9089.pnach) |
 | Syberia | [SLES-51393](PCSX2%20Patches/SLES-51393_D1ACD489.pnach) |  |
 | Syphon Filter - The Omega Strain | [SCES-52033](PCSX2%20Patches/SCES-52033_27E54B37.pnach) [SCUS-97264](PCSX2%20Patches/SCUS-97264_D5605611.pnach) |  |
+| Teen Titans | [SLUS-21183](PCSX2%20Patches/SLUS-21183_E1F17139.pnach) [SLES-54430](PCSX2%20Patches/SLES-54430_E1F17139.pnach) [SLES-54431](PCSX2%20Patches/SLES-54431_E1F17139.pnach) | |
 | Teenage Mutant Ninja Turtles - Smash-Up | [SLES-55565](PCSX2%20Patches/SLES-55565_CEBA108D.pnach) [SLUS-21904](PCSX2%20Patches/SLUS-21904_532D7041.pnach) | |
 | Teenage Mutant Ninja Turtles 2 - Battle Nexus | [SLUS-20981](PCSX2%20Patches/SLUS-20981_EE628509.pnach) | |
 | Teenage Mutant Ninja Turtles 3 - Mutant Nightmare | [SLUS-21184](PCSX2%20Patches/SLUS-21184_DB42119C.pnach) | |
-| Teen Titans | [SLUS-21183](PCSX2%20Patches/SLUS-21183_E1F17139.pnach) [SLES-54430](PCSX2%20Patches/SLES-54430_E1F17139.pnach) [SLES-54431](PCSX2%20Patches/SLES-54431_E1F17139.pnach) | |
 | Terminator 3, The - The Redemption | [SLUS-20852](PCSX2%20Patches/SLUS-20852_B993C212.pnach) ||
 | Terminator, The - Dawn of Fate | [SLUS-20391](PCSX2%20Patches/SLUS-20391_DFA59850.pnach) |
 | Test Drive - Off-Road - Wide Open | [SLUS-20177](PCSX2%20Patches/SLUS-20177_0DDFE767.pnach) |
@@ -352,34 +352,34 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Tom Clancy's Ghost Recon - Advanced Warfighter | [SLUS-21422](PCSX2%20Patches/SLUS-21422_75A5436A.pnach) | |
 | Tom Clancy's Rainbow Six - Lockdown | [SLUS-21144](PCSX2%20Patches/SLUS-21144_A80FBAAC.pnach) | |
 | Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) [SLUS-21356](PCSX2%20Patches/SLUS-21356_0198F1AD.pnach) | |
-| Transformers | [SLUS-20668](PCSX2%20Patches/SLUS-20668_F40DAE1E.pnach) ||
 | Transformers - Revenge of the Fallen | [SLUS-21881](PCSX2%20Patches/SLUS-21881_137C792E.pnach) [SLES-55520](PCSX2%20Patches/SLES-55520_9E36E023.pnach) ||
 | Transformers - The Game | [SLUS-21602](PCSX2%20Patches/SLUS-21602_200DB176.pnach) [SLES-54755](PCSX2%20Patches/SLES-54755_2609B672.pnach) [SLES-54757](PCSX2%20Patches/SLES-54757_F654BFDC.pnach) ||
+| Transformers | [SLUS-20668](PCSX2%20Patches/SLUS-20668_F40DAE1E.pnach) ||
 | TransWorld Surf | [SLUS-20356](PCSX2%20Patches/SLUS-20356_66B7B74E.pnach) [SLES-50886](PCSX2%20Patches/SLES-50886_1E4D0D98.pnach) | |
 | Tribes - Aerial Assault | [SLUS-20149](PCSX2%20Patches/SLUS-20149_2B58234D.pnach) |
 | Trigger Man | [SLUS-20931](PCSX2%20Patches/SLUS-20931_AA73521B.pnach) | |
 | Turok - Evolution | [SLES-50479](PCSX2%20Patches/SLES-50479_A9E852B1.pnach) ||
-| TY the Tasmanian Tiger | [SLUS-20571](PCSX2%20Patches/SLUS-20571_4F755D39.pnach) [SLES-51220](PCSX2%20Patches/SLES-51220_D59D3252.pnach) ||
 | TY the Tasmanian Tiger 2 - Bush Rescue | [SLUS-21057](PCSX2%20Patches/SLUS-21057_5A1BB2A1.pnach) [SLES-52709](PCSX2%20Patches/SLES-52709_B9FDB9EE.pnach) ||
 | TY the Tasmanian Tiger 3 - Night of the Quinkan | [SLUS-21253](PCSX2%20Patches/SLUS-21253_CA8872BA.pnach) [SLES-53636](PCSX2%20Patches/SLES-53636_64E8F1DC.pnach) ||
-| USA Racer | [SLES-50939](PCSX2%20Patches/SLES-50939_29DCD484.pnach) | |
-| Unreal Tournament | [SLUS-20034](PCSX2%20Patches/SLUS-20034_5751CAC1.pnach) ||
+| TY the Tasmanian Tiger | [SLUS-20571](PCSX2%20Patches/SLUS-20571_4F755D39.pnach) [SLES-51220](PCSX2%20Patches/SLES-51220_D59D3252.pnach) ||
 | Ultimate Spider-Man | [SLUS-20870](PCSX2%20Patches/SLUS-20870_FDD12792.pnach) [SLES-53391](PCSX2%20Patches/SLES-53391_FDD12792.pnach) |
+| Unreal Tournament | [SLUS-20034](PCSX2%20Patches/SLUS-20034_5751CAC1.pnach) ||
+| USA Racer | [SLES-50939](PCSX2%20Patches/SLES-50939_29DCD484.pnach) | |
 | Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) [SLPM-65723](PCSX2%20Patches/SLPM-65723_960D74D7.pnach) [SLUS-20738](PCSX2%20Patches/SLUS-20738_901ECEFC.pnach) | |
 | Wallace & Gromit - The Curse of the Were-Rabbit | [SLUS-21312](PCSX2%20Patches/SLUS-21312_073EEDC0.pnach) [SLES-53621](PCSX2%20Patches/SLES-53621_7C211BF9.pnach) |
 | Warriors. The | [SLUS-21215](PCSX2%20Patches/SLUS-21215_B99A75DE.pnach) | |
-| Wild Wild Racing | [SLES-50009](PCSX2%20Patches/SLES-50009_04FE3778.pnach) ||
 | White Van Racer | [SLES-54550](PCSX2%20Patches/SLES-54550_82DDC773.pnach) | |
+| Wild Wild Racing | [SLES-50009](PCSX2%20Patches/SLES-50009_04FE3778.pnach) ||
 | World Destruction League - War Jets | [SLES-50262](PCSX2%20Patches/SLES-50262_60BCC078.pnach) [SLUS-20007](PCSX2%20Patches/SLUS-20007_70C924CC.pnach) | |
-| World Racing | [SLES-51387](PCSX2%20Patches/SLES-51387_E892412E.pnach) | |
 | World Racing 2 | [SLES-53646](PCSX2%20Patches/SLES-53646_2A4A9916.pnach)
+| World Racing | [SLES-51387](PCSX2%20Patches/SLES-51387_E892412E.pnach) | |
 | World War Zero - IronStorm | [SLES-51924](PCSX2%20Patches/SLES-51924_B1C27A19.pnach) | |
 | Worms Forts - Under Siege | [SLES-52734](PCSX2%20Patches/SLES-52734_38C8967A.pnach) [SLUS-21093](PCSX2%20Patches/SLUS-21093_A99BACE1.pnach) | |
 | WWE Crush Hour | [SLUS-20385](PCSX2%20Patches/SLUS-20385_CD6A0695.pnach) [SLES-51600](PCSX2%20Patches/SLES-51600_D2738AD3.pnach) ||
 | WWI - Aces of the Sky | [SLES-54205](PCSX2%20Patches/SLES-54205_8C84FD93.pnach) ||
-| XGRA - Extreme G Racing Association | [SLUS-20632](PCSX2%20Patches/SLUS-20632_56B36513.pnach) ||
 | X-Files, The - Resist or Serve | [SLUS-20179](PCSX2%20Patches/SLUS-20179_E79C7749.pnach) [SLES-52341](PCSX2%20Patches/SLES-52341_F4D70887.pnach) |
 | X-Men - The Official Game | [SLES-54066](PCSX2%20Patches/SLES-54066_DF217C0B.pnach) [SLUS-21107](PCSX2%20Patches/SLUS-21107_AEFCA55C.pnach) | |
 | Xena - Warrior Princess | [SLES-54541](PCSX2%20Patches/SLES-54541_59B36669.pnach) ||
+| XGRA - Extreme G Racing Association | [SLUS-20632](PCSX2%20Patches/SLUS-20632_56B36513.pnach) ||
 | XIII | [SLUS-20677](PCSX2%20Patches/SLUS-20677_FCD97245.pnach) [SLPS-25375](PCSX2%20Patches/SLPS-25375_D4ECB62E.pnach) ||
 | Yakuza | [SLES-54171](PCSX2%20Patches/SLES-54171_D3F182A3.pnach) | |
