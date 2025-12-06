@@ -1,0 +1,8 @@
+gametitle=Superman Returns NTSC-U SLUS-21434 E1BF5DCA
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,203F8164,extended,14400002
+patch=1,EE,E0010001,extended,0062E580
+patch=1,EE,203F8164,extended,10400002

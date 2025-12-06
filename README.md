@@ -337,6 +337,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Summoner 2 | [SLUS-2044](PCSX2%20Patches/SLUS-20448_93551583.pnach) |
 | Super PickUps | [SLUS-21450](PCSX2%20Patches/SLUS-21450_D304FA88.pnach) | |
 | Supercar Street Challenge | [SLES-50419](PCSX2%20Patches/SLES-50419_833B70DB.pnach) [SLUS-20012](PCSX2%20Patches/SLUS-20012_6AEABF4E.pnach) |  |
+| Superman Returns | [SLUS-21434](PCSX2%20Patches/SLUS-21434_E1BF5DCA.pnach) [SLES-54351](PCSX2%20Patches/SLES-54351_EDF0A0A7.pnach) |
 | Surf's Up | [SLUS-21572](PCSX2%20Patches/SLUS-21572_BED8AB7C.pnach) [SLES-54583](PCSX2%20Patches/SLES-54583_904A9089.pnach) |
 | Syberia | [SLES-51393](PCSX2%20Patches/SLES-51393_D1ACD489.pnach) |  |
 | Syphon Filter - The Omega Strain | [SCES-52033](PCSX2%20Patches/SCES-52033_27E54B37.pnach) [SCUS-97264](PCSX2%20Patches/SCUS-97264_D5605611.pnach) |  |

@@ -1,0 +1,8 @@
+gametitle=Superman Returns PAL-S SLES-54351 EDF0A0A7
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,203F81E4,extended,14400002
+patch=1,EE,E0010001,extended,0062E600
+patch=1,EE,203F81E4,extended,10400002
