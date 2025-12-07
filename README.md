@@ -51,6 +51,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Alone in the Dark | [SLES-55207](PCSX2%20Patches/SLES-55207_68FC3CF9.pnach) | |
 | Ant Bully, The | [SLUS-21415](PCSX2%20Patches/SLUS-21415_E10A865B.pnach) [SLES-54152](PCSX2%20Patches/SLES-54152_802F7B69.pnach) [SLES-54178](PCSX2%20Patches/SLES-54178_E10A865B.pnach) |
 | Area 51 | [SLUS-20595](PCSX2%20Patches/SLUS-20595_B59EF006.pnach) | |
+| Army Men - RTS | [SLUS-20206](PCSX2%20Patches/SLUS-20206_49DC3D25.pnach) [SLES-50434](PCSX2%20Patches/SLES-50434_EBB067E7.pnach) |
 | Army Men - Soldiers of Misfortune | [SLUS-21831](PCSX2%20Patches/SLUS-21831_4BB40113.pnach) | |
 | Autobahn Raser - Das Spiel zum Film | [SLES-52459](PCSX2%20Patches/SLES-52459_F2CC17D2.pnach) |  |
 | Autobahn Raser IV | [SLES-51009](PCSX2%20Patches/SLES-51009_284C6B75.pnach) |  |
