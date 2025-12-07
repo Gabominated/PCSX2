@@ -1,6 +1,6 @@
 gametitle=Constantine PAL-M SLES-52872 715AD5FD
 
-[60 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
 patch=0,EE,0010233C,word,24020000
