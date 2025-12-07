@@ -1,0 +1,6 @@
+gametitle=Constantine NTSC-U SLUS-21142 314DAA9F
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=0,EE,0010233C,word,24020000

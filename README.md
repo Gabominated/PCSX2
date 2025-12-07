@@ -87,7 +87,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Conflict - Desert Storm II - Back to Baghdad | [SLUS-20689](PCSX2%20Patches/SLUS-20689_2BE460DF.pnach) [SLES-51523](PCSX2%20Patches/SLES-51523_AA40FD87.pnach) ||
 | Conflict - Global Terror | [SLUS-21172](PCSX2%20Patches/SLUS-21172_005AA020.pnach) ||
 | Conflict - Vietnam | [SLUS-21045](PCSX2%20Patches/SLUS-21045_CC6CBF20.pnach) [SLES-52630](PCSX2%20Patches/SLES-52630_F0206B09.pnach) ||
-| Constantine | [SLPM-65972](PCSX2%20Patches/SLPM-65972_25D968B0.pnach) [SLES-52872](PCSX2%20Patches/SLES-52872_715AD5FD.pnach)| |
+| Constantine | [SLUS-21142](PCSX2%20Patches/SLUS-21142_314DAA9F.pnach) [SLPM-65972](PCSX2%20Patches/SLPM-65972_25D968B0.pnach) [SLES-52872](PCSX2%20Patches/SLES-52872_715AD5FD.pnach)| |
 | Coraline | [SLUS-21854](PCSX2%20Patches/SLUS-21854_64ABECC8.pnach) |
 | Corvette Evolution GT | [SLUS-21499](PCSX2%20Patches/SLUS-21499_45A8B64C.pnach) | |
 | Counter Terrorist Special Forces - Fire for Effect | [SLES-53046](PCSX2%20Patches/SLES-53046_EDE9DD5C.pnach) |  |
