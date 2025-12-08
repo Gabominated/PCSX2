@@ -1,0 +1,6 @@
+gametitle=Avatar - The Last Airbender NTSC-U SLUS-21395 52AC9729
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0013DD50,word,A38099C8

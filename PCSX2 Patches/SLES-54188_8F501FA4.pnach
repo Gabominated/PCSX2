@@ -1,0 +1,6 @@
+gametitle=Avatar - The Legend of Aang PAL-M SLES-54188 8F501FA4
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0013DEFC,word,A3809A78
