@@ -1,0 +1,6 @@
+gametitle=Looney Tunes - Space Race NTSC-U SLUS-20352 614F7928
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,00147160,word,24020001
