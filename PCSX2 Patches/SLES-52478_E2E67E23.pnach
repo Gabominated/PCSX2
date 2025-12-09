@@ -8,7 +8,8 @@ patch=1,EE,004FD20C,word,00000001
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start instead PAL Mode.
-patch=1,EE,003C156C,word,80830000
+patch=1,EE,003C1598,word,A0A1D3A4
+patch=1,EE,00235B3C,word,70430004
 
 [Disable Blur]
 author=Gabominated
