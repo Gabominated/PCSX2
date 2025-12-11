@@ -1,8 +1,8 @@
 gametitle=Call of Duty 3 NTSC-U SLUS-21426 5E843024
 
 [60 FPS]
-author=asasega & Gabominated
-description=Might need EE Overclock.
-patch=1,EE,2053CF04,extended,00000001 //00000002
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,2035CDB8,extended,12600003
 patch=1,EE,E0010001,extended,00543176
-patch=1,EE,2053CF04,extended,00000002
+patch=1,EE,2035CDB8,extended,14600003
