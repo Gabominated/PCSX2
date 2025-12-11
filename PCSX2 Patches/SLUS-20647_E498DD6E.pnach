@@ -1,0 +1,6 @@
+gametitle=Wallace & Gromit in Project Zoo NTSC-U SLUS-20647 E498DD6E
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,001A763C,word,3C013C88

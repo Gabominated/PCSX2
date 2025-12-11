@@ -373,6 +373,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | USA Racer | [SLES-50939](PCSX2%20Patches/SLES-50939_29DCD484.pnach) | |
 | Van Helsing | [SLES-51908](PCSX2%20Patches/SLES-51908_8176235A.pnach) [SLPM-65723](PCSX2%20Patches/SLPM-65723_960D74D7.pnach) [SLUS-20738](PCSX2%20Patches/SLUS-20738_901ECEFC.pnach) | |
 | Wallace & Gromit - The Curse of the Were-Rabbit | [SLUS-21312](PCSX2%20Patches/SLUS-21312_073EEDC0.pnach) [SLES-53621](PCSX2%20Patches/SLES-53621_7C211BF9.pnach) |
+| Wallace & Gromit in Project Zoo | [SLUS-20647](PCSX2%20Patches/SLUS-20647_E498DD6E.pnach) [SLES-51989](PCSX2%20Patches/SLES-51989_BF45EFF4.pnach) |
 | Warriors. The | [SLUS-21215](PCSX2%20Patches/SLUS-21215_B99A75DE.pnach) | |
 | White Van Racer | [SLES-54550](PCSX2%20Patches/SLES-54550_82DDC773.pnach) | |
 | Wild Wild Racing | [SLES-50009](PCSX2%20Patches/SLES-50009_04FE3778.pnach) ||
