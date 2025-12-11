@@ -377,6 +377,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Warriors. The | [SLUS-21215](PCSX2%20Patches/SLUS-21215_B99A75DE.pnach) | |
 | White Van Racer | [SLES-54550](PCSX2%20Patches/SLES-54550_82DDC773.pnach) | |
 | Wild Wild Racing | [SLES-50009](PCSX2%20Patches/SLES-50009_04FE3778.pnach) ||
+| WipEout Pulse | [SCES-54748](PCSX2%20Patches/SCES-54748_F8AE6FF2.pnach) |
 | World Destruction League - War Jets | [SLES-50262](PCSX2%20Patches/SLES-50262_60BCC078.pnach) [SLUS-20007](PCSX2%20Patches/SLUS-20007_70C924CC.pnach) | |
 | World Racing 2 | [SLES-53646](PCSX2%20Patches/SLES-53646_2A4A9916.pnach)
 | World Racing | [SLES-51387](PCSX2%20Patches/SLES-51387_E892412E.pnach) | |

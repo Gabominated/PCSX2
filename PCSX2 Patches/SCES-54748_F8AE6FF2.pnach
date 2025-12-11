@@ -1,0 +1,6 @@
+gametitle=WipEout Pulse PAL-M SCES-54748 F8AE6FF2
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%)
+patch=1,EE,0010B4E0,word,14400009
