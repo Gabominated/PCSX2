@@ -1,17 +1,6 @@
 gametitle=DT Racer PAL-M SLES-53904 4A5144DD
 
-[60 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock (180%).
-patch=0,EE,001002D4,word,3C0142C8
-patch=0,EE,0010cd24,word,3c0142c8
-patch=0,EE,0010cd48,word,3c0142f0
-patch=0,EE,0010CD70,word,3c0142f0
-patch=1,EE,E0018889,extended,00764F20
-patch=1,EE,20764F20,extended,3C888889
-patch=1,EE,E0018889,extended,00764C20
-patch=1,EE,20764C20,extended,3C888889
-patch=1,EE,E001D70A,extended,007A4C70
-patch=1,EE,207A4C70,extended,3CA3D70A
-patch=1,EE,E0018889,extended,007AAAA0
-patch=1,EE,207AAAA0,extended,3C888889
+patch=1,EE,0010880C,word,3C013f80
