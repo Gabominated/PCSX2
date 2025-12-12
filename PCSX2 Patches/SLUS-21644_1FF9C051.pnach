@@ -1,0 +1,6 @@
+gametitle=Nickelodeon SpongeBob's Atlantis SquarePantis NTSC-U SLUS-21644 1FF9C051
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=0,EE,0021FA7C,word,3C014270
