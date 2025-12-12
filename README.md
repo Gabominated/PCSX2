@@ -250,7 +250,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | MX vs. ATV Untamed | [SLUS-21701](PCSX2%20Patches/SLUS-21701_08FE7DFD.pnach) [SLES-55050](PCSX2%20Patches/SLES-55050_74912B29.pnach) |
 | NASCAR - Dirt to Daytona | [SLUS-20441](PCSX2%20Patches/SLUS-20441_2EA87CC5.pnach)
 | Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab | [SLUS-21391](PCSX2%20Patches/SLUS-21391_82C46B7A.pnach) [SLES-54400](PCSX2%20Patches/SLES-54400_B1F87437.pnach) |
-| Nickelodeon SpongeBob's Atlantis SquarePantis | [SLUS-21644](PCSX2%20Patches/SLUS-21644_1FF9C051.pnach) [SLES-54400](PCSX2%20Patches/SLES-54400_B1F87437.pnach) |
+| Nickelodeon SpongeBob's Atlantis SquarePantis | [SLUS-21644](PCSX2%20Patches/SLUS-21644_1FF9C051.pnach) [SLES-55024](PCSX2%20Patches/SLES-55024_AE28C9C7.pnach) |
 | Nitro Bike | [SLES-55192](PCSX2%20Patches/SLES-55192_B2367FD0.pnach) [SLUS-21738](PCSX2%20Patches/SLUS-21738_F5FE754D.pnach) |  |
 | Obscure - II / The Aftermath | [SLUS-21709](PCSX2%20Patches/SLUS-21709_408DFB9C.pnach) [SLES-54782](PCSX2%20Patches/SLES-54782_FC4AC115.pnach) |  |
 | Okami | [SLES-54439](PCSX2%20Patches/SLES-54439_891F223F.pnach) [SLPM-66375](PCSX2%20Patches/SLPM-66375_C5DEFEA0.pnach) [SLUS-21115](PCSX2%20Patches/SLUS-21115_21068223.pnach) | |
