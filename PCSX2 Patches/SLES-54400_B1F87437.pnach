@@ -1,0 +1,21 @@
+gametitle=Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab PAL-M SLES-54400 B1F87437
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,00316688,word,3C014270
+patch=0,EE,003166A8,word,3C014248
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,0042C128,word,1440000B
+patch=0,EE,00316674,word,30620081
+patch=0,EE,001F3CDC,word,34430200
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=0,EE,0042C0A4,word,1440001E
+patch=0,EE,00316674,word,30620081
+patch=0,EE,001F3CDC,word,34430200
