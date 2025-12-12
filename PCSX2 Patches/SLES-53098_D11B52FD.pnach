@@ -1,0 +1,6 @@
+gametitle=Conspiracy - Weapons of Mass Destruction PAL-M SLES-53098 D11B52FD
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,002CE08C,word,00000001
