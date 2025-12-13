@@ -1,0 +1,7 @@
+gametitle=Le Mans 24 Hours NTSC-U SLUS-20207 67835861
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0033FF6C,word,24420002
+patch=0,EE,00248888,word,3C034270

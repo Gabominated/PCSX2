@@ -1,0 +1,7 @@
+gametitle=Le Mans 24 Hours NTSC-J SLPM-62128 39E38CC6
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0033D5BC,word,24420002
+patch=0,EE,00245C64,word,3C034270

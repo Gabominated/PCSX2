@@ -1,0 +1,8 @@
+gametitle=Le Mans 24 Hours 
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0033F1FC,word,24420002
+patch=0,EE,0024872C,word,3C044270
+patch=0,EE,00263D34,word,3C024248 // PAL mode but, It's turn to NTSC.
