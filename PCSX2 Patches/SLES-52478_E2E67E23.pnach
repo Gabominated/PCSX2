@@ -15,3 +15,9 @@ patch=1,EE,00235B3C,word,70430004
 author=Gabominated
 description=Disable the Post-Processing blur effect.
 patch=1,EE,00310B54,word,00000000
+
+[Disable Black Bars]
+author=Gabominated
+description=Disable black bars in gameplay.
+patch=1,EE,0073ED84,word,00000000
+patch=1,EE,0073E694,word,3F866666
