@@ -1,5 +1,12 @@
 gametitle=Mercenaries 2 - World in Flames PAL-E SLES-54997 A97B93F7
 
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=0,EE,003061E0,word,24020001
+patch=0,EE,002FCBD8,word,24020001
+patch=0,EE,003360A0,word,8C82C8F0
+
 [Disable Blur/Bloom]
 author=Gabominated
 description=Might need to Set Shade Boost, Brightness:95.

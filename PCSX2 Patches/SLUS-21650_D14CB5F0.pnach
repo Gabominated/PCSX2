@@ -5,7 +5,7 @@ author=Gabominated
 description=Might need EE Overclock (180%).
 patch=0,EE,00306288,word,24020001
 patch=0,EE,002FCC80,word,24020001
-patch=0,EE,00336330,word,AC80CB70
+patch=0,EE,00336330,word,8C82CB70
 
 [Remove Blur/Bloom]
 author=Gabominated
