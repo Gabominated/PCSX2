@@ -1,0 +1,10 @@
+gametitle=Harry Potter and the Goblet of Fire NTSC-U SLUS-21325 B38CC628
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,00103AA4,word,24040000
+patch=0,EE,002C295C,word,3C0142EF
+//0059806C
+//00598074
+//00598070
