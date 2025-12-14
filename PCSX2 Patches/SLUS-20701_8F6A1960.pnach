@@ -1,0 +1,6 @@
+gametitle=Scooby-Doo! Mystery Mayhem NTSC-U SLUS-20701 8F6A1960
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,0024ECB4,word,24110002
