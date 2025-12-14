@@ -1,6 +1,12 @@
 gametitle=Scooby-Doo! Mystery Mayhem PAL-M SLES-51883 8F6A1960
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,0024ECB4,word,24110002
+patch=0,EE,0024ECB4,word,24110002
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00120920,word,38620002
+patch=0,EE,002b79b4,word,000001c0
