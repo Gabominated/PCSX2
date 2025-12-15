@@ -222,7 +222,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Lord of the Rings, The - Aragorn's Quest | [SLES-55574](PCSX2%20Patches/SLES-55574_58FCA3F8.pnach) [SLUS-21915](PCSX2%20Patches/SLUS-21915_40619A71.pnach) | |
 | Lord of the Rings, The - The Fellowship of the Ring | [SLUS-20520](PCSX2%20Patches/SLUS-20520_CF56CD9C.pnach) ||
 | Lord of the Rings, The - The Return of the King | [SLUS-20770](PCSX2%20Patches/SLUS-20770_4CE187F6.pnach) [SLES-52017](PCSX2%20Patches/SLES-52017_9771C478.pnach) | |
-| Lord of the Rings, The - The Two Towers | [SLES-51252](PCSX2%20Patches/SLES-51252_DC43F2B8.pnach) |
+| Lord of the Rings, The - The Two Towers | [SLUS-20578](PCSX2%20Patches/SLUS-20578_C818BEC2.pnach) [SLES-51252](PCSX2%20Patches/SLES-51252_DC43F2B8.pnach) |
 | Mafia | [SLUS-20671](PCSX2%20Patches/SLUS-20671_B67F4F9E.pnach) ||
 | Magna Carta - Tears of Blood | [SLES-53483](PCSX2%20Patches/SLES-53483_49F78F24.pnach) [SLUS-21221](PCSX2%20Patches/SLUS-21221_C0AC5781.pnach) |  |
 | Manhunt 2 | [SLUS-21613](PCSX2%20Patches/SLUS-21613_3B0ADBEF.pnach) [SLES-54819](PCSX2%20Patches/SLES-54819_887AD3A0.pnach) |
