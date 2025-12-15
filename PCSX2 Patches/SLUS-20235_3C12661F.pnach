@@ -1,0 +1,6 @@
+gametitle=Superman - Shadow of Apokolips NTSC-U SLUS-20235 3C12661F
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,00108560,word,24020001

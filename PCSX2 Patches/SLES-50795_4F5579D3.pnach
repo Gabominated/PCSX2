@@ -1,0 +1,6 @@
+gametitle=Superman - Shadow of Apokolips PAL-M SLES-50795 4F5579D3
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,00108560,word,24020001
