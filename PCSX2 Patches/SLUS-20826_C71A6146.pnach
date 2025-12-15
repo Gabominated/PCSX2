@@ -1,0 +1,6 @@
+gametitle=Harry Potter and the Sorcerer's Stone NTSC-U SLUS-20826 C71A6146
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=0,EE,001AF2D8,word,8C640018

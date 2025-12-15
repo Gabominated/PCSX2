@@ -175,6 +175,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Gun | [SLUS-21139](PCSX2%20Patches/SLUS-21139_4B80628D.pnach) [SLES-53523](PCSX2%20Patches/SLES-53523_98D7BF5E.pnach) ||
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) [SLUS-21020](PCSX2%20Patches/SLUS-21020_83C9749E.pnach) |  |
 | Happy Feet | [SLUS-21455](PCSX2%20Patches/SLUS-21455_BAFEFC57.pnach) [SLES-54421](PCSX2%20Patches/SLES-54421_3FFB22A6.pnach) |
+| Harry Potter and the Sorcerer's Stone | [SLUS-20826](PCSX2%20Patches/SLUS-20826_C71A6146.pnach) [SLES-52055](PCSX2%20Patches/SLES-52055_C71A6146.pnach) |
 | Harry Potter and the Chamber of Secrets | [SLES-51192](PCSX2%20Patches/SLES-51192_C5473413.pnach) |
 | Harry Potter and the Goblet of Fire | [SLUS-21325](PCSX2%20Patches/SLUS-21325_B38CC628.pnach) [SLES-53728](PCSX2%20Patches/SLES-53728_B18DC525.pnach) |
 | Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) [SLUS-20817](PCSX2%20Patches/SLUS-20817_2F5EB1FF.pnach) |  |
