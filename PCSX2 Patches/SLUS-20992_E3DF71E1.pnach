@@ -1,0 +1,7 @@
+gametitle=Catwoman NTSC-U SLUS-20992 E3DF71E1
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0012A3B0,word,24420002
+patch=0,EE,001763C4,word,46000843

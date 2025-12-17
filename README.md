@@ -77,6 +77,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) |  |
 | Call of Duty 3 | [SLUS-21426](PCSX2%20Patches/SLUS-21426_5E843024.pnach) | |
 | Castleween | [SLES-51249](PCSX2%20Patches/SLES-51249_EE3BCA71.pnach) |  |
+| Catwoman | [SLUS-20992](PCSX2%20Patches/SLUS-20992_E3DF71E1.pnach) [SLES-52567](PCSX2%20Patches/SLES-52567_B90470B8.pnach) |
 | Chandragupta - Warrior Prince | [SCES-55662](PCSX2%20Patches/SCES-55662_DB2EE959.pnach) |  |
 | Chronicles of Narnia, The - Prince Caspian | [SLUS-21756](PCSX2%20Patches/SLUS-21756_E43E46E6.pnach) |
 | Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe | [SLUS-21082](PCSX2%20Patches/SLUS-21082_7A9723B8.pnach) |
