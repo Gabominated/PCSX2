@@ -306,6 +306,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Saint Seiya - The Hades | [SLES-54162](PCSX2%20Patches/SLES-54162_531AB6BC.pnach) |  |
 | SBK - Superbike World Championship | [SLUS-21817](PCSX2%20Patches/SLUS-21817_67AA5142.pnach) |
 | SBK 07 - Superbike World Championship | [SLES-54705](PCSX2%20Patches/SLES-54705_66F88B18.pnach) |
+| SBK 08 - Superbike World Championship | [SLES-55148](PCSX2%20Patches/SLES-55148_E4BDADEE.pnach) |
 | SBK 09 - Superbike World Championship | [SLES-55492](PCSX2%20Patches/SLES-55492_CAC50E8E.pnach) |
 | Scaler | [SLES-52917](PCSX2%20Patches/SLES-52917_E54D237D.pnach) [SLES-52918](PCSX2%20Patches/SLES-52918_E54D237D.pnach) |  |
 | Scarface - The World is Yours | [SLES-54182](PCSX2%20Patches/SLES-54182_301A1B6E.pnach) [SLES-54183](PCSX2%20Patches/SLES-54183_9A660CC1.pnach) [SLES-54184](PCSX2%20Patches/SLES-54184_20F4FDF8.pnach) [SLES-54271](PCSX2%20Patches/SLES-54271_B69AF9A5.pnach) |  |

@@ -1,0 +1,9 @@
+gametitle=SBK 08 - Superbike World Championship PAL-M SLES-55148 E4BDADEE
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0029DB44,word,24030001
+patch=0,EE,00200014,word,3C043F00
+//01E8FE64
+//0059D204
