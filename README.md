@@ -174,6 +174,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | GTC Africa | [SLPM-62258](PCSX2%20Patches/SLPM-62258_8AC3F5D6.pnach) [SLES-50472](PCSX2%20Patches/SLES-50472_51D8A6A9.pnach) | |
 | Gun | [SLUS-21139](PCSX2%20Patches/SLUS-21139_4B80628D.pnach) [SLES-53523](PCSX2%20Patches/SLES-53523_98D7BF5E.pnach) ||
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) [SLUS-21020](PCSX2%20Patches/SLUS-21020_83C9749E.pnach) |  |
+| Hannspree Ten Kate Honda SBK - Superbike World Championship | [SLUS-21656](PCSX2%20Patches/SLUS-21656_E9FFA1F2.pnach) |
 | Happy Feet | [SLUS-21455](PCSX2%20Patches/SLUS-21455_BAFEFC57.pnach) [SLES-54421](PCSX2%20Patches/SLES-54421_3FFB22A6.pnach) |
 | Harry Potter and the Sorcerer's Stone | [SLUS-20826](PCSX2%20Patches/SLUS-20826_C71A6146.pnach) [SLES-52055](PCSX2%20Patches/SLES-52055_C71A6146.pnach) |
 | Harry Potter and the Chamber of Secrets | [SLES-51192](PCSX2%20Patches/SLES-51192_C5473413.pnach) |
@@ -241,6 +242,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) | |
 | Moto X Maniac | [SLES-54885](PCSX2%20Patches/SLES-54885_899557DF.pnach) |  |
 | Motocross Mania 3 | [SLUS-21229](PCSX2%20Patches/SLUS-21229_00E9B795.pnach) ||
+| MotoGP 07 | [SLUS-21688](PCSX2%20Patches/SLUS-21688_FF46F4C4.pnach) | [SLES-54959](PCSX2%20Patches/SLES-54959_1C000196.pnach) |
+| MotoGP 08 | [SLUS-21811](PCSX2%20Patches/SLUS-21811_73DA9F6F.pnach) | [SLES-55266](PCSX2%20Patches/SLES-55266_0AE1DBD5.pnach) |
 | MotorStorm - Arctic Edge | [SCES-55573](PCSX2%20Patches/SCES-55573_3C967DB9.pnach) [SCUS-97654](PCSX2%20Patches/SCUS-97654_773D2835.pnach) | |
 | Mr. Bean | [SLES-54666](PCSX2%20Patches/SLES-54666_EDCBBC68.pnach) |  |
 | Mummy Returns, The | [SLUS-20253](PCSX2%20Patches/SLUS-20253_035BF93D.pnach) [SLES-50510](PCSX2%20Patches/SLES-50510_B9254C98.pnach) |
@@ -301,6 +304,9 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Run Like Hell - Hunt or Be Hunted | [SLUS-20037](PCSX2%20Patches/SLUS-20037_F802A575.pnach) | |
 | Rune - Viking Warlord | [SLUS-20109](PCSX2%20Patches/SLUS-20109_1259612B.pnach) |
 | Saint Seiya - The Hades | [SLES-54162](PCSX2%20Patches/SLES-54162_531AB6BC.pnach) |  |
+| SBK - Superbike World Championship | [SLUS-21817](PCSX2%20Patches/SLUS-21817_67AA5142.pnach) |
+| SBK 07 - Superbike World Championship | [SLES-54705](PCSX2%20Patches/SLES-54705_66F88B18.pnach) |
+| SBK 09 - Superbike World Championship | [SLES-55492](PCSX2%20Patches/SLES-55492_CAC50E8E.pnach) |
 | Scaler | [SLES-52917](PCSX2%20Patches/SLES-52917_E54D237D.pnach) [SLES-52918](PCSX2%20Patches/SLES-52918_E54D237D.pnach) |  |
 | Scarface - The World is Yours | [SLES-54182](PCSX2%20Patches/SLES-54182_301A1B6E.pnach) [SLES-54183](PCSX2%20Patches/SLES-54183_9A660CC1.pnach) [SLES-54184](PCSX2%20Patches/SLES-54184_20F4FDF8.pnach) [SLES-54271](PCSX2%20Patches/SLES-54271_B69AF9A5.pnach) |  |
 | Scooby-Doo! Mystery Mayhem | [SLUS-20701](PCSX2%20Patches/SLUS-20701_8F6A1960.pnach) [SLES-51883](PCSX2%20Patches/SLES-51883_8F6A1960.pnach) |

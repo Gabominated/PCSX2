@@ -1,0 +1,9 @@
+gametitle=MotoGP '08 NTSC-U SLUS-21811 73DA9F6F
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0038A474,word,24030001
+patch=0,EE,002CECD4,word,3C043F00
+//01E87178
+//005FED44

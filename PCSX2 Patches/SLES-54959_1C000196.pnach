@@ -1,0 +1,9 @@
+gametitle=MotoGP '07 PAL-M SLES-54959 1C000196
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,002AD264,word,24030001
+patch=0,EE,0020103C,word,3C043F00
+//01E8BB24
+//005C6B74

@@ -1,0 +1,9 @@
+gametitle=SBK-07 - Superbike World Championship PAL-M SLES-54705 66F88B18
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,00295EC4,word,24030001
+patch=0,EE,001FB8CC,word,3C043F00
+//01E8FE64
+//0058F40C

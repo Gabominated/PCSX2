@@ -1,0 +1,9 @@
+gametitle=Hannspree Ten Kate Honda SBK - Superbike World Championship NTSC-U SLUS-21656 E9FFA1F2
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,00293DE4,word,24030001
+patch=0,EE,001F9C7C,word,3C043F00
+//01E8FE64
+//0058A514
