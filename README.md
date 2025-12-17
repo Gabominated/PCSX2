@@ -242,8 +242,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) | |
 | Moto X Maniac | [SLES-54885](PCSX2%20Patches/SLES-54885_899557DF.pnach) |  |
 | Motocross Mania 3 | [SLUS-21229](PCSX2%20Patches/SLUS-21229_00E9B795.pnach) ||
-| MotoGP 07 | [SLUS-21688](PCSX2%20Patches/SLUS-21688_FF46F4C4.pnach) | [SLES-54959](PCSX2%20Patches/SLES-54959_1C000196.pnach) |
-| MotoGP 08 | [SLUS-21811](PCSX2%20Patches/SLUS-21811_73DA9F6F.pnach) | [SLES-55266](PCSX2%20Patches/SLES-55266_0AE1DBD5.pnach) |
+| MotoGP 07 | [SLUS-21688](PCSX2%20Patches/SLUS-21688_FF46F4C4.pnach) [SLES-54959](PCSX2%20Patches/SLES-54959_1C000196.pnach) |
+| MotoGP 08 | [SLUS-21811](PCSX2%20Patches/SLUS-21811_73DA9F6F.pnach) [SLES-55266](PCSX2%20Patches/SLES-55266_0AE1DBD5.pnach) |
 | MotorStorm - Arctic Edge | [SCES-55573](PCSX2%20Patches/SCES-55573_3C967DB9.pnach) [SCUS-97654](PCSX2%20Patches/SCUS-97654_773D2835.pnach) | |
 | Mr. Bean | [SLES-54666](PCSX2%20Patches/SLES-54666_EDCBBC68.pnach) |  |
 | Mummy Returns, The | [SLUS-20253](PCSX2%20Patches/SLUS-20253_035BF93D.pnach) [SLES-50510](PCSX2%20Patches/SLES-50510_B9254C98.pnach) |
