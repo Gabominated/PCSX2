@@ -1,0 +1,6 @@
+gametitle=Scarface - The World is Yours NTSC-U SLUS-21111 41F4A178
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00634148,word,8C6500DC

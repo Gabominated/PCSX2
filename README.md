@@ -75,6 +75,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Brothers in Arms - Road to Hill 30 | [SLUS-21163](PCSX2%20Patches/SLUS-21163_DFC0888A.pnach) |
 | Bully / Canis Canem Edit | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
 | Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) |  |
+| Call of Duty 2 - Big Red One | [SLUS-21228](PCSX2%20Patches/SLUS-21228_E66C9699.pnach) |
 | Call of Duty 3 | [SLUS-21426](PCSX2%20Patches/SLUS-21426_5E843024.pnach) | |
 | Castleween | [SLES-51249](PCSX2%20Patches/SLES-51249_EE3BCA71.pnach) |  |
 | Catwoman | [SLUS-20992](PCSX2%20Patches/SLUS-20992_E3DF71E1.pnach) [SLES-52567](PCSX2%20Patches/SLES-52567_B90470B8.pnach) |
@@ -312,7 +313,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | SBK 08 - Superbike World Championship | [SLES-55148](PCSX2%20Patches/SLES-55148_E4BDADEE.pnach) |
 | SBK 09 - Superbike World Championship | [SLES-55492](PCSX2%20Patches/SLES-55492_CAC50E8E.pnach) |
 | Scaler | [SLES-52917](PCSX2%20Patches/SLES-52917_E54D237D.pnach) [SLES-52918](PCSX2%20Patches/SLES-52918_E54D237D.pnach) |  |
-| Scarface - The World is Yours | [SLES-54182](PCSX2%20Patches/SLES-54182_301A1B6E.pnach) [SLES-54183](PCSX2%20Patches/SLES-54183_9A660CC1.pnach) [SLES-54184](PCSX2%20Patches/SLES-54184_20F4FDF8.pnach) [SLES-54271](PCSX2%20Patches/SLES-54271_B69AF9A5.pnach) |  |
+| Scarface - The World is Yours | [SLUS-21111](PCSX2%20Patches/SLUS-21111_41F4A178.pnach) [SLES-54182](PCSX2%20Patches/SLES-54182_301A1B6E.pnach) [SLES-54183](PCSX2%20Patches/SLES-54183_9A660CC1.pnach) [SLES-54184](PCSX2%20Patches/SLES-54184_20F4FDF8.pnach) [SLES-54271](PCSX2%20Patches/SLES-54271_B69AF9A5.pnach) |  |
 | Scooby-Doo! Mystery Mayhem | [SLUS-20701](PCSX2%20Patches/SLUS-20701_8F6A1960.pnach) [SLES-51883](PCSX2%20Patches/SLES-51883_8F6A1960.pnach) |
 | Scooby-Doo! Night of 100 Frights | [SLUS-20349](PCSX2%20Patches/SLUS-20349_10B1F370.pnach) [SLES-51017](PCSX2%20Patches/SLES-51017_E0FBB4A5.pnach)
 | Score International Baja 1000 - The Official Game | [SLES-55295](PCSX2%20Patches/SLES-55295_1C3FEC65.pnach) [SLUS-21850](PCSX2%20Patches/SLUS-21850_9AB3424F.pnach) | |

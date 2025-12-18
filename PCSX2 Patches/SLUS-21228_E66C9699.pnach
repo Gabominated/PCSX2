@@ -1,0 +1,8 @@
+gametitle=Call of Duty 2 - Big Red One NTSC-U SLUS-21228 E66C9699
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,202923D0,extended,10400003
+patch=1,EE,E0010001,extended,01F338C8
+patch=1,EE,202923D0,extended,14600003
