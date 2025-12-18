@@ -257,6 +257,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | MX vs. ATV Unleashed | [SLUS-21104](PCSX2%20Patches/SLUS-21104_95BB1901.pnach) [SLES-53106](PCSX2%20Patches/SLES-53106_D7AE31F4.pnach) |
 | MX vs. ATV Untamed | [SLUS-21701](PCSX2%20Patches/SLUS-21701_08FE7DFD.pnach) [SLES-55050](PCSX2%20Patches/SLES-55050_74912B29.pnach) |
 | NASCAR - Dirt to Daytona | [SLUS-20441](PCSX2%20Patches/SLUS-20441_2EA87CC5.pnach)
+| NASCAR Thunder 2002 | [SLUS-20266](PCSX2%20Patches/SLUS-20266_6436665F.pnach) |
 | NBA Live 2001 | [SLUS-20102](PCSX2%20Patches/SLUS-20102_823BFFD3.pnach) |
 | Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab | [SLUS-21391](PCSX2%20Patches/SLUS-21391_82C46B7A.pnach) [SLES-54400](PCSX2%20Patches/SLES-54400_B1F87437.pnach) |
 | Nickelodeon SpongeBob's Atlantis SquarePantis | [SLUS-21644](PCSX2%20Patches/SLUS-21644_1FF9C051.pnach) [SLES-55024](PCSX2%20Patches/SLES-55024_AE28C9C7.pnach) |

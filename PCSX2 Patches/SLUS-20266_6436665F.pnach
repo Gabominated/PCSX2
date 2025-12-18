@@ -1,0 +1,6 @@
+gametitle=NASCAR Thunder 2002 NTSC-U SLUS-20266 6436665F
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,00233B64,word,24420002
