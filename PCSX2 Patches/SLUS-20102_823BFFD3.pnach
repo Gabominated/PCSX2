@@ -1,0 +1,7 @@
+gametitle=NBA Live 2001 SLUS-20102 823BFFD3
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,001182EC,word,2402003C
+//003ABD08
