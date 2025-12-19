@@ -73,7 +73,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Blowout | [SLUS-20850](PCSX2%20Patches/SLUS-20850_71584BAC.pnach) ||
 | Brave - The Search for Spirit Dancer | [SLUS-21127](PCSX2%20Patches/SLUS-21127_17E7E24E.pnach) | 
 | Brothers in Arms - Road to Hill 30 | [SLUS-21163](PCSX2%20Patches/SLUS-21163_DFC0888A.pnach) |
-| Bully / Canis Canem Edit | [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
+| Bully / Canis Canem Edit | [SLUS-21269](PCSX2%20Patches/SLUS-21269_28703748.pnach) [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
 | Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) |  |
 | Call of Duty 2 - Big Red One | [SLUS-21228](PCSX2%20Patches/SLUS-21228_E66C9699.pnach) |
 | Call of Duty 3 | [SLUS-21426](PCSX2%20Patches/SLUS-21426_5E843024.pnach) | |

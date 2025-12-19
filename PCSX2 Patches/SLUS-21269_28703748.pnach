@@ -1,0 +1,6 @@
+gametitle=Bully NTSC-U SLUS-21269 28703748
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,001F3AC8,word,28420001
