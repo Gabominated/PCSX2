@@ -344,6 +344,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Spider-Man - Web of Shadows | [SLES-55372](PCSX2%20Patches/SLES-55372_F14C1D82.pnach) ||
 | Spider-Man 2 | [SLES-52372](PCSX2%20Patches/SLES-52372_6B68932C.pnach) ||
 | Spider-Man 3 | [SLES-54724](PCSX2%20Patches/SLES-54724_C529B0AD.pnach) ||
+| Spiderwick Chronicles, The | [SLUS-21716](PCSX2%20Patches/SLUS-21716_23B262A5.pnach) |
 | Spy Hunter - Nowhere to Run | [SLUS-21421](PCSX2%20Patches/SLUS-21421_64B39069.pnach) |
 | Spy Hunter 2 | [SLUS-20590](PCSX2%20Patches/SLUS-20590_A2B36980.pnach) [SLES-51841](PCSX2%20Patches/SLES-51841_23657D39.pnach) |
 | Star Trek Voyager - Elite Force | [SLES-50738](PCSX2%20Patches/SLES-50738_624F11F1.pnach) [SLUS-20227](PCSX2%20Patches/SLUS-20227_9F70EE4F.pnach) |  |

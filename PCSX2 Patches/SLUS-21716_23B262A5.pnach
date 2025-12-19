@@ -1,0 +1,6 @@
+gametitle=The Spiderwick Chronicles NTSC-U SLUS-21716 23B262A5
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0011F564,word,A3808530

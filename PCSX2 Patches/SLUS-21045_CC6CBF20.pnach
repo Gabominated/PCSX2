@@ -3,4 +3,5 @@ gametitle=Conflict - Vietnam NTSC-U SLUS-21045 CC6CBF20
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,0074AD38,word,00000000
+patch=0,EE,00141F94,word,24100000
+//patch=1,EE,0074AD38,word,00000000

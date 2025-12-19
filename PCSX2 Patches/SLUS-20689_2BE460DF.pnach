@@ -3,4 +3,5 @@ gametitle=Conflict - Desert Storm II - Back to Baghdad NTSC-U SLUS-20689 2BE460D
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (180%).
-patch=1,EE,0071B2B8,word,00000000
+patch=0,EE,00112C88,word,24100000
+//patch=1,EE,0071B2B8,word,00000000

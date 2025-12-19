@@ -3,4 +3,5 @@ gametitle=Conflict - Vietnam PAL-M SLES-52630 F0206B09
 [50 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,0074AB98,word,00000000
+patch=0,EE,00142174,word,24100000
+//patch=1,EE,0074AB98,word,00000000
