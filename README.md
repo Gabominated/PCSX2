@@ -190,6 +190,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Home Alone | [SLES-54469](PCSX2%20Patches/SLES-54469_E1FCDA9D.pnach) |  |
 | Hugo - Magic in the Trollwoods | [SLES-55597](PCSX2%20Patches/SLES-55597_7DEB9F03.pnach) [SLES-55598](PCSX2%20Patches/SLES-55598_FFA75E86.pnach) | |
 | Hulk, The | [SLES-51508](PCSX2%20Patches/SLES-51508_804F5858.pnach) ||
+| Hype - The Time Quest | [SLES-50266](PCSX2%20Patches/SLES-50266_F668693E.pnach) |
 | Ice Age 2 - The Meltdown | [SLUS-21307](PCSX2%20Patches/SLUS-21307_EEC195CA.pnach) [SLES-53984](PCSX2%20Patches/SLES-53984_2EC49E65.pnach) | |
 | Ice Age 3 - Dawn of the Dinosaurs | [SLUS-21878](PCSX2%20Patches/SLUS-21878_3488C365.pnach) [SLES-55487](PCSX2%20Patches/SLES-55487_61E4C8E7.pnach) | |
 | Incredible Hulk, The - Ultimate Destruction | [SLUS-20941](PCSX2%20Patches/SLUS-20941_F17AF8BD.pnach) [SLES-53430](PCSX2%20Patches/SLES-53430_6B3D50A5.pnach) |
@@ -272,7 +273,6 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Peter Jackson's King Kong - The Official Game of the Movie | [SLES-53703](PCSX2%20Patches/SLES-53703_2D0F72D6.pnach) ||
 | Pirates - The Legend of Black Kat | [SLES-50680](PCSX2%20Patches/SLES-50680_E677B8F1.pnach) | |
 | Pirates of the Caribbean - The Legend of Jack Sparrow | [SLUS-21110](PCSX2%20Patches/SLUS-21110_632E3976.pnach) [SLES-54083](PCSX2%20Patches/SLES-54083_7E186593.pnach) [SLES-54237](PCSX2%20Patches/SLES-54237_E6C2F211.pnach) |
-| Hype - The Time Quest | [SLES-50266](PCSX2%20Patches/SLES-50266_F668693E.pnach) |
 | Polar Express, The | [SLES-52685](PCSX2%20Patches/SLES-52685_C72FEF17.pnach) [SLUS-20989](PCSX2%20Patches/SLUS-20989_4AC5A94B.pnach) | |
 | Portal Runner | [SLUS-20003](PCSX2%20Patches/SLUS-20003_101E8C43.pnach) [SLES-50444](PCSX2%20Patches/SLES-50444_802EBFF7.pnach) [SLES-50263](PCSX2%20Patches/SLES-50263_8308BAF1.pnach) |
 | Power Rangers - Dino Thunder | [SLES-52886](PCSX2%20Patches/SLES-52886_381F8A7B.pnach) [SLUS-20944](PCSX2%20Patches/SLUS-20944_024BF3B4.pnach) |  |
