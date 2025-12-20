@@ -1,0 +1,6 @@
+gametitle=Hype - The Time Quest PAL-M SLES-50266 F668693E
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,0030E8A0,word,00000032
