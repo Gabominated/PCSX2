@@ -1,0 +1,9 @@
+gametitle=Test Drive Unlimited PAL-M SLES-53753 C2911A79
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,20109DC8,extended,C440D5E8
+patch=1,EE,E0010001,extended,005EA904
+patch=1,EE,20109DC8,extended,C441D5E8
+patch=0,EE,20383730,extended,3C033F00

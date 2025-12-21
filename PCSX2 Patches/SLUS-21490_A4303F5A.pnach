@@ -1,0 +1,9 @@
+gametitle=Test Drive Unlimited NTSC-U SLUS-21490 A4303F5A
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,20109DC8,extended,C440D5E8
+patch=1,EE,E0010001,extended,005EA904
+patch=1,EE,20109DC8,extended,C441D5E8
+patch=0,EE,20383730,extended,3C033F00
