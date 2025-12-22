@@ -2,7 +2,6 @@ gametitle=Pirates - The Legend of Black Kat PAL-M SLES-50680 E677B8F1
 
 [50 FPS]
 author=Gabominated
-description=Might need EE Overclock.
-patch=1,EE,00330F88,word,00000001 //00000002
-patch=1,EE,00100948,word,24040064 //24040032
-//patch=1,EE,00723528,word,3CA3D70A //3D23D70A
+description=Might need EE Overclock (130%).
+patch=1,EE,00101848,word,24020001
+patch=1,EE,00101854,word,3C013f80

@@ -1,0 +1,7 @@
+gametitle=Pirates - The Legend of Black Kat NTSC-U SLUS-20365 4DD2DD77
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,00101770,word,24020001
+patch=0,EE,0010177C,word,3C013f80
