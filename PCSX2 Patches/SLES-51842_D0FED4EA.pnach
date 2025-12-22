@@ -1,0 +1,7 @@
+gametitle=RoadKill PAL-M SLES-51842 D0FED4EA
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,002F1ED4,word,28630001
+patch=1,EE,004CB7F4,word,00000032
