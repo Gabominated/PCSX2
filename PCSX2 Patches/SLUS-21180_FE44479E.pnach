@@ -1,0 +1,6 @@
+gametitle=Onimusha - Dawn of Dreams NTSC-U SLUS-21180 FE44479E Disc 1 of 2
+
+[Disable Blur/Bloom]
+author=Gabominated
+description=Disable blur/bloom effects.
+patch=1,EE,001A5F04,word,00000000

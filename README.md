@@ -267,6 +267,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Nitro Bike | [SLES-55192](PCSX2%20Patches/SLES-55192_B2367FD0.pnach) [SLUS-21738](PCSX2%20Patches/SLUS-21738_F5FE754D.pnach) |  |
 | Obscure - II / The Aftermath | [SLUS-21709](PCSX2%20Patches/SLUS-21709_408DFB9C.pnach) [SLES-54782](PCSX2%20Patches/SLES-54782_FC4AC115.pnach) |  |
 | Okami | [SLES-54439](PCSX2%20Patches/SLES-54439_891F223F.pnach) [SLPM-66375](PCSX2%20Patches/SLPM-66375_C5DEFEA0.pnach) [SLUS-21115](PCSX2%20Patches/SLUS-21115_21068223.pnach) | |
+| Onimusha - Dawn of Dreams | [SLUS-21180](PCSX2%20Patches/SLUS-21180_FE44479E.pnach) |
 | Outlaw Golf 2 | [SLES-52965](PCSX2%20Patches/SLES-52965_57115262.pnach) [SLUS-21030](PCSX2%20Patches/SLUS-21030_1ED4B29C.pnach) | |
 | Pac-Man World Rally | [SLUS-21328](PCSX2%20Patches/SLUS-21328_99BD2C0C.pnach) |
 | Paris-Dakar 2 | [SLES-50879](PCSX2%20Patches/SLES-50879_CB4EBD11.pnach) |  |
