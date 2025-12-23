@@ -3,10 +3,10 @@ gametitle=Tom Clancy's Splinter Cell - Double Agent PAL-M SLES-53827 ABE2FDE9 se
 [480p Mode]
 gsinterlacemode=1
 author=Gabominated
-description=SDTV 480p mode at start.  Might need enable EE Overclock to be stable.
+description=SDTV 480p mode at start.
 patch=1,EE,00114938,word,24120050 //00069403
 
 [Disable Blur/Bloom]
 author=Gabominated
-description=Might need to set Shade Boost, Brightnes:60 and Contrast:45.
-patch=1,EE,009517B0,word,00000000
+description=Disable post-processing Blur/Bloom effects.
+patch=1,EE,00630938,word,00000000

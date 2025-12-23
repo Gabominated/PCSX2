@@ -2,5 +2,5 @@ gametitle=Tom Clancy's Splinter Cell - Double Agent SLUS-21356 C0498D24 secondar
 
 [Disable Blur/Bloom]
 author=Gabominated
-description=Might need to set Shade Boost, Brightnes:60 and Contrast:45.
-patch=1,EE,009512B0,word,00000000
+description=Disable post-processing Blur/Bloom effects.
+patch=1,EE,00630478,word,00000000
