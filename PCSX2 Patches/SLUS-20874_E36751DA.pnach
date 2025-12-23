@@ -1,0 +1,6 @@
+gametitle=Dragon Ball Z - Sagas NTSC-U SLUS-20874 E36751DA
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0011977C,word,24040001
