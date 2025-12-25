@@ -3,12 +3,10 @@ gametitle=Spider-Man - Web of Shadows PAL-M SLES-55372 F14C1D82
 [NTSC Mode]
 author=Gabominated
 description=NTSC Mode at start.
-patch=1,EE,003E14D0,word,0000202D
-patch=1,EE,004fc794,word,000001c0
-patch=1,EE,004FC798,word,00000168
-patch=1,EE,004FC79C,word,41200000
-patch=1,EE,004FC7A0,word,41300000
-patch=1,EE,004FC7A4,word,42200000
-patch=1,EE,004FC7A8,word,42040000
-patch=1,EE,003D56A8,word,3C013C88
-patch=1,EE,003D56AC,word,3421AB86
+patch=0,EE,003D1350,word,1462000B
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode (706x448) at start.
+patch=0,EE,003D1384,word,10400008
+//patch=1,EE,004FC7CC,word,000001E0 //(706x480)
