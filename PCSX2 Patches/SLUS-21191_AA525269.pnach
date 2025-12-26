@@ -1,0 +1,6 @@
+gametitle=Crash Tag Team Racing NTSC-U SLUS-21191 AA525269
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0020885C,word,00000000

@@ -96,6 +96,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Corvette Evolution GT | [SLUS-21499](PCSX2%20Patches/SLUS-21499_45A8B64C.pnach) | |
 | Counter Terrorist Special Forces - Fire for Effect | [SLES-53046](PCSX2%20Patches/SLES-53046_EDE9DD5C.pnach) |  |
 | Crash of the Titans | [SLUS-21583](PCSX2%20Patches/SLUS-21583_C6E85EF0.pnach) |
+| Crash Tag Team Racing | [SLUS-21191](PCSX2%20Patches/SLUS-21191_AA525269.pnach) |
 | Crashed | [SLES-50843](PCSX2%20Patches/SLES-50843_0379B4F7.pnach) |  |
 | Crazy Golf - World Tour | [SLES-53318](PCSX2%20Patches/SLES-53318_3EB41444.pnach) |  |
 | Critical Velocity | [SLPS-25532](PCSX2%20Patches/SLPS-25532_4CCEF323.pnach) ||
