@@ -1,0 +1,6 @@
+gametitle=Driver - Parallel Lines NTSC-U SLUS-21271 D720770D
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00311D28,word,24020001
