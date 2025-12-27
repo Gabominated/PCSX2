@@ -262,6 +262,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | MX Unleashed | [SLES-52043](PCSX2%20Patches/SLES-52043_DBA1250E.pnach) [SLUS-20767](PCSX2%20Patches/SLUS-20767_9866FE54.pnach) |  |
 | MX vs. ATV Unleashed | [SLUS-21104](PCSX2%20Patches/SLUS-21104_95BB1901.pnach) [SLES-53106](PCSX2%20Patches/SLES-53106_D7AE31F4.pnach) |
 | MX vs. ATV Untamed | [SLUS-21701](PCSX2%20Patches/SLUS-21701_08FE7DFD.pnach) [SLES-55050](PCSX2%20Patches/SLES-55050_74912B29.pnach) |
+| NARC | [SLUS-20730](PCSX2%20Patches/SLUS-20730_51FDE3AC.pnach) |
 | NASCAR - Dirt to Daytona | [SLUS-20441](PCSX2%20Patches/SLUS-20441_2EA87CC5.pnach)
 | NASCAR Thunder 2002 | [SLUS-20266](PCSX2%20Patches/SLUS-20266_6436665F.pnach) |
 | NBA Live 2001 | [SLUS-20102](PCSX2%20Patches/SLUS-20102_823BFFD3.pnach) |
