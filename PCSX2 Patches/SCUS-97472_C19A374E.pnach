@@ -1,6 +1,6 @@
 gametitle=Shadow of the Colossus NTSC-U SCUS-97472 C19A374E
 
-[Progressive Mode Aspec Ratio Fix]
+[Progressive Mode Aspect Ratio Fix]
 author=Gabominated
 description=Preserve the aspect ratio in progressive mode.
 patch=1,EE,0125E7D4,word,00000000

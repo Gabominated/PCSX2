@@ -1,6 +1,6 @@
 gametitle=Shadow of the Colossus PAL-E SCES-53326 0F0C4A9C
 
-[Progressive Mode Aspec Ratio Fix]
+[Progressive Mode Aspect Ratio Fix]
 author=Gabominated
 description=Preserve the aspect ratio in progressive mode.
 patch=1,EE,0125BB9C,word,00000000
