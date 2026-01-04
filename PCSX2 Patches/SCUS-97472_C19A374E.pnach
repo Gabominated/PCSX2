@@ -1,0 +1,28 @@
+gametitle=Shadow of the Colossus NTSC-U SCUS-97472 C19A374E
+
+[Progressive Mode Aspec Ratio Fix]
+author=Gabominated
+description=Preserve the aspect ratio in progressive mode.
+patch=1,EE,0125E7D4,word,00000000
+patch=1,EE,0125E810,word,3C013FA0
+patch=1,EE,0125E838,word,3C013F70
+
+[Disable Bloom]
+author=Gabominated
+description=Disable post-processing bloom effect.
+patch=1,EE,01189C90,word,00000000
+
+[Disable DOF]
+author=Gabominated
+description=Disable post-processing Depth of Field effect.
+patch=1,EE,01189CD4,word,00000000
+
+[Disable Filters]
+author=Gabominated
+description=Disable post-processing filters effect.
+patch=1,EE,01189D3C,word,00000000
+
+[Disable Shadows]
+author=Gabominated
+description=Disable shadows to improve performance.
+patch=1,EE,01189CB0,word,00000000

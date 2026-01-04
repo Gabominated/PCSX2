@@ -331,6 +331,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Serious Sam - Next Encounter | [SLUS-20907](PCSX2%20Patches/SLUS-20907_155466E8.pnach) [SLES-52450](PCSX2%20Patches/SLES-52450_2CC13DED.pnach) ||
 | Shadow Man - 2econd Coming | [SLUS-20413](PCSX2%20Patches/SLUS-20413_60AD8FA7.pnach) [SLES-50446](PCSX2%20Patches/SLES-50446_48553EAF.pnach) |  |
 | Shadow of Rome | [SLUS-20902](PCSX2%20Patches/SLUS-20902_57818AF6.pnach) [SLES-52950](PCSX2%20Patches/SLES-52950_B1995E29.pnach) |
+| Shadow of the Colossus | [SCUS-97472](PCSX2%20Patches/SCUS-97472_C19A374E.pnach) [SCES-53326](PCSX2%20Patches/SCES-53326_0F0C4A9C.pnach) |
 | ShellShock - Nam '67 | [SLUS-20828](PCSX2%20Patches/SLUS-20828_38bd8d2e.pnach) [SLES-51982](PCSX2%20Patches/SLES-51982_38BD8D2E.pnach) |
 | Short Track Racing - Trading Paint | [SLUS-21857](PCSX2%20Patches/SLUS-21857_C56B0941.pnach) ||
 | Silent Hill - Origins | [SLUS-21731](PCSX2%20Patches/SLUS-21731_A8D83239.pnach) |

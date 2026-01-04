@@ -1,0 +1,28 @@
+gametitle=Shadow of the Colossus PAL-E SCES-53326 0F0C4A9C
+
+[Progressive Mode Aspec Ratio Fix]
+author=Gabominated
+description=Preserve the aspect ratio in progressive mode.
+patch=1,EE,0125BB9C,word,00000000
+patch=1,EE,0125BBD8,word,3C013FA0
+patch=1,EE,0125BC00,word,3C013F70
+
+[Disable Bloom]
+author=Gabominated
+description=Disable post-processing bloom effect.
+patch=1,EE,01184F88,word,00000000
+
+[Disable DOF]
+author=Gabominated
+description=Disable post-processing Depth of Field effect.
+patch=1,EE,01184FCC,word,00000000
+
+[Disable Filters]
+author=Gabominated
+description=Disable post-processing filters effect.
+patch=1,EE,01185034,word,00000000
+
+[Disable Shadows]
+author=Gabominated
+description=Disable shadows to improve performance.
+patch=1,EE,01184FA8,word,00000000
