@@ -205,6 +205,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Jacked | [SLES-53778](PCSX2%20Patches/SLES-53778_D7F36BB4.pnach) |  |
 | Jackie Chan Adventures | [SCES-52412](PCSX2%20Patches/SCES-52412_AC4DFD5A.pnach) |
 | Jeep Thrills | [SLES-55275](PCSX2%20Patches/SLES-55275_A68EB83E.pnach) [SLUS-21760](PCSX2%20Patches/SLUS-21760_3DDBDB2C.pnach) | |
+| Jeremy McGrath - Supercross World 2002 | [SLUS-20245](PCSX2%20Patches/SLUS-20245_B2ABEEF3.pnach) [SLES-50209](PCSX2%20Patches/SLES-50209_05BEDF8F.pnach) |
 | Jimmy Neutron - Boy Genius | [SLES-51298](PCSX2%20Patches/SLES-51298_C60BA9E7.pnach) ||
 | Johnny Bravo Date-O-Rama | [SLES-54671](PCSX2%20Patches/SLES-54671_89AC2A0A.pnach) | |
 | Judge Dredd - Dredd vs. Death | [SLUS-20869](PCSX2%20Patches/SLUS-20869_759F05CB.pnach) [SLES-51650](PCSX2%20Patches/SLES-51650_6E900957.pnach)
