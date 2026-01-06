@@ -1,0 +1,7 @@
+gametitle=Pirates of the Caribbean - At World's End PAL-M SLES-54179 EB06962A
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,0013E328,word,10E0000F
+patch=0,EE,0013E370,word,1440000E
