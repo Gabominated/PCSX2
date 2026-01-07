@@ -2,6 +2,5 @@ gametitle=DreamWorks Shrek - Smash n' Crash Racing NTSC-U SLUS-21392 34B473E6
 
 [Disable Blur/Bloom]
 author=Gabominated
-description=Might need to set Shade Boost, Brightnes:80 and Contrast:45.
-patch=1,EE,E0010200,extended,018C3644
-patch=1,EE,218C3644,extended,00000000
+description=Disable post-processing blur/bloom effect.
+patch=1,EE,0016BC88,word,00000000
