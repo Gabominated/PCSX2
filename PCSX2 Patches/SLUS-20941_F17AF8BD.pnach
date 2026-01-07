@@ -8,4 +8,5 @@ patch=1,EE,01D1E474,word,00000001
 [480p Mode]
 author=Gabominated
 description=SDTV 480p mode at start.
-patch=1,EE,005FA958,word,00000001
+patch=0,EE,0046EC60,word,1460000A
+//patch=1,EE,005FA958,word,00000001
