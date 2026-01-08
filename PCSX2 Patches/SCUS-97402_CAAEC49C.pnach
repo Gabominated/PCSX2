@@ -6,6 +6,12 @@ author=Gabominated
 description=Enable native widescreen.
 patch=1,EE,005DA364,word,00000001
 
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,001BFF3C,word,00021002
+patch=0,EE,001BFEAC,word,3C013F00
+
 [Disable Noise Filter]
 author=Gabominated
 description=Disable noise filter in gameplay.

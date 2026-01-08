@@ -1,4 +1,10 @@
-﻿gametitle=Killzone SCES-52004 6624A78C
+﻿gametitle=Killzone PAL-M SCES-52004 6624A78C
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,001C01BC,word,00021002
+patch=0,EE,001C012C,word,3C013F00
 
 [NTSC Mode]
 author=Gabominated
