@@ -1,6 +1,7 @@
-gametitle=Mortal Kombat - Shaolin Monks SLUS-21087 455DD546
+gametitle=Mortal Kombat - Shaolin Monks NTSC-U SLUS-21087 455DD546
 
 [Disable Blur/Bloom]
 author=Gabominated
 description=Disable post-processing blur/bloom effect.
-patch=1,EE,004F4B68,word,00000000
+patch=1,EE,002279E4,word,00000000
+//patch=1,EE,004F4B68,word,00000000

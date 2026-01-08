@@ -1,0 +1,6 @@
+gametittle=Mortal Kombat - Shaolin Monks PAL-M SLES-53524 3D02E0BF
+
+[Disable Blur/Bloom]
+author=Gabominated
+description=Disable post-processing blur/bloom effect.
+patch=1,EE,00227C74,word,00000000
