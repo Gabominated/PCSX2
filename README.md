@@ -247,7 +247,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Monster House | [SLUS-21400](PCSX2%20Patches/SLUS-21400_1AFD7469.pnach) [SLES-54215](PCSX2%20Patches/SLES-54215_1AFD7469.pnach) |
 | Monster Hunter 2 | [SLPM-66280](PCSX2%20Patches/SLPM-66280_2F0E94A1.pnach) | |
 | Monster Hunter | [SLES-52707](PCSX2%20Patches/SLES-52707_6E8BAF03.pnach) | |
-| Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) | |
+| Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) [SLES-53524](PCSX2%20Patches/SLES-53524_3D02E0BF.pnach) | |
 | Moto X Maniac | [SLES-54885](PCSX2%20Patches/SLES-54885_899557DF.pnach) |  |
 | Motocross Mania 3 | [SLUS-21229](PCSX2%20Patches/SLUS-21229_00E9B795.pnach) ||
 | MotoGP 07 | [SLUS-21688](PCSX2%20Patches/SLUS-21688_FF46F4C4.pnach) [SLES-54959](PCSX2%20Patches/SLES-54959_1C000196.pnach) |
