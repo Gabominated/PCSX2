@@ -3,7 +3,8 @@ gametitle=Pirates of the Caribbean - The Legend of Jack Sparrow PAL-M SLES-54237
 [50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock (180%).
-patch=1,EE,019B43C0,word,00000001
+patch=0,EE,001856BC,word,24020000
+//patch=1,EE,00430E30,word,00000000
 
 [NTSC Mode]
 author=Gabominated
