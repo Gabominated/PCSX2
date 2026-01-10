@@ -1,0 +1,11 @@
+gametitle=Silent Hill 4 - The Room NTSC-J SLPM-65574 9BF472B8
+
+[60 FPS]
+author=Gabominated & asasega
+description=Might need EE overclock (130%).
+patch=0,EE,00139F18,word,24420002
+patch=0,EE,0015aa04,word,3c024170
+patch=0,EE,0015baa0,word,3c024170
+patch=0,EE,0015c5bc,word,3c024270
+patch=0,EE,00143038,word,3c034170
+patch=0,EE,00212E04,word,2402003c
