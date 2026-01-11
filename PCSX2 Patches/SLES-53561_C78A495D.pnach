@@ -11,3 +11,8 @@ gsinterlacemode=1
 author=Gabominated
 description=SDTV 480p mode at start. Use Software renderer for FMVs.
 patch=1,EE,0023E908,word,1462000A //1062000A
+
+[Disable DOF]
+author=Gabominated
+description=Disable post-processing depth of field effect.
+patch=1,EE,003DB750,word,00000000

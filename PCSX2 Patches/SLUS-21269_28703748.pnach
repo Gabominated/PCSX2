@@ -4,3 +4,8 @@ gametitle=Bully NTSC-U SLUS-21269 28703748
 author=Gabominated
 description=Might need EE Overclock (180%).
 patch=1,EE,001F3AC8,word,28420001
+
+[Disable DOF]
+author=Gabominated
+description=Disable post-processing depth of field effect.
+patch=1,EE,003DAD50,word,00000000
