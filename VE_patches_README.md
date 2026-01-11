@@ -34,9 +34,9 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Matrix, The - Path of Neo | [SLUS-21273](PCSX2%20Patches/SLUS-21273_8BE5DFF3.pnach) ||
 | Mercenaries 2 - World in Flames          | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) [SLES-54997](PCSX2%20Patches/SLES-54997_A97B93F7.pnach) [SLES-55001](PCSX2%20Patches/SLES-55001_A97C9BFD.pnach) |Tested :heavy_check_mark:|
 | Mercenaries - Playground of Destruction  | [SLES-53008](PCSX2%20Patches/SLES-53008_CBA0623D.pnach) [SLUS-20932](PCSX2%20Patches/SLUS-20932_23510F99.pnach) | |
-| Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) |Tested :heavy_check_mark:|
+| Mortal Kombat - Shaolin Monks | [SLUS-21087](PCSX2%20Patches/SLUS-21087_455DD546.pnach) [SLES-53524](PCSX2%20Patches/SLES-53524_3D02E0BF.pnach) |Tested :heavy_check_mark:|
 | Okami                                    | [SLES-54439](PCSX2%20Patches/SLES-54439_891F223F.pnach) [SLPM-66375](PCSX2%20Patches/SLPM-66375_C5DEFEA0.pnach) [SLUS-21115](PCSX2%20Patches/SLUS-21115_21068223.pnach) |Tested :heavy_check_mark:|
-| Onimusha - Dawn of Dreams | [SLUS-21180](PCSX2%20Patches/SLUS-21180_FE44479E.pnach) |Tested :heavy_check_mark:|
+| Onimusha - Dawn of Dreams | [SLUS-21180](PCSX2%20Patches/SLUS-21180_FE44479E.pnach) [SLES-82038](PCSX2%20Patches/SLES-82038_812C5A96.pnach) |Tested :heavy_check_mark:|
 | Prince of Persia - The Sands of Time | [SLUS-20743](PCSX2%20Patches/SLUS-20743_7F6EB3D0.pnach) |
 | Prince of Persia - The Two Thrones | [SLUS-21287](PCSX2%20Patches/SLUS-21287_84F3309D.pnach) | |
 | Prince of Persia - Warrior Within | [SLUS-21022](PCSX2%20Patches/SLUS-21022_6b17b39f.pnach) | |
