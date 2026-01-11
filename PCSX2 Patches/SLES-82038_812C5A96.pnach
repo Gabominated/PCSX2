@@ -1,0 +1,6 @@
+gametitle=Onimusha - Dawn of Dreams PAL-M SLES-82038 812C5A96 Disc 1 of 2
+
+[Disable Blur/Bloom]
+author=Gabominated
+description=Disable blur/bloom effects.
+patch=1,EE,001A65F4,word,00000000

@@ -3,11 +3,8 @@ gametitle=Disney/Pixar WALL-E PAL-S SLES-55186 87332077
 [NTSC Mode]
 author=Gabominated
 description=NTSC Mode at start.
-patch=1,EE,002F274C,word,30420000 //30420001
-patch=1,EE,006BCFE8,word,00000002 //00000003
-patch=1,EE,006BCFE4,word,000001c0 //00000200
-patch=1,EE,00739F08,word,00000280 //00000200
-patch=1,EE,00739F0C,word,000001c0 //00000200
+patch=0,EE,00425A58,word,24020000
+patch=0,EE,002F1D68,word,84852F70
 
 [Disable Blur/Bloom]
 author=Gabominated
