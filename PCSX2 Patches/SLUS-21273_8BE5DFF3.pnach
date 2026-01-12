@@ -7,6 +7,7 @@ patch=1,EE,20233478,extended,3C013F26
 patch=1,EE,E0010001,extended,003FC658
 patch=1,EE,20233478,extended,3C013FA6
 patch=1,EE,202335f8,extended,3c013f80
+patch=1,EE,202D4848,extended,2C42003C
 
 [Disable Blur/Bloom]
 author=Gabominated
