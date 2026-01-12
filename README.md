@@ -155,6 +155,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Ford Racing 2 | [SLES-51705](PCSX2%20Patches/SLES-51705_37F695CD.pnach) [SLUS-20788](PCSX2%20Patches/SLUS-20788_515245DF.pnach) |  |
 | Forgotten Realms - Demon Stone | [SLUS-20804](PCSX2%20Patches/SLUS-20804_A9C82AB9.pnach) |
 | Free Running | [SLES-54559](PCSX2%20Patches/SLES-54559_D6A0A3EF.pnach) |  |
+| Freedom Fighters | [SLUS-20658](PCSX2%20Patches/SLUS-20658_1DA7E9BC.pnach) |
 | Freestyle Metal X | [SLES-50720](PCSX2%20Patches/SLES-50720_C8AB1868.pnach) [SLUS-20494](PCSX2%20Patches/SLUS-20494_946C6967.pnach) |  |
 | G.I. Joe - The Rise of Cobra | [SLES-55537](PCSX2%20Patches/SLES-55537_724B94F6.pnach) [SLUS-21886](PCSX2%20Patches/SLUS-21886_4EC21458.pnach) |  |
 | Gadget and the Gadgetinis | [SLES-52845](PCSX2%20Patches/SLES-52845_2235C82F.pnach) |
