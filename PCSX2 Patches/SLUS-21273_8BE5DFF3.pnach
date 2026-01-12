@@ -1,5 +1,13 @@
 gametitle=Matrix, The - Path of Neo NTSC-U SLUS-21273 8BE5DFF3
 
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,20233478,extended,3C013F26
+patch=1,EE,E0010001,extended,003FC658
+patch=1,EE,20233478,extended,3C013FA6
+patch=1,EE,202335f8,extended,3c013f80
+
 [Disable Blur/Bloom]
 author=Gabominated
 description=Might need to set Shade Boost, Brightnes:75 and Contrast:45.
