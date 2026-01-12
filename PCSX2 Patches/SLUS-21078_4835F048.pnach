@@ -1,0 +1,7 @@
+gametitle=Lemony Snicket's A Series of Unfortunate Events NTSC-U SLUS-21078 4835F048
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (300%).
+patch=0,EE,003F8FEC,word,42EFC28F
+patch=0,EE,003F8FF0,word,3C08AB86

@@ -227,6 +227,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Lara Croft Tomb Raider - Legend | [SLUS-21203](PCSX2%20Patches/SLUS-21203_BC8B3F50.pnach) [SLES-53908](PCSX2%20Patches/SLES-53908_05177ECE.pnach) ||
 | Le Mans 24 Hours | [SLUS-20207](PCSX2%20Patches/SLUS-20207_67835861.pnach) [SLPM-62128](PCSX2%20Patches/SLPM-62128_39E38CC6.pnach) [SLES-50131](PCSX2%20Patches/SLES-50131_FEA030CB.pnach) |
 | Legacy of Kain - Soul Reaver 2 | [SLUS-20165 v1.01](PCSX2%20Patches/SLUS-20165_1771BFE4.pnach) [SLUS-20165 v2.00](PCSX2%20Patches/SLUS-20165_230CB71D.pnach) | |
+| Lemony Snicket's A Series of Unfortunate Events | [SLUS-21078](PCSX2%20Patches/SLUS-21078_4835F048.pnach) |
 | London Racer - Police Madness | [SLES-53536](PCSX2%20Patches/SLES-53536_84BFD6D4.pnach) |  |
 | London Racer - World Challenge | [SLES-51580](PCSX2%20Patches/SLES-51580_F97680AA.pnach) |  |
 | Looney Tunes - Space Race | [SLUS-20352](PCSX2%20Patches/SLUS-20352_614F7928.pnach) [SLES-50487](PCSX2%20Patches/SLES-50487_5E641834.pnach) |
