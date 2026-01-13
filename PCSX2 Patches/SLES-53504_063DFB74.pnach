@@ -1,0 +1,7 @@
+gametitle=Agent Hugo PAL-M SLES-53504 063DFB74
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%). Missing some speed.
+patch=1,EE,002C9298,word,24020002
+patch=1,EE,001ba09c,word,3c013CA3

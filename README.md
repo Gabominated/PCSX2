@@ -42,6 +42,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | 7 Blades | [SLES-50109](PCSX2%20Patches/SLES-50109_97AE372A.pnach) |  |
 | 7 Sins | [SLES-53280](PCSX2%20Patches/SLES-53280_52DEB87B.pnach) |  |
 | Aeon Flux | [SLUS-21205](PCSX2%20Patches/SLUS-21205_9FA0A1B0.pnach) ||
+| Agent Hugo | [SLES-53504](PCSX2%20Patches/SLES-53504_063DFB74.pnach) |
 | Agent Hugo - Hula Holiday | [SLES-55365](PCSX2%20Patches/SLES-55365_ADEFE7CB.pnach) ||
 | Agent Hugo - Lemoon Twist | [SLES-54918](PCSX2%20Patches/SLES-54918_C33DEDD7.pnach) ||
 | Alarm for Cobra 11 Vol.2 - Hot Pursuit | [SLES-53360](PCSX2%20Patches/SLES-53360_12117804.pnach) |  |
