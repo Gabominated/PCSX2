@@ -3,6 +3,5 @@ gametitle=Gauntlet - Seven Sorrows NTSC-U SLUS-21077 A8C4C0A9
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,00210988,word,10600006 //54600006
-patch=1,EE,0050CCB0,word,3C888889 //3D088889
-patch=1,EE,0050CCB8,word,42055555 //42055555
+patch=0,EE,00210988,word,10600006
+patch=0,EE,00141ed4,word,24020078
