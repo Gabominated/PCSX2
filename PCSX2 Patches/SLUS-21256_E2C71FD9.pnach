@@ -1,0 +1,6 @@
+gametitle=IHRA Drag Racing - Sportsman Edition NTSC-U SLUS-21256 E2C71FD9
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=0,EE,0037e280,word,3c033f00
