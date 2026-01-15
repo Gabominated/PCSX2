@@ -1,5 +1,12 @@
 gametitle=Spider-Man 2 PAL-M SLES-52372 6B68932C
 
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,20504954,extended,8E011350
+patch=1,EE,E0010001,extended,005E3C90
+patch=1,EE,20504954,extended,8E021350
+
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start.
