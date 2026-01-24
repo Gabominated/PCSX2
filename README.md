@@ -220,7 +220,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Just Cause | [SLUS-21436](PCSX2%20Patches/SLUS-21436_34C62B5C.pnach) |
 | Kaan Barbarian's Blade | [SLES-52179](PCSX2%20Patches/SLES-52179_973793E8.pnach) ||
 | Kill.switch | [SCES-52124](PCSX2%20Patches/SCES-52124_91A65EAE.pnach) |  |
-| Killzone | [SCUS-97402](PCSX2%20Patches/SCUS-97402_CAAEC49C.pnach) [SCES-52004](PCSX2%20Patches/SCES-52004_6624A78C.pnach) | |
+| Killzone | [SCUS-97402](PCSX2%20Patches/SCUS-97402_CAAEC49C.pnach) [SCES-52004](PCSX2%20Patches/SCES-52004_6624A78C.pnach) [SCES-52893](PCSX2%20Patches/SCES-52893_69FE9BB6.pnach) | |
 | King Arthur | [SLUS-21046](PCSX2%20Patches/SLUS-21046_4F3B0BA7.pnach) | |
 | King of Clubs | [SLES-54731](PCSX2%20Patches/SLES-54731_079140D6.pnach) |  |
 | Knights of the Temple - Infernal Crusade | [SLES-52448](PCSX2%20Patches/SLES-52448_A03898F9.pnach) ||

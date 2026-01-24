@@ -1,0 +1,25 @@
+gametitle=Killzone PAL-E SCES-52893 69FE9BB6
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Enable native widescreen.
+patch=1,EE,005DB164,word,00000001
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=0,EE,001C02A4,word,00021002
+patch=0,EE,001C0214,word,3C013F00
+
+[NTSC Mode]
+author=Gabominated
+description=Enable native NTSC Mode at start instead PAL Mode.
+patch=0,EE,001BD79C,word,38420001 //38420002
+
+[Disable Noise Filter]
+author=Gabominated
+description=Disable noise filter in gameplay.
+patch=1,EE,0055ED6C,extended,000000FF
+patch=1,EE,E0010004,extended,0057C888
+patch=1,EE,0055ED6C,extended,00000000
