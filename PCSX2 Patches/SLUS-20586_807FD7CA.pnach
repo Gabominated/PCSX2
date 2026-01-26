@@ -1,0 +1,6 @@
+gametitle=IHRA Drag Racing 2 NTSC-U SLUS-20586 807FD7CA
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=0,EE,00149a08,word,3C023C08
