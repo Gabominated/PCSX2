@@ -1,0 +1,6 @@
+gametitle=Disney's Donald Duck - Goin' Quackers NTSC-U SLUS-20077 C573F3A2
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,003728C0,word,00000000
