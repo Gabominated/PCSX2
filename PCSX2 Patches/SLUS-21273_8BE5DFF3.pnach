@@ -10,6 +10,8 @@ patch=1,EE,202335f8,extended,3c013f80
 patch=1,EE,201E7B40,extended,3C013F00
 patch=1,EE,E0010001,extended,0046E008
 patch=1,EE,201E7B40,extended,3C013F80
+patch=1,EE,E001E650,extended,005BE658
+patch=1,EE,201E7B40,extended,3C013F80
 patch=1,EE,202D4848,extended,2C42003C
 
 [Disable Blur/Bloom]
