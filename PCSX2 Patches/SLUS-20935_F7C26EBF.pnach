@@ -1,0 +1,11 @@
+gametitle=IHRA Professional Drag Racing 2005 NTSC-U SLUS-20935 F7C26EBF
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=0,EE,002C1D54,word,E421F340
+
+[Disable Blur]
+author=Gabominated
+description=Disable post-processing blur effect.
+patch=1,EE,00427810,word,00000000

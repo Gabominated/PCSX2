@@ -203,6 +203,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Ico | [SCES-50760](PCSX2%20Patches/SCES-50760_5C991F4E.pnach) |
 | IHRA Drag Racing - Sportsman | [SLUS-21256](PCSX2%20Patches/SLUS-21256_E2C71FD9.pnach) |
 | IHRA Drag Racing 2 | [SLUS-20586](PCSX2%20Patches/SLUS-20586_807FD7CA.pnach) |
+| IHRA Professional Drag Racing 2005 | [SLUS-20935](PCSX2%20Patches/SLUS-20935_F7C26EBF.pnach) |
 | Incredible Hulk, The - Ultimate Destruction | [SLUS-20941](PCSX2%20Patches/SLUS-20941_F17AF8BD.pnach) [SLES-53430](PCSX2%20Patches/SLES-53430_6B3D50A5.pnach) |
 | Indiana Jones and the Staff of Kings | [SLUS-21885](PCSX2%20Patches/SLUS-21885_B15F0BD6.pnach) [SLES-55448](PCSX2%20Patches/SLES-55448_528C8054.pnach) ||
 | IndyCar Series | [SLES-51397](PCSX2%20Patches/SLES-51397_949356AE.pnach) [SLUS-20641](PCSX2%20Patches/SLUS-20641_B36EE21E.pnach) |  |
