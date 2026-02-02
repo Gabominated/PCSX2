@@ -432,3 +432,4 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | XGRA - Extreme G Racing Association | [SLUS-20632](PCSX2%20Patches/SLUS-20632_56B36513.pnach) ||
 | XIII | [SLUS-20677](PCSX2%20Patches/SLUS-20677_FCD97245.pnach) [SLPS-25375](PCSX2%20Patches/SLPS-25375_D4ECB62E.pnach) ||
 | Yakuza | [SLES-54171](PCSX2%20Patches/SLES-54171_D3F182A3.pnach) | |
+| Zapper - One Wicked Cricket! | [SLES-50974](PCSX2%20Patches/SLES-50974_DFF3BB23.pnach) |
