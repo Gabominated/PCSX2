@@ -1,0 +1,6 @@
+gametitle=The Incredible Hulk PAL-M SLES-55254 11C4798E
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC Mode at start. FMVs broken.
+patch=0,EE,003966C0,word,14800011
