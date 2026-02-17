@@ -1,0 +1,19 @@
+gametitle=Brave - The Search for Spirit Dancer PAL-M SCES-51635 27D961D2
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,102348D8,extended,3C013F40
+patch=1,EE,E0010001,extended,004607BC
+patch=1,EE,102348D8,extended,3C013FC0
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,002BB964,word,24040000
+patch=0,EE,002BC49C,word,14400009
+
+[Enable Debbug Menu]
+author=Gabominated
+description=Enable Debbug Menu.
+patch=0,EE,002BC470,word,14400006
