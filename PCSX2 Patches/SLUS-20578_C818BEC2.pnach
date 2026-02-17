@@ -3,4 +3,5 @@ gametitle=The Lord of the Rings - The Two Towers NTSC-U SLUS-20578 C818BEC2
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,00106674,word,A3808454
+patch=0,EE,001664CC,word,24040000
+//0010634C 00106674 Alt

@@ -1,0 +1,6 @@
+gametitle=The Simpsons: Road Rage PAL-M SLES-50628 063CED6E
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC Mode at start. FMVs broken.
+patch=0,EE,0026EA74,word,11020004

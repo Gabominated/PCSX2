@@ -349,6 +349,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Silent Hill 2 | [SLUS-20228](PCSX2%20Patches/SLUS-20228_FE06A030.pnach) | |
 | Silent Hill 4 - The Room | [SLUS-20873](PCSX2%20Patches/SLUS-20873_3919136D.pnach) [SLPM-65574](PCSX2%20Patches/SLPM-65574_9BF472B8.pnach) |
 | Simpsons Skateboarding, The | [SLES-51361](PCSX2%20Patches/SLES-51361_D3FB54E5.pnach) ||
+| Simspons, The: Road Rage | [SLES-50628](PCSX2%20Patches/SLES-50628_063CED6E.pnach) |
 | Sims 2, The - Castaway | [SLES-54903](PCSX2%20Patches/SLES-54903_E7692E0B.pnach) [SLUS-21664](PCSX2%20Patches/SLUS-21664_6DF2F39E.pnach) | |
 | Sims 2, The | [SLUS-21265](PCSX2%20Patches/SLUS-21265_B67577F3.pnach) | |
 | Ski and Shoot | [SLUS-21839](PCSX2%20Patches/SLUS-21839_FD37553A.pnach) | |
