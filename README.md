@@ -73,7 +73,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | BloodRayne 2 | [SLUS-20862](PCSX2%20Patches/SLUS-20862_2AFA6F3A.pnach) [SLES-53832](PCSX2%20Patches/SLES-53832_436E4801.pnach) ||
 | BloodRayne | [SLUS-20461](PCSX2%20Patches/SLUS-20461_17244B57.pnach) ||
 | Blowout | [SLUS-20850](PCSX2%20Patches/SLUS-20850_71584BAC.pnach) ||
-| Brave - The Search for Spirit Dancer | [SLUS-21127](PCSX2%20Patches/SLUS-21127_17E7E24E.pnach) | [SCES-51635](PCSX2%20Patches/SCES-51635_27D961D2.pnach) | 
+| Brave - The Search for Spirit Dancer | [SLUS-21127](PCSX2%20Patches/SLUS-21127_17E7E24E.pnach) [SCES-51635](PCSX2%20Patches/SCES-51635_27D961D2.pnach) | 
 | Brothers in Arms - Road to Hill 30 | [SLUS-21163](PCSX2%20Patches/SLUS-21163_DFC0888A.pnach) |
 | Bully / Canis Canem Edit | [SLUS-21269](PCSX2%20Patches/SLUS-21269_28703748.pnach) [SLES-53561](PCSX2%20Patches/SLES-53561_C78A495D.pnach) |  |
 | Call of Duty - World at War - Final Fronts | [SLES-55367](PCSX2%20Patches/SLES-55367_B78A5F5A.pnach) [SLUS-21746](PCSX2%20Patches/SLUS-21746_BFF3DBCB.pnach) |  |
