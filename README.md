@@ -51,6 +51,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Aliens in the Attic | [SLES-55532](PCSX2%20Patches/SLES-55532_3AAD52A4.pnach) ||
 | Aliens Versus Predator - Extinction | [SLES-51792](PCSX2%20Patches/SLES-51792_64DA75B2.pnach) [SLUS-20147](PCSX2%20Patches/SLUS-20147_64DA78A3.pnach) |  |
 | Alone in the Dark | [SLES-55207](PCSX2%20Patches/SLES-55207_68FC3CF9.pnach) | |
+| Animaniacs - The Great Edgar Hunt | [SLES-52729](PCSX2%20Patches/SLES-52729_59A5C81C.pnach) |
 | Ant Bully, The | [SLUS-21415](PCSX2%20Patches/SLUS-21415_E10A865B.pnach) [SLES-54152](PCSX2%20Patches/SLES-54152_802F7B69.pnach) [SLES-54178](PCSX2%20Patches/SLES-54178_E10A865B.pnach) |
 | Area 51 | [SLUS-20595](PCSX2%20Patches/SLUS-20595_B59EF006.pnach) | |
 | Army Men - RTS | [SLUS-20206](PCSX2%20Patches/SLUS-20206_49DC3D25.pnach) [SLES-50434](PCSX2%20Patches/SLES-50434_EBB067E7.pnach) |

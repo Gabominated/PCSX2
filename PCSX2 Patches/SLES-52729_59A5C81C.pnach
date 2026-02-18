@@ -1,0 +1,14 @@
+gametitle=Animaniacs - The Great Edgar Hunt PAL-M SLES-52729 59A5C81C
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,20282B78,extended,AC61D35C
+patch=1,EE,E0010001,extended,002D9FE4
+patch=1,EE,20282B78,extended,AC60D35C
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. FMVs issues.
+patch=0,EE,00299ABC,word,32620002
+patch=0,EE,0023D3A0,word,00000000
