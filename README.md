@@ -115,6 +115,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Destroy All Humans! 2 | [SLUS-21439](PCSX2%20Patches/SLUS-21439_42DF8C8C.pnach) |
 | Destroy All Humans! | [SLUS-20945](PCSX2%20Patches/SLUS-20945_67A29886.pnach) |
 | Die Hard - Vendetta | [SLES-51347](PCSX2%20Patches/SLES-51347_F9E575D0.pnach) [SLES-51348](PCSX2%20Patches/SLES-51348_62F6F886.pnach) |  |
+| Digimon Rumble Arena 2 | [SLES-52631](PCSX2%20Patches/SLES-52631_4C5CE4C3.pnach) |
 | Dirge of Cerberus - Final Fantasy VII | [SLUS-21419](PCSX2%20Patches/SLUS-21419_44A5FA15.pnach) | |
 | Disney's Dinosaur | [SLES-50042](PCSX2%20Patches/SLES-50042_238B189C.pnach) [SLES-50043](PCSX2%20Patches/SLES-50043_238B189C.pnach) |  |
 | Disney's Donald Duck - Goin' Quackers | [SLUS-20077](PCSX2%20Patches/SLUS-20077_C573F3A2.pnach) [SLES-50048](PCSX2%20Patches/SLES-50048_F34ECBDC.pnach) |

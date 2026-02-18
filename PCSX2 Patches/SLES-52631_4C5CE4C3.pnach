@@ -1,0 +1,6 @@
+gametitle=Digimon Rumble Arena 2 PAL-M SLES-52631 4C5CE4C3
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. HUD out of fix.
+patch=0,EE,0039C330,word,24030002
