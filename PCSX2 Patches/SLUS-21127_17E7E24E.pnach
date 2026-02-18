@@ -13,7 +13,7 @@ patch=1,EE,10234C28,extended,3C013F40
 patch=1,EE,E0010001,extended,00460F3C
 patch=1,EE,10234C28,extended,3C013FC0
 
-[Enable Debbug Menu]
+[Enable Debug Menu]
 author=Gabominated
-description=Enable Debbug Menu.
+description=Enable Debug Menu.
 patch=0,EE,002BCA70,word,14400006

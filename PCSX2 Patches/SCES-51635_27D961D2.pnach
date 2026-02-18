@@ -13,7 +13,7 @@ description=NTSC mode at start.
 patch=0,EE,002BB964,word,24040000
 patch=0,EE,002BC49C,word,14400009
 
-[Enable Debbug Menu]
+[Enable Debug Menu]
 author=Gabominated
-description=Enable Debbug Menu.
+description=Enable Debug Menu.
 patch=0,EE,002BC470,word,14400006
