@@ -1,0 +1,7 @@
+gametitle=Disney/Pixar WALL-E PAL-R SLES-55193 1B8CC381
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC Mode at start.
+patch=0,EE,00425D18,word,24020000
+patch=0,EE,002F2028,word,84852F70

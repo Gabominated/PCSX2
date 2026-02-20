@@ -123,7 +123,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Disney/Pixar Cars - Mater-National Championship | [SLES-55025](PCSX2%20Patches/SLES-55025_ED999A64.pnach) [SLUS-21637](PCSX2%20Patches/SLUS-21637_57F534F4.pnach) |  |
 | Disney/Pixar Cars - Race-O-Rama | [SLES-55536](PCSX2%20Patches/SLES-55536_E4278493.pnach) [SLUS-21883](PCSX2%20Patches/SLUS-21883_E4278493.pnach) |  |
 | Disney/Pixar Cars | [SLUS-21151](PCSX2%20Patches/SLUS-21151_F2A25D7B.pnach) | |
-| Disney/Pixar WALL-E | [SLES-55186](PCSX2%20Patches/SLES-55186_87332077.pnach) [SLUS-21736](PCSX2%20Patches/SLUS-21736_C4F479F5.pnach) | |
+| Disney/Pixar WALL-E | [SLUS-21736](PCSX2%20Patches/SLUS-21736_C4F479F5.pnach) [SLES-55186](PCSX2%20Patches/SLES-55186_87332077.pnach) [SLES-55193](PCSX2%20Patches/SLES-55193_1B8CC381.pnach) |
 | Dog's Life | [SLUS-21018](PCSX2%20Patches/SLUS-21018_35CB5180.pnach) [SCES-51248](PCSX2%20Patches/SCES-51248_531061F2.pnach) [SLPM-65995](PCSX2%20Patches/SLPM-65995_08E89523.pnach) ||
 | Don 2 - The Game | [SCES-55670](PCSX2%20Patches/SCES-55670_94523988.pnach) | |
 | Dora the Explorer - Dora Saves the Crystal Kingdom | [SLUS-21923](PCSX2%20Patches/SLUS-21923_643BED21.pnach) | |
@@ -288,7 +288,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Pac-Man World Rally | [SLUS-21328](PCSX2%20Patches/SLUS-21328_99BD2C0C.pnach) |
 | Paris-Dakar 2 | [SLES-50879](PCSX2%20Patches/SLES-50879_CB4EBD11.pnach) |  |
 | Paris-Dakar Rally | [SLUS-20324](PCSX2%20Patches/SLUS-20324_EC3E8E86.pnach) |
-| Peter Jackson's King Kong - The Official Game of the Movie | [SLES-53703](PCSX2%20Patches/SLES-53703_2D0F72D6.pnach) ||
+| Peter Jackson's King Kong - The Official Game of the Movie | [SLES-53703](PCSX2%20Patches/SLES-53703_2D0F72D6.pnach) [SLES-53704](PCSX2%20Patches/SLES-53704_D2B790EE.pnach) ||
 | Pirates - The Legend of Black Kat | [SLUS-20365](PCSX2%20Patches/SLUS-20365_4DD2DD77.pnach) [SLES-50680](PCSX2%20Patches/SLES-50680_E677B8F1.pnach) | |
 | Pirates of the Caribbean - At World's End | [SLES-54179](PCSX2%20Patches/SLES-54179_EB06962A.pnach) |
 | Pirates of the Caribbean - The Legend of Jack Sparrow | [SLUS-21110](PCSX2%20Patches/SLUS-21110_632E3976.pnach) [SLES-54083](PCSX2%20Patches/SLES-54083_7E186593.pnach) [SLES-54237](PCSX2%20Patches/SLES-54237_E6C2F211.pnach) |
