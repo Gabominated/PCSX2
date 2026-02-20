@@ -1,0 +1,11 @@
+gametitle=Theme Park World PAL-M SLES-50032 9CBA74B7
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%). speed up a few elements.
+patch=1,EE,00310CBC,word,00000001
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,002314FC,word,240501c0

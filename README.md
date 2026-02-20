@@ -398,6 +398,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Terminator, The - Dawn of Fate | [SLUS-20391](PCSX2%20Patches/SLUS-20391_DFA59850.pnach) |
 | Test Drive - Off-Road - Wide Open | [SLUS-20177](PCSX2%20Patches/SLUS-20177_0DDFE767.pnach) |
 | Test Drive Unlimited | [SLUS-21490](PCSX2%20Patches/SLUS-21490_A4303F5A.pnach) [SLES-53753](PCSX2%20Patches/SLES-53753_C2911A79.pnach) [SLES-54466](PCSX2%20Patches/SLES-54466_C2911A79.pnach) |
+| Theme Park World | [SLES-50032](PCSX2%20Patches/SLES-50032_9CBA74B7.pnach) |
 | Thing, The | [SLUS-20371](PCSX2%20Patches/SLUS-20371_3F0DC9DC.pnach) |
 | TOCA Race Driver 3 | [SLES-53087](PCSX2%20Patches/SLES-53087_EE0618ED.pnach) | |
 | Tom Clancy's Ghost Recon - Advanced Warfighter | [SLUS-21422](PCSX2%20Patches/SLUS-21422_75A5436A.pnach) | |
