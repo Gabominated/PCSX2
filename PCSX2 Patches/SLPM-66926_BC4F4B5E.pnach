@@ -1,0 +1,8 @@
+gametitle=NiGHTS into Dreams... NTSC-J SLPM-66926 BC4F4B5E
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=0,EE,003E2B1C,word,00000001
+patch=0,EE,003E2B24,word,00000001
+patch=0,EE,00155798,word,00000000
