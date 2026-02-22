@@ -4,3 +4,14 @@ gametitle=Gadget and the Gadgetinis PAL-M SLES-52845 2235C82F
 author=Gabominated
 description=Might need EE Overclock (130%).
 patch=0,EE,001149DC,word,24030000
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,0011C8F8,word,AC20EE20
+patch=0,EE,00172428,word,240601c0
+patch=0,EE,00114448,word,240201BE
+patch=0,EE,00123120,word,240700E0
+patch=0,EE,0011440C,word,24060002
+patch=0,EE,00123104,word,24060002
+patch=0,EE,001E9024,word,3C023C88
