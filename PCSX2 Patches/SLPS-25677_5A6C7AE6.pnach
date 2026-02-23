@@ -2,7 +2,6 @@ gametitle=BLOOD+ One Night Kiss NTSC-J SLPS-25677 5A6C7AE6
 
 [60 FPS]
 author=Gabominated
-description=Might need EE overclock (130%).
-patch=1,EE,0045C594,word,00000001
-patch=1,EE,003C4880,word,3F000000
-patch=1,EE,01B78E14,word,3F400000
+description=Might need EE overclock (130%). Cutscenes glitched.
+patch=0,EE,0018C458,word,24040001
+patch=0,EE,00245FC8,word,3C033F40
