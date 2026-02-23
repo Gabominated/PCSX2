@@ -1,6 +1,6 @@
 gametitle=Conflict - Desert Storm II - Back to Baghdad PAL-M SLES-51523 AA40FD87
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (180%).
 patch=0,EE,00112BC0,word,24100000

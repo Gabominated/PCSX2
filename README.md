@@ -91,7 +91,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Colosseum - Road to Freedom | [SLUS-21179](PCSX2%20Patches/SLUS-21179_9285A8D6.pnach) [SLES-53356](PCSX2%20Patches/SLES-53356_29CA91F1.pnach) | |
 | Conan | [SLES-52451](PCSX2%20Patches/SLES-52451_9A206BA3.pnach) |  |
 | Conflict - Desert Storm II - Back to Baghdad | [SLUS-20689](PCSX2%20Patches/SLUS-20689_2BE460DF.pnach) [SLES-51523](PCSX2%20Patches/SLES-51523_AA40FD87.pnach) ||
-| Conflict - Global Terror | [SLUS-21172](PCSX2%20Patches/SLUS-21172_005AA020.pnach) ||
+| Conflict - Global Terror / Storm | [SLUS-21172](PCSX2%20Patches/SLUS-21172_005AA020.pnach) [SLES-52573](PCSX2%20Patches/SLES-52573_73973370.pnach) ||
 | Conflict - Vietnam | [SLUS-21045](PCSX2%20Patches/SLUS-21045_CC6CBF20.pnach) [SLES-52630](PCSX2%20Patches/SLES-52630_F0206B09.pnach) ||
 | Conspiracy - Weapons of Mass Destruction | [SLES-53098](PCSX2%20Patches/SLES-53098_D11B52FD.pnach) |
 | Constantine | [SLUS-21142](PCSX2%20Patches/SLUS-21142_314DAA9F.pnach) [SLPM-65972](PCSX2%20Patches/SLPM-65972_25D968B0.pnach) [SLES-52872](PCSX2%20Patches/SLES-52872_715AD5FD.pnach)| |
