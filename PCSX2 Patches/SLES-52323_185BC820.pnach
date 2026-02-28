@@ -1,0 +1,8 @@
+gametitle=Richard Burns Rally PAL-M SLES-52323 185BC820
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=0,EE,10118DB0,extended,0001
+patch=0,EE,1013578C,extended,0002
+patch=0,EE,1013560c,extended,3CA3
