@@ -321,6 +321,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Resident Evil - Outbreak | [SLUS-20765](PCSX2%20Patches/SLUS-20765_0245EF6D.pnach) |
 | Resident Evil 4 | [SLES-53702](PCSX2%20Patches/SLES-53702_6BA2F6B9.pnach) [SLUS-21134](PCSX2%20Patches/SLUS-21134_013E349D.pnach) |  |
 | Return to Castle Wolfenstein - Operation Resurrection | [SLUS-20297](PCSX2%20Patches/SLUS-20297_5F4DB1DD.pnach) [SLES-51449](PCSX2%20Patches/SLES-51449_461C79A5.pnach) [SLES-51522](PCSX2%20Patches/SLES-51522_0F58C006.pnach) |
+| Richard Burns Rally | [SLES-52323](PCSX2%20Patches/SLES-52323_185BC820.pnach) |
 | Rise of the Kasai | [SCUS-97416](PCSX2%20Patches/SCUS-97416_EDE17E1B.pnach) |  |
 | RoadKill | [SLUS-20687](PCSX2%20Patches/SLUS-20687_EBD245D0.pnach) [SLES-51842](PCSX2%20Patches/SLES-51842_D0FED4EA.pnach) | |
 | Robin Hood's Quest | [SLES-54125](PCSX2%20Patches/SLES-54125_79F6D5C9.pnach) |  |
