@@ -1,5 +1,10 @@
 gametitle=Spider-Man - Friend or Foe PAL-M SLES-54901 678BE0A5
 
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=0,EE,00315C50,word,24030001
+
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start.
