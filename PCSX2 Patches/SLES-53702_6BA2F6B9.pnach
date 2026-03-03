@@ -25,6 +25,13 @@ patch=1,EE,20281268,extended,3c013f80 //3c013f00 render fix
 
 [50/60 FPS Beta]
 author=Gabominated
-description=graphical glitches.
-patch=1,EE,00431CDC,word,00000001 //00000002 //fps
-patch=1,EE,00425E98,word,3F000000 //3F800000 //speed with graphical glitches
+description=bugged animation.
+patch=0,EE,00228628,word,24040001
+patch=0,EE,00217b18,word,3c013f00
+//00431CDC
+//00425E98
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=0,EE,0024F6D4,word,24040000

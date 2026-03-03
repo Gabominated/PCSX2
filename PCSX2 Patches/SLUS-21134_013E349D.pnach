@@ -27,9 +27,9 @@ patch=1,EE,202810e0,extended,3c013f80 //3c013f00 render fix
 author=Gabominated
 description=Might need EE overclock (130%). bugged animation.
 patch=0,EE,00228530,word,24040001
-patch=0,EE,00217A30,word,3C013F80
+patch=0,EE,00217A30,word,3C013F00
 
 [480p Mode]
 author=Gabominated
 description=SDTV 480p mode at start.
-patch=1,EE,0024F55C,word,24040000
+patch=0,EE,0024F55C,word,24040000
