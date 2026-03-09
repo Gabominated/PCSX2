@@ -1,0 +1,7 @@
+gametitle=UEFA Euro 2008 NTSC-U SLUS-21699 9703FCBF
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,001308f8,word,2403003c
+patch=0,EE,0012e6f4,word,2403003c
