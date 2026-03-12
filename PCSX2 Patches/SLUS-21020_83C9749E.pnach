@@ -1,10 +1,31 @@
 gametitle=Gungrave - OverDose NTSC-U SLUS-21020 83C9749E
 
 [60 FPS]
-author=Gabominated
-description=Might need EE Overclock (180%).
-patch=1,EE,20101B84,extended,28420001
-patch=1,EE,201782FC,extended,C4560000
-patch=1,EE,E0020080,extended,01DC074C
-patch=1,EE,20101B84,extended,28420002
-patch=1,EE,201782FC,extended,E4560000
+author=Puggsy, Gabominated & Claude Ai
+description=60 FPS Gameplay and Cutscenes, Known Issues: 1. need EE Overclock (180%). 2. Texture and UI Animations are 2x Faster (Minor issue)
+
+// Main Gameplay 60FPS Unlock (Wait for 1 VBLANK instead of 2)
+patch=1,EE,00101B84,word,28420001
+// Fix "Frame Drop" Debug Console Spam
+patch=1,EE,00101A40,word,28420001
+
+//Animation and Telecom Sync
+patch=1,EE,00120394,word,24030022 //24030011
+
+// Fix Cutscenes
+// Hook
+patch=1,EE,0022C784,word,0803C080 // j 0x000F0200
+patch=1,EE,0022C788,word,00000000 // nop (Delay Slot)
+// Sync Cutscenes
+patch=1,EE,000F0200,word,8f85a674 // lw a1, -0x598c(gp)  (Loads original VBLANK)
+patch=1,EE,000F0204,word,00052842 // srl a1, a1, 1       (Divides the time value by 2)
+patch=1,EE,000F0208,word,8cc80008 // lw s0, 0x8(a2)      (Original instruction from 0022C788 that we overwrote)
+patch=1,EE,000F020C,word,0808b1e3 // j 0x0022C78C        (Returns to the rest of the ISL engine)
+patch=1,EE,000F0210,word,00000000 // nop                 (Delay Slot)
+
+//Fix Subtitles in FMV
+patch=1,EE,E0020001,extended,0042ff48
+patch=1,EE,2022C784,extended,8f85A674
+patch=1,EE,2022C788,extended,8CD00008
+
+patch=1,EE,201782FC,extended,C4560000 //hotfix climb object
