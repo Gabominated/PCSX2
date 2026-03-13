@@ -32,4 +32,4 @@ patch=1,EE,2022C788,extended,8CD00008
 // Ignores the box's wall collision during a ledge jump
 patch=1,EE,0017800C,word,0000902D //move s2, zero
 // Halves the Raycast length multiplier for Ledge Snapping
-patch=1,EE,0042E5A0,word,3F000000
+patch=1,EE,0042E5A0,word,3F19999A
