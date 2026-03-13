@@ -1,0 +1,6 @@
+gametitle=Horsez NTSC-U SLUS-21563 F0512849
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=0,EE,006107AC,word,00000001

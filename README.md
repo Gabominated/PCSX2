@@ -197,6 +197,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Hitman - Contracts | [SLES-52136](PCSX2%20Patches/SLES-52136_3569E863.pnach) |  |
 | Hitman 2 - Silent Assassin | [SLES-50992](PCSX2%20Patches/SLES-50992_5B9ACF79.pnach) [SLES-51107](PCSX2%20Patches/SLES-51107_5B9ACF79.pnach) [SLES-51108](PCSX2%20Patches/SLES-51108_5B9ACF79.pnach) [SLES-51110](PCSX2%20Patches/SLES-51110_5B9ACF79.pnach) [SLES-51109](PCSX2%20Patches/SLES-51109_5B9ACF79.pnach) |  |
 | Home Alone | [SLES-54469](PCSX2%20Patches/SLES-54469_E1FCDA9D.pnach) |  |
+| Horsez | [SLUS-21563](PCSX2%20Patches/SLUS-21563_F0512849.pnach) |
 | Hugo - Magic in the Trollwoods | [SLES-55597](PCSX2%20Patches/SLES-55597_7DEB9F03.pnach) [SLES-55598](PCSX2%20Patches/SLES-55598_FFA75E86.pnach) | |
 | Hulk, The | [SLES-51508](PCSX2%20Patches/SLES-51508_804F5858.pnach) ||
 | Hype - The Time Quest | [SLES-50266](PCSX2%20Patches/SLES-50266_F668693E.pnach) |
