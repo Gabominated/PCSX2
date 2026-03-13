@@ -28,4 +28,8 @@ patch=1,EE,E0020001,extended,0042ff48
 patch=1,EE,2022C784,extended,8f85A674
 patch=1,EE,2022C788,extended,8CD00008
 
-patch=1,EE,201782FC,extended,C4560000 //hotfix climb object
+//Jump Fix
+// Ignores the box's wall collision during a ledge jump
+patch=1,EE,0017800C,word,0000902D //move s2, zero
+// Halves the Raycast length multiplier for Ledge Snapping
+patch=1,EE,0042E5A0,word,3F000000
