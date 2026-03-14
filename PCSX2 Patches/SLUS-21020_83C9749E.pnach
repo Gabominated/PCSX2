@@ -2,7 +2,7 @@ gametitle=Gungrave - OverDose NTSC-U SLUS-21020 83C9749E
 
 [60 FPS]
 author=Puggsy, Gabominated & Claude Ai
-description=60 FPS Gameplay and Cutscenes, Known Issues: 1. need EE Overclock (180%). 2. Texture and UI Animations are 2x Faster (Minor issue)
+description=60 FPS Gameplay and some Cutscenes, Known Issues: 1. need EE Overclock (180%). 2. Texture and UI Animations are 2x Faster (Minor issue) 3. Brefing Cutscenes are 30FPS
 
 // Main Gameplay 60FPS Unlock (Wait for 1 VBLANK instead of 2)
 patch=1,EE,00101B84,word,28420001
@@ -12,24 +12,35 @@ patch=1,EE,00101A40,word,28420001
 //Animation and Telecom Sync
 patch=1,EE,00120394,word,24030022 //24030011
 
+//Jump Fix
+// Ignores the box's wall collision during a ledge jump
+patch=1,EE,0017800C,word,0000902D //move s2, zero
+// Halves the Raycast length multiplier for Ledge Snapping
+patch=1,EE,0042E5A0,word,3f0ccccd
+
 // Fix Cutscenes
+//Don't Freeze During Briefing
+patch=1,EE,2022C784,word,8f85A674
+patch=1,EE,2022C788,word,8CD00008
 // Hook
-patch=1,EE,0022C784,word,0803C080 // j 0x000F0200
-patch=1,EE,0022C788,word,00000000 // nop (Delay Slot)
+patch=1,EE,E0020000,extended,002A85A4
+patch=1,EE,2022C784,extended,0803C080 // j 0x000F0200
+patch=1,EE,2022C788,extended,00000000 // nop (Delay Slot)
 // Sync Cutscenes
-patch=1,EE,000F0200,word,8f85a674 // lw a1, -0x598c(gp)  (Loads original VBLANK)
-patch=1,EE,000F0204,word,00052842 // srl a1, a1, 1       (Divides the time value by 2)
-patch=1,EE,000F0208,word,8cc80008 // lw s0, 0x8(a2)      (Original instruction from 0022C788 that we overwrote)
-patch=1,EE,000F020C,word,0808b1e3 // j 0x0022C78C        (Returns to the rest of the ISL engine)
-patch=1,EE,000F0210,word,00000000 // nop                 (Delay Slot)
+patch=1,EE,000F0200,word,8f85a674 // lw a1, -0x598c(gp) (Loads original VBLANK)
+patch=1,EE,000F0204,word,00052842 // srl a1, a1, 1 (Divides the time value by 2)
+patch=1,EE,000F0208,word,8cc80008 // lw s0, 0x8(a2) (Original instruction from 0022C788 that we overwrote)
+patch=1,EE,000F020C,word,0808b1e3 // j 0x0022C78C (Returns to the rest of the ISL engine)
+patch=1,EE,000F0210,word,00000000 // nop (Delay Slot)
 
 //Fix Subtitles in FMV
 patch=1,EE,E0020001,extended,0042ff48
 patch=1,EE,2022C784,extended,8f85A674
 patch=1,EE,2022C788,extended,8CD00008
 
-//Jump Fix
-// Ignores the box's wall collision during a ledge jump
-patch=1,EE,0017800C,word,0000902D //move s2, zero
-// Halves the Raycast length multiplier for Ledge Snapping
-patch=1,EE,0042E5A0,word,3F19999A
+//Set Brefing to 30FPS
+patch=1,EE,E0040000,extended,0042ff48 //Check if FMV is Active
+patch=1,EE,E0030000,extended,00431554 //Check if Gameplay is Active
+patch=1,EE,E0020000,extended,00314B9C //Check if Loading Screen is Active
+patch=1,EE,E0010001,extended,002A85A4 //Check if ISL is that isn't Brefing is Active
+patch=1,EE,20101B84,extended,28420002
