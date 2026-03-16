@@ -1,0 +1,104 @@
+gametitle=Altered Beast PAL-M SLES-53024 D6DF457B
+
+[50/60 FPS]
+author=Puggsy, Gabominated, Claude AI & Google Gemini
+description=60 FPS Gameplay and Cutscenes, Known Issues: 1. When the player animation is doing a transition between walking and running he speed up for a few frames. (Minor issue) There is an optional fix  2. Texture and UI Animations are 2x Faster (That includes fire and mist) (Minor issue)
+
+// Force Active Multipliers
+patch=1,EE,01C8667C,word,00000001
+patch=1,EE,01C86684,word,00000001
+// Force Vsync Increment
+patch=1,EE,005EC048,word,00000001
+
+// Animation Speed Fix (Mathematical Stride Halving)
+// Hook
+patch=1,EE,00182b80,word,0803C000 // j 0x000F0000 (Jump to Safe Zone)
+patch=1,EE,00182b84,word,00000000 // nop (Delay Slot cleared)
+// Script
+patch=1,EE,000F0000,word,8E022E38 // lw v0, 0x2e38(s0) (Read entity's internal tick counter safely into v0)
+patch=1,EE,000F0004,word,30420001 // andi v0, v0, 1 (Extract odd/even bit)
+patch=1,EE,000F0008,word,10400002 // beq v0, zero, 0x000F0014 (If EVEN tick, skip setting v1 to 0)
+patch=1,EE,000F000C,word,00000000 // nop (Delay slot)
+patch=1,EE,000F0010,word,24030000 // addiu v1, zero, 0 (If ODD tick, set stride to 0!)
+patch=1,EE,000F0014,word,00831821 // addu v1, a0, v1 (Calculate new 0x18 frame mathematically)
+patch=1,EE,000F0018,word,AE030018 // sw v1, 0x18(s0) (Execute original store)
+patch=1,EE,000F001C,word,08060AE2 // j 0x00182B88 (Return to original function)
+patch=1,EE,000F0020,word,00000000 // nop (Delay slot)
+
+// PHYSICS FIX 
+// FRICTION SCALING (0.894f)
+patch=1,EE,0017B458,word,3C033F64  // lui v1, 0x3F64
+patch=1,EE,0017B460,word,3463DD2F  // ori v1, v1, 0xDD2F
+// Hook
+patch=1,EE,0017B450,word,0803C009  // j 0x000F0024 (Jump to SZ_Gravity)
+patch=1,EE,0017B454,word,00000000  // nop
+// GRAVITY SCALING (0.25f) 
+patch=1,EE,000F0024,word,3C013E80  // lui at, 0x3F00 (0.25f)
+patch=1,EE,000F0028,word,44815000  // mtc1 at, f10
+patch=1,EE,000F002C,word,00000000  // nop
+patch=1,EE,000F0030,word,460A0842  // mul.S f1, f1, f10
+patch=1,EE,000F0034,word,46010001  // sub.S f0, f0, f1
+patch=1,EE,000F0038,word,0805ED16  // j 0x0017B458
+patch=1,EE,000F003C,word,E6000174  // swc1 f0, 0x174(s0)
+// Hook
+patch=1,EE,00179B9C,word,0803C014  // j 0x000F0050 (Jump to SZ_Impulse_1)
+patch=1,EE,00179BA0,word,00000000  // nop
+patch=1,EE,00179BA4,word,00000000  // nop
+// Halves Jump Height Enemies
+patch=1,EE,000F0050,word,3C013F00  // lui at, 0x3F00 (0.5f)
+patch=1,EE,000F0054,word,44815000  // mtc1 at, f10
+patch=1,EE,000F0058,word,00000000  // nop
+patch=1,EE,000F005C,word,460A12C2  // mul.S f11, f2, f10 (Scale X)
+patch=1,EE,000F0060,word,E62B0170  // swc1 f11, 0x170(s1)
+patch=1,EE,000F0064,word,460A0AC2  // mul.S f11, f1, f10 (Scale Y)
+patch=1,EE,000F0068,word,E62B0174  // swc1 f11, 0x174(s1)
+patch=1,EE,000F006C,word,460A02C2  // mul.S f11, f0, f10 (Scale Z)
+patch=1,EE,000F0070,word,E62B0178  // swc1 f11, 0x178(s1)
+patch=1,EE,000F0074,word,0805E6EA  // j 0x00179BA8 (Return 1)
+patch=1,EE,000F0078,word,00000000  // nop
+// Hook
+patch=1,EE,00179C34,word,0803C020  // j 0x000F0080 (Jump to SZ_Impulse_2)
+patch=1,EE,00179C38,word,00000000  // nop
+patch=1,EE,00179C3C,word,00000000  // nop
+// Halves Jump Height 2 (Affect Player)
+patch=1,EE,000F0080,word,3C013F00  // lui at, 0x3F00 (0.5f)
+patch=1,EE,000F0084,word,44815000  // mtc1 at, f10
+patch=1,EE,000F0088,word,00000000  // nop
+patch=1,EE,000F008C,word,460A12C2  // mul.S f11, f2, f10 (Scale X)
+patch=1,EE,000F0090,word,E62B0170  // swc1 f11, 0x170(s1)
+patch=1,EE,000F0094,word,460A0AC2  // mul.S f11, f1, f10 (Scale Y)
+patch=1,EE,000F0098,word,E62B0174  // swc1 f11, 0x174(s1)
+patch=1,EE,000F009C,word,460A02C2  // mul.S f11, f0, f10 (Scale Z)
+patch=1,EE,000F00A0,word,E62B0178  // swc1 f11, 0x178(s1)
+patch=1,EE,000F00A4,word,0805E710  // j 0x00179C40 (Return 2)
+patch=1,EE,000F00A8,word,00000000  // nop
+// Hook
+patch=1,EE,00178DE8,word,0803C02C  // j 0x000F00B0 (Jump to SZ_Knockback)
+patch=1,EE,00178DEC,word,8E23016C  // Delay Slot: lw v1,0x16C(s1) (Preserve original)
+//Halves Knockback Height
+patch=1,EE,000F00B0,word,3C013F00  // lui at, 0x3F00 (0.5f)
+patch=1,EE,000F00B4,word,44815000  // mtc1 at, f10
+patch=1,EE,000F00B8,word,00000000  // nop (FPU hazard)
+patch=1,EE,000F00BC,word,460A1502  // mul.S f20, f20, f10 (Half the height)
+patch=1,EE,000F00C0,word,E6340174  // swc1 f20, 0x174(s1) (Original instruction, patched value)
+patch=1,EE,000F00C4,word,0805E37C  // j 0x00178DF0 (Return to function)
+patch=1,EE,000F00C8,word,00000000  // nop
+
+[Speed up Fix to 60 FPS]
+author=Puggsy, Claude AI & Google Gemini
+description= Fix the Speed up, there is a 1-frame "running in place" stutter. This stutter is a native engine animation blending delay, stretched to 60fps
+
+// Physical Nudge Throttle (Speed up fix)
+// Hook
+patch=1,EE,00182b50,word,0803C040 // j 0x000F0100
+patch=1,EE,00182b54,word,00000000 // nop
+// Syncs physical translation velocity to 60fps using the same internal parity.
+patch=1,EE,000F0100,word,8E022E38 // lw v0, 0x2e38(s0)
+patch=1,EE,000F0104,word,30420001 // andi v0, v0, 1
+patch=1,EE,000F0108,word,14400003 // bne v0, zero, 0x000F011C
+patch=1,EE,000F010C,word,00000000 // nop
+patch=1,EE,000F0110,word,8E020018 // lw v0, 0x18(s0)
+patch=1,EE,000F0114,word,24420001 // addiu v0, v0, 1
+patch=1,EE,000F0118,word,AE020018 // sw v0, 0x18(s0)
+patch=1,EE,000F011C,word,08060AD8 // j 0x00182b60
+patch=1,EE,000F0120,word,00000000 // nop
