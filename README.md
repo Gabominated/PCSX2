@@ -419,6 +419,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | TY the Tasmanian Tiger 2 - Bush Rescue | [SLUS-21057](PCSX2%20Patches/SLUS-21057_5A1BB2A1.pnach) [SLES-52709](PCSX2%20Patches/SLES-52709_B9FDB9EE.pnach) ||
 | TY the Tasmanian Tiger 3 - Night of the Quinkan | [SLUS-21253](PCSX2%20Patches/SLUS-21253_CA8872BA.pnach) [SLES-53636](PCSX2%20Patches/SLES-53636_64E8F1DC.pnach) ||
 | TY the Tasmanian Tiger | [SLUS-20571](PCSX2%20Patches/SLUS-20571_4F755D39.pnach) [SLES-51220](PCSX2%20Patches/SLES-51220_D59D3252.pnach) ||
+| UEFA Champions League 2004-2005 | [SLES-52912](PCSX2%20Patches/SLES-52912_AF274194.pnach) [SLES-52911](PCSX2%20Patches/SLES-52911_D9E86D5E.pnach) [SLES-52909](PCSX2%20Patches/SLES-52909_E75893C5.pnach) [SLES-52910](PCSX2%20Patches/SLES-52910_E0177BB4.pnach) |
 | UEFA Euro 2008 | [SLUS-21699](PCSX2%20Patches/SLUS-21699_9703FCBF.pnach) |
 | Ultimate Spider-Man | [SLUS-20870](PCSX2%20Patches/SLUS-20870_FDD12792.pnach) [SLES-53391](PCSX2%20Patches/SLES-53391_FDD12792.pnach) |
 | Unreal Tournament | [SLUS-20034](PCSX2%20Patches/SLUS-20034_5751CAC1.pnach) ||
