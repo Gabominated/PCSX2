@@ -10,16 +10,24 @@ patch=1,EE,01C86684,word,00000001
 // Force Vsync Increment
 patch=1,EE,005EC048,word,00000001
 
-// Animation Speed Fix (Mathematical Stride Halving)
+// Halves Timer Speed - Replaces global scalar load (01bfcf18) with a hardcoded 0.5f multiplier safely.
+patch=1,EE,00154b2c,word,3C013F00 // lui at, 0x3F00 (Load 0.5f high half to 'at')
+patch=1,EE,00154b3c,word,44810800 // mtc1 at, f1 (Force 0.5f into f1 instead of memory read)
+patch=1,EE,00154b40,word,C602003C // lwc1 f2, 0x3c(s0) (Relocated load - acts as safe FPU hazard delay)
+
+// Halves Health and Beast Point Drain
+patch=1,EE,005EAC00,word,40000000 // Global Cadence Multiplier (1.0f -> 2.0f)
+
+// Animation Speed Fix (Mathematical Stride 1/2th Speed)
 // Hook
 patch=1,EE,00182b80,word,0803C000 // j 0x000F0000 (Jump to Safe Zone)
 patch=1,EE,00182b84,word,00000000 // nop (Delay Slot cleared)
 // Script
 patch=1,EE,000F0000,word,8E022E38 // lw v0, 0x2e38(s0) (Read entity's internal tick counter safely into v0)
-patch=1,EE,000F0004,word,30420001 // andi v0, v0, 1 (Extract odd/even bit)
-patch=1,EE,000F0008,word,10400002 // beq v0, zero, 0x000F0014 (If EVEN tick, skip setting v1 to 0)
+patch=1,EE,000F0004,word,30420001 // andi v0, v0, 1 (Extract modulo 8 using bitmask 0x7)
+patch=1,EE,000F0008,word,10400002 // beq v0, zero, 0x000F0014 (If Tick % 2 == 0, skip setting v1 to 0)
 patch=1,EE,000F000C,word,00000000 // nop (Delay slot)
-patch=1,EE,000F0010,word,24030000 // addiu v1, zero, 0 (If ODD tick, set stride to 0!)
+patch=1,EE,000F0010,word,24030000 // addiu v1, zero, 0 (If NOT divisible by 8, set stride to 0 - Pause frame!)
 patch=1,EE,000F0014,word,00831821 // addu v1, a0, v1 (Calculate new 0x18 frame mathematically)
 patch=1,EE,000F0018,word,AE030018 // sw v1, 0x18(s0) (Execute original store)
 patch=1,EE,000F001C,word,08060AE2 // j 0x00182B88 (Return to original function)
@@ -83,6 +91,7 @@ patch=1,EE,000F00BC,word,460A1502  // mul.S f20, f20, f10 (Half the height)
 patch=1,EE,000F00C0,word,E6340174  // swc1 f20, 0x174(s1) (Original instruction, patched value)
 patch=1,EE,000F00C4,word,0805E37C  // j 0x00178DF0 (Return to function)
 patch=1,EE,000F00C8,word,00000000  // nop
+
 
 [Speed up Fix to 60 FPS]
 author=Puggsy, Claude AI & Google Gemini
