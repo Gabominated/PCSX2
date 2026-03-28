@@ -1,0 +1,7 @@
+gametitle=Cel Damage Overdrive PAL-M SLES-51554 904B7BA0
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (130%). Still missing gravity jump.
+patch=0,EE,00239394,word,24420002
+patch=0,EE,003614D4,word,42700000
