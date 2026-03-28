@@ -1,0 +1,13 @@
+gametitle=Tomb Raider - Underworld PAL-M SLES-55442 8E214549
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start instead PAL mode.
+patch=0,EE,005FFE50,word,00000001
+//0038AB10 Alt
+
+[Disable Blur]
+author=Gabominated
+description=Disable post-processing blur effect.
+patch=1,EE,00392800,word,00000000
+patch=1,EE,00392804,word,00000000

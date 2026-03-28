@@ -33,8 +33,6 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Ico | [SCES-50760](PCSX2%20Patches/SCES-50760_5C991F4E.pnach) |
 | IHRA Professional Drag Racing 2005 | [SLUS-20935](PCSX2%20Patches/SLUS-20935_F7C26EBF.pnach) |Tested :heavy_check_mark:|
 | Killzone                                 | [SCUS-97402](PCSX2%20Patches/SCUS-97402_CAAEC49C.pnach) |Tested :heavy_check_mark:|
-| Lara Croft Tomb Raider - Anniversary | [SLUS-21555](PCSX2%20Patches/SLUS-21555_B639EB17.pnach) [SLPS-25856](PCSX2%20Patches/SLPS-25856_B05805B6.pnach) [SLES-54674](PCSX2%20Patches/SLES-54674_A629A376.pnach) ||
-| Lara Croft Tomb Raider - Legend | [SLUS-21203](PCSX2%20Patches/SLUS-21203_BC8B3F50.pnach) [SLES-53908](PCSX2%20Patches/SLES-53908_05177ECE.pnach) ||
 | Matrix, The - Path of Neo | [SLUS-21273](PCSX2%20Patches/SLUS-21273_8BE5DFF3.pnach) ||
 | Mercenaries 2 - World in Flames          | [SLUS-21650](PCSX2%20Patches/SLUS-21650_D14CB5F0.pnach) [SLES-54997](PCSX2%20Patches/SLES-54997_A97B93F7.pnach) [SLES-55001](PCSX2%20Patches/SLES-55001_A97C9BFD.pnach) |Tested :heavy_check_mark:|
 | Mercenaries - Playground of Destruction  | [SLES-53008](PCSX2%20Patches/SLES-53008_CBA0623D.pnach) [SLUS-20932](PCSX2%20Patches/SLUS-20932_23510F99.pnach) | |
@@ -54,3 +52,6 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Star Wars - Battlefront 2                | [SLUS-21240](PCSX2%20Patches/SLUS-21240_249540F3.pnach) [SLES-53501](PCSX2%20Patches/SLES-53501_B68D35CA.pnach) |Tested :heavy_check_mark:|
 | Star Wars - Battlefront                  | [SLES-52545](PCSX2%20Patches/SLES-52545_503BF9E1.pnach) [SLUS-20898](PCSX2%20Patches/SLUS-20898_503BF9E1.pnach) |Tested :heavy_check_mark:|
 | Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) [SLUS-21356](PCSX2%20Patches/SLUS-21356_0198F1AD.pnach) | |
+| Tomb Raider, Lara Croft - Anniversary | [SLUS-21555](PCSX2%20Patches/SLUS-21555_B639EB17.pnach) [SLPS-25856](PCSX2%20Patches/SLPS-25856_B05805B6.pnach) [SLES-54674](PCSX2%20Patches/SLES-54674_A629A376.pnach) ||
+| Tomb Raider, Lara Croft - Legend | [SLUS-21203](PCSX2%20Patches/SLUS-21203_BC8B3F50.pnach) [SLES-53908](PCSX2%20Patches/SLES-53908_05177ECE.pnach) ||
+| Tomb Raider - Underworld | [SLES-55442](PCSX2%20Patches/SLES-55442_8E214549.pnach) |

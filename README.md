@@ -233,8 +233,6 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | King of Clubs | [SLES-54731](PCSX2%20Patches/SLES-54731_079140D6.pnach) |  |
 | Knights of the Temple - Infernal Crusade | [SLES-52448](PCSX2%20Patches/SLES-52448_A03898F9.pnach) ||
 | Knights of the Temple II | [SLES-53645](PCSX2%20Patches/SLES-53645_9637D496.pnach) |  |
-| Lara Croft Tomb Raider - Anniversary | [SLUS-21555](PCSX2%20Patches/SLUS-21555_B639EB17.pnach) [SLPS-25856](PCSX2%20Patches/SLPS-25856_B05805B6.pnach) [SLES-54674](PCSX2%20Patches/SLES-54674_A629A376.pnach) ||
-| Lara Croft Tomb Raider - Legend | [SLUS-21203](PCSX2%20Patches/SLUS-21203_BC8B3F50.pnach) [SLES-53908](PCSX2%20Patches/SLES-53908_05177ECE.pnach) ||
 | Le Mans 24 Hours | [SLUS-20207](PCSX2%20Patches/SLUS-20207_67835861.pnach) [SLPM-62128](PCSX2%20Patches/SLPM-62128_39E38CC6.pnach) [SLES-50131](PCSX2%20Patches/SLES-50131_FEA030CB.pnach) |
 | Legacy of Kain - Soul Reaver 2 | [SLUS-20165 v1.01](PCSX2%20Patches/SLUS-20165_1771BFE4.pnach) [SLUS-20165 v2.00](PCSX2%20Patches/SLUS-20165_230CB71D.pnach) | |
 | Lemony Snicket's A Series of Unfortunate Events | [SLUS-21078](PCSX2%20Patches/SLUS-21078_4835F048.pnach) |
@@ -409,6 +407,9 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Tom Clancy's Ghost Recon - Advanced Warfighter | [SLUS-21422](PCSX2%20Patches/SLUS-21422_75A5436A.pnach) | |
 | Tom Clancy's Rainbow Six - Lockdown | [SLUS-21144](PCSX2%20Patches/SLUS-21144_A80FBAAC.pnach) | |
 | Tom Clancy's Splinter Cell - Double Agent | [SLES-53827](PCSX2%20Patches/SLES-53827_6BD0E9C2.pnach) [SLUS-21356](PCSX2%20Patches/SLUS-21356_0198F1AD.pnach) | |
+| Tomb Raider, Lara Croft - Anniversary | [SLUS-21555](PCSX2%20Patches/SLUS-21555_B639EB17.pnach) [SLPS-25856](PCSX2%20Patches/SLPS-25856_B05805B6.pnach) [SLES-54674](PCSX2%20Patches/SLES-54674_A629A376.pnach) ||
+| Tomb Raider, Lara Croft - Legend | [SLUS-21203](PCSX2%20Patches/SLUS-21203_BC8B3F50.pnach) [SLES-53908](PCSX2%20Patches/SLES-53908_05177ECE.pnach) ||
+| Tomb Raider - Underworld | [SLES-55442](PCSX2%20Patches/SLES-55442_8E214549.pnach) |
 | Transformers - Revenge of the Fallen | [SLUS-21881](PCSX2%20Patches/SLUS-21881_137C792E.pnach) [SLES-55520](PCSX2%20Patches/SLES-55520_9E36E023.pnach) ||
 | Transformers - The Game | [SLUS-21602](PCSX2%20Patches/SLUS-21602_200DB176.pnach) [SLES-54755](PCSX2%20Patches/SLES-54755_2609B672.pnach) [SLES-54757](PCSX2%20Patches/SLES-54757_F654BFDC.pnach) ||
 | Transformers | [SLUS-20668](PCSX2%20Patches/SLUS-20668_F40DAE1E.pnach) ||
