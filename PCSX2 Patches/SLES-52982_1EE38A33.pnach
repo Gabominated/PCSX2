@@ -1,0 +1,7 @@
+gametitle=NFL Street 2 PAL-E SLES-52982 1EE38A33
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,0046786C,word,00000002
+patch=0,EE,0046785C,word,000001C0
