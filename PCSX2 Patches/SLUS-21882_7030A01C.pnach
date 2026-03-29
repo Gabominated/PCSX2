@@ -1,0 +1,7 @@
+gametitle=Ghostbusters - The Video Game NTSC-U SLUS-21882 7030A01C
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (300%).
+patch=1,EE,E0010001,extended,0061E32C
+patch=1,EE,2014BE14,extended,00000000
