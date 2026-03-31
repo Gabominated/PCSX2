@@ -315,6 +315,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Racing Simulation 3 | [SLES-51633](PCSX2%20Patches/SLES-51633_C7AA13F6.pnach) |  |
 | Rampage - Total Destruction | [SLES-53800](PCSX2%20Patches/SLES-53800_E389B921.pnach) ||
 | Rayman - Revolution | [SLUS-20138](PCSX2%20Patches/SLUS-20138_D2F77DF2.pnach) [SLPS-25029](PCSX2%20Patches/SLPS-25029_BD9E8B57.pnach) [SLES-50044](PCSX2%20Patches/SLES-50044_55EDA5A0.pnach) |
+| RC Toy Machines | [SLES-52999](PCSX2%20Patches/SLES-52999_409E55FF.pnach) |
 | Red Dead Revolver | [SLUS-20500](PCSX2%20Patches/SLUS-20500_E169BAF8.pnach) [SLES-52478](PCSX2%20Patches/SLES-52478_E2E67E23.pnach) ||
 | Red Faction II | [SLUS-20442](PCSX2%20Patches/SLUS-20442_8E7FF6F8.pnach)
 | Red Faction | [SLUS-20073 (v2.00)](PCSX2%20Patches/SLUS-20073_3EF4376C.pnach) |
@@ -419,6 +420,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | TransWorld Surf | [SLUS-20356](PCSX2%20Patches/SLUS-20356_66B7B74E.pnach) [SLES-50886](PCSX2%20Patches/SLES-50886_1E4D0D98.pnach) | |
 | Tribes - Aerial Assault | [SLUS-20149](PCSX2%20Patches/SLUS-20149_2B58234D.pnach) |
 | Trigger Man | [SLUS-20931](PCSX2%20Patches/SLUS-20931_AA73521B.pnach) | |
+| Turbo Trucks | [SLES-54195](PCSX2%20Patches/SLES-54195_E788CEE1.pnach) |
 | Turok - Evolution | [SLES-50479](PCSX2%20Patches/SLES-50479_A9E852B1.pnach) ||
 | TY the Tasmanian Tiger 2 - Bush Rescue | [SLUS-21057](PCSX2%20Patches/SLUS-21057_5A1BB2A1.pnach) [SLES-52709](PCSX2%20Patches/SLES-52709_B9FDB9EE.pnach) ||
 | TY the Tasmanian Tiger 3 - Night of the Quinkan | [SLUS-21253](PCSX2%20Patches/SLUS-21253_CA8872BA.pnach) [SLES-53636](PCSX2%20Patches/SLES-53636_64E8F1DC.pnach) ||

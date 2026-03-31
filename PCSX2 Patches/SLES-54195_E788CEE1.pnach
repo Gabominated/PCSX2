@@ -1,0 +1,7 @@
+gametitle=Turbo Trucks PAL-E SLES-54195 E788CEE1
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,006ADCD8,word,00000000
+patch=1,EE,002A9D98,word,3CA3D70A

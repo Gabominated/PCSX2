@@ -1,0 +1,7 @@
+gametitle=RC Toy Machines PAL-E SLES-52999 409E55FF
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,005B9838,word,00000000
+patch=1,EE,007C5DA0,word,3CA3D70A
