@@ -1,0 +1,6 @@
+gametitle=25 to Life NTSC-U SLUS-21016 C1B141D6
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,003DA1F4,word,24040001
