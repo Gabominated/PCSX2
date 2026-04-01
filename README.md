@@ -332,6 +332,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Robin Hood's Quest | [SLES-54125](PCSX2%20Patches/SLES-54125_79F6D5C9.pnach) |  |
 | Robots | [SLUS-20942](PCSX2%20Patches/SLUS-20942_5931A065.pnach) [SLES-53052](PCSX2%20Patches/SLES-53052_B860F5B6.pnach) |
 | Rogue Trooper | [SLUS-21320](PCSX2%20Patches/SLUS-21320_2F63F868.pnach) [SLES-52921](PCSX2%20Patches/SLES-52921_03C8EA64.pnach) |  |
+| Room Zoom - Race for Impact | [SLES-52603](PCSX2%20Patches/SLES-52603_7ADEE689.pnach) |
 | Rule of Rose | [SLUS-21448](PCSX2%20Patches/SLUS-21448_F3FD313E.pnach) |
 | Run Like Hell - Hunt or Be Hunted | [SLUS-20037](PCSX2%20Patches/SLUS-20037_F802A575.pnach) | |
 | Rune - Viking Warlord | [SLUS-20109](PCSX2%20Patches/SLUS-20109_1259612B.pnach) |

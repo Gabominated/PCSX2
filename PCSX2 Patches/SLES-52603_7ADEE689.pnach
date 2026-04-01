@@ -1,0 +1,8 @@
+gametitle=Room Zoom - Race for Impact PAL-M SLES-52603 7ADEE689
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%). Semaphore still faster.
+patch=0,EE,001004F4,word,24110001
+patch=0,EE,00100530,word,3C013F20
+//00516058 00100548 Alt
