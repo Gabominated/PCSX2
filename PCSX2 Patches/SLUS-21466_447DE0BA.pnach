@@ -1,0 +1,6 @@
+gametitle=The Plan NTSC-U SLUS-21466 447DE0BA
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,001149F8,word,2C430001
