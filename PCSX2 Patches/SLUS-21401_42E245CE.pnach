@@ -1,0 +1,6 @@
+gametitle=Lucinda Green's Equestrian Challenge NTSC-U SLUS-21401 42E245CE
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=0,EE,002c5990,word,3C023F80

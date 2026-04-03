@@ -246,6 +246,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Lord of the Rings, The - The Fellowship of the Ring | [SLUS-20520](PCSX2%20Patches/SLUS-20520_CF56CD9C.pnach) ||
 | Lord of the Rings, The - The Return of the King | [SLUS-20770](PCSX2%20Patches/SLUS-20770_4CE187F6.pnach) [SLES-52017](PCSX2%20Patches/SLES-52017_9771C478.pnach) | |
 | Lord of the Rings, The - The Two Towers | [SLUS-20578](PCSX2%20Patches/SLUS-20578_C818BEC2.pnach) [SLES-51252](PCSX2%20Patches/SLES-51252_DC43F2B8.pnach) |
+| Lucinda Green's Equestrian Challenge | [SLUS-21401](PCSX2%20Patches/SLUS-21401_42E245CE.pnach) |
 | Mafia | [SLUS-20671](PCSX2%20Patches/SLUS-20671_B67F4F9E.pnach) ||
 | Magna Carta - Tears of Blood | [SLES-53483](PCSX2%20Patches/SLES-53483_49F78F24.pnach) [SLUS-21221](PCSX2%20Patches/SLUS-21221_C0AC5781.pnach) |  |
 | Manhunt 2 | [SLUS-21613](PCSX2%20Patches/SLUS-21613_3B0ADBEF.pnach) [SLES-54819](PCSX2%20Patches/SLES-54819_887AD3A0.pnach) |
@@ -330,6 +331,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Resident Evil 4 | [SLES-53702](PCSX2%20Patches/SLES-53702_6BA2F6B9.pnach) [SLUS-21134](PCSX2%20Patches/SLUS-21134_013E349D.pnach) |  |
 | Return to Castle Wolfenstein - Operation Resurrection | [SLUS-20297](PCSX2%20Patches/SLUS-20297_5F4DB1DD.pnach) [SLES-51449](PCSX2%20Patches/SLES-51449_461C79A5.pnach) [SLES-51522](PCSX2%20Patches/SLES-51522_0F58C006.pnach) |
 | Richard Burns Rally | [SLES-52323](PCSX2%20Patches/SLES-52323_185BC820.pnach) |
+| Riding Star | [SLUS-21737](PCSX2%20Patches/SLUS-21737_050C429A.pnach) |
 | Rise of the Kasai | [SCUS-97416](PCSX2%20Patches/SCUS-97416_EDE17E1B.pnach) |  |
 | RoadKill | [SLUS-20687](PCSX2%20Patches/SLUS-20687_EBD245D0.pnach) [SLES-51842](PCSX2%20Patches/SLES-51842_D0FED4EA.pnach) | |
 | Robin Hood's Quest | [SLES-54125](PCSX2%20Patches/SLES-54125_79F6D5C9.pnach) |  |
