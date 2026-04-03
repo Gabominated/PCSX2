@@ -1,0 +1,10 @@
+gametitle=Pro Bull - Riding Out of the Chute NTSC-U SLUS-21825 209C3E0D
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,101D2DF8,extended,2C420000
+patch=1,EE,E0010001,extended,004D9FD0
+patch=1,EE,101D2DF8,extended,2C420001
+patch=0,EE,2048EFA4,extended,0000012C
+//0011588C Alt

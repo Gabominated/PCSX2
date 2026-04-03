@@ -309,6 +309,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Prince of Persia - Warrior Within | [SLUS-21022](PCSX2%20Patches/SLUS-21022_6b17b39f.pnach) | |
 | Prisoner of War | [SLES-50397](PCSX2%20Patches/SLES-50397_61F79C5A.pnach)
 | Pro Biker 2 | [SLES-54888](PCSX2%20Patches/SLES-54888_CD13C390.pnach) |  |
+| Pro Bull - Riding Out of the Chute | [SLUS-21825](PCSX2%20Patches/SLUS-21825_209C3E0D.pnach) |
 | Pro Rally 2002 | [SLES-50637](PCSX2%20Patches/SLES-50637_0E3617BC.pnach) |  |
 | Project - Snowblind | [SLUS-21037](PCSX2%20Patches/SLUS-21037_7849F069.pnach) | |
 | Pryzm - Chapter One - The Dark Unicorn | [SLUS-20172](PCSX2%20Patches/SLUS-20172_51706243.pnach) [SLES-50721](PCSX2%20Patches/SLES-50721_D4FB6049.pnach) ||
