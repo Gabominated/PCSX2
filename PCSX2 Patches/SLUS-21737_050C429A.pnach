@@ -3,4 +3,4 @@ gametitle=Riding Star NTSC-U SLUS-21737 050C429A
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (300%).
-patch=0,EE,001885D4,word,3C013F00
+patch=0,EE,001885D4,word,3C010000
