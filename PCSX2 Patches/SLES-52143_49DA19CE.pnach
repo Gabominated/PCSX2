@@ -1,0 +1,8 @@
+gametitle=Carmen Sandiego - The Secret of the Stolen Drums PAL-M SLES-52143 49DA19CE
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,0020254C,word,24030000
+patch=0,EE,0011F018,word,2C620000
+//0021F438 Alt
