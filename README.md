@@ -62,6 +62,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Autobahn Raser IV | [SLES-51009](PCSX2%20Patches/SLES-51009_284C6B75.pnach) |  |
 | Avatar - The Last Airbender / The Legend of Aang | [SLUS-21395](PCSX2%20Patches/SLUS-21395_52AC9729.pnach) [SLES-54188](PCSX2%20Patches/SLES-54188_8F501FA4.pnach) |
 | Barbie Horse Adventures - Riding Camp | [SLUS-21806](PCSX2%20Patches/SLUS-21806_EA79D106.pnach) [SLES-55371](PCSX2%20Patches/SLES-55371_A038AAC7.pnach) |
+| Barbie Horse Adventures - Wild Horse Rescue | [SLUS-20664](PCSX2%20Patches/SLUS-20664_54D2D5DA.pnach) [SLES-51845](PCSX2%20Patches/SLES-51845_3BA6EAFC.pnach) |
 | Batman - Vengeance | [SLUS-20226](PCSX2%20Patches/SLUS-20226_B13B67CD.pnach) [SLUS-20226 Rev1](PCSX2%20Patches/SLUS-20226_5BD38469.pnach)||
 | Battlefield 2 - Modern Combat | [SLUS-21026](PCSX2%20Patches/SLUS-21026_AE1F3139.pnach) | |
 | Beach King Stunt Racer | [SLES-51383](PCSX2%20Patches/SLES-51383_5162BCCA.pnach) |  |

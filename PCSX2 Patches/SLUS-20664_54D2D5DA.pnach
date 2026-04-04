@@ -1,0 +1,7 @@
+gametitle=Barbie Horse Adventures - Wild Horse Rescue NTSC-U SLUS-20664 54D2D5DA
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0013889C,word,3C014270
+//00446F64 ALt
