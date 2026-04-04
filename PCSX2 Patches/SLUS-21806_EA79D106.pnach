@@ -1,0 +1,6 @@
+gametitle=Barbie Horse Adventures - Riding Camp NTSC-U SLUS-21806 EA79D106
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=0,EE,0031D758,word,00000000

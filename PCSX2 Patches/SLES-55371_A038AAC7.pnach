@@ -1,0 +1,12 @@
+gametitle=Barbie Horse Adventures - Riding Camp PAL-M SLES-55371 A038AAC7
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=0,EE,0031DC58,word,00000000
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00100570,word,240E0000
+//0031DA14 Alt
