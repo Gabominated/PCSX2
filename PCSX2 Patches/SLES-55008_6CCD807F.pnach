@@ -1,0 +1,6 @@
+gametitle=Riding Star 3 PAL-M SLES-55008 6CCD807F
+
+[50 FPS]
+author=Gabominated
+description=Might need EE overclock (300%).
+patch=0,EE,001882CC,word,3C013F00
