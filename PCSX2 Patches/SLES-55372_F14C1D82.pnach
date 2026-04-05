@@ -7,6 +7,6 @@ patch=0,EE,003D1350,word,1462000B
 
 [480p Mode]
 author=Gabominated
-description=SDTV 480p mode (706x448) at start.
+description=SDTV 480p mode (704x480) at start.
 patch=0,EE,003D1384,word,10400008
-//patch=1,EE,004FC7CC,word,000001E0 //(706x480)
+patch=0,EE,004FC7CC,word,000001E0
