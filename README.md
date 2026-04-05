@@ -58,7 +58,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Area 51 | [SLUS-20595](PCSX2%20Patches/SLUS-20595_B59EF006.pnach) | |
 | Army Men - RTS | [SLUS-20206](PCSX2%20Patches/SLUS-20206_49DC3D25.pnach) [SLES-50434](PCSX2%20Patches/SLES-50434_EBB067E7.pnach) |
 | Army Men - Soldiers of Misfortune | [SLUS-21831](PCSX2%20Patches/SLUS-21831_4BB40113.pnach) | |
-| Astérix & Obélix | [SLES-51838](PCSX2%20Patches/SLES-51838_1DB1A6C6.pnach) |
+| Astérix & Obélix XXL | [SLES-51838](PCSX2%20Patches/SLES-51838_1DB1A6C6.pnach) |
 | Astérix & Obélix XXL 2 - Mission - Las Vegum | [SLES-53725](PCSX2%20Patches/SLES-53725_040345C2.pnach) |
 | Asterix at the Olympic Games | [SLES-55034](PCSX2%20Patches/SLES-55034_D9FFF261.pnach) [SLES-55035](PCSX2%20Patches/SLES-55035_D8FFF261.pnach) |
 | Autobahn Raser - Das Spiel zum Film | [SLES-52459](PCSX2%20Patches/SLES-52459_F2CC17D2.pnach) |  |
