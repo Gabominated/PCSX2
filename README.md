@@ -455,6 +455,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | WWI - Aces of the Sky | [SLES-54205](PCSX2%20Patches/SLES-54205_8C84FD93.pnach) ||
 | X-Files, The - Resist or Serve | [SLUS-20179](PCSX2%20Patches/SLUS-20179_E79C7749.pnach) [SLES-52341](PCSX2%20Patches/SLES-52341_F4D70887.pnach) |
 | X-Men - The Official Game | [SLES-54066](PCSX2%20Patches/SLES-54066_DF217C0B.pnach) [SLUS-21107](PCSX2%20Patches/SLUS-21107_AEFCA55C.pnach) | |
+| X-Treme Quads | [SLES-53141](PCSX2%20Patches/SLES-53141_DB49EA17.pnach) |
 | Xena - Warrior Princess | [SLES-54541](PCSX2%20Patches/SLES-54541_59B36669.pnach) ||
 | XGRA - Extreme G Racing Association | [SLUS-20632](PCSX2%20Patches/SLUS-20632_56B36513.pnach) ||
 | XIII | [SLUS-20677](PCSX2%20Patches/SLUS-20677_FCD97245.pnach) [SLPS-25375](PCSX2%20Patches/SLPS-25375_D4ECB62E.pnach) ||

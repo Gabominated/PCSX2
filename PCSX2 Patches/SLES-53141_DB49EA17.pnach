@@ -1,0 +1,7 @@
+gametitle=X-Treme Quads PAL-E SLES-53141 DB49EA17
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,006D9158,word,00000000
+patch=1,EE,008E6E10,word,3CA3D70A
