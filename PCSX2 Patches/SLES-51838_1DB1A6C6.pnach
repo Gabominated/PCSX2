@@ -3,4 +3,5 @@ gametitle=Astérix & Obélix XXL PAL-M SLES-51838 1DB1A6C6
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start.
-patch=0,EE,0012F628,word,00000000
+patch=0,EE,0015B7D4,word,24020000
+//0012F628 0012F618 00134270 
