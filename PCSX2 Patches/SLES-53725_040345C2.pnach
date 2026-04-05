@@ -1,0 +1,6 @@
+gametitle=Astérix & Obélix XXL 2 - Mission - Las Vegum PAL-M SLES-53725 040345C2
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00134288,word,00000000
