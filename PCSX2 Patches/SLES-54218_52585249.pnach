@@ -1,0 +1,18 @@
+gametitle=Rule of Rose PAL-M SLES-54218 52585249
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,20117724,extended,00000000
+patch=0,EE,101F9974,extended,3C013F00
+patch=0,EE,101F95BC,extended,3C013F19
+patch=1,EE,E0020002,extended,00117AC0
+patch=1,EE,101F95BC,extended,3C013F00
+patch=1,EE,201F95C0,extended,00000000
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00117AC0,word,24060002
+patch=0,EE,001F95BC,word,3C013F80
+patch=0,EE,001F95C0,word,00000000
