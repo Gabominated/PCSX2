@@ -324,6 +324,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Quake III - Revolution | [SLES-50126](PCSX2%20Patches/SLES-50126_2064ACE6.pnach) ||
 | Racing Simulation 3 | [SLES-51633](PCSX2%20Patches/SLES-51633_C7AA13F6.pnach) |  |
 | Rampage - Total Destruction | [SLES-53800](PCSX2%20Patches/SLES-53800_E389B921.pnach) ||
+| Ratchet & Clank 2 - Locked and Loaded | [SCES-51607](PCSX2%20Patches/SCES-51607_2F486E6F.pnach) |
 | Rayman - Revolution | [SLUS-20138](PCSX2%20Patches/SLUS-20138_D2F77DF2.pnach) [SLPS-25029](PCSX2%20Patches/SLPS-25029_BD9E8B57.pnach) [SLES-50044](PCSX2%20Patches/SLES-50044_55EDA5A0.pnach) |
 | RC Toy Machines | [SLES-52999](PCSX2%20Patches/SLES-52999_409E55FF.pnach) |
 | Red Dead Revolver | [SLUS-20500](PCSX2%20Patches/SLUS-20500_E169BAF8.pnach) [SLES-52478](PCSX2%20Patches/SLES-52478_E2E67E23.pnach) ||
@@ -409,6 +410,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Surf's Up | [SLUS-21572](PCSX2%20Patches/SLUS-21572_BED8AB7C.pnach) [SLES-54583](PCSX2%20Patches/SLES-54583_904A9089.pnach) |
 | Syberia | [SLES-51393](PCSX2%20Patches/SLES-51393_D1ACD489.pnach) |  |
 | Syphon Filter - The Omega Strain | [SCES-52033](PCSX2%20Patches/SCES-52033_27E54B37.pnach) [SCUS-97264](PCSX2%20Patches/SCUS-97264_D5605611.pnach) |  |
+| Tak and the Power of Juju | [SLUS-20519](PCSX2%20Patches/SLUS-20519_4D2944CC.pnach) [SLES-52286](PCSX2%20Patches/SLES-52286_542766CA.pnach) [SLES-52011](PCSX2%20Patches/SLES-52011_D9B62DD3.pnach) | 
 | Teen Titans | [SLUS-21183](PCSX2%20Patches/SLUS-21183_E1F17139.pnach) [SLES-54430](PCSX2%20Patches/SLES-54430_E1F17139.pnach) [SLES-54431](PCSX2%20Patches/SLES-54431_E1F17139.pnach) | |
 | Teenage Mutant Ninja Turtles - Smash-Up | [SLES-55565](PCSX2%20Patches/SLES-55565_CEBA108D.pnach) [SLUS-21904](PCSX2%20Patches/SLUS-21904_532D7041.pnach) | |
 | Teenage Mutant Ninja Turtles 2 - Battle Nexus | [SLUS-20981](PCSX2%20Patches/SLUS-20981_EE628509.pnach) | |

@@ -1,0 +1,6 @@
+gametitle=Ratchet & Clank 2 - Locked and Loaded PAL-M SCES-51607 2F486E6F
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,001A7C18,word,00000000

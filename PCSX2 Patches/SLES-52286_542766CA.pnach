@@ -1,0 +1,12 @@
+gametitle=Tak y el Poder Juju PAL-S SLES-52286 542766CA
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=0,EE,00136F9C,word,24040001
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,0024E694,word,24090002
+patch=0,EE,002D9780,word,241201c0
