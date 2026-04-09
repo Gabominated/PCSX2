@@ -1,0 +1,13 @@
+gametitle=Tak 2 - The Staff of Dreams PAL-F SLES-53129 BAB519FE
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=0,EE,001778CC,word,24040001
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,003E1524,word,24090002
+patch=0,EE,002A0F00,word,241201c0
+//002A0EDC FMVs issues

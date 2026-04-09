@@ -1,0 +1,11 @@
+gametitle=Tak - The Great Juju Challenge PAL-E SLES-53695 CED08066
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=0,EE,0013A8E8,word,24040001
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,002CAE4C,word,10400006

@@ -1,0 +1,6 @@
+gametitle=Tak 2 - The Staff of Dreams NTSC-U SLUS-20952 55F99E5C
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=0,EE,00169B8C,word,24040001

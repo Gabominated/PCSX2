@@ -1,0 +1,6 @@
+gametitle=Tak - The Great Juju Challenge NTSC-U SLUS-21218 4B06117D
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=0,EE,0013A2B0,word,24040001

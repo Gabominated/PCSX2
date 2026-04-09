@@ -410,6 +410,8 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Surf's Up | [SLUS-21572](PCSX2%20Patches/SLUS-21572_BED8AB7C.pnach) [SLES-54583](PCSX2%20Patches/SLES-54583_904A9089.pnach) |
 | Syberia | [SLES-51393](PCSX2%20Patches/SLES-51393_D1ACD489.pnach) |  |
 | Syphon Filter - The Omega Strain | [SCES-52033](PCSX2%20Patches/SCES-52033_27E54B37.pnach) [SCUS-97264](PCSX2%20Patches/SCUS-97264_D5605611.pnach) |  |
+| Tak - The Great Juju Challenge | [SLUS-21218](PCSX2%20Patches/SLUS-21218_4B06117D.pnach) [SLES-53695](PCSX2%20Patches/SLES-53695_CED08066.pnach) [SLES-53418](PCSX2%20Patches/SLES-53418_FAA1C441.pnach) |
+| Tak 2 - The Staff of Dreams | [SLUS-20952](PCSX2%20Patches/SLUS-20952_55F99E5C.pnach) [SLES-53036](PCSX2%20Patches/SLES-53036_F1A69850.pnach) [SLES-53129](PCSX2%20Patches/SLES-53129_BAB519FE.pnach) | 
 | Tak and the Power of Juju | [SLUS-20519](PCSX2%20Patches/SLUS-20519_4D2944CC.pnach) [SLES-52286](PCSX2%20Patches/SLES-52286_542766CA.pnach) [SLES-52011](PCSX2%20Patches/SLES-52011_D9B62DD3.pnach) | 
 | Teen Titans | [SLUS-21183](PCSX2%20Patches/SLUS-21183_E1F17139.pnach) [SLES-54430](PCSX2%20Patches/SLES-54430_E1F17139.pnach) [SLES-54431](PCSX2%20Patches/SLES-54431_E1F17139.pnach) | |
 | Teenage Mutant Ninja Turtles - Smash-Up | [SLES-55565](PCSX2%20Patches/SLES-55565_CEBA108D.pnach) [SLUS-21904](PCSX2%20Patches/SLUS-21904_532D7041.pnach) | |
