@@ -9,6 +9,7 @@ patch=0,EE,101F95BC,extended,3C013F19
 patch=1,EE,E0020002,extended,00117AC0
 patch=1,EE,101F95BC,extended,3C013F00
 patch=1,EE,201F95C0,extended,00000000
+patch=0,EE,20298190,extended,3f000000
 
 [NTSC Mode]
 author=Gabominated
