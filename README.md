@@ -294,6 +294,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Nickelodeon SpongeBob's Atlantis SquarePantis | [SLUS-21644](PCSX2%20Patches/SLUS-21644_1FF9C051.pnach) [SLES-55024](PCSX2%20Patches/SLES-55024_AE28C9C7.pnach) |
 | NiGHTS into Dreams... | [SLPM-66926](PCSX2%20Patches/SLPM-66926_BC4F4B5E.pnach) |
 | Nitro Bike | [SLES-55192](PCSX2%20Patches/SLES-55192_B2367FD0.pnach) [SLUS-21738](PCSX2%20Patches/SLUS-21738_F5FE754D.pnach) |  |
+| Obscure | [SLES-52508](PCSX2%20Patches/SLES-52508_4D4C7E9D.pnach) |
 | Obscure - II / The Aftermath | [SLUS-21709](PCSX2%20Patches/SLUS-21709_408DFB9C.pnach) [SLES-54782](PCSX2%20Patches/SLES-54782_FC4AC115.pnach) |  |
 | Okami | [SLES-54439](PCSX2%20Patches/SLES-54439_891F223F.pnach) [SLPM-66375](PCSX2%20Patches/SLPM-66375_C5DEFEA0.pnach) [SLUS-21115](PCSX2%20Patches/SLUS-21115_21068223.pnach) | |
 | Onimusha - Dawn of Dreams | [SLUS-21180](PCSX2%20Patches/SLUS-21180_FE44479E.pnach) [SLES-82038](PCSX2%20Patches/SLES-82038_812C5A96.pnach) |

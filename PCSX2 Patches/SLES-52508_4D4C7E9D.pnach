@@ -1,0 +1,6 @@
+gametitle=Obscure PAL-G SLES-52508 4D4C7E9D
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. FMVs audio issues.
+patch=0,EE,002537D0,word,14400002

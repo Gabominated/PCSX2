@@ -3,4 +3,9 @@ gametitle=Obscure - The Aftermath NTSC-U SLUS 21709 408DFB9C
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,00101074,word,24420002
+patch=0,EE,00101074,word,24420002
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=0,EE,0018DB60,word,24020050
