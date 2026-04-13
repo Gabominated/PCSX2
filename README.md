@@ -160,6 +160,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Family Guy - The Video Game | [SLES-54126](PCSX2%20Patches/SLES-54126_E393DFE5.pnach) ||
 | Fantastic 4 | [SLUS-20615](PCSX2%20Patches/SLUS-20615_C7DA3DD2.pnach) [SLES-53147](PCSX2%20Patches/SLES-53147_F67E4351.pnach) [SLES-53143](PCSX2%20Patches/SLES-53143_CC14A552.pnach) |
 | Fatal Frame II / Project Zero 2 - Crimson Butterfly | [SLES-52384](PCSX2%20Patches/SLES-52384_9D87F3AF.pnach) [SLUS-20766](PCSX2%20Patches/SLUS-20766_9A51B627.pnach) |  |
+| FIFA 2005 | [SLUS-21051](PCSX2%20Patches/SLUS-21051_972611BB.pnach) |
 | FIFA Street 2 | [SLES-53797](PCSX2%20Patches/SLES-53797_A0DC603B.pnach) ||
 | FIFA Street | [SLES-53064](PCSX2%20Patches/SLES-53064_FCDD79BB.pnach) ||
 | Firefighter F.D. 18 | [SLES-52096](PCSX2%20Patches/SLES-52096_4590ECC3.pnach) | |

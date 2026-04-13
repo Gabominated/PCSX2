@@ -1,0 +1,6 @@
+gametitle=FIFA 2005 NTSC-U SLUS-21051 972611BB
+
+[480p Mode]
+author=Gabominated
+description=Enable native SDTV 480p mode at start.
+patch=0,EE,0040ADFC,word,24020050
