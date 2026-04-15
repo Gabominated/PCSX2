@@ -1,0 +1,9 @@
+gametitle=007 - Agent Under Fire NTSC-U SLUS-20265 79646C72
+
+[60 FPS]
+author=Gabominated
+description=Rail and driving missions. Might need EE overclock (130%).
+patch=1,EE,E001002F,extended,00232EFC
+patch=1,EE,20232F00,extended,2403001E
+patch=1,EE,E0010001,extended,00301558
+patch=1,EE,20232F00,extended,2403003C

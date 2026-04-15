@@ -1,0 +1,9 @@
+gametitle=007 - Agent Under Fire PAL-M SLES-50539 992B46DC
+
+[50/60 FPS]
+author=Gabominated
+description=Rail and driving missions. Might need EE overclock (130%).
+patch=1,EE,E001002F,extended,0023346C
+patch=1,EE,20233470,extended,2403001E
+patch=1,EE,E0010001,extended,00301AD8
+patch=1,EE,20233470,extended,2403003C

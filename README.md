@@ -32,6 +32,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 > 
 | Game Title | Serial/Region | Observations |
 | :---         |     :---:      |          ---: |
+| 007 - Agent Under Fire | [SLUS-20265](PCSX2%20Patches/SLUS-20265_79646C72.pnach) [SLES-50539](PCSX2%20Patches/SLES-50539_992B46DC.pnach) |
 | 007 - Everything or Nothing | [SLUS-20751](PCSX2%20Patches/SLUS-20751_6848699B.pnach) | |
 | 007 - From Russia with Love | [SLES-53553](PCSX2%20Patches/SLES-53553_22DC8EAC.pnach) ||
 | 007 - Nightfire | [SLUS-20579](PCSX2%20Patches/SLUS-20579_5B86BB62.pnach) | 
