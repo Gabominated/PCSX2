@@ -326,6 +326,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Psi-Ops - The Mindgate Conspiracy | [SLES-52703](PCSX2%20Patches/SLES-52703_C08BE6C0.pnach) [SLUS-20688](PCSX2%20Patches/SLUS-20688_9C71B59E.pnach) |  |
 | Quake III - Revolution | [SLES-50126](PCSX2%20Patches/SLES-50126_2064ACE6.pnach) ||
 | Racing Simulation 3 | [SLES-51633](PCSX2%20Patches/SLES-51633_C7AA13F6.pnach) |  |
+| Rally Fusion - Race of Champions | [SLES-50997](PCSX2%20Patches/SLES-50997_55E708DA.pnach)
 | Rampage - Total Destruction | [SLES-53800](PCSX2%20Patches/SLES-53800_E389B921.pnach) ||
 | Ratchet & Clank 2 - Locked and Loaded | [SCES-51607](PCSX2%20Patches/SCES-51607_2F486E6F.pnach) |
 | Rayman - Revolution | [SLUS-20138](PCSX2%20Patches/SLUS-20138_D2F77DF2.pnach) [SLPS-25029](PCSX2%20Patches/SLPS-25029_BD9E8B57.pnach) [SLES-50044](PCSX2%20Patches/SLES-50044_55EDA5A0.pnach) |
