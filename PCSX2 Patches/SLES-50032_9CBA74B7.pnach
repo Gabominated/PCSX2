@@ -1,9 +1,10 @@
 gametitle=Theme Park World PAL-M SLES-50032 9CBA74B7
 
 [50/60 FPS]
-author=Gabominated
+author=Gabominated & Souzooka
 description=Might need EE Overclock (130%). speed up a few elements.
-patch=1,EE,00310CBC,word,00000001
+patch=0,EE,00310CBC,word,00000001
+patch=0,EE,001C4AD8,word,24022000
 
 [NTSC Mode]
 author=Gabominated
