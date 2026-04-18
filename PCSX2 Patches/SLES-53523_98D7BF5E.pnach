@@ -1,6 +1,26 @@
 gametitle=Gun PAL-M SLES-53523 98D7BF5E
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
-patch=1,EE,0047CF28,word,00000000
+patch=0,EE,00121930,word,64630002
+//0047CF28 Alt
+
+[NTSC Mode/480p Mode]
+author=Gabominated
+description=NTSC mode with SDTV 480p Mode available in option menu.
+patch=0,EE,00125E9C,word,14A0000F
+//00125EC0 Alt
+
+[Language in NTSC Mode\Español]
+author=Gabominated
+description=Set Spanish Language.
+patch=0,EE,00125F50,word,24020004
+[Language in NTSC Mode\French]
+author=Gabominated
+description=Set French Language.
+patch=0,EE,00125F50,word,24020003
+[Language in NTSC Mode\Italian]
+author=Gabominated
+description=Set Italian Language.
+patch=0,EE,00125F50,word,24020006
