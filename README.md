@@ -128,7 +128,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Digimon Rumble Arena 2 | [SLES-52631](PCSX2%20Patches/SLES-52631_4C5CE4C3.pnach) |
 | Dirge of Cerberus - Final Fantasy VII | [SLUS-21419](PCSX2%20Patches/SLUS-21419_44A5FA15.pnach) | |
 | Disney's Dinosaur | [SLES-50042](PCSX2%20Patches/SLES-50042_238B189C.pnach) [SLES-50043](PCSX2%20Patches/SLES-50043_238B189C.pnach) |  |
-| Disney's Donald Duck - Goin' Quackers | [SLUS-20077](PCSX2%20Patches/SLUS-20077_C573F3A2.pnach) [SLES-50048](PCSX2%20Patches/SLES-50048_F34ECBDC.pnach) |
+| Disney's Donald Duck - Goin' Quackers / Quack Attack | [SLUS-20077](PCSX2%20Patches/SLUS-20077_C573F3A2.pnach) [SLES-50048](PCSX2%20Patches/SLES-50048_F34ECBDC.pnach) |
 | Disney's Kim Possible - What's the Switch? | [SLUS-21437](PCSX2%20Patches/SLUS-21437_86B490D1.pnach) [SLES-54388](PCSX2%20Patches/SLES-54388_86B490D1.pnach) |
 | Disney/Pixar Cars - Mater-National Championship | [SLES-55025](PCSX2%20Patches/SLES-55025_ED999A64.pnach) [SLUS-21637](PCSX2%20Patches/SLUS-21637_57F534F4.pnach) |  |
 | Disney/Pixar Cars - Race-O-Rama | [SLES-55536](PCSX2%20Patches/SLES-55536_E4278493.pnach) [SLUS-21883](PCSX2%20Patches/SLUS-21883_E4278493.pnach) |  |
