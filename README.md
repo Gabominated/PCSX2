@@ -245,6 +245,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | King of Clubs | [SLES-54731](PCSX2%20Patches/SLES-54731_079140D6.pnach) |  |
 | Knights of the Temple - Infernal Crusade | [SLES-52448](PCSX2%20Patches/SLES-52448_A03898F9.pnach) ||
 | Knights of the Temple II | [SLES-53645](PCSX2%20Patches/SLES-53645_9637D496.pnach) |  |
+| Kya - Dark Lineage | [SLES-51473](PCSX2%20Patches/SLES-51473_95B6BC43.pnach) |
 | Le Mans 24 Hours | [SLUS-20207](PCSX2%20Patches/SLUS-20207_67835861.pnach) [SLPM-62128](PCSX2%20Patches/SLPM-62128_39E38CC6.pnach) [SLES-50131](PCSX2%20Patches/SLES-50131_FEA030CB.pnach) |
 | Legacy of Kain - Soul Reaver 2 | [SLUS-20165 v1.01](PCSX2%20Patches/SLUS-20165_1771BFE4.pnach) [SLUS-20165 v2.00](PCSX2%20Patches/SLUS-20165_230CB71D.pnach) | |
 | Lemony Snicket's A Series of Unfortunate Events | [SLUS-21078](PCSX2%20Patches/SLUS-21078_4835F048.pnach) |
