@@ -1,0 +1,13 @@
+gametitle=Marvel Nemesis - Rise of the Imperfects PAL-M SLES-53585 9A165491
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,005E75B4,word,00000000
+//00414AB4 Alt
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=0,EE,005E75B4,word,00000000
+patch=0,EE,0036CD20,word,24020050

@@ -258,6 +258,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Mafia | [SLUS-20671](PCSX2%20Patches/SLUS-20671_B67F4F9E.pnach) ||
 | Magna Carta - Tears of Blood | [SLES-53483](PCSX2%20Patches/SLES-53483_49F78F24.pnach) [SLUS-21221](PCSX2%20Patches/SLUS-21221_C0AC5781.pnach) |  |
 | Manhunt 2 | [SLUS-21613](PCSX2%20Patches/SLUS-21613_3B0ADBEF.pnach) [SLES-54819](PCSX2%20Patches/SLES-54819_887AD3A0.pnach) |
+| Marvel Nemesis - Rise of the Imperfects | [SLES-53585](PCSX2%20Patches/SLES-53585_9A165491.pnach) |
 | Masters of the Universe - He-Man - Defender of Greyskull | [SLES-53035](PCSX2%20Patches/SLES-53035_492DFF9C.pnach) |
 | Mat Hoffman's Pro BMX 2 | [SLES-50870](PCSX2%20Patches/SLES-50870_DF5C06BE.pnach) [SLUS-20335](PCSX2%20Patches/SLUS-20335_A37C0344.pnach) |  |
 | Matrix, The - Path of Neo | [SLUS-21273](PCSX2%20Patches/SLUS-21273_8BE5DFF3.pnach) | |
