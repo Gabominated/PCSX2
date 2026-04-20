@@ -1,0 +1,6 @@
+gametitle=El Tigre, Nickelodeon - The Adventures of Manny Rivera
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. FMVs broken.
+patch=0,EE,00259470,word,14400006
