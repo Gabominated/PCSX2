@@ -1,6 +1,14 @@
 gameplay=Los 4 Fantásticos PAL-S SLES-53147 F67E4351
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (180%).
-patch=1,EE,0031FC70,word,00000001
+patch=0,EE,00176870,word,AC20FC70
+//0031FC70
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. logo and demos videos glitched.
+patch=0,EE,0017688c,word,24020002
+patch=0,EE,0031cf78,word,000001C0
+patch=0,EE,0010b590,word,241101C0
