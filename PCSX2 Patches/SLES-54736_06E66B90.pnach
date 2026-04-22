@@ -1,0 +1,15 @@
+gametitle=Disney/Pixar Ratatouille PAL-SC SLES-54736 06E66B90
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,003FD7A8,word,84852610
+patch=0,EE,0052C6B8,word,24020000
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=0,EE,003FD7A8,word,84852610
+patch=0,EE,003FE1A8,word,24060050
+patch=0,EE,0052C6B8,word,24020000
+patch=0,EE,0052C6DC,word,24030050
