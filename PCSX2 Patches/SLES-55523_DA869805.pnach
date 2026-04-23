@@ -1,0 +1,15 @@
+gametitle=Disney/Pixar Up PAL-S SLES-55523 DA869805
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,002F3018,word,84853220
+patch=0,EE,00425388,word,24020000
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=0,EE,002F3018,word,84853220
+patch=0,EE,002F3A18,word,24060050
+patch=0,EE,00425388,word,24020000
+patch=0,EE,004253D0,word,24030050
