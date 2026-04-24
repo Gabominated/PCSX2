@@ -63,3 +63,81 @@ patch=1,EE,105D8270,word,00015f90 //00015f90 //0002BF20
 author=Gabominated
 description=infinite money toggle on by Gabominated
 patch=1,EE,005D4AC0,word,0098967F
+
+[Health Display]
+author=Phanisment
+description=Display all monster/creatures health. Open File to edit the color
+patch=1,EE,200F8F00,word,0C0D40C4
+patch=1,EE,200F8F0C,word,24040000
+patch=1,EE,200F8F10,word,0C0DAB08
+patch=1,EE,200F8F18,word,24040010
+patch=1,EE,200F8F20,word,0C0B999C
+patch=1,EE,200F8F24,word,0080280A
+patch=1,EE,200F8F30,word,24190000
+patch=1,EE,200F8F34,word,24100000
+patch=1,EE,200F8F40,word,24020012
+patch=1,EE,200F8F44,word,00502818
+patch=1,EE,200F8F48,word,24A50078
+patch=1,EE,200F8F4C,word,0C0B99BC
+patch=1,EE,200F8F50,word,24040000
+patch=1,EE,200F8F58,word,3C01005F
+patch=1,EE,200F8F5C,word,2421C580
+patch=1,EE,200F8F64,word,240209D0
+patch=1,EE,200F8F68,word,00591018
+patch=1,EE,200F8F6C,word,00220821
+patch=1,EE,200F8F70,word,80220002
+patch=1,EE,200F8F74,word,1040000B
+patch=1,EE,200F8F78,word,00021080
+patch=1,EE,200F8F7C,word,3C030044
+patch=1,EE,200F8F80,word,00431021
+patch=1,EE,200F8F84,word,8C455620
+patch=1,EE,200F8F8C,word,842602C2
+patch=1,EE,200F8F94,word,3C020010
+patch=1,EE,200F8F98,word,0C0DA71C
+patch=1,EE,200F8F9C,word,24448FF0
+patch=1,EE,200F8FA0,word,26100001
+patch=1,EE,200F8FA4,word,27390001
+patch=1,EE,200F8FA8,word,24010014
+patch=1,EE,200F8FAC,word,1721FFE4
+patch=1,EE,200F8FB4,word,080D3E15
+patch=1,EE,200F8FF0,word,3A732520
+patch=1,EE,200F8FF4,word,00643525
+patch=1,EE,2034F84C,word,0803E3C0
+
+// Text color options (uncomment only one)
+patch=1,EE,200F8F14,word,24040000 // White - Default
+// patch=1,EE,200F8F14,word,24040005 // Black
+// patch=1,EE,200F8F14,word,24040001 // Red
+// patch=1,EE,200F8F14,word,24040002 // Blue
+// patch=1,EE,200F8F14,word,24040003 // Green
+// patch=1,EE,200F8F14,word,24040004 // Yellow
+
+[Infinite Grinding]
+author=Phanisment
+description=Unlimited carve/mining/gathering resources
+patch=1,EE,203B14A4,extended,00000050
+patch=1,EE,203A5E2C,extended,00000063
+
+[Fast Carve/Mining/Gathering resources]
+author=Phanisment
+description=Instant getting the item (Animation not skipped)
+patch=1,EE,205F89D7,extended,00000000
+
+[Player Size - Huge]
+author=Phanisment
+description=Bigger hitbox, bigger area you hit the monster
+patch=1,EE,205F8A88,extended,40000000
+patch=1,EE,205F8A8C,extended,40000000  
+patch=1,EE,205F8A90,extended,40000000
+
+[Player Size - Normalize]
+author=Phanisment
+description=Return player to normal size
+patch=1,EE,205F8A88,extended,3F800000
+patch=1,EE,205F8A8C,extended,3F800000
+patch=1,EE,205F8A90,extended,3F800000
+
+[Katana Slash Gauge - Always Full]
+author=Phanisment
+description=Katana gauge full
+patch=1,EE,205F9146,word,00000064
