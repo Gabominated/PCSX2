@@ -127,6 +127,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Die Hard - Vendetta | [SLES-51347](PCSX2%20Patches/SLES-51347_F9E575D0.pnach) [SLES-51348](PCSX2%20Patches/SLES-51348_62F6F886.pnach) |  |
 | Digimon Rumble Arena 2 | [SLES-52631](PCSX2%20Patches/SLES-52631_4C5CE4C3.pnach) |
 | Dirge of Cerberus - Final Fantasy VII | [SLUS-21419](PCSX2%20Patches/SLUS-21419_44A5FA15.pnach) | |
+| Disney Bolt | [SLUS-21844](PCSX2%20Patches/SLUS-21844_E87D8667.pnach) [SLES-55429](PCSX2%20Patches/SLES-55429_841CF939.pnach) [SLES-55431](PCSX2%20Patches/SLES-55431_990F1314.pnach) [SLES-55428](PCSX2%20Patches/SLES-55428_7B1AA634.pnach) |
 | Disney's Dinosaur | [SLES-50042](PCSX2%20Patches/SLES-50042_238B189C.pnach) [SLES-50043](PCSX2%20Patches/SLES-50043_238B189C.pnach) |  |
 | Disney's Donald Duck - Goin' Quackers / Quack Attack | [SLUS-20077](PCSX2%20Patches/SLUS-20077_C573F3A2.pnach) [SLES-50048](PCSX2%20Patches/SLES-50048_F34ECBDC.pnach) |
 | Disney's Kim Possible - What's the Switch? | [SLUS-21437](PCSX2%20Patches/SLUS-21437_86B490D1.pnach) [SLES-54388](PCSX2%20Patches/SLES-54388_86B490D1.pnach) |
