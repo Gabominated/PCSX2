@@ -1,0 +1,8 @@
+gametitle=Nickelodeon SpongeBob and Friends - Battle for Volcano Island PAL-M SLES-54521 1DF57175
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. FMVs audio issues.
+patch=0,EE,002910D8,word,24060002
+patch=0,EE,0028fed4,word,240501c0
+patch=0,EE,0028ff14,word,240701c0
