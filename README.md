@@ -137,6 +137,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Disney/Pixar Ratatouille | [SLES-54747](PCSX2%20Patches/SLES-54747_4FE9650B.pnach) [SLES-54736](PCSX2%20Patches/SLES-54736_06E66B90.pnach) [SLES-54737](PCSX2%20Patches/SLES-54737_4FBE390D.pnach) |
 | Disney/Pixar Up | [SLES-55523](PCSX2%20Patches/SLES-55523_DA869805.pnach) [SLES-55524](PCSX2%20Patches/SLES-55524_9EFEAF80.pnach) |
 | Disney/Pixar WALL-E | [SLUS-21736](PCSX2%20Patches/SLUS-21736_C4F479F5.pnach) [SLES-55186](PCSX2%20Patches/SLES-55186_87332077.pnach) [SLES-55193](PCSX2%20Patches/SLES-55193_1B8CC381.pnach) |
+| Disney's Chicken Little | [SLUS-21088](PCSX2%20Patches/SLUS-21088_AD96FA2F.pnach) [SLES-53739](PCSX2%20Patches/SLES-53739_AB75D540.pnach) [SLES-53743](PCSX2%20Patches/SLES-53743_94556600.pnach) |
 | Dog's Life | [SLUS-21018](PCSX2%20Patches/SLUS-21018_35CB5180.pnach) [SCES-51248](PCSX2%20Patches/SCES-51248_531061F2.pnach) [SLPM-65995](PCSX2%20Patches/SLPM-65995_08E89523.pnach) ||
 | Don 2 - The Game | [SCES-55670](PCSX2%20Patches/SCES-55670_94523988.pnach) | |
 | Dora the Explorer - Dora Saves the Crystal Kingdom | [SLUS-21923](PCSX2%20Patches/SLUS-21923_643BED21.pnach) | |
