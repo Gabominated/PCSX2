@@ -131,6 +131,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Disney's Dinosaur | [SLES-50042](PCSX2%20Patches/SLES-50042_238B189C.pnach) [SLES-50043](PCSX2%20Patches/SLES-50043_238B189C.pnach) |  |
 | Disney's Donald Duck - Goin' Quackers / Quack Attack | [SLUS-20077](PCSX2%20Patches/SLUS-20077_C573F3A2.pnach) [SLES-50048](PCSX2%20Patches/SLES-50048_F34ECBDC.pnach) |
 | Disney's Kim Possible - What's the Switch? | [SLUS-21437](PCSX2%20Patches/SLUS-21437_86B490D1.pnach) [SLES-54388](PCSX2%20Patches/SLES-54388_86B490D1.pnach) |
+| Disney's Stitch - Experiment 626 | [SCES-50959](PCSX2%20Patches/SCES-50959_B74A2938.pnach) |
 | Disney/Pixar Cars - Mater-National Championship | [SLES-55025](PCSX2%20Patches/SLES-55025_ED999A64.pnach) [SLUS-21637](PCSX2%20Patches/SLUS-21637_57F534F4.pnach) |  |
 | Disney/Pixar Cars - Race-O-Rama | [SLES-55536](PCSX2%20Patches/SLES-55536_E4278493.pnach) [SLUS-21883](PCSX2%20Patches/SLUS-21883_E4278493.pnach) |  |
 | Disney/Pixar Cars | [SLUS-21151](PCSX2%20Patches/SLUS-21151_F2A25D7B.pnach) | |

@@ -1,0 +1,17 @@
+gametitle=Disney's Stitch - Experiment 626 PAL-P SCES-50959 B74A2938
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0013462C,word,24050001
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,0026A924,word,24030002
+patch=0,EE,0026A92C,word,240200E0
+patch=0,EE,00134578,word,240200E0
+patch=0,EE,001EB344,word,240700E0
+patch=0,EE,002DE7FC,word,240400E0
+patch=0,EE,00133784,word,240501C0
+patch=0,EE,001A6CDC,word,240501C0
