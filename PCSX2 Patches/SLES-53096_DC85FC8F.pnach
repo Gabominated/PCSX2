@@ -3,4 +3,6 @@ gametitle=Worms 4 - Mayhem PAL-M SLES-53096 DC85FC8F
 [50 FPS]
 author=Gabominated
 description=Might need EE overclock (180%).
-patch=1,EE,006F6D04,word,00000001
+patch=1,EE,106F6D04,extended,00000001
+patch=1,EE,E0010001,extended,006F719C
+patch=1,EE,106F6D04,extended,00000000
