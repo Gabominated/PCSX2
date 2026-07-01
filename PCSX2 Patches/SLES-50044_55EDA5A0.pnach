@@ -1,6 +1,13 @@
 gametitle=Rayman - Revolution PAL-M SLES-50044 55EDA5A0
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
 patch=1,EE,001413CC,word,24420002
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00378080,word,00000280
+patch=0,EE,00378084,word,000001c0
+patch=0,EE,0037808C,word,00000002
