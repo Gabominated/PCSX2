@@ -398,7 +398,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Sonic Unleashed | [SLUS-21846](PCSX2%20Patches/SLUS-21846_FB236A46.pnach) [SLES-55380](PCSX2%20Patches/SLES-55380_8C913264.pnach) |
 | Sopranos, The - Road to Respect | [SLUS-21388](PCSX2%20Patches/SLUS-21388_7C006C52.pnach) [SLES-54209](PCSX2%20Patches/SLES-54209_673AF937.pnach) ||
 | Spider-Man - Friend or Foe | [SLES-54901](PCSX2%20Patches/SLES-54901_678BE0A5.pnach) [SLUS-21600](PCSX2%20Patches/SLUS-21600_F52477F7.pnach) |  |
-| Spider-Man - Web of Shadows | [SLES-55372](PCSX2%20Patches/SLES-55372_F14C1D82.pnach) ||
+| Spider-Man - Web of Shadows | [SLUS-21822](PCSX2%20Patches/SLUS-21822_EDDD6573.pnach) [SLES-55372](PCSX2%20Patches/SLES-55372_F14C1D82.pnach) ||
 | Spider-Man 2 | [SLES-52372](PCSX2%20Patches/SLES-52372_6B68932C.pnach) ||
 | Spider-Man 3 | [SLES-54724](PCSX2%20Patches/SLES-54724_C529B0AD.pnach) ||
 | Spiderwick Chronicles, The | [SLUS-21716](PCSX2%20Patches/SLUS-21716_23B262A5.pnach) |

@@ -1,0 +1,7 @@
+gametitle=Spider-Man - Web of Shadows NTSC-U SLUS-21822 EDDD6573
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode (704x480) at start.
+patch=0,EE,003D183C,word,14620010
+patch=0,EE,004FCDA4,word,000001E0
