@@ -1,0 +1,7 @@
+gametitle=Downtown Run PAL-M SLES-51482 32C812E8
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,002419A4,word,24030000
+//002419B0
