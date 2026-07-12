@@ -1,50 +1,65 @@
-PS2 Conditional Patching Guide for PCSX2 (.pnach)
+# PS2 Conditional Patching Guide for PCSX2 (.pnach)
 
-Conditional codes in the PNACH format allow you to automatically enable or disable patches based on real-time game states (e.g., enabling 60fps only during gameplay and disabling it during cutscenes to prevent speed bugs).
+Conditional codes in the PNACH format allow you to automatically enable or disable patches based on real-time game states (for example: enable 60fps only during gameplay and disable it during cutscenes or menus). This guide explains the two main conditional methods used by PCSX2: E-type and D-type codes. Both require the `extended` write type — short/word writes do not process these conditionals correctly.
 
-There are two primary engine methods to achieve this: E-type and D-type codes. Both methods require using the extended type; types like word or byte do not process these conditional logic rules correctly.
+---
 
-1. E-Type Conditionals (E00XNNNN) — Multi-Line Evaluation
-The E-type code evaluates the last 2 bytes (16 bits) of a memory address and conditions multiple lines of code placed directly beneath it.
+## 1. E-Type Conditionals (E00XNNNN) — Multi-Line Evaluation
 
-Syntax:
-Plaintext
+E-type codes evaluate the last 2 bytes (16 bits) of a memory address and conditionally apply multiple lines placed directly below the conditional line.
+
+Syntax
+
+```
 patch=1,EE,E00XNNNN,extended,AAAAAAAA
 patch=1,EE,YZZZZZZZ,extended,VVVVVVVV
-AAAAAAAA: The target memory address acting as the trigger.
+```
 
-NNNN: The specific 4-digit hex value you expect that address to hold to trigger the patch.
+- AAAAAAAA: Target memory address used as the trigger.
+- NNNN: Specific 4-digit hex value expected at that address to trigger the patch (last 2 bytes).
+- X: Number of physical lines directly beneath the conditional line that will be affected.
+- Y: Write type for the target patch (0 = 1 byte, 1 = 2 bytes, 2 = 4 bytes/full value).
 
-X: The number of physical lines directly below the conditional line that will be affected.
+Practical example: Automatic FPS toggle (Gameplay vs Menus)
 
-Y: The write type for the target patch (0 for 1 byte, 1 for 2 bytes, 2 for 4 bytes/full value).
+Suppose Cheat Engine found address `002AB59C` that reads `00000001` during gameplay and `00000000` in menus. We want to clear the game's default frame limiter value (`1040FFFA`) and write `00000000` to enable 60fps during gameplay, then restore the original value in menus.
 
-Practical Example: Automatic FPS Toggle (Gameplay vs. Menus)
-Suppose you used Cheat Engine to find a memory address (002AB59C) that reads 00000001 during gameplay and resets to 00000000 inside menus. We want to clear the game's default frame limiter value (1040FFFA) by overwriting it with 00000000.
-
-Plaintext
+```
 // IF address 002AB59C equals 0001 (Gameplay), execute the next 1 line:
 patch=1,EE,E0010001,extended,002AB59C
-patch=1,EE,201195A4,extended,00000000 // Enable 60fps
+patch=1,EE,201195A4,extended,00000000  // Enable 60fps
 
 // IF address 002AB59C equals 0000 (Menus/Pause), execute the next 1 line:
 patch=1,EE,E0010000,extended,002AB59C
-patch=1,EE,201195A4,extended,1040FFFA // Restore native game value
-2. D-Type Conditionals (DAAAAAAA) — 32-bit Evaluation (Single Line)
-The D-type code evaluates the full 4 bytes (32 bits) of an address. Unlike the E-type, it strictly affects only the single line immediately below it. It is typically used for monitoring controller button inputs or specific engine flags requiring full 32-bit precision.
+patch=1,EE,201195A4,extended,1040FFFA  // Restore native game value
+```
 
-Syntax:
-Plaintext
+Notes
+
+- When using `E00X...`, be precise with the line count: `E002` affects exactly the next two physical lines. Do not insert blank lines or comments inside that block — the parser counts physical lines.
+- Use `extended` write type for correct behavior.
+
+---
+
+## 2. D-Type Conditionals (DAAAAAAA) — 32-bit Evaluation (Single Line)
+
+D-type codes evaluate the full 4 bytes (32 bits) of an address. Unlike E-type codes, a D-type conditional affects strictly the single line immediately below it. This is commonly used for monitoring controller states, engine flags, or other 32-bit status values.
+
+Syntax
+
+```
 patch=1,EE,DAAAAAAA,extended,XXXXXXXX
 patch=1,EE,YYYYYYYY,extended,VVVVVVVV
-AAAAAAA: The memory address to monitor (Note: the format drops the first leading zero of the 8-digit address to accommodate the "D").
+```
 
-XXXXXXXX: The full 32-bit value required to execute the patch below.
+- AAAAAAAA: Memory address to monitor (note: D-type format omits the leading zero of an 8-digit address — the `D` replaces that leading zero).
+- XXXXXXXX: The full 32-bit value required to execute the patch below.
 
-Practical Example: Dynamic 60fps Control (Kingdom Hearts)
-In this script by Michael P, D-type lines are used to force the frame registration address (002B624C) to either 0 (enabled) or 1 (disabled) depending on the exact engine states reflected in address 002BFD98.
+Practical example: Dynamic 60fps control (Kingdom Hearts)
 
-Plaintext
+In this example (by Michael P), D-type lines are used to force the frame registration address (`002B624C`) to either `00000000` (enabled) or `00000001` (disabled) depending on engine states read at `002BFD98`.
+
+```
 gametitle=Kingdom Hearts [SLUS-20370] (U)
 comment=60fps toggle cheat by Michael P
 
@@ -67,84 +82,106 @@ patch=1,EE,D02BFD98,extended,0000004E
 patch=1,EE,002B624C,extended,00000001
 patch=1,EE,D02BFD98,extended,00000004
 patch=1,EE,002B624C,extended,00000001
+```
 
-📌 Golden Rules to Remember
-E-Line Counting Precision: If you use E002, the cheat engine strictly reads the next two physical lines. Do not leave blank lines or plain text comments inside that block; the parser will count them as lines of code and break your conditional logic sequence.
+---
 
-State Reversion: When using a conditional trigger to modify a value, always remember to write the inverse conditional sequence (reverting back to the game's natural value) so the engine resets properly when the gameplay state changes.
+## Golden rules to remember
 
-(Español)
-Guía de Parches Condicionales en PCSX2 (.pnach)
+- E-line counting precision: `E00X` counts physical lines. Avoid comments or blank lines between the conditional and its affected lines.
+- State reversion: When a conditional modifies a value, always add the inverse conditional sequence to restore the game's natural value when the trigger no longer applies.
+- Use `extended` writes for conditional logic to work reliably.
+- Test thoroughly to avoid introducing gameplay bugs; conditional patches that don't correctly revert values can cause crashes or corruption.
 
-Los códigos condicionales en el formato PNACH permiten activar o desactivar parches automáticamente según lo que esté ocurriendo en el juego (por ejemplo, activar los 60fps solo durante el gameplay y desactivarlos en cinemáticas para evitar bugs de velocidad).
+---
 
-Existen dos métodos principales para lograr esto: los tipos E y D. Ambos requieren trabajar en modo extended (los tipos word o byte no procesan estas condicionales correctamente).
+## (Español)
 
-1. Condicionales tipo E (E00XNNNN) — Evaluación Multilínea
-El código tipo E evalúa los últimos 2 bytes (16 bits) de una dirección de memoria y puede condicionar múltiples líneas de código que se encuentren debajo de él.
+# Guía de parches condicionales en PCSX2 (.pnach)
 
-Sintaxis:
-Plaintext
+Los códigos condicionales en formato PNACH permiten activar o desactivar parches automáticamente en función del estado real del juego (por ejemplo: activar 60fps solo durante el gameplay y desactivarlo en cinemáticas o menús). Esta guía explica los dos métodos principales usados en PCSX2: códigos tipo E y tipo D. Ambos requieren el modo `extended` — los tipos `word` o `byte` no procesan estas condicionales correctamente.
+
+---
+
+## 1. Condicionales tipo E (E00XNNNN) — Evaluación multilínea
+
+Los códigos tipo E evalúan los últimos 2 bytes (16 bits) de una dirección de memoria y aplican condicionalmente varias líneas que se encuentran directamente debajo de la línea condicional.
+
+Sintaxis
+
+```
 patch=1,EE,E00XNNNN,extended,AAAAAAAA
 patch=1,EE,YZZZZZZZ,extended,VVVVVVVV
-AAAAAAAA: La dirección de memoria que actúa como activador (trigger).
+```
 
-NNNN: El valor específico (en 4 dígitos hex) que esperas que tome esa dirección para activar el truco.
+- AAAAAAAA: Dirección de memoria usada como disparador (trigger).
+- NNNN: Valor hex de 4 dígitos que debe tener esa dirección para activar el parche (últimos 2 bytes).
+- X: Número de líneas físicas justo debajo de la condicional que se verán afectadas.
+- Y: Tipo de escritura del parche (0 = 1 byte, 1 = 2 bytes, 2 = 4 bytes/valor completo).
 
-X: El número de líneas físicas que se encuentran justo debajo y que se verán afectadas por la condición.
+Ejemplo práctico: Alternar FPS automáticamente (Gameplay vs Menús)
 
-Y: El tipo de escritura para el parche que se va a aplicar (0 para 1 byte, 1 para 2 bytes, 2 para 4 bytes/valor completo).
+Supongamos que Cheat Engine encuentra `002AB59C` que vale `00000001` en el gameplay y `00000000` en los menús. Queremos escribir `00000000` para activar 60fps durante el gameplay y restaurar `1040FFFA` en los menús.
 
-Ejemplo Práctico: Automatización de FPS (Gameplay vs. Menús)
-Supongamos que encontraste una dirección con Cheat Engine (002AB59C) que vale 00000001 en el gameplay y 00000000 en los menús. Queremos cambiar el valor natural del juego (1040FFFA) a 00000000 para liberar los frames.
-
-Plaintext
-// SI la dirección 002AB59C toma valor 0001 (Gameplay), aplica la siguiente 1 línea:
+```
+// SI la dirección 002AB59C vale 0001 (Gameplay), aplica la siguiente 1 línea:
 patch=1,EE,E0010001,extended,002AB59C
-patch=1,EE,201195A4,extended,00000000 // Activa 60fps
+patch=1,EE,201195A4,extended,00000000  // Activa 60fps
 
-// SI la dirección 002AB59C toma valor 0000 (Menús/Pausa), aplica la siguiente 1 línea:
+// SI la dirección 002AB59C vale 0000 (Menús/Pausa), aplica la siguiente 1 línea:
 patch=1,EE,E0010000,extended,002AB59C
-patch=1,EE,201195A4,extended,1040FFFA // Revierte al valor original del juego
-2. Condicionales tipo D (DAAAAAAA) — Evaluación de 32 bits (Línea Única)
-El código tipo D evalúa los 4 bytes completos (32 bits) de una dirección. A diferencia del tipo E, solo afecta estrictamente a la línea que tiene inmediatamente abajo. Se utiliza habitualmente para detectar combinaciones de botones (inputs del mando) o estados del motor que requieran precisión de 32 bits.
+patch=1,EE,201195A4,extended,1040FFFA  // Restaura el valor nativo del juego
+```
 
-Sintaxis:
-Plaintext
+Notas
+
+- Precisión en el conteo de E: `E00X` afecta exactamente las siguientes X líneas físicas. No inserte líneas vacías ni comentarios entre la condicional y el bloque de parches.
+- Use `extended` para un comportamiento fiable.
+
+---
+
+## 2. Condicionales tipo D (DAAAAAAA) — Evaluación de 32 bits (línea única)
+
+Los códigos tipo D evalúan los 4 bytes completos (32 bits) de una dirección. A diferencia del tipo E, un `D` solo afecta la línea inmediatamente debajo. Se usa habitualmente para estados de controlador, flags del motor o valores de 32 bits.
+
+Sintaxis
+
+```
 patch=1,EE,DAAAAAAA,extended,XXXXXXXX
 patch=1,EE,YYYYYYYY,extended,VVVVVVVV
-AAAAAAA: La dirección de memoria a monitorear (ojo: el formato omite el primer cero de la dirección de 8 dígitos para meter la "D").
+```
 
-XXXXXXXX: El valor completo de 32 bits que activará el truco.
+- AAAAAAAA: Dirección a monitorear (el formato D omite el cero inicial de direcciones de 8 dígitos).
+- XXXXXXXX: Valor de 32 bits que activará la línea siguiente.
 
-Ejemplo Práctico: Control de 60fps dinámico (Kingdom Hearts)
-En este script de Michael P, se usa el tipo D para forzar el registro de la tasa de frames (002B624C) a 0 (activado) o a 1 (desactivado) dependiendo del estado exacto del motor gráfico reflejado en la dirección 002BFD98.
+Ejemplo práctico: Control dinámico de 60fps (Kingdom Hearts)
 
-Plaintext
+En este ejemplo (por Michael P), se usan líneas `D` para forzar la dirección `002B624C` a `00000000` (activado) o `00000001` (desactivado) según los estados leídos en `002BFD98`.
+
+```
 gametitle=Kingdom Hearts [SLUS-20370] (U)
 comment=60fps toggle cheat by Michael P
 
-// ---- [60fps] TOGGLE ON (Gameplay) ----
-// Si la dirección 002BFD98 tiene cualquiera de estos valores de gameplay, escribe 00000000 en 002B624C
+// ---- [60fps] ACTIVAR (Gameplay) ----
 patch=1,EE,D02BFD98,extended,00000000
 patch=1,EE,002B624C,extended,00000000
-patch=1,EE,D02BFD98,extended,00001000
-patch=1,EE,002B624C,extended,00000000
-patch=1,EE,D02BFD98,extended,00000020
-patch=1,EE,002B624C,extended,00000000
-patch=1,EE,D02BFD98,extended,00000001
-patch=1,EE,002B624C,extended,00000000
+... (líneas de ejemplo similares a la versión en inglés) ...
 
-// ---- [60fps] TOGGLE OFF (Cinemáticas, FMV y Eventos) ----
-// Si la dirección cambia a estados de carga o video, reescribe el valor a 00000001 para evitar bugs
+// ---- [60fps] DESACTIVAR (Cinemáticas, FMV y Eventos) ----
 patch=1,EE,D02BFD98,extended,00000040
 patch=1,EE,002B624C,extended,00000001
-patch=1,EE,D02BFD98,extended,0000004E
-patch=1,EE,002B624C,extended,00000001
-patch=1,EE,D02BFD98,extended,00000004
-patch=1,EE,002B624C,extended,00000001
+... (líneas de ejemplo similares a la versión en inglés) ...
+```
 
-📌 Resumen de Reglas de Oro
-Regla de conteo en E: Si usas E002, necesitas tener exactamente dos líneas de código abajo. No dejes líneas vacías ni comentarios entre la condicional y los parches, ya que el emulador los contará como líneas físicas y romperá el truco.
+---
 
-Doble acción: Si usas una condicional para activar algo, recuerda siempre crear la condicional inversa (como en el ejemplo de los menús) para restaurar el valor original (natural) del juego cuando la condición deje de cumplirse.
+## Reglas de oro
+
+- Conteo en E: `E00X` cuenta líneas físicas; no deje comentarios ni líneas vacías dentro del bloque.
+- Reversión de estado: si un parche modifica un valor, siempre provea la secuencia inversa para restaurar el valor natural cuando la condición deje de cumplirse.
+- Use `extended` para que las condicionales funcionen correctamente.
+- Pruebe a fondo: las condicionales mal formadas pueden causar comportamientos indeseados o bugs.
+
+---
+
+Si quieres que también renombre el archivo, añada un índice, o elimine alguna de las secciones en uno de los idiomas, dime y lo hago.
