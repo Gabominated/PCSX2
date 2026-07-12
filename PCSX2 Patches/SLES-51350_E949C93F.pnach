@@ -2,9 +2,10 @@ gametitle=Ben Hur - Blood of Braves PAL-M SLES-51350 E949C93F
 
 [50/60 FPS]
 author=Gabominated
-description=Might need EE Overclock.
-patch=1,EE,0061FF20,word,00000000 //00000001
-patch=1,EE,0011a9d4,word,3c023C88 //3c023d08
-patch=1,EE,0036f6b8,word,3c033C88 //3c033d08
-patch=1,EE,0011a9b0,word,3c023ca3 //3c023d23
-patch=1,EE,0036f6cc,word,3c033ca3 //3c033d23
+description=Might need EE Overclock (130%).
+patch=0,EE,001100BC,word,24050000
+patch=0,EE,0011a9d4,word,3c023C88
+patch=0,EE,0036f6b8,word,3c033C88
+patch=0,EE,0011a9b0,word,3c023ca3
+patch=0,EE,0036f6cc,word,3c033ca3
+//0061FF20

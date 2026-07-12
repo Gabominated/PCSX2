@@ -1,0 +1,7 @@
+gametitle=Sitting Ducks NTSC-U SLUS-20886 76A65B01
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=0,EE,002068B4,word,34630000
+//0046A760 0023C21C
