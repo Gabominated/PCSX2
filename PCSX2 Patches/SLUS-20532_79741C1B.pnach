@@ -1,0 +1,10 @@
+gametitle=Disney Golf NTSC-U SLUS-20532 79741C1B
+
+[60 FPS]
+author=Gabominated & PeterDelta
+description=Might need EE overclock (130%). UI and few animations remains double.
+patch=0,EE,00141104,word,00000000
+patch=0,EE,00142BCC,word,3C033F00
+patch=0,EE,00142C20,word,00000000
+patch=0,EE,00142C30,word,00000000
+patch=0,EE,00142C34,word,00000000
