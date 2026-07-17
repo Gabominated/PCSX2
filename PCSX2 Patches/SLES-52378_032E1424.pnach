@@ -1,0 +1,6 @@
+gametitle=Euro Rally Champion PAL-M SLES-52378 032E1424
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,0024314c,word,000001C0

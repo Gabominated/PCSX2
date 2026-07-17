@@ -163,6 +163,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | El Tigre - The Adventures of Manny Rivera | [SLES-55138](PCSX2%20Patches/SLES-55138_B31AD56D.pnach) |
 | Eragon | [SLES-54159](PCSX2%20Patches/SLES-54159_3E9B19C2.pnach) ||
 | ESPN - NFL Football | [SLUS-20727](PCSX2%20Patches/SLUS-20727_56920AD1.pnach) ||
+| Euro Rally Champion | [SLES-52378](PCSX2%20Patches/SLES-52378_032E1424.pnach) |
 | Evil Dead - Regeneration | [SLUS-21048](PCSX2%20Patches/SLUS-21048_9DE65987.pnach) [SLES-53457](PCSX2%20Patches/SLES-53457_9DE65987.pnach) | |
 | Fahrenheit / Indigo Prophecy | [SLES-53540](PCSX2%20Patches/SLES-53540_8191D10A.pnach) [SLUS-21196](PCSX2%20Patches/SLUS-21196_A7A37EB8.pnach) |  |
 | Fairly OddParents, The - Shadow Showdown | [SLUS-20880](PCSX2%20Patches/SLUS-20880_CC955736.pnach) | |
