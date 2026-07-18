@@ -221,7 +221,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Home Alone | [SLES-54469](PCSX2%20Patches/SLES-54469_E1FCDA9D.pnach) |  |
 | Horsez | [SLUS-21563](PCSX2%20Patches/SLUS-21563_F0512849.pnach) |
 | Hugo - Magic in the Trollwoods | [SLES-55597](PCSX2%20Patches/SLES-55597_7DEB9F03.pnach) [SLES-55598](PCSX2%20Patches/SLES-55598_FFA75E86.pnach) | |
-| Hulk, The | [SLES-51508](PCSX2%20Patches/SLES-51508_804F5858.pnach) ||
+| Hulk | [SLES-51508](PCSX2%20Patches/SLES-51508_804F5858.pnach) ||
 | Hype - The Time Quest | [SLES-50266](PCSX2%20Patches/SLES-50266_F668693E.pnach) |
 | Ice Age 2 - The Meltdown | [SLUS-21307](PCSX2%20Patches/SLUS-21307_EEC195CA.pnach) [SLES-53984](PCSX2%20Patches/SLES-53984_2EC49E65.pnach) | |
 | Ice Age 3 - Dawn of the Dinosaurs | [SLUS-21878](PCSX2%20Patches/SLUS-21878_3488C365.pnach) [SLES-55487](PCSX2%20Patches/SLES-55487_61E4C8E7.pnach) | |
