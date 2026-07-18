@@ -3,11 +3,11 @@ gametitle=Eragon PAL-M SLES-54159 3E9B19C2
 [50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (180%).
-patch=0,EE,001D4274,word,A3808A40
+patch=0,EE,0012504C,word,24040000
+//001D4274
 
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start.
-patch=1,EE,001BD818,word,14400003 //10400003
-patch=1,EE,001BD52C,word,54400002 //50400002
-patch=1,EE,001BD538,word,54400002 //50400002
+patch=0,EE,001D5B44,word,0000202B
+//003998F4 001BD818 001BD52C 001BD538
