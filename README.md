@@ -130,7 +130,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Disney Bolt | [SLUS-21844](PCSX2%20Patches/SLUS-21844_E87D8667.pnach) [SLES-55429](PCSX2%20Patches/SLES-55429_841CF939.pnach) [SLES-55431](PCSX2%20Patches/SLES-55431_990F1314.pnach) [SLES-55428](PCSX2%20Patches/SLES-55428_7B1AA634.pnach) |
 | Disney Golf | [SLUS-20532](PCSX2%20Patches/SLUS-20532_79741C1B.pnach) |
 | Disney's Dinosaur | [SLES-50042](PCSX2%20Patches/SLES-50042_238B189C.pnach) [SLES-50043](PCSX2%20Patches/SLES-50043_238B189C.pnach) |  |
-| Disney's Donald Duck - Goin' Quackers / Quack Attack | [SLUS-20077](PCSX2%20Patches/SLUS-20077_C573F3A2.pnach) [SLES-50048](PCSX2%20Patches/SLES-50048_F34ECBDC.pnach) |
+| Disney's Donald Duck - Goin' Quackers / Quack Attack | [SLUS-20077](PCSX2%20Patches/SLUS-20077_C573F3A2.pnach) [SLES-50048](PCSX2%20Patches/SLES-50048_F34ECBDC.pnach) [SLPS-20070](PCSX2%20Patches/SLPS-20070_D0692603.pnach) |
 | Disney's Kim Possible - What's the Switch? | [SLUS-21437](PCSX2%20Patches/SLUS-21437_86B490D1.pnach) [SLES-54388](PCSX2%20Patches/SLES-54388_86B490D1.pnach) |
 | Disney's Stitch - Experiment 626 | [SCES-50959](PCSX2%20Patches/SCES-50959_B74A2938.pnach) |
 | Disney/Pixar Cars - Mater-National Championship | [SLES-55025](PCSX2%20Patches/SLES-55025_ED999A64.pnach) [SLUS-21637](PCSX2%20Patches/SLUS-21637_57F534F4.pnach) |  |
@@ -204,6 +204,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Grand Theft Auto III | [SLUS-20062](PCSX2%20Patches/SLUS-20062_5E115FB6.pnach) [SLES-50330](PCSX2%20Patches/SLES-50330_581954FC.pnach) |
 | Grandia III | [SLUS-21334 Disc 1](PCSX2%20Patches/SLUS-21334_5B657DAD.pnach) [SLUS-21345 Disc 2](PCSX2%20Patches/SLUS-21345_5B657DAD.pnach) |
 | GTC Africa | [SLPM-62258](PCSX2%20Patches/SLPM-62258_8AC3F5D6.pnach) [SLES-50472](PCSX2%20Patches/SLES-50472_51D8A6A9.pnach) | |
+| GT-R 400 | [SLES-52045](PCSX2%20Patches/SLES-52045_88D55277.pnach) |
 | Gun | [SLUS-21139](PCSX2%20Patches/SLUS-21139_4B80628D.pnach) [SLES-53523](PCSX2%20Patches/SLES-53523_98D7BF5E.pnach) ||
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) [SLUS-21020](PCSX2%20Patches/SLUS-21020_83C9749E.pnach) |  |
 | Hannspree Ten Kate Honda SBK - Superbike World Championship | [SLUS-21656](PCSX2%20Patches/SLUS-21656_E9FFA1F2.pnach) |

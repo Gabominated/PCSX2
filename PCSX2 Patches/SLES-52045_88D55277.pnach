@@ -1,0 +1,6 @@
+gametitle=GT-R 400 PAL-E SLES-52045 88D55277
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,00235A74,word,00000200

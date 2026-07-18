@@ -1,0 +1,6 @@
+gametitle=Disney's Donald Duck - Rescue Daisakusen!! NTSC-J SLPS-20070 D0692603
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,00375D40,word,00000000
