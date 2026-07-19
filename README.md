@@ -306,6 +306,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | NFL Street 2 | [SLES-52982](PCSX2%20Patches/SLES-52982_1EE38A33.pnach) |
 | Nickelodeon SpongeBob and Friends - Battle for Volcano Island | [SLES-54521](PCSX2%20Patches/SLES-54521_1DF57175.pnach) |
 | Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab | [SLUS-21391](PCSX2%20Patches/SLUS-21391_82C46B7A.pnach) [SLES-54400](PCSX2%20Patches/SLES-54400_B1F87437.pnach) |
+| Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom | [SLES-55272](PCSX2%20Patches/SLES-55272_8EB42610.pnach) |
 | Nickelodeon SpongeBob's Atlantis SquarePantis | [SLUS-21644](PCSX2%20Patches/SLUS-21644_1FF9C051.pnach) [SLES-55024](PCSX2%20Patches/SLES-55024_AE28C9C7.pnach) |
 | NiGHTS into Dreams... | [SLPM-66926](PCSX2%20Patches/SLPM-66926_BC4F4B5E.pnach) |
 | Nitro Bike | [SLES-55192](PCSX2%20Patches/SLES-55192_B2367FD0.pnach) [SLUS-21738](PCSX2%20Patches/SLUS-21738_F5FE754D.pnach) |  |

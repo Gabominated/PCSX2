@@ -1,0 +1,7 @@
+gametitle=Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom PAL-M SLES-55272 8EB42610
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. Glitched FMVs.
+patch=0,EE,00285B50,word,10400027
+//00285BFC
