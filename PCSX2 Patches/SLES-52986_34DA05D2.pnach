@@ -1,0 +1,6 @@
+gametitle=Nickelodeon Bob Esponja - La Película PAL-S SLES-52986 34DA05D2
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. FMVs skip.
+patch=0,EE,004A0AA0,word,14C00004

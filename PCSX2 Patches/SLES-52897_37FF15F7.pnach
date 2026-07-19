@@ -1,0 +1,6 @@
+gametitle=Nickelodeon SpongeBob - Il Film PAL-I  SLES-52897 37FF15F7
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. FMVs skip.
+patch=0,EE,004A0AA0,word,14C00004
