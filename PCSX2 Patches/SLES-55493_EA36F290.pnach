@@ -1,0 +1,8 @@
+gametitle=Marvel - Ultimate Alliance 2 PAL-E SLES-55493 EA36F290
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,006D47E4,word,86120002
+patch=0,EE,006ab1e4,word,241401E0
+//006ab1b4
