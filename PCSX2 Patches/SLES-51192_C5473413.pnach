@@ -3,4 +3,4 @@ gametitle=Harry Potter and the Chamber of Secrets PAL-E SLES-51192 C5473413
 [50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,001F5AEC,word,24020002
+patch=0,EE,001F5AE4,word,00000000
