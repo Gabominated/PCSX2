@@ -1,6 +1,19 @@
 gametitle=TY the Tasmanian Tiger PAL-M SLES-51220 D59D3252
 
-[50 FPS]
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Enable Native widescreen.
+patch=1,EE,009A1FE9,word,01
+
+[50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
-patch=1,EE,00496E80,word,00000000
+patch=0,EE,0022376C,word,24060000
+//00496E80 Alt
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,005181D8,word,00000002
+patch=0,EE,003F1BD4,word,10400009

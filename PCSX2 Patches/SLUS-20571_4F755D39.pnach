@@ -3,4 +3,5 @@ gametitle=TY the Tasmanian Tiger NTSC-U SLUS-20571 4F755D39
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
-patch=1,EE,00496600,word,00000000
+patch=0,EE,0022368C,word,24060000
+//00496600
