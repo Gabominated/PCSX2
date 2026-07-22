@@ -2,6 +2,6 @@ gametitle=MX SuperFly NTSC-U SLUS-20381 0CD3C2F6
 
 [60 FPS]
 author=Gabominated
-description=Might need EE Overclock.
-patch=1,EE,00438438,word,00000000 //00000001
-patch=1,EE,003EA4A0,word,3c888889 //3d088889
+patch=0,EE,00179DF0,word,24030000
+patch=0,EE,003EA4A0,word,3C888889
+//00438438 00179D4C

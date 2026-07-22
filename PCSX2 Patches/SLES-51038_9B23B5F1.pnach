@@ -2,6 +2,7 @@ gametitle=MX Superfly PAL-E SLES-51038 9B23B5F1
 
 [50 FPS]
 author=Gabominated
-description=Might need EE Overclock.
-patch=1,EE,004388B8,word,00000000 //00000001
-patch=1,EE,003EA8B0,word,3CA3D70A //3D23D70A
+description=Might need EE Overclock (130%).
+patch=0,EE,00179F40,word,24030000
+patch=0,EE,003EA8B0,word,3CA3D70A
+//00179E9C 004388B8 00179F2C

@@ -2,7 +2,6 @@ gametitle=MX Unleashed PAL-E SLES-52043 DBA1250E
 
 [50 FPS]
 author=Gabominated
-description=Might need EE Overclock.
-patch=1,EE,2019222C,extended,24040001
-patch=1,EE,E0010001,extended,004292A8
-patch=1,EE,2019222C,extended,24040002
+description=Might need EE Overclock (130%).
+patch=0,EE,00201F38,word,24050000
+//005BF59C 0019222C 001C7E60
