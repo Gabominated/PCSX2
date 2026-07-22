@@ -1,0 +1,8 @@
+gametitle=MX World Tour featuring Jamie Little NTSC-U SLUS-21097 383176C2
+
+[60 FPS]
+author=Gabominated
+description=Still missing a few animations speed.
+patch=0,EE,00296AA8,word,24020002
+patch=0,EE,0012548C,word,3C014270
+patch=0,EE,001254ac,word,3c013c88
