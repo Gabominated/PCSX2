@@ -215,7 +215,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) [SLUS-20817](PCSX2%20Patches/SLUS-20817_2F5EB1FF.pnach) |  |
 | Heatseeker | [SLES-54346](PCSX2%20Patches/SLES-54346_816CB6E8.pnach) [SLES-54596](PCSX2%20Patches/SLES-54596_8761B0E5.pnach) [SLUS-21570](PCSX2%20Patches/SLUS-21570_B96DD9F4.pnach) | |
 | Heroes of the Pacific | [SLES-53441](PCSX2%20Patches/SLES-53441_F8E600FC.pnach) [SLUS-20943](PCSX2%20Patches/SLUS-20943_83FB515E.pnach) |  |
-| Hitman - Blood Money | [SLES-53032](PCSX2%20Patches/SLES-53032_72DC82B5.pnach) [SLES-53028](PCSX2%20Patches/SLES-53028_13E1AD6A.pnach) |  |
+| Hitman - Blood Money | [SLUS-21108](PCSX2%20Patches/SLUS-21108_13E1AD6A.pnach) [SLES-53032](PCSX2%20Patches/SLES-53032_72DC82B5.pnach) [SLES-53028](PCSX2%20Patches/SLES-53028_13E1AD6A.pnach) |  |
 | Hitman - Contracts | [SLES-52136](PCSX2%20Patches/SLES-52136_3569E863.pnach) |  |
 | Hitman 2 - Silent Assassin | [SLUS-20374](PCSX2%20Patches/SLUS-20374_5B9ACF79.pnach) [SLES-50992](PCSX2%20Patches/SLES-50992_5B9ACF79.pnach) [SLES-51107](PCSX2%20Patches/SLES-51107_5B9ACF79.pnach) [SLES-51108](PCSX2%20Patches/SLES-51108_5B9ACF79.pnach) [SLES-51110](PCSX2%20Patches/SLES-51110_5B9ACF79.pnach) [SLES-51109](PCSX2%20Patches/SLES-51109_5B9ACF79.pnach) |  |
 | Home Alone | [SLES-54469](PCSX2%20Patches/SLES-54469_E1FCDA9D.pnach) |  |

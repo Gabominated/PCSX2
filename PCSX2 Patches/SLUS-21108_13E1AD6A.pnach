@@ -1,0 +1,6 @@
+gametitle=Hitman - Blood Money NTSC-U SLUS-21108 13E1AD6A
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%)
+patch=0,EE,003DBD94,word,24050001

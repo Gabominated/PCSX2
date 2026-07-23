@@ -3,4 +3,5 @@ gametitle=Hitman - Contracts PAL-S SLES-52136 3569E863
 [50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,2053a70c,extended,00000001 //00000002
+patch=0,EE,0037B618,word,24050001
+//00263030 0053a70c
