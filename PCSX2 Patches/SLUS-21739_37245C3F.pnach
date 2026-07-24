@@ -3,7 +3,8 @@ gametitle=Iron Man NTSC-U SLUS-21739 37245C3F
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock (180%).
-patch=1,EE,00447340,word,00000000
+patch=0,EE,00157AB0,word,24030000
+//00447340
 
 [480p Mode]
 author=Gabominated

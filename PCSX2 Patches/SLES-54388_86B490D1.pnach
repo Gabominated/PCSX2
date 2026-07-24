@@ -3,9 +3,10 @@ gametitle=Disney's Kim Possible - What's the Switch? PAL-M SLES-54388 86B490D1
 [50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,00308A70,word,00000000
+patch=0,EE,0015B210,word,24030000
+//00308A70
 
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start.
-patch=1,EE,0015AFD4,word,3C040002
+patch=0,EE,0015AFD4,word,3C040002
