@@ -2,8 +2,11 @@ gametitle=Mercenaries - Playground of Destruction PAL-I SLES-53008 CBA0623D
 
 [50 FPS]
 author=Gabominated
-description=Might need EE Overclock (130%).
-patch=1,EE,004A5E5C,word,00000000
+description=Might need EE Overclock (180%).
+patch=0,EE,002CD240,word,24020001
+patch=0,EE,002D2F88,word,24020001
+patch=0,EE,002FAC08,word,8C825E5C
+//004A5E5C
 
 [Remove Blur/Bloom]
 author=Gabominated

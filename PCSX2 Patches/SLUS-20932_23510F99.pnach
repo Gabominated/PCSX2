@@ -2,8 +2,11 @@ gametitle=Mercenaries - Playground of Destruction NTSC-U SLUS-20932 23510F99
 
 [60 FPS]
 author=Gabominated
-description=Might need EE overclock (130%).
-patch=1,EE,004A55DC,word,00000000
+description=Might need EE overclock (180%).
+patch=0,EE,002CD280,word,24020001
+patch=0,EE,002D2FE0,word,24020001
+patch=0,EE,002F9368,word,8C8255DC
+//004A55DC
 
 [Remove Blur/Bloom]
 author=Gabominated
