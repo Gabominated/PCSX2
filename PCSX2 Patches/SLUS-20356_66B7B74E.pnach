@@ -3,8 +3,6 @@ gametitle=TransWorld Surf NTSC-U SLUS-20356 66B7B74E
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock (180%).
-patch=1,EE,1027c4cc,extended,00000001 //00000002
-patch=1,EE,2027F358,extended,3c888889 //3d088889
-patch=1,EE,E0020001,extended,003A2224
-patch=1,EE,1027c4cc,extended,00000002
-patch=1,EE,2027F358,extended,3d088889
+patch=0,EE,0010380C,word,24020001
+patch=0,EE,00103814,word,3C014270
+//0027c4cc 0027F358

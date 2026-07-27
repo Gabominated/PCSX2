@@ -1,0 +1,6 @@
+gametitle=Suikoden III NTSC-U SLUS-20387 5F3DD929
+
+[60 FPS]
+author=Gabominated
+description=60 fps in cutscenes and dialogues.
+patch=0,EE,0172F118,word,00000000

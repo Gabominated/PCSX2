@@ -424,6 +424,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Stuntman - Ignition | [SLUS-21626](PCSX2%20Patches/SLUS-21626_BFF1C010.pnach) |
 | Suffering, The - Ties That Bind | [SLUS-21189](PCSX2%20Patches/SLUS-21189_C2144770.pnach) ||
 | Suffering, The | [SLUS-20636](PCSX2%20Patches/SLUS-20636_0486AD78.pnach) ||
+| Suikoden III | [SLUS-20387](PCSX2%20Patches/SLUS-20387_5F3DD929.pnach) |
 | Summoner 2 | [SLUS-2044](PCSX2%20Patches/SLUS-20448_93551583.pnach) |
 | Super PickUps | [SLUS-21450](PCSX2%20Patches/SLUS-21450_D304FA88.pnach) | |
 | Supercar Street Challenge | [SLES-50419](PCSX2%20Patches/SLES-50419_833B70DB.pnach) [SLUS-20012](PCSX2%20Patches/SLUS-20012_6AEABF4E.pnach) |  |

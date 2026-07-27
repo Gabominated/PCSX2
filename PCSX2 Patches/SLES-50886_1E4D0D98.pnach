@@ -3,15 +3,13 @@ gametitle=TransWorld Surf PAL-M SLES-50886 1E4D0D98
 [50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock (180%).
-patch=1,EE,1027EA54,extended,00000001 //00000002
-patch=1,EE,202818D8,extended,3c888889 //3d088889
-patch=1,EE,E0020001,extended,003A5244
-patch=1,EE,1027EA54,extended,00000002
-patch=1,EE,202818D8,extended,3d088889
+patch=0,EE,001039E4,word,24020001
+patch=0,EE,001039EC,word,3C014270
+//0027EA54 002818D8
 
 [NTSC Mode]
 author=Gabominated
 description=NTSC Mode at start. Audio issues in videos.
-patch=1,EE,00217C38,word,24110002 //24110003
-patch=1,EE,0021791c,word,240501c0 //24050200
-patch=1,EE,00217c5c,word,240201c0 //24020200
+patch=0,EE,00217C28,word,1440000E
+patch=0,EE,0021791c,word,240501c0
+patch=0,EE,00217c5c,word,240201c0
