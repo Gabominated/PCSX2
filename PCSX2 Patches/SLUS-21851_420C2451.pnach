@@ -1,0 +1,6 @@
+gametitle=NCAA Basketball 09 NTSC-U SLUS-21851 420C2451
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,008DAF34,word,00000001

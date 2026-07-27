@@ -305,6 +305,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | NASCAR - Dirt to Daytona | [SLUS-20441](PCSX2%20Patches/SLUS-20441_2EA87CC5.pnach)
 | NASCAR Thunder 2002 | [SLUS-20266](PCSX2%20Patches/SLUS-20266_6436665F.pnach) |
 | NBA Live 2001 | [SLUS-20102](PCSX2%20Patches/SLUS-20102_823BFFD3.pnach) |
+| NCAA Basketball 09 | [SLUS-21851](PCSX2%20Patches/SLUS-21851_420C2451.pnach) | 
 | NFL Street 2 | [SLES-52982](PCSX2%20Patches/SLES-52982_1EE38A33.pnach) |
 | Nickelodeon SpongeBob and Friends - Battle for Volcano Island | [SLES-54521](PCSX2%20Patches/SLES-54521_1DF57175.pnach) |
 | Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab | [SLUS-21391](PCSX2%20Patches/SLUS-21391_82C46B7A.pnach) [SLES-54400](PCSX2%20Patches/SLES-54400_B1F87437.pnach) |
