@@ -1,15 +1,21 @@
 gametitle=Brave - The Search for Spirit Dancer PAL-M SCES-51635 27D961D2
 
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Set widescreen mode to be enabled.
+patch=0,EE,0021A798,word,24030001
+
 [50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,102348D8,extended,3C013F40
+patch=1,EE,10465460,extended,00000000
 patch=1,EE,E0010001,extended,004607BC
-patch=1,EE,102348D8,extended,3C013FC0
+patch=1,EE,10465460,extended,00000001
 
 [NTSC Mode]
 author=Gabominated
-description=NTSC mode at start.
+description=NTSC mode at start. Audio issues in cutscenes.
 patch=0,EE,002BB964,word,24040000
 patch=0,EE,002BC49C,word,14400009
 
@@ -17,3 +23,11 @@ patch=0,EE,002BC49C,word,14400009
 author=Gabominated
 description=Enable Debug Menu.
 patch=0,EE,002BC470,word,14400006
+
+[Enable In-game Debug Menu]
+author=Gabominated
+description=Press R1+L3 and R1+R3 to Enable/disable In-game Debug Menu.
+patch=1,EE,D04DE502,extended,F7FD
+patch=1,EE,20465448,extended,01000010
+patch=1,EE,D04DE502,extended,F7FB
+patch=1,EE,20465448,extended,00000000

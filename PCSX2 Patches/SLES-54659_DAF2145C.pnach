@@ -3,6 +3,10 @@ gametitle=Star Wars - The Force Unleashed PAL-M SLES-54659 DAF2145C
 [50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (180%).
-patch=1,EE,1051B210,extended,00000000
-patch=1,EE,E0010001,extended,007B0018
-patch=1,EE,1051B210,extended,00000001
+patch=0,EE,00246B84,word,24030000
+//0051B210
+
+[NTSC Mode]
+author=Gabominated
+description=Set NTSC mode to be enabled.
+patch=0,EE,001241C8,word,24040001
