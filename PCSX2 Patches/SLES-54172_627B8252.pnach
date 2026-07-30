@@ -8,4 +8,5 @@ patch=0,EE,003D15DC,word,34630000
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start.
+patch=0,EE,00218FD4,word,00000000
 patch=0,EE,003D15F0,word,34630100

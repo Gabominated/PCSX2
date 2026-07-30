@@ -137,6 +137,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Disney/Pixar Cars - Race-O-Rama | [SLES-55536](PCSX2%20Patches/SLES-55536_E4278493.pnach) [SLUS-21883](PCSX2%20Patches/SLUS-21883_E4278493.pnach) |  |
 | Disney/Pixar Cars | [SLUS-21151](PCSX2%20Patches/SLUS-21151_F2A25D7B.pnach) | |
 | Disney/Pixar Ratatouille | [SLES-54747](PCSX2%20Patches/SLES-54747_4FE9650B.pnach) [SLES-54736](PCSX2%20Patches/SLES-54736_06E66B90.pnach) [SLES-54737](PCSX2%20Patches/SLES-54737_4FBE390D.pnach) |
+| Disney/Pixar Toy Story 3 | [SLES-55622](PCSX2%20Patches/SLES-55622_EA6A9029.pnach) |
 | Disney/Pixar Up | [SLES-55523](PCSX2%20Patches/SLES-55523_DA869805.pnach) [SLES-55524](PCSX2%20Patches/SLES-55524_9EFEAF80.pnach) |
 | Disney/Pixar WALL-E | [SLUS-21736](PCSX2%20Patches/SLUS-21736_C4F479F5.pnach) [SLES-55186](PCSX2%20Patches/SLES-55186_87332077.pnach) [SLES-55193](PCSX2%20Patches/SLES-55193_1B8CC381.pnach) |
 | Disney's Chicken Little | [SLUS-21088](PCSX2%20Patches/SLUS-21088_AD96FA2F.pnach) [SLES-53739](PCSX2%20Patches/SLES-53739_AB75D540.pnach) [SLES-53743](PCSX2%20Patches/SLES-53743_94556600.pnach) |
@@ -394,7 +395,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Silent Hill 4 - The Room | [SLUS-20873](PCSX2%20Patches/SLUS-20873_3919136D.pnach) [SLPM-65574](PCSX2%20Patches/SLPM-65574_9BF472B8.pnach) |
 | Simpsons Skateboarding, The | [SLES-51361](PCSX2%20Patches/SLES-51361_D3FB54E5.pnach) ||
 | Simspons, The: Road Rage | [SLES-50628](PCSX2%20Patches/SLES-50628_063CED6E.pnach) |
-| Sitting Ducks | [SLUS-20886](PCSX2%20Patches/SLUS-20886_76A65B01.pnach) |
+| Sitting Ducks | [SLUS-20886](PCSX2%20Patches/SLUS-20886_76A65B01.pnach) [SLES-52116](PCSX2%20Patches/SLES-52116_6B8D216E.pnach) |
 | Sims 2, The - Castaway | [SLES-54903](PCSX2%20Patches/SLES-54903_E7692E0B.pnach) [SLUS-21664](PCSX2%20Patches/SLUS-21664_6DF2F39E.pnach) | |
 | Sims 2, The | [SLUS-21265](PCSX2%20Patches/SLUS-21265_B67577F3.pnach) | |
 | Ski and Shoot | [SLUS-21839](PCSX2%20Patches/SLUS-21839_FD37553A.pnach) | |
@@ -426,6 +427,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Suffering, The - Ties That Bind | [SLUS-21189](PCSX2%20Patches/SLUS-21189_C2144770.pnach) ||
 | Suffering, The | [SLUS-20636](PCSX2%20Patches/SLUS-20636_0486AD78.pnach) ||
 | Suikoden III | [SLUS-20387](PCSX2%20Patches/SLUS-20387_5F3DD929.pnach) |
+| Super Farm | [SLES-51678](PCSX2%20Patches/SLES-51678_152E22EE.pnach) |
 | Summoner 2 | [SLUS-2044](PCSX2%20Patches/SLUS-20448_93551583.pnach) |
 | Super PickUps | [SLUS-21450](PCSX2%20Patches/SLUS-21450_D304FA88.pnach) | |
 | Supercar Street Challenge | [SLES-50419](PCSX2%20Patches/SLES-50419_833B70DB.pnach) [SLUS-20012](PCSX2%20Patches/SLUS-20012_6AEABF4E.pnach) |  |

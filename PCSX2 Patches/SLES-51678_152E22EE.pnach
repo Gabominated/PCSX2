@@ -1,0 +1,7 @@
+gametitle=Super Farm PAL-M SLES-51678 152E22EE
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC Mode at start.
+patch=0,EE,002B5584,word,00000000
+patch=0,EE,00203224,word,34630100
