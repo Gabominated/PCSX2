@@ -3,10 +3,11 @@ gametitle=Knights of the Temple - Infernal Crusade PAL-M SLES-52448 A03898F9
 [50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,202B7C0C,extended,14000002
-patch=1,EE,206E47C8,extended,3CCCCCCd
+patch=0,EE,20265C00,extended,00000000
+patch=0,EE,206E47C8,extended,3CCCCCCd
 patch=1,EE,E00101D0,extended,002b7e9c
 patch=1,EE,206E47C8,extended,3CA3D70A
+//002B7BDC 002B7C0C 006E4C80
 
 [NTSC Mode]
 author=Gabominated

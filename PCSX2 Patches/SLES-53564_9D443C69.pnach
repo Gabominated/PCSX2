@@ -1,0 +1,6 @@
+gametitle=Darkwatch PAL-M SLES-53564 9D443C69
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,002CDB50,word,24050001
