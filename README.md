@@ -96,6 +96,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Chronicles of Narnia, The - Prince Caspian | [SLUS-21756](PCSX2%20Patches/SLUS-21756_E43E46E6.pnach) |
 | Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe | [SLUS-21082](PCSX2%20Patches/SLUS-21082_7A9723B8.pnach) |
 | Circus Maximus - Chariot Wars | [SLES-50935](PCSX2%20Patches/SLES-50935_8E0C5071.pnach) |  |
+| Classic British Motor Racing | [SLES-53614](PCSX2%20Patches/SLES-53614_0AB8ED51.pnach) |
 | Clock Tower 3 | [SLES-51619](PCSX2%20Patches/SLES-51619_D9FC6310.pnach) |  |
 | Cold Fear | [SLUS-21047](PCSX2%20Patches/SLUS-21047_ECFBAB36.pnach) [SLES-53158](PCSX2%20Patches/SLES-53158_E38A0AB6.pnach) | |
 | Colosseum - Road to Freedom | [SLUS-21179](PCSX2%20Patches/SLUS-21179_9285A8D6.pnach) [SLES-53356](PCSX2%20Patches/SLES-53356_29CA91F1.pnach) | |

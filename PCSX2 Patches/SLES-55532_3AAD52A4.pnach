@@ -3,5 +3,11 @@ gametitle=Aliens in the Attic PAL-M SLES-55532 3AAD52A4
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start. FMVs remain in PAL.
-patch=1,EE,003EED10,word,0000003C //00000032
-patch=1,EE,003eed1c,word,000001c0 //00000200
+patch=0,EE,002A7A0C,word,10400005
+patch=0,EE,002A7DB8,word,24030052
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start. FMVs remain in PAL.
+patch=0,EE,002A7A0C,word,10400005
+patch=0,EE,002A7DB8,word,24030057
