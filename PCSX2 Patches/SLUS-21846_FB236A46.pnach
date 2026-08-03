@@ -17,3 +17,8 @@ patch=1,EE,20ED1A58,extended,00000000
 author=Gabominated
 description=Native 60 FPS. Might need EE overclock (130%).
 patch=0,EE,100d91a0,extended,00000000
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=0,EE,008159B0,word,00500001

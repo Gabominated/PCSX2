@@ -3,6 +3,5 @@ gametitle=Classic British Motor Racing PAL-E SLES-53614 0AB8ED51
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start.
-patch=0,EE,0035B868,word,10400005
-patch=0,EE,00359F48,word,24030052
-//004f280c
+patch=0,EE,0035B888,word,24070052
+//0035B868 00359F48 004f280c

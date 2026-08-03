@@ -1,6 +1,18 @@
 gametitle=Sonic Unleashed PAL-M SLES-55380 8C913264
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Native 50 FPS. Might need EE overclock (130%).
 patch=0,EE,100d91a0,extended,00000000
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC Mode at start.
+patch=0,EE,00815A30,word,00020001
+patch=0,EE,00815A40,word,01C00280
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=0,EE,00815A30,word,00500001
+patch=0,EE,00815A40,word,01C00280
