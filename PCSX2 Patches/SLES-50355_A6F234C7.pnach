@@ -1,0 +1,12 @@
+gametitle=Batman - Vengeance PAL-M SLES-50355 A6F234C7
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00786390,word,00000001
+
+[Disable Blur]
+author=Gabominated
+description=Sets global blur to off.
+patch=0,EE,0049E2B4,word,00000000
+//0049E94C 007862D8
