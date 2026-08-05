@@ -3,9 +3,16 @@ gametitle=Monster House PAL-M SLES-54215 1AFD7469
 [50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,003D2530,word,00000000
+patch=0,EE,0015A690,word,24030000
+//003D2530
 
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start.
-patch=1,EE,0015A454,word,3C040002
+patch=0,EE,0015A454,word,3C040002
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=0,EE,0015A454,word,3C040002
+patch=0,EE,0015A464,word,24110050

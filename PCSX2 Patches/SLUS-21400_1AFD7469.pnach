@@ -3,4 +3,10 @@ gametitle=Monster House NTSC-U SLUS-21400 1AFD7469
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,003D2530,word,00000000
+patch=0,EE,0015A690,word,24030000
+//003D2530
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=0,EE,0015A464,word,24110050
