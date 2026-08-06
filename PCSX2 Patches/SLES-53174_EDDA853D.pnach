@@ -1,0 +1,6 @@
+gametitle=Golden Age of Racing PAL-E SLES-53174 EDDA853D
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. still some screen corrections missing.
+patch=0,EE,00240bbc,word,000001C0
