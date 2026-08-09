@@ -1,0 +1,6 @@
+gametitle=Herdy Gerdy NTSC-J SLPS-25194 DAA970BE
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%-300%).
+patch=0,EE,002F1238,word,28630001

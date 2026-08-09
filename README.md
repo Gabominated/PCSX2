@@ -217,6 +217,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Harry Potter and the Goblet of Fire | [SLUS-21325](PCSX2%20Patches/SLUS-21325_B38CC628.pnach) [SLES-53728](PCSX2%20Patches/SLES-53728_B18DC525.pnach) |
 | Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) [SLUS-20817](PCSX2%20Patches/SLUS-20817_2F5EB1FF.pnach) |  |
 | Heatseeker | [SLES-54346](PCSX2%20Patches/SLES-54346_816CB6E8.pnach) [SLES-54596](PCSX2%20Patches/SLES-54596_8761B0E5.pnach) [SLUS-21570](PCSX2%20Patches/SLUS-21570_B96DD9F4.pnach) | |
+| Herdy Gerdy | [SLUS-20231](PCSX2%20Patches/SLUS-20231_E2762CB7.pnach) [SLPS-25194](PCSX2%20Patches/SLPS-25194_DAA970BE.pnach) |
 | Heroes of the Pacific | [SLES-53441](PCSX2%20Patches/SLES-53441_F8E600FC.pnach) [SLUS-20943](PCSX2%20Patches/SLUS-20943_83FB515E.pnach) |  |
 | Hitman - Blood Money | [SLUS-21108](PCSX2%20Patches/SLUS-21108_13E1AD6A.pnach) [SLES-53032](PCSX2%20Patches/SLES-53032_72DC82B5.pnach) [SLES-53028](PCSX2%20Patches/SLES-53028_13E1AD6A.pnach) |  |
 | Hitman - Contracts | [SLES-52136](PCSX2%20Patches/SLES-52136_3569E863.pnach) |  |

@@ -1,0 +1,6 @@
+gametitle=Herdy Gerdy NTSC-U SLUS-20231 E2762CB7
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%-300%).
+patch=0,EE,002EDBC8,word,28630001
