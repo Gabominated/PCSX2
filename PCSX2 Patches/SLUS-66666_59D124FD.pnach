@@ -1,0 +1,14 @@
+gametitle=The Last Job SLUS-66666 59D124FD (prototype)
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Widescreen hack
+patch=0,EE,001FB75C,word,3C013FE3
+patch=0,EE,001FB760,word,34218E39
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=0,EE,002197A0,word,00000000
+//002197D4 00219740

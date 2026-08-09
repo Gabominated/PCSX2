@@ -245,6 +245,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Jeremy McGrath - Supercross World 2002 | [SLUS-20245](PCSX2%20Patches/SLUS-20245_B2ABEEF3.pnach) [SLES-50209](PCSX2%20Patches/SLES-50209_05BEDF8F.pnach) |
 | Jimmy Neutron - Boy Genius | [SLES-51298](PCSX2%20Patches/SLES-51298_C60BA9E7.pnach) ||
 | Johnny Bravo Date-O-Rama | [SLES-54671](PCSX2%20Patches/SLES-54671_89AC2A0A.pnach) | |
+| Last Job, The | [SLUS-66666](PCSX2%20Patches/SLUS-66666_59D124FD.pnach) |
 | Judge Dredd - Dredd vs. Death | [SLUS-20869](PCSX2%20Patches/SLUS-20869_759F05CB.pnach) [SLES-51650](PCSX2%20Patches/SLES-51650_6E900957.pnach)
 | Jumanji | [SLES-54436](PCSX2%20Patches/SLES-54436_EE4111C7.pnach) ||
 | Jumper - Griffin's Story | [SLES-55129](PCSX2%20Patches/SLES-55129_08944D35.pnach) [SLUS-21730](PCSX2%20Patches/SLUS-21730_E164CB28.pnach) | |
