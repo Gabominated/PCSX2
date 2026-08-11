@@ -1,7 +1,17 @@
 gametitle=Agent Hugo PAL-M SLES-53504 063DFB74
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%). Missing some speed.
-patch=1,EE,002C9298,word,24020002
-patch=1,EE,001ba09c,word,3c013CA3
+patch=0,EE,202C9298,extended,24020002
+patch=0,EE,201ba09c,extended,3c013CA3
+patch=1,EE,E00201c0,extended,001a96bc
+patch=1,EE,201BA09C,extended,3C013C88
+patch=1,EE,201BA0A0,extended,34218889
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. Missing some screen corrections.
+patch=0,EE,201a96bc,extended,240201C0
+patch=0,EE,201BA09C,extended,3C013D08
+patch=0,EE,201BA0A0,extended,34218889
