@@ -1,0 +1,7 @@
+gametitle=Sphinx and the Cursed Mummy PAL-M SLES-51831 F37CF9B9
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00100218,word,00000000
+//003927AC 001033E8
