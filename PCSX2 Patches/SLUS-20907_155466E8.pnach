@@ -3,4 +3,5 @@ gametitle=Serious Sam - Next Encounter NTSC-U SLUS-20907 155466E8
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
-patch=1,EE,00343838,word,00000001
+patch=0,EE,001263D0,word,24630002
+//00343838 00343820
