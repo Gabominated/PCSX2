@@ -412,12 +412,12 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Snow Rider | [SLES-53936](PCSX2%20Patches/SLES-53936_95DDD361.pnach) |  |
 | Sonic Unleashed | [SLUS-21846](PCSX2%20Patches/SLUS-21846_FB236A46.pnach) [SLES-55380](PCSX2%20Patches/SLES-55380_8C913264.pnach) |
 | Sopranos, The - Road to Respect | [SLUS-21388](PCSX2%20Patches/SLUS-21388_7C006C52.pnach) [SLES-54209](PCSX2%20Patches/SLES-54209_673AF937.pnach) ||
+| Sphinx and the Cursed Mummy | [SLES-51831](PCSX2%20Patches/SLES-51831_F37CF9B9.pnach) |
 | Spider-Man - Friend or Foe | [SLES-54901](PCSX2%20Patches/SLES-54901_678BE0A5.pnach) [SLUS-21600](PCSX2%20Patches/SLUS-21600_F52477F7.pnach) |  |
 | Spider-Man - Web of Shadows | [SLUS-21822](PCSX2%20Patches/SLUS-21822_EDDD6573.pnach) [SLES-55372](PCSX2%20Patches/SLES-55372_F14C1D82.pnach) ||
 | Spider-Man 2 | [SLES-52372](PCSX2%20Patches/SLES-52372_6B68932C.pnach) ||
 | Spider-Man 3 | [SLES-54724](PCSX2%20Patches/SLES-54724_C529B0AD.pnach) ||
 | Spiderwick Chronicles, The | [SLUS-21716](PCSX2%20Patches/SLUS-21716_23B262A5.pnach) |
-| Sphinx and the Cursed Mummy | [SLES-51831](PCSX2%20Patches/SLES-51831_F37CF9B9.pnach) |
 | Spy Hunter - Nowhere to Run | [SLUS-21421](PCSX2%20Patches/SLUS-21421_64B39069.pnach) |
 | Spy Hunter 2 | [SLUS-20590](PCSX2%20Patches/SLUS-20590_A2B36980.pnach) [SLES-51841](PCSX2%20Patches/SLES-51841_23657D39.pnach) |
 | Star Trek Voyager - Elite Force | [SLES-50738](PCSX2%20Patches/SLES-50738_624F11F1.pnach) [SLUS-20227](PCSX2%20Patches/SLUS-20227_9F70EE4F.pnach) |  |

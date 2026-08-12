@@ -1,8 +1,21 @@
 gametitle=ShellShock - Nam '67 NTSC-U SLUS-20828 38BD8D2E
 
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Sets native widescreen to enabled.
+patch=0,EE,00157B94,word,38420001
+//0067BA60
+
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
 patch=1,EE,20297B28,extended,AF808B0C
 patch=1,EE,E0010001,extended,0067C0DC
 patch=1,EE,20297B28,extended,AF828B0C
+
+[Disable Noise Filter]
+author=Gabominated
+description=Disable noise filter in gameplay.
+patch=1,EE,00152254,word,24020000
+//00211468

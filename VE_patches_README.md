@@ -48,6 +48,7 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | Red Ninja - End of Honor                 | [SLUS-20714](PCSX2%20Patches/SLUS-20714_6B0F338D.pnach) | |
 | Shadow of Rome | [SLUS-20902](PCSX2%20Patches/SLUS-20902_57818AF6.pnach) [SLES-52950](PCSX2%20Patches/SLES-52950_B1995E29.pnach) |Tested :heavy_check_mark:|
 | Shadow of the Colossus | [SCUS-97472](PCSX2%20Patches/SCUS-97472_C19A374E.pnach) [SCES-53326](PCSX2%20Patches/SCES-53326_0F0C4A9C.pnach) |Tested :heavy_check_mark:|
+| ShellShock - Nam '67 | [SLUS-20828](PCSX2%20Patches/SLUS-20828_38bd8d2e.pnach) [SLES-51982](PCSX2%20Patches/SLES-51982_38BD8D2E.pnach) ||
 | Silent Hill 2                            | [SLUS-20228](PCSX2%20Patches/SLUS-20228_FE06A030.pnach) | |
 | Sniper Elite                             | [SLUS-21231](PCSX2%20Patches/SLUS-21231_395779C5.pnach) |Tested :heavy_check_mark:|
 | Star Wars - Battlefront 2                | [SLUS-21240](PCSX2%20Patches/SLUS-21240_249540F3.pnach) [SLES-53501](PCSX2%20Patches/SLES-53501_B68D35CA.pnach) |Tested :heavy_check_mark:|

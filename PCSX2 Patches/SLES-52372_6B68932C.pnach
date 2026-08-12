@@ -10,5 +10,7 @@ patch=1,EE,20504954,extended,8E021350
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start.
-patch=1,EE,00504DE8,word,24030002 //24030003
-patch=1,EE,00504E8C,word,14820009 //10820009
+patch=0,EE,00504DE8,word,24030002
+patch=0,EE,00504E8C,word,14820009
+//0040F6E8 FMVs skip
+
