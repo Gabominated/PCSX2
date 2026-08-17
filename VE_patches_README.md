@@ -29,6 +29,7 @@ This directory contains patches for the PCSX2 emulator. The table below lists pa
 | DreamWorks Shrek - Smash n' Crash Racing | [SLES-54553](PCSX2%20Patches/SLES-54553_7C8125F4.pnach) [SLUS-21392](PCSX2%20Patches/SLUS-21392_34B473E6.pnach) |Tested :heavy_check_mark:|
 | Echo Night Beyond / Nebula - Echo Night  | [SLPS-25314](PCSX2%20Patches/SLPS-25314_B6AA81EE.pnach) |Tested :heavy_check_mark:|
 | Free Running | [SLES-54559](PCSX2%20Patches/SLES-54559_D6A0A3EF.pnach) |  |
+| Grand Theft Auto III | [SLUS-20062](PCSX2%20Patches/SLUS-20062_5E115FB6.pnach) [SLES-50330](PCSX2%20Patches/SLES-50330_581954FC.pnach) ||
 | Godfather, The | [SLES-53971](PCSX2%20Patches/SLES-53971_9C593C78.pnach) [SLUS-21385](PCSX2%20Patches/SLUS-21385_D850707E.pnach) [SLUS-21406](PCSX2%20Patches/SLUS-21406_D850707E.pnach)|Tested :heavy_check_mark:|
 | Headhunter - Redemption | [SLES-52512](PCSX2%20Patches/SLES-52512_2D24ABAD.pnach) [SLUS-20817](PCSX2%20Patches/SLUS-20817_2F5EB1FF.pnach) |Tested :heavy_check_mark:|
 | Ico | [SCES-50760](PCSX2%20Patches/SCES-50760_5C991F4E.pnach) |

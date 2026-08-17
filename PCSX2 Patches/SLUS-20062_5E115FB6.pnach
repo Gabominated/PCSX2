@@ -3,4 +3,11 @@ gametitle=Grand Theft Auto III NTSC-U SLUS-20062 5E115FB6
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (180%).
-patch=1,EE,004167F8,word,00000001
+patch=0,EE,0027F028,word,24420002
+//004167F8
+
+[Disable Post-Processing Effects]
+author=Gabominated
+description=Diable post-processing filters and effects.
+patch=1,EE,003713FC,word,00000000
+//002473E8 0027CD94

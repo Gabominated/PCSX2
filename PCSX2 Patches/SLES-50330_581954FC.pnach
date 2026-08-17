@@ -3,4 +3,11 @@ gametitle=Grand Theft Auto III PAL-M SLES-50330 581954FC (v1.60)
 [50 FPS]
 author=Gabominated
 description=Might need EE overclock (180%).
-patch=1,EE,00417CFC,word,00000001
+patch=0,EE,0027FC58,word,24420002
+//00417CFC
+
+[Disable Post-Processing Effects]
+author=Gabominated
+description=Diable post-processing filters and effects.
+patch=1,EE,0037204C,word,00000000
+//002473E8 0027D6B4
