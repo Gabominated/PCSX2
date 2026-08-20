@@ -1,0 +1,9 @@
+gametitle=Jurassic Park - Operation Genesis PAL-M SLES-51354 960FFA6A
+
+[NTSC Mode Beta]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,00472FE8,word,24060002
+patch=0,EE,00472004,word,240401B0
+patch=0,EE,00472024,word,240701F0
+patch=0,EE,00472534,word,240701B0

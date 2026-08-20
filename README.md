@@ -249,7 +249,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Jumanji | [SLES-54436](PCSX2%20Patches/SLES-54436_EE4111C7.pnach) ||
 | Jumper - Griffin's Story | [SLES-55129](PCSX2%20Patches/SLES-55129_08944D35.pnach) [SLUS-21730](PCSX2%20Patches/SLUS-21730_E164CB28.pnach) | |
 | Jurassic - The Hunted | [SLUS-21907](PCSX2%20Patches/SLUS-21907_EFE4448F.pnach) | |
-| Jurassic Park - Operation Genesis | [SLUS-20380](PCSX2%20Patches/SLUS-20380_A99B8FE7.pnach) | |
+| Jurassic Park - Operation Genesis | [SLUS-20380](PCSX2%20Patches/SLUS-20380_A99B8FE7.pnach) [SLES-51354](PCSX2%20Patches/SLES-51354_960FFA6A.pnach) | |
 | Just Cause | [SLUS-21436](PCSX2%20Patches/SLUS-21436_34C62B5C.pnach) |
 | Kaan Barbarian's Blade | [SLES-52179](PCSX2%20Patches/SLES-52179_973793E8.pnach) ||
 | Kill.switch | [SCES-52124](PCSX2%20Patches/SCES-52124_91A65EAE.pnach) |  |
