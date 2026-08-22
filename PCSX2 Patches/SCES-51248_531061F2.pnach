@@ -1,9 +1,17 @@
 gametitle=Dog's Life PAL-M SCES-51248 531061F2
 
-[50 FPS]
-author=Gabominated
+[50/60 FPS]
+author=PeterDelta & Gabominated
 description=Might need EE Overclock (130%).
 patch=0,EE,0019B820,word,3C013F00
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,001D5D7C,word,2402001E
+patch=0,EE,001E59FC,word,2402003C
+patch=0,EE,002433F8,word,24060002
+//002433D0
 
 [Disable Blur]
 author=Gabominated
