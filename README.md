@@ -420,6 +420,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Spiderwick Chronicles, The | [SLUS-21716](PCSX2%20Patches/SLUS-21716_23B262A5.pnach) |
 | Spy Hunter - Nowhere to Run | [SLUS-21421](PCSX2%20Patches/SLUS-21421_64B39069.pnach) |
 | Spy Hunter 2 | [SLUS-20590](PCSX2%20Patches/SLUS-20590_A2B36980.pnach) [SLES-51841](PCSX2%20Patches/SLES-51841_23657D39.pnach) |
+| SSX 3 | [SLUS-20772] |(PCSX2%20Patches/SLUS-20772_08FFF00D.pnach) | |
 | Star Trek Voyager - Elite Force | [SLES-50738](PCSX2%20Patches/SLES-50738_624F11F1.pnach) [SLUS-20227](PCSX2%20Patches/SLUS-20227_9F70EE4F.pnach) |  |
 | Star Wars - Battlefront 2 | [SLUS-21240](PCSX2%20Patches/SLUS-21240_249540F3.pnach) [SLES-53501](PCSX2%20Patches/SLES-53501_B68D35CA.pnach) | |
 | Star Wars - Battlefront | [SLES-52545](PCSX2%20Patches/SLES-52545_503BF9E1.pnach) [SLUS-20898](PCSX2%20Patches/SLUS-20898_503BF9E1.pnach) | |

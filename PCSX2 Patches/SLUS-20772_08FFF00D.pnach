@@ -1,0 +1,6 @@
+gametitle=SSX 3 NTSC-U SLUS-20772 08FFF00D
+
+[60 FPS]
+author=Gabominated
+description=60 FPS in 2 players mode. Might need EE overclock (130%).
+patch=0,EE,00317184,word,26310002
