@@ -2,5 +2,6 @@ gametitle=Freestyle Metal X NTSC-U SLUS-20494 946C6967
 
 [60 FPS]
 author=Gabominated
-description=Might need EE Overclock.
-patch=1,EE,003E6554,word,00000001 //00000002
+description=Might need EE Overclock (130%).
+patch=0,EE,0016660C,word,24020001
+//003E6554
