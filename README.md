@@ -381,7 +381,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | SBK 08 - Superbike World Championship | [SLES-55148](PCSX2%20Patches/SLES-55148_E4BDADEE.pnach) |
 | SBK 09 - Superbike World Championship | [SLES-55492](PCSX2%20Patches/SLES-55492_CAC50E8E.pnach) |
 | Scaler | [SLES-52917](PCSX2%20Patches/SLES-52917_E54D237D.pnach) [SLES-52918](PCSX2%20Patches/SLES-52918_E54D237D.pnach) |  |
-| Scarface - The World is Yours | [SLUS-21111](PCSX2%20Patches/SLUS-21111_41F4A178.pnach) [SLES-54182](PCSX2%20Patches/SLES-54182_301A1B6E.pnach) [SLES-54183](PCSX2%20Patches/SLES-54183_9A660CC1.pnach) [SLES-54184](PCSX2%20Patches/SLES-54184_20F4FDF8.pnach) [SLES-54271](PCSX2%20Patches/SLES-54271_B69AF9A5.pnach) |  |
+| Scarface - The World is Yours | [SLUS-21111](PCSX2%20Patches/SLUS-21111_41F4A178.pnach) [SLES-54182](PCSX2%20Patches/SLES-54182_301A1B6E.pnach) [SLES-54183](PCSX2%20Patches/SLES-54183_9A660CC1.pnach) [SLES-54184](PCSX2%20Patches/SLES-54184_20F4FDF8.pnach) [SLES-54271](PCSX2%20Patches/SLES-54271_B69AF9A5.pnach) [SLES-54534](PCSX2%20Patches/SLES-54534_CC90ADE9.pnach) |  |
 | Scooby-Doo! Mystery Mayhem | [SLUS-20701](PCSX2%20Patches/SLUS-20701_8F6A1960.pnach) [SLES-51883](PCSX2%20Patches/SLES-51883_8F6A1960.pnach) |
 | Scooby-Doo! Night of 100 Frights | [SLUS-20349](PCSX2%20Patches/SLUS-20349_10B1F370.pnach) [SLES-51017](PCSX2%20Patches/SLES-51017_E0FBB4A5.pnach)
 | Score International Baja 1000 - The Official Game | [SLES-55295](PCSX2%20Patches/SLES-55295_1C3FEC65.pnach) [SLUS-21850](PCSX2%20Patches/SLUS-21850_9AB3424F.pnach) | |
