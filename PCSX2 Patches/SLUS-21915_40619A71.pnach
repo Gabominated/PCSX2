@@ -2,6 +2,6 @@ gametitle=The Lord of the Rings - Aragorn's Quest NTSC-U SLUS-21915 40619A71
 
 [60 FPS]
 author=Gabominated
-description=Might need EE Overclock.
-patch=1,EE,002D5938,word,00000001 //00000002
-patch=1,EE,002B5D3C,word,0000003c //0000001E
+description=Might need EE Overclock (130%).
+patch=0,EE,001A2E6C,word,24100001
+//002D5938 002B5D3C
