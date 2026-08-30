@@ -31,5 +31,24 @@ patch=0,EE,00217A30,word,3C013F00
 
 [480p Mode]
 author=Gabominated
-description=SDTV 480p mode at start.
-patch=0,EE,0024F55C,word,24040000
+description=Always display progressive scan activation subscreen.
+patch=0,EE,0027FF18,word,24020001
+//0024F55C 010FD7A0
+
+[Text Language\Español]
+author=Gabominated
+description=Set Spanish Language.
+patch=0,EE,0012B950,word,24020005
+[Text Language\French]
+author=Gabominated
+description=Set French Language.
+patch=0,EE,0012B950,word,24020002
+[Text Language\Italian]
+author=Gabominated
+description=Set Italian Language.
+patch=0,EE,0012B950,word,24020004
+[Text Language\Deutsch]
+author=Gabominated
+description=Set Deutsch Language.
+patch=0,EE,0012B950,word,24020003
+//003D0F58

@@ -33,5 +33,6 @@ patch=0,EE,00217b18,word,3c013f00
 
 [480p Mode]
 author=Gabominated
-description=SDTV 480p mode at start.
-patch=0,EE,0024F6D4,word,24040000
+description=Always display progressive scan activation subscreen.
+patch=0,EE,00280098,word,24020001
+//0024F6D4
