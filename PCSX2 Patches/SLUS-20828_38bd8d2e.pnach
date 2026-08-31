@@ -19,3 +19,9 @@ author=Gabominated
 description=Disable noise filter in gameplay.
 patch=1,EE,00152254,word,24020000
 //00211468
+
+[Unlock Multilanguage]
+author=Gabominated
+description=Sets language (EnFrEsIt) according to the PS2 BIOS.
+patch=0,EE,00154778,word,00000000
+//00530854 0067BA58
