@@ -1,0 +1,7 @@
+gametitle=The Fast and the Furious PAL-E SLES-54483 91100045
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,001309F8,word,24040003
+patch=0,EE,00340304,word,24020003
