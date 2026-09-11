@@ -3,5 +3,6 @@ gametitle=Reign of Fire NTSC-U SLUS-20556 D10945CE
 [60 FPS]
 author=Gabominated
 description=Might need EE Overclock.
-patch=1,EE,00264E70,word,00000001 //00000002
-patch=1,EE,001409b4,word,2402003c //2402001e
+patch=0,EE,00141E9C,word,24040001
+patch=0,EE,001409b4,word,2402003c
+//00264E70 001409F8
