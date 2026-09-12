@@ -1,6 +1,7 @@
-gametitle=El Tigre, Nickelodeon - The Adventures of Manny Rivera
+gametitle=El Tigre, Nickelodeon - The Adventures of Manny Rivera PAL-E SLES-55138 B31AD56D
 
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start. FMVs broken.
-patch=0,EE,00259470,word,14400006
+patch=0,EE,0010E8F4,word,24040000
+//00259470 0037F930
