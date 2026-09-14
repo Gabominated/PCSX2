@@ -1,8 +1,16 @@
 gametitle=TY the Tasmanian Tiger 3 - Night of the Quinkan PAL-M SLES-53636 64E8F1DC
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
-description=Might need EE Overclock.
+description=Might need EE Overclock (130%).
 patch=1,EE,20515E60,extended,00000000
 patch=1,EE,E0010001,extended,01D54C6C
 patch=1,EE,20515E60,extended,00000001
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,0012D02C,word,24050000
+patch=0,EE,0012B45C,word,24120280
+patch=0,EE,0012d038,word,240501C0
+patch=0,EE,0012B470,word,C4600004
