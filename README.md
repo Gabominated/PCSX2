@@ -209,6 +209,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Grandia III | [SLUS-21334 Disc 1](PCSX2%20Patches/SLUS-21334_5B657DAD.pnach) [SLUS-21345 Disc 2](PCSX2%20Patches/SLUS-21345_5B657DAD.pnach) |
 | GTC Africa | [SLPM-62258](PCSX2%20Patches/SLPM-62258_8AC3F5D6.pnach) [SLES-50472](PCSX2%20Patches/SLES-50472_51D8A6A9.pnach) | |
 | GT-R 400 | [SLES-52045](PCSX2%20Patches/SLES-52045_88D55277.pnach) |
+| GT-R Touring | [SLES-54440](PCSX2%20Patches/SLES-54440_AD831875.pnach) |
 | Gun | [SLUS-21139](PCSX2%20Patches/SLUS-21139_4B80628D.pnach) [SLES-53523](PCSX2%20Patches/SLES-53523_98D7BF5E.pnach) ||
 | Gungrave - Overdose | [SLES-52941](PCSX2%20Patches/SLES-52941_80BB14B2.pnach) [SLUS-21020](PCSX2%20Patches/SLUS-21020_83C9749E.pnach) |  |
 | Hannspree Ten Kate Honda SBK - Superbike World Championship | [SLUS-21656](PCSX2%20Patches/SLUS-21656_E9FFA1F2.pnach) |

@@ -1,0 +1,7 @@
+gametitle=GT-R Touring PAL-E SLES-54440 AD831875
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,0026C2B0,word,00000001
+patch=0,EE,00146A90,word,240401E0
