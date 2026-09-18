@@ -1,6 +1,11 @@
 gametitle=Army Men - RTS PAL-E SLES-50434 EBB067E7
 
-[50 FPS]
+[50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (130%).
 patch=0,EE,00120EF8,word,AC4057F4
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. Somes screen correction still missing.
+patch=0,EE,0040379C,word,00000000
