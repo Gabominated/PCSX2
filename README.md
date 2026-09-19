@@ -42,7 +42,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | 25 to Life | [SLUS-21016](PCSX2%20Patches/SLUS-21016_C1B141D6.pnach) |
 | 4x4 Evo 2 | [SLES-51199](PCSX2%20Patches/SLES-51199_96C83B94.pnach) ||
 | 7 Blades | [SLES-50109](PCSX2%20Patches/SLES-50109_97AE372A.pnach) |  |
-| 7 Sins | [SLES-53280](PCSX2%20Patches/SLES-53280_52DEB87B.pnach) |  |
+| 7 Sins | [SLES-53280](PCSX2%20Patches/SLES-53280_52DEB87B.pnach) [SLES-53297](PCSX2%20Patches/SLES-53297_211736A2.pnach) |  |
 | Aeon Flux | [SLUS-21205](PCSX2%20Patches/SLUS-21205_9FA0A1B0.pnach) ||
 | Agent Hugo | [SLES-53504](PCSX2%20Patches/SLES-53504_063DFB74.pnach) |
 | Agent Hugo - Hula Holiday | [SLES-55365](PCSX2%20Patches/SLES-55365_ADEFE7CB.pnach) ||

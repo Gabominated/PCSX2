@@ -1,13 +1,13 @@
-gametitle=7 Sins PAL-M SLES-53280 52DEB87B
+gametitle=7 Sins PAL-E SLES-53297 211736A2
 
 [50/60 FPS]
 author=Gabominated
 description=Might need EE Overclock (130%).
 patch=0,EE,001015A8,word,24040001
-//0060A6E4 00428390 0042A68C
+//00609D54 00429D0C
 
 [NTSC Mode]
 author=Gabominated
 description=NTSC mode at start.
-patch=0,EE,004896D4,word,24020001
-//0048971C 001008f4 240201c0 24020200 0060B9C4
+patch=0,EE,00488D54,word,24020001
+//00488D98 0060B044
