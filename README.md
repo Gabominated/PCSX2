@@ -122,6 +122,7 @@ PCSX2 is a PlayStation 2 emulator for PC. This project provides a list of patche
 | Dark Chronicle | [SCES-51190](PCSX2%20Patches/SCES-51190_059E5FAA.pnach) |  |
 | Darkwatch | [SLUS-21042](PCSX2%20Patches/SLUS-21042_327053e8.pnach) [SLES-53564](PCSX2%20Patches/SLES-53564_9D443C69.pnach) |
 | Dawn of Mana | [SLUS-21574](PCSX2%20Patches/SLUS-21574_9DC6EE5A.pnach) | |
+| Def Jam - Fight for NY | [SLES-52507](PCSX2%20Patches/SLES-52507_873F8ED6.pnach) |
 | Despicable Me - The Game | [SLUS-21933](PCSX2%20Patches/SLUS-21933_4106DBA1.pnach) | |
 | Destroy All Humans! 2 | [SLUS-21439](PCSX2%20Patches/SLUS-21439_42DF8C8C.pnach) |
 | Destroy All Humans! | [SLUS-20945](PCSX2%20Patches/SLUS-20945_67A29886.pnach) |

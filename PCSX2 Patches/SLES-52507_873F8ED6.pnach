@@ -1,0 +1,12 @@
+gametitle=Def Jam - Fight for NY PAL-E SLES-52507 873F8ED6
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=0,EE,0021C8B8,word,24020002
+patch=0,EE,00218920,word,24030002
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=0,EE,0021C8B8,word,24020050
