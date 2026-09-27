@@ -1,0 +1,7 @@
+gametitle=Alfa Romeo Racing Italiano NTSC-U SLUS-21321 22FB53FF
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,003F8058,word,24050001
+//01E0F94C 01E0F934 01E0F938
