@@ -3,4 +3,5 @@ gametitle=Pirates of the Caribbean - The Legend of Jack Sparrow NTSC-U SLUS-2111
 [60 FPS]
 author=Gabominated
 description=Might need EE overclock (180%).
-patch=1,EE,019B42C0,word,00000001
+patch=0,EE,001855BC,word,24020000
+//019B42C0 004309F0 00185584 00382130
